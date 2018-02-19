@@ -1,0 +1,14 @@
+title: Community Legal Clinic Manual, Law Society of Singapore
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-coffeescript
+section_order:
+  - Title B
+  - Title A
+elastic_search:
+  index: templateindex
+  doctype: bare
+environment: LOCAL
+server_LOCAL: http://127.0.0.1:3000
+server_DEV: http://127.0.0.1:5000
