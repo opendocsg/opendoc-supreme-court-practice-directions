@@ -1,4 +1,4 @@
-title: Community Legal Clinic Manual, Law Society of Singapore
+title: Practice Directions
 theme: minima
 plugins:
   - jekyll-seo-tag
@@ -7,8 +7,8 @@ section_order:
   - Title B
   - Title A
 elastic_search:
-  index: templateindex
+  index: pd
   doctype: bare
-environment: LOCAL
+environment: DEV
 server_LOCAL: http://127.0.0.1:3000
-server_DEV: http://127.0.0.1:5000
+server_DEV: http://13.250.54.121:2000
