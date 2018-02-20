@@ -11,4 +11,4 @@ elastic_search:
   doctype: bare
 environment: DEV
 server_LOCAL: http://127.0.0.1:3000
-server_DEV: http://13.250.54.121:2000
+server_DEV: https://ec2-13-250-54-121.ap-southeast-1.compute.amazonaws.com
