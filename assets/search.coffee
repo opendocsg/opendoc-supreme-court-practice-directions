@@ -329,6 +329,20 @@ debounce = (func, wait, immediate) ->
     if callImmediately
       func.apply(context, args)
 
+createEsQuery = (queryStr) ->
+  highlight = {}
+  highlight.require_field_match = false
+  highlight.fields = {}
+  highlight.fields.content = {"fragment_size" : 120, "number_of_fragments" : 1, "pre_tags" : ["<strong>"], "post_tags" : ["</strong>"] }
+
+  query = {}
+  query.match_phrase_prefix= {}
+  query.match_phrase_prefix.content = {}
+  query.match_phrase_prefix.content.query = queryStr
+  query.match_phrase_prefix.content.slop = 3
+  query.match_phrase_prefix.content.max_expansions = 10
+
+  {"query" : query, "highlight" : highlight}
 
 # Call the API 
 esSearch = (query) -> 
@@ -346,9 +360,10 @@ esSearch = (query) ->
       else
         renderSearchResultsFromServer  'Error retrieving search results ...'
 
+  esQuery = createEsQuery query
   req.open 'POST', search_endpoint, true
   req.setRequestHeader 'Content-Type', 'application/json'
-  req.send JSON.stringify {"query" : query }
+  req.send JSON.stringify esQuery
 
 lunrSearch = (searchIndex, query) ->
   lunrResults = searchIndex.search(query + "~1")
