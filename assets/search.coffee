@@ -66,9 +66,15 @@ site =
   url: {{ site.url | jsonify }}
 pages = [
   {% for site_page in site.html_pages %}
+    {% capture name %}{{ site_page.name }}{% endcapture %}
+    {% if site_page.title == null %}
+    {% capture title %}{% assign words  = name | remove_first: '.md' | split: '-' %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}
+    {% else %}
+    {% capture title %}{{ site_page.title }}{% endcapture %}
+    {% endif %}
     {
-      "name": {{site_page.name | jsonify}},
-      "title": {{ site_page.title | jsonify }},
+      "name": {{name | jsonify}},
+      "title": {{title | jsonify}},
       # For consistency all page markdown is converted to HTML
       {% if site_page.url == page.url %}
       "content": {{ site_page.content | jsonify }},
@@ -76,9 +82,11 @@ pages = [
       "content": {{ site_page.content | markdownify | jsonify }},
       {% endif %}
       "url": {{ site_page.url | relative_url | jsonify }}
-    }
+    } 
+    
   {% endfor %}
 ]
+
 pageIndex = {}
 pageOrder = [
   {% for section_title in site.section_order %}
