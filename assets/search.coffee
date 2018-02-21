@@ -60,7 +60,6 @@ search_endpoint = endpoint + '/search'
 # We cherry pick to minimize size
 # Also because jsonify doesn't work quite right and collapses the page objects
 # into just strings when we jsonify the whole site
-site_tmp = {{ site.html_pages | jsonify }} 
 site =
   title: {{ site.title | jsonify }}
   url: {{ site.url | jsonify }}
