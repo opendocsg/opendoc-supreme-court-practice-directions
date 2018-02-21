@@ -3,9 +3,6 @@ theme: minima
 plugins:
   - jekyll-seo-tag
   - jekyll-coffeescript
-section_order:
-  - Title B
-  - Title A
 elastic_search:
   index: pd
   doctype: bare
