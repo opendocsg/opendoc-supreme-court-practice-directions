@@ -60,12 +60,14 @@ search_endpoint = endpoint + '/search'
 # We cherry pick to minimize size
 # Also because jsonify doesn't work quite right and collapses the page objects
 # into just strings when we jsonify the whole site
+site_tmp = {{ site.html_pages | jsonify }} 
 site =
   title: {{ site.title | jsonify }}
   url: {{ site.url | jsonify }}
 pages = [
   {% for site_page in site.html_pages %}
     {
+      "name": {{site_page.name | jsonify}},
       "title": {{ site_page.title | jsonify }},
       # For consistency all page markdown is converted to HTML
       {% if site_page.url == page.url %}
@@ -83,9 +85,16 @@ pageOrder = [
     {{ section_title | jsonify }}
   {% endfor %}
 ]
-
-if pageOrder.length > 0
+if pageOrder.length > 0 
   pages.sort (a, b) -> return if pageOrder.indexOf(a.title) < pageOrder.indexOf(b.title) then -1 else 1
+else
+  pageOrder = [
+    {% for site_page in site.html_pages %}
+      {{ site_page.name | jsonify }}
+    {% endfor %}
+  ]
+  pages.sort (a, b) -> return if pageOrder.indexOf(a.name) < pageOrder.indexOf(b.name) then -1 else 1
+
 
 pages.forEach (page) -> pageIndex[page.url] = page
 
