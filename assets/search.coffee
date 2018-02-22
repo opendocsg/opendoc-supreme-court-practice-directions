@@ -152,37 +152,48 @@ buildNav = (section) ->
     navBranch.appendChild(buildNav(section))
   return navBranch
 
-searchOnServer = true
+startBuildingHierarchy = () ->
+  promise = new Promise (resolve, reject) -> 
+    worker = new Worker("{{ '/assets/hierarchyWorker.js' | relative_url }}" )
+    worker.onmessage = (event) ->
+      worker.terminate()
+      renderToc(event.data.hierarchy)
+      resolve event.data.sections
+    worker.onerror = (error) ->
+      Promise.reject(error)
+    worker.postMessage pages
+  return promise
+
+startBuildingIndex = (sections) ->
+  promise = new Promise (resolve, reject) ->
+    worker = new Worker("{{ '/assets/worker.js' | relative_url }}")
+    worker.onmessage = (event) ->
+      worker.terminate()
+      resolve lunr.Index.load event.data
+    worker.onerror = (error) ->
+      Promise.reject(error)
+    worker.postMessage sections
+  return promise
+
+searchOnServer = false
 searchIndexPromise = new Promise (resolve, reject) ->
   req=new XMLHttpRequest()
   req.timeout=1000
   req.addEventListener 'readystatechange', -> 
     if req.readyState is 4 # ReadyState Complete  
       successResultCodes=[200,304]
-      hierarchyPromise = new Promise (resolve, reject) -> 
-        hierarchyWorker = new Worker("{{ '/assets/hierarchyWorker.js' | relative_url }}" )
-        hierarchyWorker.onmessage = (event) ->
-          hierarchyWorker.terminate()
-          renderToc(event.data.hierarchy)
-          resolve event.data
-        hierarchyWorker.onerror = (error) ->
-          Promise.reject(error)
-        hierarchyWorker.postMessage pages
-      hierarchyPromise.then (data) ->
-        if req.status not in successResultCodes 
-          searchOnServer = false
-          worker = new Worker("{{ '/assets/worker.js' | relative_url }}")
-          worker.onmessage = (event) ->
-            worker.terminate()
-            resolve lunr.Index.load event.data
-          worker.onerror = (error) ->
-            Promise.reject(error)
-          worker.postMessage data.sections
-        else
-          resolve 'Connected to server'
+      if req.status not in successResultCodes
+        hierarchyPromise = startBuildingHierarchy()
+        hierarchyPromise.then (sections) ->
+          indexPromise = startBuildingIndex sections 
+          indexPromise.then (searchIndex) ->
+            resolve(searchIndex)
+      else
+        searchOnServer = true
+        resolve 'Connected to server'
 
   req.open 'GET', search_endpoint, true
-  req.send 'nothing'
+  req.send ''
 
 # Search
 # =============================================================================
@@ -331,7 +342,7 @@ lunrSearch = (searchIndex, query) ->
   renderSearchResults results  
 
 # Enable the searchbox once the index is built
-searchIndexPromise.then (searchIndex) ->
+enableSearchBox = (searchIndex) -> 
   searchBoxElement.removeAttribute "disabled"
   searchBoxElement.setAttribute "placeholder", "Type here to search..."
   searchBoxElement.addEventListener 'input', (event) ->
@@ -353,6 +364,11 @@ searchIndexPromise.then (searchIndex) ->
         else
           lunrSearch(searchIndex, query)
     200, !searchOnServer)
+
+searchIndexPromise.then (searchIndex) ->
+  enableSearchBox(searchIndex)
+  if searchOnServer
+    startBuildingHierarchy()
 
 setSelectedAnchor = (path) ->
   # Make the nav-link pointing to this path selected
