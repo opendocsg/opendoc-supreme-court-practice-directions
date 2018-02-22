@@ -4,7 +4,8 @@
 # Web worker used to building the search index outside the main thread
 
 importScripts("{{ '/assets/lunr.js' | relative_url }}")
-console.log "Worker initialized"
+console.log "Indexing worker initialized"
+
 @onmessage = (event) => 
   console.log "Starting to build index"
   siteSections = event.data
