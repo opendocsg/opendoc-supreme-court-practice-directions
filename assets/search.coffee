@@ -25,7 +25,7 @@ clearButton.innerHTML = """
 searchBoxElement = document.createElement("input")
 searchBoxElement.id = "search-box"
 searchBoxElement.setAttribute("type", "text")
-searchBoxElement.setAttribute("placeholder", "Building search index...")
+searchBoxElement.setAttribute("placeholder", "Building site hierarchy...")
 searchBoxElement.setAttribute("disabled", "")
 siteSearchElement.prepend(clearButton)
 siteSearchElement.prepend(searchBoxElement)
@@ -153,10 +153,17 @@ buildNav = (section) ->
   return navBranch
 
 startBuildingHierarchy = () ->
+  
   promise = new Promise (resolve, reject) -> 
+    statusElement = document.createElement('div')
+    statusElement.id = 'hierarchyWorkerStatus'
+    statusElement.textContent = 'Building site hierarchy'
+    statusElement.classList.add('loading')
+    document.body.append(statusElement)
     worker = new Worker("{{ '/assets/hierarchyWorker.js' | relative_url }}" )
     worker.onmessage = (event) ->
       worker.terminate()
+      statusElement.remove()
       renderToc(event.data.hierarchy)
       resolve event.data.sections
     worker.onerror = (error) ->
@@ -165,6 +172,7 @@ startBuildingHierarchy = () ->
   return promise
 
 startBuildingIndex = (sections) ->
+  searchBoxElement.setAttribute("placeholder", "Building search index...")
   promise = new Promise (resolve, reject) ->
     worker = new Worker("{{ '/assets/worker.js' | relative_url }}")
     worker.onmessage = (event) ->
@@ -344,6 +352,7 @@ lunrSearch = (searchIndex, query) ->
 # Enable the searchbox once the index is built
 enableSearchBox = (searchIndex) -> 
   searchBoxElement.removeAttribute "disabled"
+  searchBoxElement.classList.remove('loading')
   searchBoxElement.setAttribute "placeholder", "Type here to search..."
   searchBoxElement.addEventListener 'input', (event) ->
     toc = document.getElementsByClassName('table-of-contents')[0]
@@ -373,11 +382,17 @@ searchIndexPromise.then (searchIndex) ->
 setSelectedAnchor = (path) ->
   # Make the nav-link pointing to this path selected
   selectedAnchors = document.querySelectorAll("a.nav-link.selected")
-  selectedAnchors[i].classList.toggle('selected') for i in [0...selectedAnchors.length]
-      
-  anchor = document.querySelector "a.nav-link[href='" + path + "']"
-  if anchor?
-    anchor.classList.toggle('selected')
+  for i in [0...selectedAnchors.length]
+    selectedAnchors[i].classList.remove('selected')
+
+  if path == '/'
+    selectedAnchors = document.querySelectorAll "a.nav-link[href='" + path + "']"
+  else
+    selectedAnchors = document.querySelectorAll "a.nav-link[href^='" + path + "']"
+  if selectedAnchors.length > 0
+    for i in [0...selectedAnchors.length]
+      selectedAnchors[i].classList.add('selected')
+    selectedAnchors[0].parentNode.classList.add('expanded')
 
 
 

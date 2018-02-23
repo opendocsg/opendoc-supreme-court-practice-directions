@@ -162,7 +162,7 @@ body {
   .nav-link {
     display: block;
     color: $secondary-text-color;
-    &.selected { color: $primary-text-color; }
+    &.selected { color: $primary-text-color; background-color: darken($base-background-color, 5%) ;  }
     padding: $large-spacing/2 $large-spacing;
     cursor: pointer;
     text-decoration: none;
