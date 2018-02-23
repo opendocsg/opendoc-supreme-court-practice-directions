@@ -25,7 +25,7 @@ clearButton.innerHTML = """
 searchBoxElement = document.createElement("input")
 searchBoxElement.id = "search-box"
 searchBoxElement.setAttribute("type", "text")
-searchBoxElement.setAttribute("placeholder", "Building search index...")
+searchBoxElement.setAttribute("placeholder", "Building site hierarchy...")
 searchBoxElement.setAttribute("disabled", "")
 siteSearchElement.prepend(clearButton)
 siteSearchElement.prepend(searchBoxElement)
@@ -108,30 +108,6 @@ pages.forEach (page) -> pageIndex[page.url] = page
 
 # Site Hierarchy
 # =============================================================================
-# Helper function which returns a flat list of header and text nodes
-HEADER_TAGS = ["H1", "H2", "H3", "H4", "H5", "H6"]
-getHeadersAndText = (root)->
-  walker = document.createTreeWalker(
-    root
-    NodeFilter.SHOW_ALL
-    acceptNode: (node)->
-      # Grab header tags for building a table of contents
-      if HEADER_TAGS.indexOf(node.tagName) >= 0
-        return NodeFilter.FILTER_ACCEPT
-      # Reject the immediate children of header tags
-      # Since they are already included under their parent
-      if HEADER_TAGS.indexOf(node.parentNode.tagName) >= 0
-        return NodeFilter.FILTER_REJECT
-      # Add basic text nodes inbetween headers
-      if node.nodeType is 3 then return NodeFilter.FILTER_ACCEPT
-      # Skip everything else
-      return NodeFilter.FILTER_SKIP
-    false
-  )
-  nodes = []
-  while node = walker.nextNode() then nodes.push node
-  return nodes
-
 
 # Build a site hierarchy tree of nested sections
 # Each section has a representative component
@@ -143,102 +119,89 @@ siteHierarchy = {
   url: site.url
   text: []
 }
+
+initSubsections = (pages) -> 
+    sections = pages.map (page) ->
+        root =
+            parent: siteHierarchy
+            component: page
+            title: page.title
+            url: page.url
+            text: [] # Will be converted into a single string later
+            subsections: []
+        return root
+    return sections
+
 # Parse page html and build a section hierarchy per page
-siteHierarchy.subsections = pages.map (page) ->
-  body = new DOMParser().parseFromString(page.content, 'text/html').body
-  headersAndText = getHeadersAndText(body)
-  root =
-    parent: siteHierarchy
-    component: page
-    title: page.title
-    url: page.url
-    text: [] # Will be converted into a single string later
-    subsections: []
-  # Iterate through the html nodes and build the section tree depth first
-  currentSection = root
-  headersAndText.forEach (node) ->
-    # Text nodes get added under the current header
-    if HEADER_TAGS.indexOf(node.tagName) < 0
-      currentSection.text.push node.textContent
-      return
-    # If you're bigger then climb the tree till you're not
-    # Then add yourself and drill down
-    # #lifeprotips
-    while (
-      HEADER_TAGS.indexOf(node.tagName) <=
-      HEADER_TAGS.indexOf(currentSection.component.tagName)
-    ) then currentSection = currentSection.parent
-    newSection =
-      parent: currentSection
-      component: node
-      title: node.textContent
-      url: page.url + "#" + node.id
-      text: []
-      subsections: []
-    currentSection.subsections.push newSection
-    currentSection = newSection
-  return root
+siteHierarchy.subsections = initSubsections(pages)
 
-# Bake in each section's text into a single string
-queue = [siteHierarchy]
-while queue.length > 0
-  section = queue.shift()
-  section.text = section.text.join('').trim()
-  queue.push.apply queue, section.subsections
+buildNav = (section) ->
+  navBranch = document.createElement('div')
+  navBranch.classList.add('nav-branch')
+  if section.subsections.length > 0
+    expandButton = document.createElement('div');
+    expandButton.classList.add('expand-button')
+    expandButton.onclick = (event) -> navBranch.classList.toggle("expanded")
+    navBranch.appendChild expandButton
+  navLinkElement = document.createElement('a')
+  navLinkElement.classList.add('nav-link')
+  navLinkElement.setAttribute('href', section.url)
+  navLinkElement.innerHTML = section.title
+  navBranch.appendChild(navLinkElement)
+  section.subsections.forEach (section) ->
+    navBranch.appendChild(buildNav(section))
+  return navBranch
 
-# Compress the tree by merging redundant sections
-# Defined as sections with no text of their own and only 1 sub section
-queue = [siteHierarchy]
-while queue.length > 0
-  section = queue.shift()
-  # Contract
-  # The parent section effectively consumes the child
-  # And gains the power of TWO sections a la Cell and Android 18
-  while section.subsections.length == 1 and section.text.length == 0
-    section.text += section.subsections[0].text
-    section.subsections = section.subsections[0].subsections
-    section.subsections.forEach (child) -> child.parent = section
-  queue.push.apply queue, section.subsections
+startBuildingHierarchy = () ->
+  
+  promise = new Promise (resolve, reject) -> 
+    statusElement = document.createElement('div')
+    statusElement.id = 'hierarchyWorkerStatus'
+    statusElement.textContent = 'Building site hierarchy'
+    statusElement.classList.add('loading')
+    document.body.append(statusElement)
+    worker = new Worker("{{ '/assets/hierarchyWorker.js' | relative_url }}" )
+    worker.onmessage = (event) ->
+      worker.terminate()
+      statusElement.remove()
+      renderToc(event.data.hierarchy)
+      resolve event.data.sections
+    worker.onerror = (error) ->
+      Promise.reject(error)
+    worker.postMessage pages
+  return promise
 
-# Build an index to easily retrive sections by url
-sectionIndex = {}
-stack = [siteHierarchy]
-while stack.length > 0
-  section = stack.pop()
-  stack.push.apply(stack, section.subsections.slice().reverse())
-  sectionIndex[section.url] = section
+startBuildingIndex = (sections) ->
+  searchBoxElement.setAttribute("placeholder", "Building search index...")
+  promise = new Promise (resolve, reject) ->
+    worker = new Worker("{{ '/assets/worker.js' | relative_url }}")
+    worker.onmessage = (event) ->
+      worker.terminate()
+      resolve lunr.Index.load event.data
+    worker.onerror = (error) ->
+      Promise.reject(error)
+    worker.postMessage sections
+  return promise
 
-# Asynchronously build the search index by spawning a web worker
-# Build a serializable array for sending to workers
-serializableSiteSections = Object.values(sectionIndex).map (section) ->
-  serializableSection = Object.assign({}, section)
-  delete serializableSection.parent
-  delete serializableSection.component
-  delete serializableSection.subsections
-  return serializableSection
-
-
-searchOnServer = true
+searchOnServer = false
 searchIndexPromise = new Promise (resolve, reject) ->
   req=new XMLHttpRequest()
   req.timeout=1000
   req.addEventListener 'readystatechange', -> 
     if req.readyState is 4 # ReadyState Complete  
       successResultCodes=[200,304]
-      if req.status not in successResultCodes 
-        searchOnServer = false
-        worker = new Worker("{{ '/assets/worker.js' | relative_url }}")
-        worker.onmessage = (event) ->
-          worker.terminate()
-          resolve lunr.Index.load event.data
-        worker.onerror = (error) ->
-          Promise.reject(error)
-        worker.postMessage serializableSiteSections
+      if req.status not in successResultCodes
+        hierarchyPromise = startBuildingHierarchy()
+        hierarchyPromise.then (sections) ->
+          indexPromise = startBuildingIndex sections 
+          indexPromise.then (searchIndex) ->
+            resolve(searchIndex)
       else
+        searchOnServer = true
         resolve 'Connected to server'
 
   req.open 'GET', search_endpoint, true
-  req.send 'nothing'
+  req.send ''
 
 # Search
 # =============================================================================
@@ -362,7 +325,7 @@ createEsQuery = (queryStr) ->
 
 # Call the API 
 esSearch = (query) -> 
-  console.log 'Executing debounced query: ' , query
+  #console.log 'Executing debounced query: ' , query
   req=new XMLHttpRequest()
   req.addEventListener 'readystatechange', -> 
     if req.readyState is 4 # ReadyState Complete  
@@ -387,8 +350,9 @@ lunrSearch = (searchIndex, query) ->
   renderSearchResults results  
 
 # Enable the searchbox once the index is built
-searchIndexPromise.then (searchIndex) ->
+enableSearchBox = (searchIndex) -> 
   searchBoxElement.removeAttribute "disabled"
+  searchBoxElement.classList.remove('loading')
   searchBoxElement.setAttribute "placeholder", "Type here to search..."
   searchBoxElement.addEventListener 'input', (event) ->
     toc = document.getElementsByClassName('table-of-contents')[0]
@@ -410,31 +374,41 @@ searchIndexPromise.then (searchIndex) ->
           lunrSearch(searchIndex, query)
     200, !searchOnServer)
 
+searchIndexPromise.then (searchIndex) ->
+  enableSearchBox(searchIndex)
+  if searchOnServer
+    startBuildingHierarchy()
+
+setSelectedAnchor = (path) ->
+  # Make the nav-link pointing to this path selected
+  selectedAnchors = document.querySelectorAll("a.nav-link.selected")
+  for i in [0...selectedAnchors.length]
+    selectedAnchors[i].classList.remove('selected')
+
+  if path == '/'
+    selectedAnchors = document.querySelectorAll "a.nav-link[href='" + path + "']"
+  else
+    selectedAnchors = document.querySelectorAll "a.nav-link[href^='" + path + "']"
+  if selectedAnchors.length > 0
+    for i in [0...selectedAnchors.length]
+      selectedAnchors[i].classList.add('selected')
+    selectedAnchors[0].parentNode.classList.add('expanded')
+
 
 
 # Table of Contents
 # =============================================================================
 # Table of contents rendering
-tocElement = document.getElementsByClassName("table-of-contents")[0]
-tocElement.innerHTML = ""
-buildNav = (section) ->
-  navBranch = document.createElement('div')
-  navBranch.classList.add('nav-branch')
-  if section.subsections.length > 0
-    expandButton = document.createElement('div');
-    expandButton.classList.add('expand-button')
-    expandButton.onclick = (event) -> navBranch.classList.toggle("expanded")
-    navBranch.appendChild expandButton
-  navLinkElement = document.createElement('a')
-  navLinkElement.classList.add('nav-link')
-  navLinkElement.setAttribute('href', section.url)
-  navLinkElement.innerHTML = section.title
-  navBranch.appendChild(navLinkElement)
-  section.subsections.forEach (section) ->
-    navBranch.appendChild(buildNav(section))
-  return navBranch
-siteHierarchy.subsections.forEach (section) ->
-  tocElement.appendChild(buildNav(section))
+renderToc = (siteHierarchy) ->
+  tocElement = document.getElementsByClassName("table-of-contents")[0]
+  tocElement.innerHTML = ""
+
+  siteHierarchy.subsections.forEach (section) ->
+    tocElement.appendChild(buildNav(section))
+
+  setSelectedAnchor window.location.pathname
+
+renderToc siteHierarchy
 
 # HTML5 History
 # =============================================================================
@@ -460,8 +434,11 @@ document.body.addEventListener("click", (event) ->
 , true)
 # Map the popstate event
 window.addEventListener "popstate", (event) ->
-  page = pageIndex[window.location.pathname]
+  path = window.location.pathname
+  setSelectedAnchor path
+  page = pageIndex[path]
   # Only reflow the main content if necessary
   testBody = new DOMParser().parseFromString(page.content, "text/html").body;
   if main.innerHTML.trim() isnt testBody.innerHTML.trim()
     main.innerHTML = page.content
+

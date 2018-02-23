@@ -9,7 +9,7 @@ $primary-text-color:      #333;
 $secondary-text-color:    #777;
 $divider-color:           #999;
 $base-background-color:   #FFF;
-$well-background-color:   darken($base-background-color, 7%);
+$well-background-color:   darken($base-background-color, 9%);
 // Spacing
 $base-line-height:        1.5;
 $base-horizontal-padding: 1.0em;
@@ -249,3 +249,12 @@ hr {
 // Images
 // ------
 img { max-width: 100%; }
+
+// Loading Ellipsis
+// ------
+.loading { font-size: inherit; }
+.loading:after {overflow: hidden; display: inline-block; vertical-align: bottom; -webkit-animation: ellipsis steps(4,end) 1200ms infinite; animation: ellipsis steps(4,end) 1200ms infinite; content: "\2026"; width: 0px; } 
+@keyframes ellipsis {to {width: 1.25em; } } 
+@-webkit-keyframes ellipsis {to {width: 1.25em; } }
+
+#hierarchyWorkerStatus { position: fixed; left: 0px; bottom: 0px; font-size: 10px; color: $secondary-text-color; z-index: 2}
