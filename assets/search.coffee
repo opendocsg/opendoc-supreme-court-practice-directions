@@ -385,8 +385,8 @@ setSelectedAnchor = (path) ->
   for i in [0...selectedAnchors.length]
     selectedAnchors[i].classList.remove('selected')
 
-  if path == '/'
-    selectedAnchors = document.querySelectorAll "a.nav-link[href='" + path + "']"
+  if path.endsWith '/'
+    selectedAnchors = document.querySelectorAll "a.nav-link[href$='" + path + "']"
   else
     selectedAnchors = document.querySelectorAll "a.nav-link[href^='" + path + "']"
   if selectedAnchors.length > 0
