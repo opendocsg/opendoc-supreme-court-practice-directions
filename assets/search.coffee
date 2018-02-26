@@ -309,19 +309,17 @@ debounce = (func, wait, immediate) ->
       func.apply(context, args)
 
 createEsQuery = (queryStr) ->
+  source = ['title','url']
+  title_q = { "match_phrase_prefix": {"title":{"query": queryStr, "slop":3,"max_expansions":10, "boost":2}} }
+  content_q = { "match_phrase_prefix":{"content":{"query":queryStr, "slop":3,"max_expansions":10 }} }
+  bool_q = { "bool" : { "should" : [ title_q, content_q ] }}
+  
   highlight = {}
   highlight.require_field_match = false
   highlight.fields = {}
-  highlight.fields.content = {"fragment_size" : 120, "number_of_fragments" : 1, "pre_tags" : ["<strong>"], "post_tags" : ["</strong>"] }
+  highlight.fields['content'] = {"fragment_size" : 80, "number_of_fragments" : 3, "pre_tags" : ["<strong>"], "post_tags" : ["</strong>"] }
 
-  query = {}
-  query.match_phrase_prefix= {}
-  query.match_phrase_prefix.content = {}
-  query.match_phrase_prefix.content.query = queryStr
-  query.match_phrase_prefix.content.slop = 3
-  query.match_phrase_prefix.content.max_expansions = 10
-
-  {"query" : query, "highlight" : highlight}
+  {"_source": source, "query" : bool_q, "highlight" : highlight}
 
 # Call the API 
 esSearch = (query) -> 
@@ -385,8 +383,8 @@ setSelectedAnchor = (path) ->
   for i in [0...selectedAnchors.length]
     selectedAnchors[i].classList.remove('selected')
 
-  if path == '/'
-    selectedAnchors = document.querySelectorAll "a.nav-link[href='" + path + "']"
+  if path.endsWith '/'
+    selectedAnchors = document.querySelectorAll "a.nav-link[href$='" + path + "']"
   else
     selectedAnchors = document.querySelectorAll "a.nav-link[href^='" + path + "']"
   if selectedAnchors.length > 0
