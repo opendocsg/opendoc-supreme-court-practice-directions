@@ -119,7 +119,7 @@ siteHierarchy = {
   url: site.url
   text: []
 }
-
+sectionIndex = {}
 initSubsections = (pages) -> 
     sections = pages.map (page) ->
         root =
@@ -165,7 +165,15 @@ startBuildingHierarchy = () ->
       worker.terminate()
       statusElement.remove()
       renderToc(event.data.hierarchy)
-      resolve event.data.sections
+      sectionIndex = event.data.sectionIndex
+       # Build a serializable array for sending to workers
+      serializableSiteSections = Object.values(sectionIndex).map (section) ->
+        serializableSection = Object.assign({}, section)
+        delete serializableSection.parent
+        delete serializableSection.component
+        delete serializableSection.subsections
+        return serializableSection
+      resolve serializableSiteSections
     worker.onerror = (error) ->
       Promise.reject(error)
     worker.postMessage pages

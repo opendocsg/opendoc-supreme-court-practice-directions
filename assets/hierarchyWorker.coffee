@@ -74,7 +74,7 @@ buildHierarchy = (pages) ->
     return root
   return siteHierarchy
 
-buildSerializableSiteSections = (siteHierarchy) -> 
+buildSectionIndex = (siteHierarchy) -> 
   # Bake in each section's text into a single string
   queue = [siteHierarchy]
   while queue.length > 0
@@ -104,23 +104,16 @@ buildSerializableSiteSections = (siteHierarchy) ->
     stack.push.apply(stack, section.subsections.slice().reverse())
     sectionIndex[section.url] = section
 
-  # Asynchronously build the search index by spawning a web worker
-  # Build a serializable array for sending to workers
-  serializableSiteSections = Object.values(sectionIndex).map (section) ->
-    serializableSection = Object.assign({}, section)
-    delete serializableSection.parent
-    delete serializableSection.component
-    delete serializableSection.subsections
-    return serializableSection
+ 
   
-  return serializableSiteSections
+  return sectionIndex
 
 
 @onmessage = (event) => 
   console.log "Starting to build site sections"
   pages = event.data
   siteHierarchy = buildHierarchy pages
-  siteSections = buildSerializableSiteSections siteHierarchy
+  sectionIndex = buildSectionIndex siteHierarchy
   console.log "Done building site sections"
-  @postMessage {hierarchy: siteHierarchy, sections: siteSections}
+  @postMessage {hierarchy: siteHierarchy, sectionIndex: sectionIndex}
 
