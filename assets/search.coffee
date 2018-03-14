@@ -209,6 +209,7 @@ searchIndexPromise = new Promise (resolve, reject) ->
         resolve 'Connected to server'
 
   req.open 'GET', search_endpoint, true
+  req.setRequestHeader 'X-Requested-With', 'XMLHttpRequest'
   req.send ''
 
 # Search
@@ -348,6 +349,7 @@ esSearch = (query) ->
   esQuery = createEsQuery query
   req.open 'POST', search_endpoint, true
   req.setRequestHeader 'Content-Type', 'application/json'
+  req.setRequestHeader 'X-Requested-With', 'XMLHttpRequest'
   req.send JSON.stringify esQuery
 
 lunrSearch = (searchIndex, query) ->
