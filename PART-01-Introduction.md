@@ -1,26 +1,26 @@
 # PART I: INTRODUCTION
 
-1\. Citation
+: 1\. Citation
 
-2\. Commencement
+: 2\. Commencement
 
-3\. Revocation of previous practice directions
+: 3\. Revocation of previous practice directions
 
-4\. Updating
+: 4\. Updating
 
-5\. Applicability of Practice Directions
+: 5\. Applicability of Practice Directions
 
-• Practice Directions to apply to civil proceedings
+: * Practice Directions to apply to civil proceedings
 
-• Proceedings using the Electronic Filing Service
+: * Proceedings using the Electronic Filing Service
 
-• Proceedings not using the Electronic Filing Service
+: * Proceedings not using the Electronic Filing Service
 
-6\. Forms
+: 6\. Forms
 
-7\. Registrar’s Circulars
+: 7\. Registrar’s Circulars
 
-7A. Business of the Registry
+: 7A. Business of the Registry
 
 # 1\. Citation
 
