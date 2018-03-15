@@ -16,66 +16,66 @@ solicitors
 
 : 13A. Attendance at hearings in Chambers
 
-14\. Absence from Court on medical grounds
+: 14\. Absence from Court on medical grounds
 
-15\. The Central Display Management System
+: 15\. The Central Display Management System
 
-16\. Precedence and preaudience of Senior Counsel
+: 16\. Precedence and preaudience of Senior Counsel
 
-17\. Court dress
+: 17\. Court dress
 
-18\. Forms of address
+: 18\. Forms of address
 
-19\. Submissions and examination by leading and assisting counsel
+: 19\. Submissions and examination by leading and assisting counsel
 
-20\. Interpreters and translation
+: 20\. Interpreters and translation
 
-21\. Production of record of hearing
+: 21\. Production of record of hearing
 
-22\. Use of electronic and other devices
+: 22\. Use of electronic and other devices
 
-23\. Certification of transcripts
+: 23\. Certification of transcripts
 
-24\. Access to case file, inspection, taking copies and searches
+: 24\. Access to case file, inspection, taking copies and searches
 
-* Access by parties to a case file
+: * Access by parties to a case file
 
-: • File inspection by non-parties or parties who are not registered users
+: * File inspection by non-parties or parties who are not registered users
 
-: * • Obtaining certified true copies of documents
+: * Obtaining certified true copies of documents
 
-:• Electronic cause books and registers maintained by the Registry
+: * Electronic cause books and registers maintained by the Registry
 
-24A. Personal Data
+: 24A\. Personal Data
 
-• Consent to collection, use or disclosure of personal data
+: * Consent to collection, use or disclosure of personal data
 
-• Access to personal data
+: * Access to personal data
 
-• Correction of personal data
+: * Correction of personal data
 
-25\. Instruments creating power of attorney
+: 25\. Instruments creating power of attorney
 
-26\. Filing directions to the Accountant-General for payment into and
+: 26\. Filing directions to the Accountant-General for payment into and
 out of Court
 
-27\. Requests and other Correspondence
+: 27\. Requests and other Correspondence
 
-28\. Authorisation for collection of mail and Court documents
+: 28\. Authorisation for collection of mail and Court documents
 
-29\. Electronic payment of Court fees
+: 29\. Electronic payment of Court fees
 
-• Implementation of the electronic system for the payment of Court fees
+: * Implementation of the electronic system for the payment of Court fees
 
-• Modes of electronic payment
+: * Modes of electronic payment
 
-• Scope of electronic system
+: * Scope of electronic system
 
-• Registrar’s discretion
+: * Registrar’s discretion
 
-29A. Publication of and reports and comments on Court cases
+: 29A\. Publication of and reports and comments on Court cases
 
-29B. Citation of Case Numbers
+: 29B\. Citation of Case Numbers
 
 # 8\. Operating hours of the Supreme Court
 
