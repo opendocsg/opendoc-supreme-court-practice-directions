@@ -1,10 +1,10 @@
 # PART II: GENERAL MATTERS
 
-8\. Operating hours of the Supreme Court
+8. Operating hours of the Supreme Court
 
-9\. Hours for the sittings of the Supreme Court
+9. Hours for the sittings of the Supreme Court
 
-10\. Calculation of time
+10. Calculation of time
 
 11\. Urgent applications outside of the Court's office hours
 
