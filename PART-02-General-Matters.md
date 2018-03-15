@@ -8,12 +8,12 @@
 
 : 11\. Urgent applications outside of the Court's office hours
 
-12\. Duty Registrar
+: : 12\. Duty Registrar
 
-13\. Attendance of solicitors in Court and mentioning on behalf of other
+: :13\. Attendance of solicitors in Court and mentioning on behalf of other
 solicitors
 
-13A. Attendance at hearings in Chambers
+:: 13A. Attendance at hearings in Chambers
 
 14\. Absence from Court on medical grounds
 
