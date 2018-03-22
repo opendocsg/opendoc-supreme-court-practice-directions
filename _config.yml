@@ -8,4 +8,4 @@ elastic_search:
   doctype: bare
 environment: DEV
 server_LOCAL: http://127.0.0.1:3000
-server_DEV: http://opentext-dev.ap-southeast-1.elasticbeanstalk.com
+server_DEV: https://opendoc.sg
