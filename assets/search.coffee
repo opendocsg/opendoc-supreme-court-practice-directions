@@ -295,8 +295,9 @@ renderSearchResultsFromServer = (searchResults) ->
       element.setAttribute 'href', result._source.url
       element.innerHTML = result._source.title
       description = document.createElement('p')
-      description.innerHTML = "..." + result.highlight.content.join "..."
-      description.innerHTML += "..."
+      if result.highlight && result.highlight.content
+        description.innerHTML = "..." + result.highlight.content.join "..."
+        description.innerHTML += "..."
       element.appendChild description
       container.appendChild element
       return
