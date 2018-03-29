@@ -28,7 +28,7 @@ its discretion when deciding the amount of interest payable and may make
 the following orders:
 
 (a) an order awarding a successful party who has complied with the
-protocol interest from <span style="mso-spacerun: yes;"> </span>a date
+protocol interest from <span style="mso-spacerun: yes;"> </span>a date
 earlier than the date from which he would otherwise have been entitled
 to obtain interest; and
 

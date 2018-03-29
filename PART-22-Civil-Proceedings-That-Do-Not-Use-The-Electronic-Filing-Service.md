@@ -18,13 +18,13 @@ filed in the Legal Registry of the Supreme Court
 157\. File inspection and obtaining hard copy extracts or certified true
 copies of documents
 
-# 153. Application
+# 153. Application
 
 The directions contained in this Part shall apply to proceedings that do
 not require the use of the Electronic Filing Service under paragraph
 104(2).
 
-# 154. Information to be provided in cause papers and documents that are filed in the Legal Registry of the Supreme Court
+# 154. Information to be provided in cause papers and documents that are filed in the Legal Registry of the Supreme Court
 
 To facilitate the contacting of lawyers having conduct of an action or
 charge of a matter by members of the staff of the Supreme Court, the
@@ -46,7 +46,7 @@ Ref : (File reference of law firm.)
 The information is to be inserted as a block near the bottom right hand
 corner of the backing sheets.
 
-# 155. Form of affidavits
+# 155. Form of affidavits
 
 (1) In addition to the requirements set out in paragraph 57, affidavits
 shall be:
@@ -77,7 +77,7 @@ spine thermal binding (the plastic rings or spines to be red for
 plaintiffs/appellants, and blue for defendants/respondents) with a
 transparent plastic cover in front and at the back.
 
-# 156. Documentary exhibits to affidavits
+# 156. Documentary exhibits to affidavits
 
 Dividing sheets
 
@@ -90,7 +90,7 @@ More than 10 documentary exhibits
 
 (2) In addition to the requirements set out in paragraph 59 (except
 sub-paragraphs 59(5)), when there are more than 10 different documentary
-exhibits in an affidavit, each document shall be flagged by means of a
+exhibits in an affidavit, each document shall be flagged by means of a
 plastic tag, marked in accordance with the exhibit reference and such
 flags shall run vertically down the right edge of the exhibits evenly
 spaced out so as not to overlap one another. The table of contents
@@ -103,8 +103,8 @@ the Electronic Filing Service, the following procedure should be
 followed:
 
 (a) A hard copy
-[Request](javascript:TextPopup\(this\))<span id="POPUP132962134" class="expandtext" style="display: none;"> Formerly
-known as “praecipe” </span>  should be submitted to obtain leave to
+[Request](javascript:TextPopup\(this\))<span id="POPUP132962134" class="expandtext" style="display: none;"> Formerly
+known as “praecipe” </span>  should be submitted to obtain leave to
 inspect the case file. The Request should state the name of the person
 who is to carry out the search or inspection. If this person is not a
 solicitor, his identity card number should also be included in the

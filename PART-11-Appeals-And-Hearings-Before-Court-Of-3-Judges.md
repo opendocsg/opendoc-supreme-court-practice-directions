@@ -100,7 +100,7 @@ the parties’ written submissions, the record of proceedings, the
 originating summons and all affidavits filed in the originating summons
 shall be tendered.
 
-# 82. Requests for further arguments before the Judge or Registrar
+# 82. Requests for further arguments before the Judge or Registrar
 
 (1) All requests for further arguments shall be made by way of Request
 filed through the Electronic Filing Service and should, either in the
@@ -123,7 +123,7 @@ authorities; and
 
 (3) All requests should be addressed to the Registrar.
 
-# 83. Civil appeals before the High Court from the State Courts
+# 83. Civil appeals before the High Court from the State Courts
 
 Appeals under Order 55D of the Rules of Court
 
@@ -131,7 +131,7 @@ Appeals under Order 55D of the Rules of Court
 the respondent are to tender one hard copy of the record of appeal and
 the Cases, as well as any bundle of authorities to be relied upon to the
 Legal Registry of the Supreme Court not less than 5 working days before
-the hearing of the appeal, to assist the Judge of the High Court.  
+the hearing of the appeal, to assist the Judge of the High Court.  
 
 Appeals from the Family Court
 
@@ -146,7 +146,7 @@ law, and subject to any further directions made by the Court, the
 Registrar hereby directs that appeals to the High Court from the
 Employment Claims Tribunal shall be heard in open Court.
 
-# 84. Civil appeals before the High Court from tribunal or person under Order 55 of the Rules of Court
+# 84. Civil appeals before the High Court from tribunal or person under Order 55 of the Rules of Court
 
 (1) Order 55, Rule 6(4) of the Rules of Court states that it is the
 appellant's duty to apply to the Judge or other person presiding at the
@@ -212,7 +212,7 @@ pursuant to Order 57, Rule 16(13), may be sought by way of
 correspondence to the Court of Appeal, or an appointment before a Judge
 of Appeal in a case management conference.
 
-# 86. Quantum of security to be provided under Order 57, Rule 3(3) of the Rules of Court
+# 86. Quantum of security to be provided under Order 57, Rule 3(3) of the Rules of Court
 
 (1) Order 57, Rule 3(3) of the Rules of Court provides:
 
@@ -245,7 +245,7 @@ are filed and served.
 (2) Where appropriate, parties or their solicitors may be required to
 attend in person to take directions on the conduct of the appeal.
 
-# 87. Filing of records of appeal, core bundles and written Cases for civil appeals under Order 57, Rules 9 and 9A of the Rules of Court
+# 87. Filing of records of appeal, core bundles and written Cases for civil appeals under Order 57, Rules 9 and 9A of the Rules of Court
 
 (1) Under Order 57, Rule 9(1) of the Rules of Court, the appellant is
 required to file the record of appeal, the Appellant’s Case and the core
@@ -363,7 +363,7 @@ supported by an affidavit in Form 14A of Appendix A of these Practice
 Directions. The affidavit in Form 14A must verify Form 14B of Appendix A
 of these Practice Directions.</span>
 
-# 88. Hard copies and soft copies for hearing of civil appeals before the Court of Appeal under Order 57 of the Rules of Court
+# 88. Hard copies and soft copies for hearing of civil appeals before the Court of Appeal under Order 57 of the Rules of Court
 
 (1) In order to assist the Judges of the Court of Appeal, the appellant
 and the respondent are required to tender hard copies of the Appellant’s
@@ -423,7 +423,7 @@ For example -
 of the proceedings. If there is more than one CD-ROM, the CD-ROMs shall
 be numbered sequentially.
 
-# 89. Preparation of appeal records in civil appeals to the Court of Appeal
+# 89. Preparation of appeal records in civil appeals to the Court of Appeal
 
 Arrangement
 
@@ -539,7 +539,7 @@ is typed-written (for example, notice of appeal) shall be double-spaced.
 Core bundles – Order 57, Rule 9(2A)
 
 (5) The documents to be included in the core bundle are stipulated in
-Order 57, Rule 9(2A).  The contents of the core bundle shall be arranged
+Order 57, Rule 9(2A).  The contents of the core bundle shall be arranged
 in the following separate volumes:
 
 (a) <span style="font-weight: bold;">Volume I</span> – a copy of the
@@ -592,14 +592,14 @@ paragraphs 88(4) and (5) of these Practice Directions.
 (3) When the bundle of documents is tendered at the Legal Registry of
 the Supreme Court pursuant to this paragraph, the Legal Registry staff
 will state on the top right hand corner of the bundle the exact amount
-of Court fees payable under Order 90B.  The parties should then pay the
+of Court fees payable under Order 90B.  The parties should then pay the
 Court fees as indicated.
 
 (4) The directions set out in paragraph 89 of these Practice Directions
 in relation to the preparation of the bundles shall, with the necessary
 modifications, apply to the bundle of documents.
 
-# 90. Skeletal arguments for appeals before the High Court, Court of Appeal and Court of 3 Judges
+# 90. Skeletal arguments for appeals before the High Court, Court of Appeal and Court of 3 Judges
 
 (1) For the avoidance of doubt, this paragraph applies to:
 
@@ -631,7 +631,7 @@ following requirements:
 argued, stated in no more than one or 2 sentences;
 
 (b) each listed point should be accompanied by a full reference to the
-material to which counsel will be  referring, i.e., the relevant pages
+material to which counsel will be  referring, i.e., the relevant pages
 or passages in authorities, the record of appeal, the bundles of
 documents, affidavits, transcripts and the judgment under appeal;
 
@@ -659,7 +659,7 @@ pages.
 skeletal arguments must be filed by 4 p.m. on the Monday three weeks
 before the week of the Court of Appeal sitting (e.g., the skeletal
 arguments for the Court of Appeal sitting in the week of 8 April 2013
-must be filed by 4 p.m. on 18 March 2013). The skeletal arguments should
+must be filed by 4 p.m. on 18 March 2013). The skeletal arguments should
 be filed by tendering 4 hard copies to the Legal Registry of the Supreme
 Court and filing one soft copy through the Electronic Filing Service.
 Skeletal arguments filed in breach of this timeline will be rejected.
@@ -669,7 +669,7 @@ before the Court of Appeal.
 
 (7) As with other non-compliance with timelines, costs may be imposed
 against the party in default or his counsel personally in the event of
-non-compliance with sub-paragraph (6) above.  Unless approval for late
+non-compliance with sub-paragraph (6) above.  Unless approval for late
 filing has been granted, the party in default may not file or tender
 these skeletal arguments in Court.
 
@@ -742,7 +742,7 @@ presentation slides. Care should be taken to ensure that the size and
 location of corporate logos do not distract from the substance of the
 presentation slides.
 
-# 92. Further arguments before the Court of Appeal
+# 92. Further arguments before the Court of Appeal
 
 (1) From time to time, requests are received for further arguments to be
 presented before the Court of Appeal after the conclusion of the hearing

@@ -80,7 +80,7 @@ out of Court
 # 8\. Operating hours of the Supreme Court
 
 (1) The Supreme Court operates from 8.30 a.m. to 6.00 p.m. from Monday
-to Friday. However, various offices and counters within the Supreme
+to Friday. However, various offices and counters within the Supreme
 Court have different operating hours.
 
 (2) <span id="Sub-para_2"></span>The Legal Registry of the Supreme Court
@@ -91,7 +91,7 @@ On Friday, it is open from 9.00 a.m. to 5.00 p.m.
 to 5.30 p.m. from Monday to Thursday. On Friday, it is open from 8.30
 a.m. to 5.00 p.m.
 
-# 9. Hours for the sittings of the Supreme Court
+# 9. Hours for the sittings of the Supreme Court
 
 The Honourable the Chief Justice has directed that the Judges of the
 High Court and the Court of Appeal shall sit from 10.00 a.m. to 1.00
@@ -100,7 +100,7 @@ to 1.00 p.m. and from 2.30 p.m. to 5.00 p.m. This is subject to the
 presiding Judge’s or Registrar’s discretion to commence or conclude a
 hearing at an earlier or later time.
 
-# 10. Calculation of time
+# 10. Calculation of time
 
 Unless otherwise stated, the provisions in the Rules of Court shall
 apply to the calculation of time in these Practice Directions. In
@@ -174,7 +174,7 @@ including references to the Court of Appeal.
 or matter is required to be set down for trial or hearing or within
 which any notice of appeal is required to be filed.
 
-# 11. Urgent applications outside of the Court's office hours
+# 11. Urgent applications outside of the Court's office hours
 
 (1) When an applicant files an application for any civil matter
 (including applications for interim injunctions or interim preservation
@@ -210,7 +210,7 @@ direct counsel to send the application and supporting documents by
 email. The Judge or Registrar has the discretion to decide whether to
 deal with the application by email or to hear counsel personally.
 
-# 12. Duty Registrar
+# 12. Duty Registrar
 
 (1) The duties of the Duty Registrar are to:
 
@@ -307,7 +307,7 @@ litigants; (c) the reasons for which such permission is sought; and (d)
 the Court’s interest in preserving and upholding its authority and
 dignity.
 
-# 14. Absence from Court on medical grounds
+# 14. Absence from Court on medical grounds
 
 (1) If:
 
@@ -407,7 +407,7 @@ whether in open Court or in Chambers.
 
 (8) This paragraph shall apply to both civil and criminal proceedings.
 
-# 15. The Central Display Management System
+# 15. The Central Display Management System
 
 (1) The Central Display Management System (CDMS) is used for the
 following types of hearings:
@@ -453,7 +453,7 @@ Senior Counsel, will be heard according to the order in which their
 matters appear on the CDMS, subject to the Judge’s or Registrar’s
 overriding discretion.
 
-# 17. Court dress
+# 17. Court dress
 
 (1) The attire for male advocates and solicitors appearing in open Court
 will be the existing gown worn over an ordinary long-sleeved white shirt
@@ -482,7 +482,7 @@ the following material:
 
 (c) artificial silk.
 
-# 18. Forms of address
+# 18. Forms of address
 
 The Honourable the Chief Justice, on the advice of the Council of
 Judges, has directed that the following forms of address shall apply:
@@ -497,7 +497,7 @@ in all cause lists, orders of Court, correspondence and other documents,
 be described respectively as “Chief Justice”, “Justice” or “Judicial
 Commissioner” without any accompanying gender prefix.
 
-# 19. Submissions and examination by leading and assisting counsel
+# 19. Submissions and examination by leading and assisting counsel
 
 (1) In the event that a party is represented by more than one counsel at
 a hearing, whether in open Court or in Chambers, the making of
@@ -534,7 +534,7 @@ re-examination for a party throughout the hearing.
 
 (5) This paragraph shall apply to both civil and criminal proceedings.
 
-# 20. Interpreters and translation
+# 20. Interpreters and translation
 
 (1) The directions set out in sub-paragraphs (2) to (9) below are to be
 followed in relation to all requests for interpretation services of
@@ -562,13 +562,13 @@ Request.
 (5) In the event that the services of the interpreter are for any reason
 not required on any of the scheduled days specified in the Request, the
 requesting party shall immediately notify the appropriate Head
-Interpreter either by letter, facsimile transmission or email.  This
+Interpreter either by letter, facsimile transmission or email.  This
 shall serve as a notice of cancellation.
 
 (6) Any request for refund of the fee paid under sub-paragraph (4) must
 be submitted to the Registrar through the Electronic Filing Service
 within one month after the date on which the reason for the refund
-arose.  The supporting reasons and the amount of refund sought must be
+arose.  The supporting reasons and the amount of refund sought must be
 clearly indicated in the request for refund.
 
 (7) Unless otherwise decided by the Registrar, the fee paid for any
@@ -610,7 +610,7 @@ justifying non-compliance.
 unable to accept a translation request, parties and counsel should
 approach a private translation service instead.
 
-# 21. Production of record of hearing
+# 21. Production of record of hearing
 
 (1) Pursuant to Order 38A, Rule 1 of the Rules of Court, the Registrar
 hereby directs that with effect from 1 August 2005, there shall be audio
@@ -721,8 +721,8 @@ non-parties or parties who are not registered users*</span>
 following procedure should be followed:
 
 (a) <span id="Sub-para_1_a"></span>A
-[Request](javascript:TextPopup\(this\))<span id="POPUP343133008" class="expandtext" style="display: none;"> Formerly
-known as “praecipe”   </span> should be made to obtain leave to inspect
+[Request](javascript:TextPopup\(this\))<span id="POPUP343133008" class="expandtext" style="display: none;"> Formerly
+known as “praecipe”   </span> should be made to obtain leave to inspect
 the file. The Request should state the name of the person who is to
 carry out the search or inspection. If this person is not a solicitor,
 his identity card number should also be included in the Request after
@@ -740,9 +740,9 @@ to the separate suit or matter.
 Electronic Filing Service;
 
 (ii) parties who are not registered users can inspect the case file by
-presenting a copy of the approval at the service bureau.  After
+presenting a copy of the approval at the service bureau.  After
 verifying the approval, the service bureau will assign the inspecting
-party a personal computer for the inspection to be carried out.  An
+party a personal computer for the inspection to be carried out.  An
 inspecting party will usually be allowed 60 minutes to carry out the
 inspection. If a longer period is required, the service bureau may
 impose a charge for use of the computer. The service bureau may impose
@@ -790,7 +790,7 @@ Electronic cause books and registers maintained by the Registry
 (9) <span id="Sub-para_4"></span>Order 60 of the Rules of Court provides
 that the Registry shall maintain information prescribed or required to
 be kept by the Rules of Court and Practice Directions issued by the
-Registrar.  In addition to any provisions in the Rules of Court, the
+Registrar.  In addition to any provisions in the Rules of Court, the
 Registrar hereby directs that the following information shall be
 maintained by the Registry:
 
@@ -820,7 +820,7 @@ arrest;
 (d) any other information as may from time to time be found necessary.
 
 (10) Searches of this information under Order 60, Rule 3 may be
-conducted  through the Electronic Filing Service at a service bureau or
+conducted  through the Electronic Filing Service at a service bureau or
 at the Legal Registry. The fees prescribed by Appendix B to the Rules of
 Court will be payable for such searches.
 
@@ -858,22 +858,22 @@ Registrar.
 Access to personal data
 
 (4) <span style="font-weight: bold;">Contained in documents filed with,
-served on, delivered or otherwise conveyed to the Registrar</span>.  A
+served on, delivered or otherwise conveyed to the Registrar</span>.  A
 data subject who wishes to access his personal data contained in any
 document filed with, served on, delivered or otherwise conveyed to the
 Registrar must comply with the applicable provisions in the Rules of
 Court and these Practice Directions relating to the access to and
-inspection of case files.  A data subject shall not be entitled to
+inspection of case files.  A data subject shall not be entitled to
 request information about the ways in which his personal data contained
 in any document filed with, served on, delivered or otherwise conveyed
 to the Registrar has been used or disclosed.
 
 (5) <span style="font-weight: bold;">Contained in electronic cause books
-and registers maintained by the Registry.</span>  A data subject who
+and registers maintained by the Registry.</span>  A data subject who
 wishes to access his personal data contained in any electronic cause
 book or register must conduct a search through the Electronic Filing
 Service at a service bureau or at the Legal Registry and shall pay the
-fees prescribed by Appendix B to the Rules of Court.  A data subject
+fees prescribed by Appendix B to the Rules of Court.  A data subject
 shall not be entitled to request information about the ways in which his
 personal data contained in any electronic cause book or register has
 been used or disclosed.
@@ -881,7 +881,7 @@ been used or disclosed.
 Correction of personal data
 
 (6) <span style="font-weight: bold;">Contained in documents filed with,
-served on, delivered or otherwise conveyed to the Registrar</span>.  A
+served on, delivered or otherwise conveyed to the Registrar</span>.  A
 data subject who wishes to correct any error or omission in his personal
 data in any document filed with, served on, delivered or otherwise
 conveyed to the Registrar must comply with the applicable provisions in
@@ -889,14 +889,14 @@ the Rules of Court and these Practice Directions relating to the
 amendment of the relevant document.
 
 (7) <span style="font-weight: bold;">Contained in electronic cause books
-and registers maintained by the Registry</span>.  A data subject who
+and registers maintained by the Registry</span>.  A data subject who
 wishes to correct any error or omission of his personal data in any
 electronic cause book or register maintained by the Registry shall
 comply with the following procedure:
 
 (a) The request to correct the error or omission must be made in writing
 by the data subject or by his solicitor, together with the reason for
-the requested correction.  The request must clearly identify the record
+the requested correction.  The request must clearly identify the record
 and the personal data to be corrected;
 
 (b) If the data subject is not represented, his identity card number
@@ -925,7 +925,7 @@ Electronic Filing Service or the service bureau.
 (2) The directions set out in sub-paragraph (1) will also apply to a
 party who wishes to file a document which alters the powers created in
 an instrument that is filed, served, delivered or otherwise conveyed to
-the Court on or after 28 May 2002. If the document relates to an
+the Court on or after 28 May 2002. If the document relates to an
 instrument that is presented for deposit before 28 May 2002, the
 document must be filed manually in hard copy form.
 
@@ -956,7 +956,7 @@ the original instrument to the Legal Registry within one working day
 after filing the instrument. The application will be processed only
 after the original instrument is produced.
 
-# 26. Filing directions to the Accountant-General for payment into and out of Court
+# 26. Filing directions to the Accountant-General for payment into and out of Court
 
 (1) <span id="Sub-para_1"></span>Where monies are sought to be paid into
 Court pursuant to a judgment or order of the Court, a copy of the
@@ -1047,7 +1047,7 @@ through the Electronic Filing Service. Registered users are to ensure
 that the inbox of their Electronic Filing Service account(s) are checked
 and cleared regularly.
 
-# 28. Authorisation for collection of mail and Court documents
+# 28. Authorisation for collection of mail and Court documents
 
 (1) Without prejudice to sub-paragraphs (3) and (4), all law firms are
 required to notify the Legal Registry of the Supreme Court of the
@@ -1080,7 +1080,7 @@ is an employee or representative from the courier service-provider and
 will have to acknowledge receipt of the Court documents or mail
 collected.
 
-# 29. Electronic payment of Court fees
+# 29. Electronic payment of Court fees
 
 Implementation of the electronic system for the payment of Court fees
 
@@ -1115,7 +1115,7 @@ terms and conditions as he or she deems fit.
 # 29A. Publication of and reports and comments on Court cases
 
 (1) This paragraph applies to solicitors, litigants (whether acting by
-solicitors or in person), the media and all other persons reporting on
+solicitors or in person), the media and all other persons reporting on
 or commenting about cases which are before any court ("court cases").
 All categories of persons mentioned above are collectively referred to
 as "all concerned".
@@ -1142,14 +1142,14 @@ render proper advice to their clients.
 (1) All originating processes and summons filed in the Supreme Court on
 or after 1 January 2015 shall bear case numbers in the following format:
 
- 
+ 
 
 Description of Court/ Type of Application \[Case number\]/ Year filed
 
 For
 example<span style="text-decoration: none;">:</span>
 
- 
+ 
 
 |                                      |                                                                       |
 | ------------------------------------ | --------------------------------------------------------------------- |
@@ -1158,7 +1158,7 @@ example<span style="text-decoration: none;">:</span>
 | HC/OS \[Case Number\]/\[Year filed\] | Originating Summons filed in the High Court                           |
 | SIC/S \[Case Number\]/\[Year filed\] | Writ of Summons filed in the Singapore International Commercial Court |
 
- 
+ 
 
 (2) Parties are to cite the case number in full in all documents and
 correspondence which are submitted to the Court.

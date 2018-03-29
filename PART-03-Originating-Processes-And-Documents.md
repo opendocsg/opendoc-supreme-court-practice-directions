@@ -47,7 +47,7 @@ document
 
 35A. Pleadings
 
-# 30. Originating Summonses
+# 30. Originating Summonses
 
 (1) This paragraph applies to originating summonses filed on or after 1
 January 2006.
@@ -140,12 +140,12 @@ trustees to administer a charitable trust under section 63(4) of the
 Trustees Act (Cap. 337);
 
 (p) applications for a company to be placed under judicial management
-under section 227A of the Companies Act (Cap. 50); and
+under section 227A of the Companies Act (Cap. 50); and
 
 (q) applications under the Land Titles (Strata) Act (Cap. 158) in Order
 100, Rule 2.
 
-# 31. Identification numbers to be stated in cause papers
+# 31. Identification numbers to be stated in cause papers
 
 Parties named in the title of the documents
 
@@ -354,7 +354,7 @@ Non-compliance
 (10) Any document which does not comply with this paragraph may be
 rejected for filing by the Legal Registry of the Supreme Court.
 
-# 32. Personal service of processes and documents
+# 32. Personal service of processes and documents
 
 (1) The attention of solicitors is drawn to Order 62, Rule 2(1) of the
 Rules of Court, which provides:
@@ -395,7 +395,7 @@ and the assigned process server will be given.
 (5) On the appointed date, the person accompanying the process server
 should call at the Legal Registry. The amount required for the transport
 charges of the process server (a record of which will be kept) should be
-tendered.  Alternatively, the Legal Registry should be informed
+tendered.  Alternatively, the Legal Registry should be informed
 beforehand that transport for the process server will be provided. The
 Legal Registry will then instruct the process server to effect service.
 
@@ -422,8 +422,8 @@ in substitution of substituted service by posting on doors or gates of
 residential and business premises.
 
 (4) <span id="Sub-para_2"></span> An application for substituted service
-by posting at an address or by AR registered post should contain
-evidence (for example, relevant search results from the Inland Revenue
+by posting at an address or by AR registered post should contain
+evidence (for example, relevant search results from the Inland Revenue
 Authority of Singapore, the Singapore Land Authority, the Housing &
 Development Board or the Accounting and Corporate Regulatory Authority)
 that the person to be served is resident or can be located at the
@@ -477,7 +477,7 @@ endorsements shall be prepared, and the document must be re-filed or
 re-issued, as the case may be. An example of this would be renewals of
 writs of summons.
 
-# 35. Amendment of documents
+# 35. Amendment of documents
 
 Application
 
@@ -606,9 +606,9 @@ construction of the contract;
 were known to both or all the relevant parties must also be pleaded with
 sufficient particularity;
 
-(c) parties should in their pleadings specify the effect which such
+(c) parties should in their pleadings specify the effect which such
 facts will have on their contended construction; and
 
-(d) the obligation of the parties to disclose evidence would be limited
+(d) the obligation of the parties to disclose evidence would be limited
 by the extent to which the evidence is relevant to the facts pleaded in
 sub-paragraphs (2)(a) and (2)(b).

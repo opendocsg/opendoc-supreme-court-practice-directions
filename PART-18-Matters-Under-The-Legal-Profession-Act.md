@@ -10,7 +10,7 @@ Profession Act
 
 137\. <span style="margin-left: 40px;">deleted</span>
 
-# 134. Applications for admission as an advocate and solicitor of the Supreme Court
+# 134. Applications for admission as an advocate and solicitor of the Supreme Court
 
 (1) The attention of applicants for admission as an advocate and
 solicitor of the Supreme Court is drawn to the filing and service
@@ -18,7 +18,7 @@ deadlines as set out in Rules 25, 26 and 27 of the Legal Profession
 (Admission) Rules 2011.
 
 (2) In view of the requirements under Rules 25, 26 and 27 of the Legal
-Profession (Admission) Rules 2011,  an applicant is to ensure the
+Profession (Admission) Rules 2011,  an applicant is to ensure the
 requisite document(s) for admission are served on the Attorney-General,
 the Law Society of Singapore and the Singapore Institute of Legal
 Education in compliance with the timelines stipulated in the respective
@@ -78,7 +78,7 @@ Law Society of Singapore and the Singapore Institute of Legal Education
 and file a Request to bring forward the hearing date of the abridgment
 application enclosing the relevant written consent.
 
-# 135. “Part-call” applications pursuant to section 32(3) of the Legal Profession Act
+# 135. “Part-call” applications pursuant to section 32(3) of the Legal Profession Act
 
 Section 32(3) of the Legal Profession Act allows “part-call”
 applications to be brought in respect of practice trainees who have

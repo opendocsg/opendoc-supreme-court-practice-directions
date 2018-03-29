@@ -37,13 +37,13 @@ selecting a preferred hearing date. Counsel arguing the application for
 all parties should be available to attend the hearing on the date
 selected.
 
- (3) In the event that it is not possible to confer with opposing
+ (3) In the event that it is not possible to confer with opposing
 counsel on a preferred hearing date, whether due to the nature or
 urgency of the application or otherwise, solicitors shall select a date
 where counsel arguing the application for the applicant will be
 available.
 
-# 66. Fixing of hearing dates
+# 66. Fixing of hearing dates
 
 (1) To assist the Registrar at the fixing of hearing dates, solicitors
 should provide updated information as to the current status of the cause
@@ -74,7 +74,7 @@ fact without delay.*</span>
 
 \[emphasis added\]
 
-# 67. Adjournment or vacation of trial dates and part-heard cases
+# 67. Adjournment or vacation of trial dates and part-heard cases
 
 (1) <span id="Sub-para_1"></span>Where dates have been fixed for the
 trial of any cause or matter, any request for an adjournment or vacation
@@ -100,7 +100,7 @@ expired.
 (1) <span id="Sub-para_1"></span>Before solicitors make a Request
 through the Electronic Filing Service to the Court for an adjournment or
 vacation of any hearings other than trials, they should seek the consent
-of the other party or parties to the matter.  Unilateral requests made
+of the other party or parties to the matter.  Unilateral requests made
 without first seeking the consent or views of the other party or parties
 to the matter will not be entertained, except in the most exceptional
 circumstances.
@@ -122,9 +122,9 @@ readily be acceded to.
 (4) <span id="Sub-para_3"></span>If the consent of all other parties to
 the matter is obtained, a letter stating that all parties have consented
 to the requested adjournment or vacation of hearings may be attached to
-the Request electronic form.  However, this does not mean that the
-Request will be granted as a matter of course.  The Court will still
-evaluate the merits of the Request before making its decision.  
+the Request electronic form.  However, this does not mean that the
+Request will be granted as a matter of course.  The Court will still
+evaluate the merits of the Request before making its decision.  
 
 (5) <span id="Sub-para_4"></span>If the consent of one or more of the
 other parties is not obtained, the letter should set out the reasons for

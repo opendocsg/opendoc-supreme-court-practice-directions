@@ -19,7 +19,7 @@
 77A. Consent judgments or orders involving disposition or transfer of
 property
 
-# 75. Draft orders
+# 75. Draft orders
 
 (1) <span id="Sub-para_1"></span>Order 42, Rule 8(1) and (2) of the
 Rules of Court place the burden of approving the drafts of
@@ -92,7 +92,7 @@ the matter in dispute to be referred to the Judge for his determination.
 (6) Where the other party has no solicitor, the draft shall be submitted
 to the Registrar.
 
-# 76. Judgment in default of appearance or service of defence
+# 76. Judgment in default of appearance or service of defence
 
 (1) <span id="Sub-para_1"></span>The previous practice of applying for a
 search for appearance and obtaining a certificate of non-appearance
@@ -128,15 +128,15 @@ For all other cases, the Request for entry of default judgment
 electronic form shall be composed online through the Electronic Filing
 Service.
 
-# 77. Judgment Interest
+# 77. Judgment Interest
 
 Interest rates in default judgments
 
 (1) The directions set out in sub-paragraphs (2) to (3) shall be
 observed when entering judgments in default of appearance or service of
-defence under Orders 13 and 19 respectively of the Rules of Court. These
+defence under Orders 13 and 19 respectively of the Rules of Court. These
 directions shall apply to such default judgments entered on or after 1
-April 2007. (In respect of post-judgment interest for such default
+April 2007. (In respect of post-judgment interest for such default
 judgments under Order 42, Rule 12, please refer to sub-paragraph (4)
 below).
 
@@ -179,7 +179,7 @@ form:
 | <span style="font-family: Verdana, sans-serif; font-size: 10pt;">Amount of interest</span>                                   | <span style="font-family: Verdana, sans-serif; font-size: 10pt;">$</span>                   |
 | <span style="font-family: Verdana, sans-serif; font-size: 10pt;">Total amount of interest payable to date of judgment</span> | <span style="font-family: Verdana, sans-serif; font-size: 10pt;">$</span>                   |
 
- 
+ 
 
 (ii) The period of interest shall be as pleaded, except that it shall
 end on the date of judgment and not on the date of payment.
@@ -193,7 +193,7 @@ attached to the judgment.
 Post-judgment interest
 
 (4) The directions set out in sub-paragraph (5) shall apply to judgments
-granted on or after 1 April 2007.  The directions set out in
+granted on or after 1 April 2007.  The directions set out in
 sub-paragraph (5) shall also apply to judgments entered in default of
 appearance or service of defence under Orders 13 and 19 or in default of
 an order of Court (i.e. “unless” or peremptory orders) on or after 1
@@ -207,7 +207,7 @@ interest.
 Order 42, Rule 12, unless it has been otherwise agreed between the
 parties, interest payable after the date of judgment shall be 5.33% per
 annum until further notice and calculated to the date of the judgment is
-satisfied. The Court <span style="margin-left: 0px;">retains the
+satisfied. The Court <span style="margin-left: 0px;">retains the
 discretion under Order 42, Rule 12 to revise the default rate of
 interest to such other rate not exceeding the default rate on the facts
 of the individual case.</span>
@@ -247,7 +247,7 @@ April 2007.
 (11) Pursuant to the Chief Justice’s directions as provided under Order
 30, Rule 6(2), the interest ordered by the Court on the sum shown by the
 receiver’s account as due from him and which the receiver has failed to
-pay into Court shall be 5.33% per annum until further notice. Interest
+pay into Court shall be 5.33% per annum until further notice. Interest
 shall accrue for the period which the sum was in possession of the
 receiver.
 

@@ -29,7 +29,7 @@ summonses
 43\. Applications for discovery or interrogatories against network
 service providers
 
-# 36. Distribution of applications
+# 36. Distribution of applications
 
 All applications in Chambers (including summonses and summonses for
 directions) shall be filed without specifying whether the application is
@@ -103,7 +103,7 @@ direct the party to file separate summonses before proceeding with the
 hearing or proceed with the hearing on the solicitor’s undertaking to
 file further summonses for the distinct applications.
 
-# 38. Summonses to be heard in open Court
+# 38. Summonses to be heard in open Court
 
 (1) Order 32, Rule 11 of the Rules of Court provides that all summonses
 shall be heard in Chambers, subject to any provisions in the Rules of
@@ -206,7 +206,7 @@ General power to transfer from High Court to State Courts
 may for any sufficient reason at any time apply to the High Court for an
 order that the proceedings be transferred to a State Court.
 
-(2) Subject to subsection (3), the High Court may, if it thinks fit, and
+(2) Subject to subsection (3), the High Court may, if it thinks fit, and
 on such terms as it sees fit, and either on its own motion or on
 application, order that the proceedings be transferred accordingly
 notwithstanding any other provision of this Act.
@@ -221,7 +221,7 @@ be.
 the proceedings fall within the civil jurisdiction of the State Courts
 would not, by itself, ordinarily constitute sufficient reason for
 transferring the proceedings to the State Courts, if enforcement
-overseas is  intended of any judgment obtained in the High Court under
+overseas is  intended of any judgment obtained in the High Court under
 any enforcement arrangements currently in force.
 
 # 41\. <span style="font-style: italic;">*Ex parte*</span> applications for injunctions

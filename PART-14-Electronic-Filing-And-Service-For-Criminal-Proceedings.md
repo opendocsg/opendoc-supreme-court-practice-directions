@@ -8,7 +8,7 @@
 
 119\. Filing fees
 
-# 116. Application
+# 116. Application
 
 (1) The directions contained in this Part shall apply to the filing,
 service, delivery and conveyance of documents in criminal proceedings
@@ -56,7 +56,7 @@ and
 
 (n) 112.
 
-# 117. Hard copies of documents
+# 117. Hard copies of documents
 
 (1) The provisions of this paragraph are without prejudice to the
 provisions of the Criminal Procedure Code (Electronic Filing and
@@ -121,7 +121,7 @@ applicable; and
 (c) any other supporting documents, including any exhibits referred to
 in the conditioned statements of all witnesses.
 
-# 119. Filing fees
+# 119. Filing fees
 
 The attention of solicitors is drawn to Regulations 7 and 8 of the
 Criminal Procedure Code (Electronic Filing and Service) Regulations

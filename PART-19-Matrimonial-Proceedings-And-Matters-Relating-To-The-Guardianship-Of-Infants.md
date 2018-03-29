@@ -14,7 +14,7 @@ Proceedings
 Matters or Section 17A(2) Supreme Court of Judicature Act Proceedings
 from the Family Court to the High Court
 
-# 138. Transfer of Matrimonial, Divorce and Guardianship of Infants Proceedings
+# 138. Transfer of Matrimonial, Divorce and Guardianship of Infants Proceedings
 
 (1) The Honourable the Chief Justice has made the following orders under
 section 28A of the Supreme Court of Judicature Act (Cap. 322):
@@ -92,12 +92,12 @@ Order applicable to their case.
 
 (8) Pursuant to the Family Justice Act 2014 (Act No. 27 of 2014), with
 effect from 1 October 2014, family proceedings shall be heard and
-determined by the Family Justice Courts.  Notwithstanding this, any
+determined by the Family Justice Courts.  Notwithstanding this, any
 family proceedings commenced in or transferred to the High Court before
 1 October 2014 shall, on and after that date, be continued in and dealt
 with by the High Court.
 
-# 139. Transfer of Section 17A(2) Supreme Court of Judicature Act Proceedings
+# 139. Transfer of Section 17A(2) Supreme Court of Judicature Act Proceedings
 
 (1) In relation to proceedings which may be heard and determined by the
 High Court pursuant to section 17A(2) of the Supreme Court of Judicature
@@ -170,7 +170,7 @@ proceedings commenced in or transferred to the High Court before 1
 October 2014 shall, on and after that date, be continued in and dealt
 with by the High Court.
 
-# 140. Documents to be filed at the Legal Registry of the Supreme Court
+# 140. Documents to be filed at the Legal Registry of the Supreme Court
 
 (1) All documents relating to family proceedings and section 17A(2)
 proceedings which are to be heard and determined by the High Court shall
@@ -186,13 +186,13 @@ proceedings commenced before 1 April 1996;
 commenced on or after 15 December 2003 involving the division of
 matrimonial assets with a net value of $1.5 million or more, which have
 been transferred to the High Court upon the direction of the Registrar
-of the  State Courts;
+of the  State Courts;
 
 (d) all applications and documents in or ancillary to section 17A(2)
 proceedings commenced on or after 1 November 2004 involving the division
 of matrimonial assets with a net value of $1.5 million or more, which
 have been transferred to the High Court upon the direction of the
-Registrar of the  State Courts; and
+Registrar of the  State Courts; and
 
 (e) all applications and documents to vary any Order of the High Court
 in the proceedings referred to in sub-paragraphs (1)(a) to (d).
@@ -207,7 +207,7 @@ Juvenile Court.
 proceedings that are filed at the Legal Registry shall bear the title
 “In the High Court of the Republic of Singapore”.
 
-# 141. Forms of orders, including <span style="font-style: italic;">*Mareva*</span> injunctions and search [orders](javascript:TextPopup\(this\))<span id="POPUP109003576" class="expandtext" style="display: none;"> Formerly known as “Anton Piller order”</span>
+# 141. Forms of orders, including <span style="font-style: italic;">*Mareva*</span> injunctions and search [orders](javascript:TextPopup\(this\))<span id="POPUP109003576" class="expandtext" style="display: none;"> Formerly known as “Anton Piller order”</span>
 
 (1) The format of all orders made in applications taken out in
 proceedings by way of writ of summons under Part X of the Women’s
@@ -215,14 +215,14 @@ Charter (Cap. 353) on or after 1 April 2006 shall comply with Form 32 of
 Appendix A of the Family Justice Courts Practice Directions. Orders made
 in proceedings commenced by way of petition under Part X of the Women’s
 Charter shall comply with Form 24 of the Women’s Charter (Matrimonial
-Proceedings) Rules 2003 (S 167/2003).
+Proceedings) Rules 2003 (S 167/2003).
 
 (2) Paragraphs 41 and 42 shall be applicable to an application for a
 Mareva injunction and a search order. The orders of Court for such
 applications shall contain the text set out in Forms 6, 7 and 8 of
 Appendix A of these Practice Directions.
 
-# 142. Appeals on ancillary matters in Divorce Proceedings, Custody Matters or Section 17A(2) Supreme Court of Judicature Act Proceedings from the Family Court to the High Court
+# 142. Appeals on ancillary matters in Divorce Proceedings, Custody Matters or Section 17A(2) Supreme Court of Judicature Act Proceedings from the Family Court to the High Court
 
 (1) Appeals against final orders made by the District Judge in chambers
 on ancillary matters in divorce proceedings under the Women’s Charter
@@ -302,14 +302,14 @@ cross-refer each document to its location in the record of appeal.
 
 (8) The core bundle filed by the appellant shall not exceed 100 pages
 and the supplemental core bundle filed by the respondent shall not
-exceed 50 pages. In computing the number of pages, the copy of the order
+exceed 50 pages. In computing the number of pages, the copy of the order
 appealed from, the grounds of decision and the index of documents shall
 be excluded. The Judge of the High Court may take into consideration any
 failure to comply with this direction in deciding the costs to be
 awarded at the hearing of the appeal.
 
 (9) The submissions, the record of appeal, the core bundle and the
-respondent’s core bundle shall be filed at the Registry of the  State
+respondent’s core bundle shall be filed at the Registry of the  State
 Courts.
 
 (10) In order to assist the Judge hearing the appeal, the appellant and

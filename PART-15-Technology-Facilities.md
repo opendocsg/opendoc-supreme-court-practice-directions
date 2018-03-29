@@ -22,7 +22,7 @@ in open Court or in Chambers; or
 
 (2) The Registrar may refuse any request for the use of any of the
 services described in this Part at any time owing to the unavailability
-of staff or equipment or for any other reason.  The Registrar need not
+of staff or equipment or for any other reason.  The Registrar need not
 give any reasons for the refusal of such a request.
 
 # 121\. Applications to use the Technology Courts
@@ -167,13 +167,13 @@ remote site.
 (6) Any person who desires to use audio-visual and computers equipment
 additional to those provided in the Technology Courts will be asked to
 provide details of such equipment when applying to use the Courtroom.
- The applicant must also be prepared to have the equipment available
+ The applicant must also be prepared to have the equipment available
 for testing with the audio-visual system of the Technology Courts at
-least 3 working days before the first day fixed for the hearing.  It is
+least 3 working days before the first day fixed for the hearing.  It is
 the responsibility of the applicant to provide equipment that is
 compatible with the audio-visual system of the Technology Courts.
 
-# 122. Applications to use the Mobile Infocomm Technology Facilities
+# 122. Applications to use the Mobile Infocomm Technology Facilities
 
 (1) A request to use the MIT facilities for the hearing of any matter in
 open Court or in Chambers before a Judge or Registrar must be made by
@@ -185,7 +185,7 @@ Document Format (PDF) must be annexed to the Request electronic form.
 (2) An application to use the MIT facilities for any other dispute
 resolution process must be made by submitting Form 21 to the Registrar
 through the relevant person-in-charge at the organisation at which the
-dispute resolution process is carried out as soon  as practicable, as
+dispute resolution process is carried out as soon  as practicable, as
 availability of the resources are on a first-come-first served basis.
 
 (3) The mobile audio-visual equipment is available for use in both open
@@ -194,10 +194,10 @@ only for use in Chambers.
 
 (4) Any applicant desiring to use the mobile audio-visual equipment is
 required to provide details of the type of evidence presenting and media
-format in the application form.  The applicant must also be prepared to
+format in the application form.  The applicant must also be prepared to
 have the presentation material or media available for testing with the
 audio-visual system at least 5 working days before the first day fixed
-for the hearing.  It is the responsibility of the applicant to provide
+for the hearing.  It is the responsibility of the applicant to provide
 presentation materials or media format that is compatible with the
 equipment provided by the Court.
 
@@ -229,7 +229,7 @@ in open Court or in Chambers; or
 
 (2) The Registrar may refuse any request for the use of any of the
 services described in this Part at any time owing to the unavailability
-of staff or equipment or for any other reason.  The Registrar need not
+of staff or equipment or for any other reason.  The Registrar need not
 give any reasons for the refusal of such a request.
 
 # 123\. Fees

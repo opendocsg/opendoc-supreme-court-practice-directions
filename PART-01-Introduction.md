@@ -35,14 +35,14 @@ These Practice Directions shall come into effect on 1 January 2013.
 # 3\. Revocation of previous practice directions
 
 These Practice Directions are issued to consolidate all previous
-practice directions of the Supreme Court.  All previous editions of
+practice directions of the Supreme Court.  All previous editions of
 practice directions are revoked with effect from 1 January 2013.
 
 # 4\. Updating
 
 (1) Amendments to these Practice Directions will be done on a
-paragraph-for-paragraph basis.  These Practice Directions will be
-automatically updated with the new amended paragraphs.  A list of
+paragraph-for-paragraph basis.  These Practice Directions will be
+automatically updated with the new amended paragraphs.  A list of
 amendments made will also be found on the Supreme Court website, on a
 noter-up page entitled 'Amendments'.
 
@@ -97,7 +97,7 @@ following paragraphs of Parts I to XXI do not apply:
 
 and Part XXII applies.
 
-# 6. Forms
+# 6. Forms
 
 The forms in Appendix A of these Practice Directions shall be used where
 applicable, with such variations as the circumstances of the case may

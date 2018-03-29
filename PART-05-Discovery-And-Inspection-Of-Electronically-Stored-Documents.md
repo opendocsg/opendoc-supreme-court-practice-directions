@@ -1,6 +1,6 @@
 # Part V: DISCOVERY AND INSPECTION OF ELECTRONICALLY STORED DOCUMENTS
 
-44. Introduction
+44. Introduction
 
 • Location of electronically stored documents
 
@@ -199,7 +199,7 @@ them.
 search for electronically stored documents is fulfilled upon that party
 carrying out the search to the extent stated in the request and
 disclosing any electronically stored documents located as a result of
-that search.  The party giving discovery shall not be required to review
+that search.  The party giving discovery shall not be required to review
 the search results for relevance.
 
 Applications to Court

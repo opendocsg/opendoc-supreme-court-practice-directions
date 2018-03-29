@@ -55,7 +55,7 @@ Release of witness upon completion of evidence
 Court upon completion of his evidence and it is the duty of counsel to
 apply to the Court if counsel desires the witness to remain.
 
-# 57. Form of affidavits
+# 57. Form of affidavits
 
 (1) Affidavits shall have a blank margin not less than 35mm wide on all
 4 sides of the page. They shall be printed or typed and double-spaced.
@@ -111,7 +111,7 @@ the first page of the affidavit the entered number of the summons.
 (7) Hard copies of affidavits may be printed on one side or both sides
 of each page.
 
-# 58. Non-documentary exhibits to affidavits
+# 58. Non-documentary exhibits to affidavits
 
 (1) Non-documentary exhibits (e.g., tapes, samples of merchandise, etc.)
 shall be clearly marked with the exhibit mark in such a manner that
@@ -135,7 +135,7 @@ a sealed transparent container and tagged or labelled as aforesaid. An
 enlarged photograph showing the relevant characteristics of such
 exhibits shall, where applicable, be exhibited in the affidavit.
 
-# 59. Documentary exhibits to affidavits
+# 59. Documentary exhibits to affidavits
 
 (1) Every page of every exhibit must be fully and clearly legible. Where
 necessary, magnified copies of the relevant pages should be inserted in
@@ -156,7 +156,7 @@ the affidavit in the manner of the example set out below:
 | "TAK-1"                | Certificate of marriage | 6        |
 | "TAK-2"                | Certificate of birth    | 7        |
 
- 
+ 
 
 and
 
@@ -273,13 +273,13 @@ deposed to.
 (4) <span id="Sub-para_4"></span>The appropriate Supreme Court Head
 Interpreter may be contacted at the following telephone numbers:
 
-(a) Head Interpreter (Chinese) - 6332 3940.
+(a) Head Interpreter (Chinese) - 6332 3940.
 
 (b) Head Interpreter (Indian) - 6332 3930.
 
 (c) Head Interpreter (Malay) - 6332 3970.
 
-# 61. Effect of non-compliance
+# 61. Effect of non-compliance
 
 Any affidavit or exhibit which does not comply with the directions
 contained in this Part will be liable to be rejected by the Court and
@@ -312,7 +312,7 @@ matter, the application for the adjudication will be adjourned to be
 dealt with at the trial or hearing of the cause or matter, and the
 applicant may be ordered to pay the costs of the adjournment.
 
-# 63. Order 41 of the Rules of Court
+# 63. Order 41 of the Rules of Court
 
 (1) For the avoidance of doubt, the provisions of Order 41 of the Rules
 of Court shall continue to apply.

@@ -41,7 +41,7 @@ avoidance of doubt, the directions contained in this part, save for
 paragraph 98, do not apply to taxations governed by the Bankruptcy
 (Costs) Rules (Cap. 20, Rule 2).
 
-# 94\.  Form of bill of costs
+# 94\.  Form of bill of costs
 
 The attention of solicitors is drawn to Rules 24 and 31 and Appendix 1
 of Order 59 of the Rules of Court. In addition, solicitors are to abide
@@ -90,7 +90,7 @@ SOLICITOR-AND-OWN CLIENT BILLS
 own client should be drawn up in the same manner described in
 sub-paragraph (3)(a) save as follows:
 
- (i) <span id="Sub-para_3_c_i"></span>A solicitor will be deemed to have
+ (i) <span id="Sub-para_3_c_i"></span>A solicitor will be deemed to have
 indicated that all items included in the bill are in relation to work
 done or disbursements incurred with the approval of the client.
 
@@ -149,7 +149,7 @@ bill.
 
 Goods and services tax
 
-(5) <span id="Sub-para_5"></span>A party claiming goods and services tax
+(5) <span id="Sub-para_5"></span>A party claiming goods and services tax
 (GST) in a bill of costs must comply with the directions set out in this
 sub-paragraph. A party who fails to comply with the directions set out
 in this sub-paragraph will be presumed not to be claiming GST in the
@@ -251,7 +251,7 @@ as a separate item in the Registrar’s certificate. Solicitors are
 responsible for ensuring that the GST figures accurately reflect the
 sums allowed by the Registrar.
 
-# 95\.  Electronic filing of bills of costs for taxation
+# 95\.  Electronic filing of bills of costs for taxation
 
 (1) Each bill of costs submitted to the Court through the Electronic
 Filing Service must:
@@ -286,7 +286,7 @@ costs filed before 1 January 2013. For all other cases, the Registrar’s
 certificate of costs shall be composed online through the Electronic
 Filing Service.
 
-# 96\.  Objections
+# 96\.  Objections
 
 (1) Any objections in principle or as to quantum of the items claimed in
 a bill of costs must be indicated by the filing and service of a Notice
@@ -302,7 +302,7 @@ Electronic Filing Service to compose the Notice of Dispute summary
 includes the amounts of costs to be awarded under Sections 1, 2 and 3 of
 the bill of costs according to the respondent.
 
-# 97\.  Amount allowed as disbursements on account of use of Electronic Filing Service
+# 97\.  Amount allowed as disbursements on account of use of Electronic Filing Service
 
 (1) If a document is filed using the Electronic Filing Service, $0.40
 for each page of the document thus filed shall be allowed as costs
@@ -317,7 +317,7 @@ where the Court fixes a gross sum in lieu of taxation.
 (3) This paragraph shall not apply to any document filed through the
 service bureau.
 
-# 98\.  Taxations involving the Official Assignee, the Official Receiver, the Public Trustee or the Director of Legal Aid
+# 98\.  Taxations involving the Official Assignee, the Official Receiver, the Public Trustee or the Director of Legal Aid
 
 (1) The directions contained in this paragraph shall be followed in
 respect of all taxations in which the Official Assignee, the Official
@@ -340,7 +340,7 @@ costs; and
 (c) when filing the bill of costs in Court through the Electronic Filing
 Service, the receiving party must state whether the Official Assignee,
 the Official Receiver, the Public Trustee or the Director of Legal Aid
-disagrees with the amounts claimed in the bill of costs.  The bill of
+disagrees with the amounts claimed in the bill of costs.  The bill of
 costs should also be served on the Official Assignee, the Official
 Receiver, the Public Trustee or the Director of Legal Aid, as may be
 applicable, on the same day that the bill of costs is filed.
@@ -371,7 +371,7 @@ the respondent;
 
 (ii) party-and-party bills filed by the creditor in companies winding-up
 matters where the Official Receiver is appointed liquidator and to which
-the company in liquidation is the respondent to the bill of  costs; or
+the company in liquidation is the respondent to the bill of  costs; or
 
 (iii) solicitor-and-client bills filed pursuant to the Legal Aid and
 Advice Act (Cap. 160) where the Director of Legal Aid is the respondent,
@@ -422,7 +422,7 @@ writ;</span>
 originating summonses involving cross-examination of any deponent;
 and</span>
 
-<span style="font-size: 10.0pt; font-family: Verdana, sans-serif;">(c)<span style="mso-spacerun: yes;"> </span> civil
+<span style="font-size: 10.0pt; font-family: Verdana, sans-serif;">(c)<span style="mso-spacerun: yes;"> </span> civil
 appeals before the Court of Appeal.</span>
 
 <span style="font-size: 10.0pt; font-family: Verdana, sans-serif;">(2)

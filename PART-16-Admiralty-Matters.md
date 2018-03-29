@@ -84,7 +84,7 @@ of the Legal Registry to enable execution to be effected. The directions
 in paragraph 11 apply when an urgent application has to be made after
 the Legal Registry’s opening hours.
 
-# 128. Hard copies at hearing of admiralty matters
+# 128. Hard copies at hearing of admiralty matters
 
 Order 70, Rule 26 of the Rules of Court provides that the party by whom
 an admiralty action is set down for trial must file any preliminary act
@@ -93,7 +93,7 @@ than 7 days before the trial. In addition to this rule, the party must
 tender 3 hard copies of the preliminary act(s) to the Legal Registry of
 the Supreme Court.
 
-# 129. Searches for caveats against arrest or release
+# 129. Searches for caveats against arrest or release
 
 Order 70, Rule 4(2)(b) of the Rules of Court provides that the party
 applying for a warrant of arrest to be issued must procure a search to
@@ -105,7 +105,7 @@ provide documentation evidencing a search for caveats against arrest or
 release, as the case may be, reflecting a search done no more than 15
 minutes before the hearing of the application.
 
-# 130. Registration of service clerks for admiralty matters
+# 130. Registration of service clerks for admiralty matters
 
 (1) Pursuant to Order 70, Rule 7(3) and Rule 9(2) of the Rules of Court,
 service of a writ or execution of a warrant of arrest may be effected by
@@ -132,7 +132,7 @@ service of a writ or execute a warrant of arrest.
 
 (1) Any party applying for the appraisement and sale of any property in
 an admiralty action shall include a prayer to the Court to appoint one
-or more appraisers to value the property.  The applicant shall submit
+or more appraisers to value the property.  The applicant shall submit
 with the application a list of appraisers maintained by the Sheriff.
 
 (2) The Court appointed appraiser(s) must be named in Form 170 of

@@ -102,7 +102,7 @@ Cartier International BV v Lee Hock Lee and another application
 
 \[1992\] 3 SLR 340
 
-Relevance: Where the Court is asked to punish an alleged contemnor by
+Relevance: Where the Court is asked to punish an alleged contemnor by
 incarceration, the charge against him must be proved to the high
 standard required in a criminal charge.
 
@@ -131,7 +131,7 @@ number in the Portable Document Format (PDF) version of that bundle.
 Each separate bundle of documents shall start at page 1 and every page
 shall be numbered consecutively.
 
-# 70. Bundle of documents filed on setting down
+# 70. Bundle of documents filed on setting down
 
 (1) Order 34, Rule 3 of the Rules of Court requires a bundle containing
 certain documents to be filed together with the notice for setting down.
@@ -194,7 +194,7 @@ Format (PDF). The electronic bundle may contain:
 solicitors or other persons given access to the shared folder in the
 electronic case file.
 
-# 71. Documents for use in trials of writ actions in open Court
+# 71. Documents for use in trials of writ actions in open Court
 
 (1) This paragraph shall apply to trials in open Court of:
 
@@ -246,7 +246,7 @@ respects with the hard copy, as it will be uploaded into the case file
 by the Legal Registry staff and will form part of the electronic case
 file. The page numbers of the hard copy must correspond to the page
 numbers in the Portable Document Format (PDF) version. Unnecessarily
-large electronic files should not be submitted.  Parties should adhere
+large electronic files should not be submitted.  Parties should adhere
 as far as possible to the guidelines set out on the Electronic Filing
 Service website ([www.elitigation.sg)](http://www.efs.com.sg) on the
 resolution to be used when scanning documents into PDF.
@@ -448,7 +448,7 @@ annexes and appendices, but excluding the cover page and backing page).
 (f) Opening statements may be amended at trial, but counsel will be
 expected to explain the reasons for the amendments.
 
-# 72. Bundles of authorities for other open Court hearings
+# 72. Bundles of authorities for other open Court hearings
 
 (1) In all criminal proceedings and civil and criminal appeals heard in
 open Court in the High Court, counsel shall submit their own bundle of
@@ -529,7 +529,7 @@ comply with sub-paragraph (1) above.
 directions on the filing of written submissions or bundle of authorities
 are provided for in these Practice Directions.
 
-# 74. Citation of judgments
+# 74. Citation of judgments
 
 (1) The Honourable the Chief Justice has directed that counsel who wish
 to cite a judgment as authority in support of their oral or written
@@ -630,7 +630,7 @@ citation:
 </tbody>
 </table>
 
- 
+ 
 
 (7) Counsel should, where possible, make specific citations by referring
 to the paragraph number of the judgment, and not to the page number of
@@ -666,14 +666,14 @@ EXAMPLE AND EXPLANATION
 <span style="font-style: italic;">*ABC Co Pte Ltd v XYZ Co Ltd*</span>
 \[2003\] SGCA 5, at \[3\], \[8\].
 
-Year of the decision : \[2003\]
+Year of the decision : \[2003\]
 
-Level of Court         : SGCA (Singapore Court of Appeal)
+Level of Court         : SGCA (Singapore Court of Appeal)
 
-Sequential Number   : 5 (fifth written judgment rendered by the Court of
+Sequential Number   : 5 (fifth written judgment rendered by the Court of
 Appeal in 2003)
 
-Paragraph Number(s): Paragraphs 3 and 8 of the judgment
+Paragraph Number(s): Paragraphs 3 and 8 of the judgment
 
 Ancillary provisions
 
