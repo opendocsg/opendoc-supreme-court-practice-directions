@@ -1,6 +1,8 @@
 # PART I: INTRODUCTION
 &nbsp;
 
+Proposed change 
+
 : 1\. Citation
 
 : 2\. Commencement
