@@ -14,8 +14,10 @@
 	`git clone git@github.com:datagovsg/opentext-clm.git`
 
 3. Add the url to the repo you want to fork, as  upstream
-	``` cd opentext-myrepo
-	git remote add upstream git@github.com:datagovsg/opentext-bare.git```
+	``` 
+	cd opentext-myrepo
+	git remote add upstream git@github.com:datagovsg/opendoc-bare.git
+	```
 
 4. Pull all the files from the repo you are forking
 
