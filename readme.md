@@ -7,15 +7,17 @@
 
 ### Forking yours/repo into yours/repo2
 
-1. Make a new repo on GitHub (eg. datagovsg/opentext-clm)
+1. Make a new repo on GitHub (eg. datagovsg/opendoc-myrepo)
 
 2. Clone it
 	
-	`git clone git@github.com:datagovsg/opentext-clm.git`
+	`git clone git@github.com:datagovsg/opendoc-myrepo.git`
 
 3. Add the url to the repo you want to fork, as  upstream
-	``` cd opentext-myrepo
-	git remote add upstream git@github.com:datagovsg/opentext-bare.git```
+	``` 
+	cd opendoc-myrepo
+	git remote add upstream git@github.com:datagovsg/opendoc-bare.git
+	```
 
 4. Pull all the files from the repo you are forking
 
