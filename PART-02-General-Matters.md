@@ -1,5 +1,4 @@
 # PART II: GENERAL MATTERS
-&nbsp;
 
 : 8\. Operating hours of the Supreme Court
 
@@ -77,7 +76,7 @@ out of Court
 
 : 29B\. Citation of Case Numbers
 
-# 8\. Operating hours of the Supreme Court
+## 8\. Operating hours of the Supreme Court
 
 (1) The Supreme Court operates from 8.30 a.m. to 6.00 p.m. from Monday
 to Friday. However, various offices and counters within the Supreme
@@ -91,7 +90,7 @@ On Friday, it is open from 9.00 a.m. to 5.00 p.m.
 to 5.30 p.m. from Monday to Thursday. On Friday, it is open from 8.30
 a.m. to 5.00 p.m.
 
-# 9. Hours for the sittings of the Supreme Court
+## 9. Hours for the sittings of the Supreme Court
 
 The Honourable the Chief Justice has directed that the Judges of the
 High Court and the Court of Appeal shall sit from 10.00 a.m. to 1.00
@@ -100,7 +99,7 @@ to 1.00 p.m. and from 2.30 p.m. to 5.00 p.m. This is subject to the
 presiding Judge’s or Registrar’s discretion to commence or conclude a
 hearing at an earlier or later time.
 
-# 10. Calculation of time
+## 10. Calculation of time
 
 Unless otherwise stated, the provisions in the Rules of Court shall
 apply to the calculation of time in these Practice Directions. In
@@ -174,7 +173,7 @@ including references to the Court of Appeal.
 or matter is required to be set down for trial or hearing or within
 which any notice of appeal is required to be filed.
 
-# 11. Urgent applications outside of the Court's office hours
+## 11. Urgent applications outside of the Court's office hours
 
 (1) When an applicant files an application for any civil matter
 (including applications for interim injunctions or interim preservation
@@ -210,7 +209,7 @@ direct counsel to send the application and supporting documents by
 email. The Judge or Registrar has the discretion to decide whether to
 deal with the application by email or to hear counsel personally.
 
-# 12. Duty Registrar
+## 12. Duty Registrar
 
 (1) The duties of the Duty Registrar are to:
 
@@ -270,7 +269,7 @@ accepted; or
 Registrar will require the solicitor to give an undertaking to file all
 the documents by the next working day before dealing with the matter.
 
-# 13\. Attendance of solicitors in Court and mentioning on behalf of other solicitors
+## 13\. Attendance of solicitors in Court and mentioning on behalf of other solicitors
 
 (1) Subject to sub-paragraph (2), a solicitor appearing in any cause or
 matter may mention for counsel for all other parties provided that:
@@ -291,7 +290,7 @@ attending Court, as delay in the commencement of the hearing leads to
 wastage of judicial time. Appropriate sanctions may be imposed for
 solicitors who do not arrive for hearings on time.
 
-# 13A. Attendance at hearings in Chambers
+## 13A. Attendance at hearings in Chambers
 
 (1) For the avoidance of doubt, the general rule is that hearings in
 chambers in civil proceedings are private in nature, and that members of
@@ -307,7 +306,7 @@ litigants; (c) the reasons for which such permission is sought; and (d)
 the Court’s interest in preserving and upholding its authority and
 dignity.
 
-# 14. Absence from Court on medical grounds
+## 14. Absence from Court on medical grounds
 
 (1) If:
 
@@ -407,7 +406,7 @@ whether in open Court or in Chambers.
 
 (8) This paragraph shall apply to both civil and criminal proceedings.
 
-# 15. The Central Display Management System
+## 15. The Central Display Management System
 
 (1) The Central Display Management System (CDMS) is used for the
 following types of hearings:
@@ -432,7 +431,7 @@ call cases in the CDMS in a manner which he or she deems fit.
 (4) Senior Counsel will continue to be given the precedence and the
 right of preaudience according to paragraph 16.
 
-# 16\. Precedence and preaudience of Senior Counsel
+## 16\. Precedence and preaudience of Senior Counsel
 
 (1) By virtue of section 31 of the Legal Profession Act (Cap. 161) and
 existing custom and usage, Senior Counsel are given precedence and the
@@ -453,7 +452,7 @@ Senior Counsel, will be heard according to the order in which their
 matters appear on the CDMS, subject to the Judge’s or Registrar’s
 overriding discretion.
 
-# 17. Court dress
+## 17. Court dress
 
 (1) The attire for male advocates and solicitors appearing in open Court
 will be the existing gown worn over an ordinary long-sleeved white shirt
@@ -482,7 +481,7 @@ the following material:
 
 (c) artificial silk.
 
-# 18. Forms of address
+## 18. Forms of address
 
 The Honourable the Chief Justice, on the advice of the Council of
 Judges, has directed that the following forms of address shall apply:
@@ -497,7 +496,7 @@ in all cause lists, orders of Court, correspondence and other documents,
 be described respectively as “Chief Justice”, “Justice” or “Judicial
 Commissioner” without any accompanying gender prefix.
 
-# 19. Submissions and examination by leading and assisting counsel
+## 19. Submissions and examination by leading and assisting counsel
 
 (1) In the event that a party is represented by more than one counsel at
 a hearing, whether in open Court or in Chambers, the making of
@@ -534,7 +533,7 @@ re-examination for a party throughout the hearing.
 
 (5) This paragraph shall apply to both civil and criminal proceedings.
 
-# 20. Interpreters and translation
+## 20. Interpreters and translation
 
 (1) The directions set out in sub-paragraphs (2) to (9) below are to be
 followed in relation to all requests for interpretation services of
@@ -610,7 +609,7 @@ justifying non-compliance.
 unable to accept a translation request, parties and counsel should
 approach a private translation service instead.
 
-# 21. Production of record of hearing
+## 21. Production of record of hearing
 
 (1) Pursuant to Order 38A, Rule 1 of the Rules of Court, the Registrar
 hereby directs that with effect from 1 August 2005, there shall be audio
@@ -650,7 +649,7 @@ working days before the scheduled hearing.
 (7) Sub-paragraph (6) shall apply to both civil and criminal
 proceedings.
 
-# 22\. Use of electronic and other devices
+## 22\. Use of electronic and other devices
 
 (1) In order to maintain the dignity of Court proceedings, the
 Honourable the Chief Justice has directed that, in all hearings in open
@@ -669,7 +668,7 @@ does not in any way disrupt or trivialise the proceedings.
 (4) The attention of court users is also drawn to section 5 of the
 Administration of Justice (Protection) Act 2016 (Act No. 19 of 2016).
 
-# 23.Certification of transcripts
+## 23.Certification of transcripts
 
 Pursuant to Order 38A, Rule 2 of the Rules of Court, the Registrar
 hereby directs that transcripts of any record of hearing or notes of
@@ -682,7 +681,7 @@ or judicial officer having conduct of the proceedings; or
 
 (3) with the approval of the Court, the service provider.
 
-# 24\. Access to case file, inspection, taking copies and searches
+## 24\. Access to case file, inspection, taking copies and searches
 
 Access by parties to a case file
 
@@ -832,7 +831,7 @@ agreements with the Electronic Filing Service provider. Applications
 under this sub-paragraph must be made in writing, identifying the data
 fields sought and providing details of how the information will be used.
 
-# 24A. Personal Data
+## 24A. Personal Data
 
 (1) For the purposes of the following paragraphs:
 
@@ -914,7 +913,7 @@ sub-paragraph (7), any information that is licensed for use under
 paragraph 24(11) will be updated accordingly with the corrected personal
 data.</span>
 
-# 25\. Instruments creating power of attorney
+## 25\. Instruments creating power of attorney
 
 (1) <span id="Sub-para_1"></span>To deposit an instrument creating a
 power of attorney under Order 60, Rule 6 of the Rules of Court, the
@@ -956,7 +955,7 @@ the original instrument to the Legal Registry within one working day
 after filing the instrument. The application will be processed only
 after the original instrument is produced.
 
-# 26. Filing directions to the Accountant-General for payment into and out of Court
+## 26. Filing directions to the Accountant-General for payment into and out of Court
 
 (1) <span id="Sub-para_1"></span>Where monies are sought to be paid into
 Court pursuant to a judgment or order of the Court, a copy of the
@@ -979,7 +978,7 @@ currencies are to be paid into or out of Court, separate draft
 directions must be prepared for each currency in which payment is to be
 made.
 
-# 27\. Requests and other Correspondence
+## 27\. Requests and other Correspondence
 
 (1) All Requests relating to or in connection with any pending cause or
 matter are to be made using the electronic forms available through the
@@ -1047,7 +1046,7 @@ through the Electronic Filing Service. Registered users are to ensure
 that the inbox of their Electronic Filing Service account(s) are checked
 and cleared regularly.
 
-# 28. Authorisation for collection of mail and Court documents
+## 28. Authorisation for collection of mail and Court documents
 
 (1) Without prejudice to sub-paragraphs (3) and (4), all law firms are
 required to notify the Legal Registry of the Supreme Court of the
@@ -1080,7 +1079,7 @@ is an employee or representative from the courier service-provider and
 will have to acknowledge receipt of the Court documents or mail
 collected.
 
-# 29. Electronic payment of Court fees
+## 29. Electronic payment of Court fees
 
 Implementation of the electronic system for the payment of Court fees
 
@@ -1112,7 +1111,7 @@ by electronic means. The Registrar may, in any case, waive the
 requirement for the payment to be effected by electronic means, on such
 terms and conditions as he or she deems fit.
 
-# 29A. Publication of and reports and comments on Court cases
+## 29A. Publication of and reports and comments on Court cases
 
 (1) This paragraph applies to solicitors, litigants (whether acting by
 solicitors or in person), the media and all other persons reporting on
@@ -1137,7 +1136,7 @@ confidential or is impliedly confidential. Solicitors may inform their
 clients of statements made in Chambers when it is necessary for them to
 render proper advice to their clients.
 
-# 29B. Citation of Case Numbers
+## 29B. Citation of Case Numbers
 
 (1) All originating processes and summons filed in the Supreme Court on
 or after 1 January 2015 shall bear case numbers in the following format:

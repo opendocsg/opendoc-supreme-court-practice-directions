@@ -14,7 +14,7 @@ Proceedings
 Matters or Section 17A(2) Supreme Court of Judicature Act Proceedings
 from the Family Court to the High Court
 
-# 138. Transfer of Matrimonial, Divorce and Guardianship of Infants Proceedings
+## 138. Transfer of Matrimonial, Divorce and Guardianship of Infants Proceedings
 
 (1) The Honourable the Chief Justice has made the following orders under
 section 28A of the Supreme Court of Judicature Act (Cap. 322):
@@ -97,7 +97,7 @@ family proceedings commenced in or transferred to the High Court before
 1 October 2014 shall, on and after that date, be continued in and dealt
 with by the High Court.
 
-# 139. Transfer of Section 17A(2) Supreme Court of Judicature Act Proceedings
+## 139. Transfer of Section 17A(2) Supreme Court of Judicature Act Proceedings
 
 (1) In relation to proceedings which may be heard and determined by the
 High Court pursuant to section 17A(2) of the Supreme Court of Judicature
@@ -170,7 +170,7 @@ proceedings commenced in or transferred to the High Court before 1
 October 2014 shall, on and after that date, be continued in and dealt
 with by the High Court.
 
-# 140. Documents to be filed at the Legal Registry of the Supreme Court
+## 140. Documents to be filed at the Legal Registry of the Supreme Court
 
 (1) All documents relating to family proceedings and section 17A(2)
 proceedings which are to be heard and determined by the High Court shall
@@ -207,7 +207,7 @@ Juvenile Court.
 proceedings that are filed at the Legal Registry shall bear the title
 “In the High Court of the Republic of Singapore”.
 
-# 141. Forms of orders, including <span style="font-style: italic;">*Mareva*</span> injunctions and search [orders](javascript:TextPopup\(this\))<span id="POPUP109003576" class="expandtext" style="display: none;"> Formerly known as “Anton Piller order”</span>
+## 141. Forms of orders, including <span style="font-style: italic;">*Mareva*</span> injunctions and search [orders](javascript:TextPopup\(this\))<span id="POPUP109003576" class="expandtext" style="display: none;"> Formerly known as “Anton Piller order”</span>
 
 (1) The format of all orders made in applications taken out in
 proceedings by way of writ of summons under Part X of the Women’s
@@ -222,7 +222,7 @@ Mareva injunction and a search order. The orders of Court for such
 applications shall contain the text set out in Forms 6, 7 and 8 of
 Appendix A of these Practice Directions.
 
-# 142. Appeals on ancillary matters in Divorce Proceedings, Custody Matters or Section 17A(2) Supreme Court of Judicature Act Proceedings from the Family Court to the High Court
+## 142. Appeals on ancillary matters in Divorce Proceedings, Custody Matters or Section 17A(2) Supreme Court of Judicature Act Proceedings from the Family Court to the High Court
 
 (1) Appeals against final orders made by the District Judge in chambers
 on ancillary matters in divorce proceedings under the Women’s Charter

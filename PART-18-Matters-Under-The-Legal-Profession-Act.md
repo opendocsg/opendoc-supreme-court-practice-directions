@@ -10,7 +10,7 @@ Profession Act
 
 137\. <span style="margin-left: 40px;">deleted</span>
 
-# 134. Applications for admission as an advocate and solicitor of the Supreme Court
+## 134. Applications for admission as an advocate and solicitor of the Supreme Court
 
 (1) The attention of applicants for admission as an advocate and
 solicitor of the Supreme Court is drawn to the filing and service
@@ -78,7 +78,7 @@ Law Society of Singapore and the Singapore Institute of Legal Education
 and file a Request to bring forward the hearing date of the abridgment
 application enclosing the relevant written consent.
 
-# 135. “Part-call” applications pursuant to section 32(3) of the Legal Profession Act
+## 135. “Part-call” applications pursuant to section 32(3) of the Legal Profession Act
 
 Section 32(3) of the Legal Profession Act allows “part-call”
 applications to be brought in respect of practice trainees who have
@@ -91,7 +91,7 @@ Singapore Institute of Legal Education at the hearing of a “part-call”
 application is not required, unless there are any objections to the
 application or if the Court directs otherwise.
 
-# 136\. Electronic applications for practising certificates
+## 136\. Electronic applications for practising certificates
 
 (1) Subject to section 26 of the Legal Profession Act, section 25 of the
 same requires all practising solicitors to have in force a valid

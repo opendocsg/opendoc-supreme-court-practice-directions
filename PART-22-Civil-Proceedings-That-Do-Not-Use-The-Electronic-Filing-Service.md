@@ -18,13 +18,13 @@ filed in the Legal Registry of the Supreme Court
 157\. File inspection and obtaining hard copy extracts or certified true
 copies of documents
 
-# 153. Application
+## 153. Application
 
 The directions contained in this Part shall apply to proceedings that do
 not require the use of the Electronic Filing Service under paragraph
 104(2).
 
-# 154. Information to be provided in cause papers and documents that are filed in the Legal Registry of the Supreme Court
+## 154. Information to be provided in cause papers and documents that are filed in the Legal Registry of the Supreme Court
 
 To facilitate the contacting of lawyers having conduct of an action or
 charge of a matter by members of the staff of the Supreme Court, the
@@ -46,7 +46,7 @@ Ref : (File reference of law firm.)
 The information is to be inserted as a block near the bottom right hand
 corner of the backing sheets.
 
-# 155. Form of affidavits
+## 155. Form of affidavits
 
 (1) In addition to the requirements set out in paragraph 57, affidavits
 shall be:
@@ -77,7 +77,7 @@ spine thermal binding (the plastic rings or spines to be red for
 plaintiffs/appellants, and blue for defendants/respondents) with a
 transparent plastic cover in front and at the back.
 
-# 156. Documentary exhibits to affidavits
+## 156. Documentary exhibits to affidavits
 
 Dividing sheets
 
@@ -96,7 +96,7 @@ flags shall run vertically down the right edge of the exhibits evenly
 spaced out so as not to overlap one another. The table of contents
 itself shall bear the top most flag, marked “TABLE”.
 
-# 157\. File inspection and obtaining hard copy extracts or certified true copies of documents
+## 157\. File inspection and obtaining hard copy extracts or certified true copies of documents
 
 (1) In order to inspect a case file in civil proceedings that do not use
 the Electronic Filing Service, the following procedure should be

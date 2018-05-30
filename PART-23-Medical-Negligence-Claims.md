@@ -2,7 +2,7 @@
 
 158\. Compliance with protocol
 
-# 158\. Compliance with protocol
+## 158\. Compliance with protocol
 
 (1) With effect from 1 July 2017, parties in medical negligence claims
 are to comply with the High Court Protocol for Medical Negligence Cases

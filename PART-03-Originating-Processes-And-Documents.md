@@ -47,7 +47,7 @@ document
 
 35A. Pleadings
 
-# 30. Originating Summonses
+## 30. Originating Summonses
 
 (1) This paragraph applies to originating summonses filed on or after 1
 January 2006.
@@ -145,7 +145,7 @@ under section 227A of the Companies Act (Cap. 50); and
 (q) applications under the Land Titles (Strata) Act (Cap. 158) in Order
 100, Rule 2.
 
-# 31. Identification numbers to be stated in cause papers
+## 31. Identification numbers to be stated in cause papers
 
 Parties named in the title of the documents
 
@@ -354,7 +354,7 @@ Non-compliance
 (10) Any document which does not comply with this paragraph may be
 rejected for filing by the Legal Registry of the Supreme Court.
 
-# 32. Personal service of processes and documents
+## 32. Personal service of processes and documents
 
 (1) The attention of solicitors is drawn to Order 62, Rule 2(1) of the
 Rules of Court, which provides:
@@ -402,7 +402,7 @@ Legal Registry will then instruct the process server to effect service.
 (6) Under no circumstances should any payment be made directly to the
 process server.
 
-# 33\. Substituted service
+## 33\. Substituted service
 
 (1) In any application for substituted service, the applicant should
 persuade the Court that the proposed mode of substituted service will
@@ -446,7 +446,7 @@ unknown) should only be considered as a last resort and should contain
 evidence that the person to be served is literate in the language of the
 newspaper in which the advertisement will be placed.
 
-# 34\. Endorsements on originating processes and other documents
+## 34\. Endorsements on originating processes and other documents
 
 (1) Where it is necessary to include endorsements on any document, the
 directions in this paragraph shall apply.
@@ -477,7 +477,7 @@ endorsements shall be prepared, and the document must be re-filed or
 re-issued, as the case may be. An example of this would be renewals of
 writs of summons.
 
-# 35. Amendment of documents
+## 35. Amendment of documents
 
 Application
 
@@ -586,7 +586,7 @@ Writ of Summons (Amendment No 1, pursuant to O 20, r 3)
 (11) The date of the electronic form shall reflect the date on which the
 document is amended.
 
-# 35A. Pleadings
+## 35A. Pleadings
 
 (1) The attention of advocates and solicitors is drawn to the pleading
 requirements laid down by the Court of Appeal in the case of

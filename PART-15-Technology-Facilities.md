@@ -9,7 +9,7 @@ Facilities
 
 123\. Fees
 
-# 120\. Use of the Technology Courts and the Mobile Infocomm Technology Facilities
+## 120\. Use of the Technology Courts and the Mobile Infocomm Technology Facilities
 
 (1) The Technology Courts and the Mobile Infocomm Technology Facilities
 ("MIT facilities") may, at the discretion of the Registrar and subject
@@ -25,7 +25,7 @@ services described in this Part at any time owing to the unavailability
 of staff or equipment or for any other reason.  The Registrar need not
 give any reasons for the refusal of such a request.
 
-# 121\. Applications to use the Technology Courts
+## 121\. Applications to use the Technology Courts
 
 (1) A request to use a Technology Court for the hearing of any matter
 before a Judge or Registrar must be made by filing a Request through the
@@ -173,7 +173,7 @@ least 3 working days before the first day fixed for the hearing.  It is
 the responsibility of the applicant to provide equipment that is
 compatible with the audio-visual system of the Technology Courts.
 
-# 122. Applications to use the Mobile Infocomm Technology Facilities
+## 122. Applications to use the Mobile Infocomm Technology Facilities
 
 (1) A request to use the MIT facilities for the hearing of any matter in
 open Court or in Chambers before a Judge or Registrar must be made by
@@ -216,7 +216,7 @@ Courtroom or chamber and it is the responsibility of the party
 requesting the videoconferencing to coordinate the booking and calling
 in from the remote site.
 
-# 120\. Use of the Technology Courts and the Mobile Infocomm Technology Facilities
+## 120\. Use of the Technology Courts and the Mobile Infocomm Technology Facilities
 
 (1) The Technology Courts and the Mobile Infocomm Technology Facilities
 ("MIT facilities") may, at the discretion of the Registrar and subject
@@ -232,7 +232,7 @@ services described in this Part at any time owing to the unavailability
 of staff or equipment or for any other reason.  The Registrar need not
 give any reasons for the refusal of such a request.
 
-# 123\. Fees
+## 123\. Fees
 
 (1) The fees for the use of the Technology Courts and the MIT facilities
 are set out in Appendix D of these Practice Directions.

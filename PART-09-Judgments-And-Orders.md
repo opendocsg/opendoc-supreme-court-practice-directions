@@ -19,7 +19,7 @@
 77A. Consent judgments or orders involving disposition or transfer of
 property
 
-# 75. Draft orders
+## 75. Draft orders
 
 (1) <span id="Sub-para_1"></span>Order 42, Rule 8(1) and (2) of the
 Rules of Court place the burden of approving the drafts of
@@ -92,7 +92,7 @@ the matter in dispute to be referred to the Judge for his determination.
 (6) Where the other party has no solicitor, the draft shall be submitted
 to the Registrar.
 
-# 76. Judgment in default of appearance or service of defence
+## 76. Judgment in default of appearance or service of defence
 
 (1) <span id="Sub-para_1"></span>The previous practice of applying for a
 search for appearance and obtaining a certificate of non-appearance
@@ -128,7 +128,7 @@ For all other cases, the Request for entry of default judgment
 electronic form shall be composed online through the Electronic Filing
 Service.
 
-# 77. Judgment Interest
+## 77. Judgment Interest
 
 Interest rates in default judgments
 
@@ -251,7 +251,7 @@ pay into Court shall be 5.33% per annum until further notice. Interest
 shall accrue for the period which the sum was in possession of the
 receiver.
 
-# 77A. Consent judgments or orders involving disposition or transfer of property
+## 77A. Consent judgments or orders involving disposition or transfer of property
 
 (1) In any request or application for a consent judgment or order
 involving any disposition or transfer of property, parties must provide

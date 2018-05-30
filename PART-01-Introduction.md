@@ -1,7 +1,4 @@
 # PART I: INTRODUCTION
-&nbsp;
-
-Proposed change 
 
 : 1\. Citation
 
@@ -25,22 +22,22 @@ Proposed change
 
 : 7A. Business of the Registry
 
-# 1\. Citation
+## 1\. Citation
 
 These Practice Directions may be cited as the Supreme Court Practice
 Directions.
 
-# 2\. Commencement
+## 2\. Commencement
 
 These Practice Directions shall come into effect on 1 January 2013.
 
-# 3\. Revocation of previous practice directions
+## 3\. Revocation of previous practice directions
 
 These Practice Directions are issued to consolidate all previous
 practice directions of the Supreme Court.  All previous editions of
 practice directions are revoked with effect from 1 January 2013.
 
-# 4\. Updating
+## 4\. Updating
 
 (1) Amendments to these Practice Directions will be done on a
 paragraph-for-paragraph basis.  These Practice Directions will be
@@ -52,7 +49,7 @@ noter-up page entitled 'Amendments'.
 citation shall be read to refer to the edition of that legislation
 currently in force.
 
-# 5\. Applicability of Practice Directions
+## 5\. Applicability of Practice Directions
 
 Practice Directions to apply to civil proceedings
 
@@ -99,18 +96,18 @@ following paragraphs of Parts I to XXI do not apply:
 
 and Part XXII applies.
 
-# 6. Forms
+## 6. Forms
 
 The forms in Appendix A of these Practice Directions shall be used where
 applicable, with such variations as the circumstances of the case may
 require.
 
-# 7\. Registrar’s Circulars
+## 7\. Registrar’s Circulars
 
 Registrar’s Circulars can be found at the Supreme Court web site at
 http://[www.supremecourt.gov.sg](http://www.supremecourt.gov.sg).
 
-# 7A. Business of the Registry
+## 7A. Business of the Registry
 
 (1) Pursuant to section 71(1) of the Supreme Court of Judicature Act and
 Order 60, Rule 1(1) of the Rules of Court, the Chief Justice has

@@ -30,7 +30,7 @@ the Public Trustee or the Director of Legal Aid
 
 99B. Costs Guidelines
 
-# 93\. Scope of certain paragraphs
+## 93\. Scope of certain paragraphs
 
 Paragraphs 94 and 96 apply to all taxations save where the entitlement
 to costs arose prior to 1 February 1992, in which case the bill should
@@ -41,7 +41,7 @@ avoidance of doubt, the directions contained in this part, save for
 paragraph 98, do not apply to taxations governed by the Bankruptcy
 (Costs) Rules (Cap. 20, Rule 2).
 
-# 94\.  Form of bill of costs
+## 94\.  Form of bill of costs
 
 The attention of solicitors is drawn to Rules 24 and 31 and Appendix 1
 of Order 59 of the Rules of Court. In addition, solicitors are to abide
@@ -251,7 +251,7 @@ as a separate item in the Registrar’s certificate. Solicitors are
 responsible for ensuring that the GST figures accurately reflect the
 sums allowed by the Registrar.
 
-# 95\.  Electronic filing of bills of costs for taxation
+## 95\.  Electronic filing of bills of costs for taxation
 
 (1) Each bill of costs submitted to the Court through the Electronic
 Filing Service must:
@@ -286,7 +286,7 @@ costs filed before 1 January 2013. For all other cases, the Registrar’s
 certificate of costs shall be composed online through the Electronic
 Filing Service.
 
-# 96\.  Objections
+## 96\.  Objections
 
 (1) Any objections in principle or as to quantum of the items claimed in
 a bill of costs must be indicated by the filing and service of a Notice
@@ -302,7 +302,7 @@ Electronic Filing Service to compose the Notice of Dispute summary
 includes the amounts of costs to be awarded under Sections 1, 2 and 3 of
 the bill of costs according to the respondent.
 
-# 97\.  Amount allowed as disbursements on account of use of Electronic Filing Service
+## 97\.  Amount allowed as disbursements on account of use of Electronic Filing Service
 
 (1) If a document is filed using the Electronic Filing Service, $0.40
 for each page of the document thus filed shall be allowed as costs
@@ -317,7 +317,7 @@ where the Court fixes a gross sum in lieu of taxation.
 (3) This paragraph shall not apply to any document filed through the
 service bureau.
 
-# 98\.  Taxations involving the Official Assignee, the Official Receiver, the Public Trustee or the Director of Legal Aid
+## 98\.  Taxations involving the Official Assignee, the Official Receiver, the Public Trustee or the Director of Legal Aid
 
 (1) The directions contained in this paragraph shall be followed in
 respect of all taxations in which the Official Assignee, the Official
@@ -395,7 +395,7 @@ Trustee may attend at the taxation if he so wishes, and shall attend if
 an express direction is made by the taxing Registrar that he attend in
 relation to a particular bill of costs.
 
-# 99\. Fixing costs <span style="font-style: italic;">*in lieu*</span> of ordering taxation
+## 99\. Fixing costs <span style="font-style: italic;">*in lieu*</span> of ordering taxation
 
 (1) The Court may, where appropriate, fix costs at the end of a hearing
 or trial in lieu of ordering taxation. Counsel should therefore be
@@ -408,7 +408,7 @@ been ordered to be in the cause, or on hearing applications for
 dismissal or striking out pursuant to an unless order, and be prepared
 to make submissions accordingly.
 
-# 99A. Costs Scheduling
+## 99A. Costs Scheduling
 
 <span style="font-size: 10.0pt; font-family: Verdana, sans-serif;">(1)
 The directions contained in this paragraph shall apply to:</span>
@@ -450,7 +450,7 @@ presented.</span>
 The costs schedule for the proceedings described in sub-paragraph 1(c)
 shall be filed together with the parties’ skeletal arguments.</span>
 
-# 99B. Costs Guidelines
+## 99B. Costs Guidelines
 
 (1) Solicitors making submissions on party-and-party costs (whether at
 taxation hearings or otherwise) or preparing their costs schedules

@@ -29,13 +29,13 @@ summonses
 43\. Applications for discovery or interrogatories against network
 service providers
 
-# 36. Distribution of applications
+## 36. Distribution of applications
 
 All applications in Chambers (including summonses and summonses for
 directions) shall be filed without specifying whether the application is
 to be heard before a Judge in person or the Registrar.
 
-# 37\. Filing of summonses
+## 37\. Filing of summonses
 
 All interlocutory applications to be made by summons
 
@@ -67,7 +67,7 @@ Service account. Where the summons is filed through the service bureau,
 it may be collected at the service bureau. Enquiries by telephone will
 not be entertained.
 
-# 37A. Filing of Distinct Applications in Separate Summonses
+## 37A. Filing of Distinct Applications in Separate Summonses
 
 (1) Where a party intends to make more than one distinct substantive
 application in a cause or matter, he must file each application in a
@@ -103,7 +103,7 @@ direct the party to file separate summonses before proceeding with the
 hearing or proceed with the hearing on the solicitor’s undertaking to
 file further summonses for the distinct applications.
 
-# 38. Summonses to be heard in open Court
+## 38. Summonses to be heard in open Court
 
 (1) Order 32, Rule 11 of the Rules of Court provides that all summonses
 shall be heard in Chambers, subject to any provisions in the Rules of
@@ -177,7 +177,7 @@ struck off the roll under section 82A(10) of the Legal Profession Act
 (m) applications for an order that a solicitor be struck off the roll,
 etc. under section 98(1) of the Legal Profession Act.
 
-# 39\. Summonses for directions
+## 39\. Summonses for directions
 
 (1) The principal intention of the summons for directions is to ensure
 that there is a thorough stocktaking of the issues in an action and the
@@ -191,7 +191,7 @@ full discovery on either side.
 (3) Parties should also make all interlocutory applications at the
 hearing of the summons for directions.
 
-# 40\. Transfer of proceedings to the State Courts
+## 40\. Transfer of proceedings to the State Courts
 
 Where a claim in the High Court which may have initially exceeded
 $250,000 is subsequently reduced below this amount, solicitors should
@@ -224,7 +224,7 @@ transferring the proceedings to the State Courts, if enforcement
 overseas is  intended of any judgment obtained in the High Court under
 any enforcement arrangements currently in force.
 
-# 41\. <span style="font-style: italic;">*Ex parte*</span> applications for injunctions
+## 41\. <span style="font-style: italic;">*Ex parte*</span> applications for injunctions
 
 (1) <span id="Sub-para_1"></span>Order 29, Rule 1 of the Rules of Court
 provides that an application for the grant of an injunction may be made
@@ -273,7 +273,7 @@ However, in such cases, the reasons for not following the directions
 should be clearly set out in the affidavit prepared in support of the
 <span style="font-style: italic;">*ex parte*</span> application.
 
-# 42\. <span style="font-style: italic;">*Mareva*</span> injunctions and search [orders](javascript:TextPopup\(this\))
+## 42\. <span style="font-style: italic;">*Mareva*</span> injunctions and search [orders](javascript:TextPopup\(this\))
 
 <div id="POPUP337348730" class="droptext" style="display: none;">
 
@@ -355,7 +355,7 @@ should be a woman.
 (c) Where the nature of the items removed under the order makes this
 appropriate, the applicant will be required to insure them.
 
-# 42A. Documents in support of <span style="font-style: italic;">*ex parte*</span> applications for injunctions (including <span style="font-style: italic;">*Mareva*</span> injunctions) and search orders
+## 42A. Documents in support of <span style="font-style: italic;">*ex parte*</span> applications for injunctions (including <span style="font-style: italic;">*Mareva*</span> injunctions) and search orders
 
 (1) Without prejudice to the requirements stated in Paragraphs 41 and 42
 of these Practice Directions, in order to assist the Court hearing
@@ -409,7 +409,7 @@ the Court and may order such a note to be served together with the court
 documents on any opponent who is not present at the hearing or within a
 reasonable time after the service of the court documents.
 
-# 43\. Applications for discovery or interrogatories against network service providers
+## 43\. Applications for discovery or interrogatories against network service providers
 
 (1) This paragraph applies to applications made under Order 24, Rule
 6(1) or Order 26A, Rule 1(1) of the Rules of Court:

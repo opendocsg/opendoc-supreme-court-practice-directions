@@ -8,7 +8,7 @@
 
 80A. Examination of Judgment Debtor
 
-# 78. Filing of writs of execution
+## 78. Filing of writs of execution
 
 (1) An application for a writ of execution shall be made by way of
 filing a writ of execution in Form 82, 83, 84 or 85 of Appendix A to the
@@ -18,7 +18,7 @@ sealed by an officer of the Registry pursuant to Order 46, Rule 4.
 (2) The previous practice of filing a Request to issue a writ of
 execution is discontinued.
 
-# 79\. Requests for the Sheriff’s attendance
+## 79\. Requests for the Sheriff’s attendance
 
 (1) Where any party requires the Sheriff or his bailiffs to:
 
@@ -40,7 +40,7 @@ attendance made in any other manner will not be acceded to.
 payable in respect of any attendance by the Sheriff or his bailiffs
 pursuant to a Request made in Form 11.
 
-# 80. Sale of immovable property
+## 80. Sale of immovable property
 
 (1) If an execution creditor wishes to effect the sale of immovable
 property seized under a writ of seizure and sale, he shall file the
@@ -90,7 +90,7 @@ accordance with the Sheriff’s directions, and shall be entitled to
 recover his legal fees and disbursements from the proceeds of sale as
 sheriff’s expenses.
 
-# 80A. Examination of Judgment Debtor
+## 80A. Examination of Judgment Debtor
 
 (1) A questionnaire in the recommended format as set out in Form 11A or
 11B of Appendix A of these Practice Directions (whichever is

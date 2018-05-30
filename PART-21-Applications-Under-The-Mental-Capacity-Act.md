@@ -27,7 +27,7 @@ at the Supreme Court Building
 
 • Discharge of security
 
-# 147. Transfer of mental capacity proceedings to District Court
+## 147. Transfer of mental capacity proceedings to District Court
 
 (1) The Supreme Court of Judicature (Transfer of Mental Capacity
 Proceedings to District Court) Order 2010, made under section 28A of the
@@ -53,7 +53,7 @@ Family Justice Courts. Notwithstanding this, any proceedings under the
 MCA commenced in the High Court before 1 October 2014 shall, on and
 after that date, be continued in and dealt with by the High Court.
 
-# 148. Documents to be filed at the Legal Registry of the Supreme Court at the Supreme Court Building
+## 148. Documents to be filed at the Legal Registry of the Supreme Court at the Supreme Court Building
 
 (1) All documents relating to mental capacity proceedings which are to
 be heard and determined by the High Court shall be filed at the Legal
@@ -108,7 +108,7 @@ will be residing if the property were sold.
 supporting documents, such as the consents of all relevant family
 members and a property valuation report.
 
-# 149. Doctor's affidavit exhibiting medical report
+## 149. Doctor's affidavit exhibiting medical report
 
 Affidavit by doctor required
 
@@ -145,7 +145,7 @@ medical expenses in the foreseeable future; and
 (d) be current and should be made not more than 6 months before the
  date of the hearing of the application.
 
-# 150. Notification
+## 150. Notification
 
 (1) The definition of “P” in Order 99, Rule 1 of the Rules of Court
 shall be applicable in these Practice Directions. “P” means a person who
@@ -234,7 +234,7 @@ plaintiff or applicant.
 (12) The Court may, on its own motion, dispense with the notification of
 P.
 
-# 151. Application subsequent to the appointment of deputy
+## 151. Application subsequent to the appointment of deputy
 
 (1) An application to vary an order made in mental capacity proceedings
 shall be made by way of summons supported by affidavit and served on
@@ -248,7 +248,7 @@ every defendant. If such an application is filed 6 months or less from
 the date of the order, the service on every party to the proceedings may
 be by way of ordinary service.
 
-# 152. Where P ceases to lack capacity or dies
+## 152. Where P ceases to lack capacity or dies
 
 (1) Where P ceases to lack capacity or dies, the following steps in
 sub-paragraphs (2) to (7) may, where relevant, need to be taken to

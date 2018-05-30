@@ -43,7 +43,7 @@ been inadvertently allowed
 
 55\. Costs
 
-# 44\. Introduction
+## 44\. Introduction
 
 (1) This Part provides a framework for proportionate and economical
 discovery, inspection and supply of electronic copies of electronically
@@ -118,7 +118,7 @@ extend to a forensic examination of the unallocated file space or file
 slack of the electronic medium or recording device using computer
 forensic tools and/or techniques.
 
-# 45\. Electronic discovery plans during general discovery
+## 45\. Electronic discovery plans during general discovery
 
 (1) Within two weeks after the close of pleadings, parties are
 encouraged to collaborate in good faith and agree on issues relating to
@@ -152,7 +152,7 @@ draft electronic discovery plan and must be supported by affidavit
 providing an account of the attempts made by parties to collaborate in
 good faith to agree on an electronic discovery plan.
 
-# 46\. Discovery of metadata information
+## 46\. Discovery of metadata information
 
 (1) Internally stored metadata information shall be discoverable as part
 of the electronically stored document in which it is embedded.
@@ -170,7 +170,7 @@ electronically stored documents must be supported by an affidavit
 showing that a request for such externally stored metadata information
 had been made previously.
 
-# 47\. Reasonable searches for electronically stored documents
+## 47\. Reasonable searches for electronically stored documents
 
 (1) A class of electronically stored documents may be described by
 specifying or describing a search term or phrase to be used in a search
@@ -236,7 +236,7 @@ purpose of asserting privilege must, unless otherwise agreed by parties
 or ordered by the Court, be concluded within fourteen (14) days after
 the search results are made available to the party giving discovery.
 
-# 48\. Proportionality and economy
+## 48\. Proportionality and economy
 
 Order 24, Rules 7 and 13 of the Rules of Court states that an order for
 discovery and production of documents for inspection shall not be made
@@ -271,7 +271,7 @@ electronically stored documents sought from other sources; and
 stored document or class of electronically stored documents which are
 likely to be located to the issues in dispute.
 
-# 49\. Form of list
+## 49\. Form of list
 
 (1) The following matters shall be included in any list of documents
 made pursuant to the giving of discovery in accordance with this Part in
@@ -323,7 +323,7 @@ text searchable and structured format. In the absence of parties'
 agreement, this index or load file shall be provided in a delimited text
 file in the Comma Separated Value (or 'CSV') file format.
 
-# 50\. Inspection of electronically stored documents
+## 50\. Inspection of electronically stored documents
 
 (1) A party required to produce electronically stored documents for
 inspection under Order 24 of the Rules of Court shall provide reasonable
@@ -360,7 +360,7 @@ must, unless otherwise ordered by the Court, be concluded within
 fourteen (14) days after the search results are made available to the
 party producing the electronic media or recording device.
 
-# 51\. Forensic inspection of electronic media or recording devices
+## 51\. Forensic inspection of electronic media or recording devices
 
 (1) No request or application for the forensic inspection of any
 electronic medium or recording device shall be made unless discovery of
@@ -395,7 +395,7 @@ Court, be concluded within fourteen (14) days after the search results
 are made available to the party producing the electronic media or
 recording device.
 
-# 52\. Supply of copies of electronically stored documents
+## 52\. Supply of copies of electronically stored documents
 
 (1) Copies of discoverable electronically stored documents shall
 generally be supplied in the native format in which the requested
@@ -441,7 +441,7 @@ Applications for the supply of copies
 stored documents shall specify the format and manner in which copies of
 such electronic documents are to be supplied.
 
-# 53\. Discovery by the supply of copies <span style="font-style: italic;">*in lieu*</span> of inspection
+## 53\. Discovery by the supply of copies <span style="font-style: italic;">*in lieu*</span> of inspection
 
 (1) Where the use of technology in the management of documents and
 conduct of the proceeding will facilitate the just, expeditious and
@@ -508,14 +508,14 @@ An order may be made under this paragraph in proceedings where parties
 have identified discoverable documents pursuant to the procedure set out
 in Order 24 of the Rules of Court.
 
-# 54\. Restriction on use of privileged document, inspection of which has been inadvertently allowed
+## 54\. Restriction on use of privileged document, inspection of which has been inadvertently allowed
 
 Order 24, Rule 19 of the Rules of Court applies to the giving of
 discovery or inspection of electronically stored documents, including
 the supply of copies, as it would to the giving of discovery or
 inspection of any other document.
 
-# 55\. Costs
+## 55\. Costs
 
 (1) Save for orders made in respect of third party or pre-action
 discovery, the costs of complying with an order for discovery or

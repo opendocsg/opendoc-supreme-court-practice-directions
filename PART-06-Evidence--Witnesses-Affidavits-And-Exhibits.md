@@ -37,7 +37,7 @@ illiterate in English
 
 63A. Lead Counsel’s Statement on Trial Proceedings
 
-# 56\. Witnesses
+## 56\. Witnesses
 
 Issuance of subpoenas
 
@@ -55,7 +55,7 @@ Release of witness upon completion of evidence
 Court upon completion of his evidence and it is the duty of counsel to
 apply to the Court if counsel desires the witness to remain.
 
-# 57. Form of affidavits
+## 57. Form of affidavits
 
 (1) Affidavits shall have a blank margin not less than 35mm wide on all
 4 sides of the page. They shall be printed or typed and double-spaced.
@@ -111,7 +111,7 @@ the first page of the affidavit the entered number of the summons.
 (7) Hard copies of affidavits may be printed on one side or both sides
 of each page.
 
-# 58. Non-documentary exhibits to affidavits
+## 58. Non-documentary exhibits to affidavits
 
 (1) Non-documentary exhibits (e.g., tapes, samples of merchandise, etc.)
 shall be clearly marked with the exhibit mark in such a manner that
@@ -135,7 +135,7 @@ a sealed transparent container and tagged or labelled as aforesaid. An
 enlarged photograph showing the relevant characteristics of such
 exhibits shall, where applicable, be exhibited in the affidavit.
 
-# 59. Documentary exhibits to affidavits
+## 59. Documentary exhibits to affidavits
 
 (1) Every page of every exhibit must be fully and clearly legible. Where
 necessary, magnified copies of the relevant pages should be inserted in
@@ -235,7 +235,7 @@ chronological order, beginning with the earliest at the top, paginated
 in accordance with sub-paragraph (3) above, and the exhibit must have a
 front page showing the table of contents of the items in the exhibit.
 
-# 60\. Swearing or affirming of documents by deponents who are blind or illiterate in English
+## 60\. Swearing or affirming of documents by deponents who are blind or illiterate in English
 
 (1) <span id="Sub-para_1"></span>Rule 8 of the Commissioners for Oaths
 Rules (Cap. 322, Rule 3) restricts advocates and solicitors who are
@@ -279,13 +279,13 @@ Interpreter may be contacted at the following telephone numbers:
 
 (c) Head Interpreter (Malay) - 6332 3970.
 
-# 61. Effect of non-compliance
+## 61. Effect of non-compliance
 
 Any affidavit or exhibit which does not comply with the directions
 contained in this Part will be liable to be rejected by the Court and
 made the subject of an order for costs.
 
-# 62.Objections to the contents of affidavits of evidence-in-chief
+## 62.Objections to the contents of affidavits of evidence-in-chief
 
 (1) If, on an application for directions under Order 25, Rule 3 or Order
 37, Rule 1 of the Rules of Court or otherwise, orders are made
@@ -312,7 +312,7 @@ matter, the application for the adjudication will be adjourned to be
 dealt with at the trial or hearing of the cause or matter, and the
 applicant may be ordered to pay the costs of the adjournment.
 
-# 63. Order 41 of the Rules of Court
+## 63. Order 41 of the Rules of Court
 
 (1) For the avoidance of doubt, the provisions of Order 41 of the Rules
 of Court shall continue to apply.
@@ -335,7 +335,7 @@ employer, if any.
 Non-compliance with any of the requirements of Order 41, Rule 1(4) may
 result in an order of costs being made against the solicitor personally.
 
-# 63A. Lead Counsel’s Statement on Trial Proceedings
+## 63A. Lead Counsel’s Statement on Trial Proceedings
 
 (1) For every case proceeding to trial in the High Court, each party
 shall file and serve a Lead Counsel’s Statement in Form 9A of Appendix A

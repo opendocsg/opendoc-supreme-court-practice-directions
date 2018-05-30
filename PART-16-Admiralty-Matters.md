@@ -16,7 +16,7 @@
 
 130A. Applications for appraisement and sale
 
-# 124\. Arrest of ships by the Sheriff
+## 124\. Arrest of ships by the Sheriff
 
 (1) The Sheriff will apply to a Judge for an omnibus order in every case
 where a ship or vessel is arrested, giving the Sheriff discretion to
@@ -55,7 +55,7 @@ arrest of a vessel, the Sheriff may require the solicitors representing
 arresting parties to deposit with the Sheriff a sum of between $5,000 to
 $10,000. Such deposit is in addition to the usual undertaking..
 
-# 125\. Form of undertaking
+## 125\. Form of undertaking
 
 In order to ensure that there is no undue delay in the issuance and
 execution of warrants of arrest and release as well as commissions for
@@ -63,7 +63,7 @@ appraisement and sale, members of the Bar are requested to prepare the
 undertaking in accordance with Form 24 of Appendix A of these Practice
 Directions.
 
-# 126\. Release of vessel lying under arrest
+## 126\. Release of vessel lying under arrest
 
 (1) If the arresting party requires the Sheriff to attend at the port in
 which a vessel is lying under arrest for the purpose of releasing the
@@ -75,7 +75,7 @@ attendance made in any other manner will not be acceded to.
 (2) The fees prescribed by Appendix B to the Rules of Court will be
 payable in respect of any attendance by the Sheriff.
 
-# 127\. Filing of supporting documents
+## 127\. Filing of supporting documents
 
 The attention of solicitors is drawn to paragraph 9 which sets out the
 opening hours of the Legal Registry of Supreme Court. Solicitors shall
@@ -84,7 +84,7 @@ of the Legal Registry to enable execution to be effected. The directions
 in paragraph 11 apply when an urgent application has to be made after
 the Legal Registry’s opening hours.
 
-# 128. Hard copies at hearing of admiralty matters
+## 128. Hard copies at hearing of admiralty matters
 
 Order 70, Rule 26 of the Rules of Court provides that the party by whom
 an admiralty action is set down for trial must file any preliminary act
@@ -93,7 +93,7 @@ than 7 days before the trial. In addition to this rule, the party must
 tender 3 hard copies of the preliminary act(s) to the Legal Registry of
 the Supreme Court.
 
-# 129. Searches for caveats against arrest or release
+## 129. Searches for caveats against arrest or release
 
 Order 70, Rule 4(2)(b) of the Rules of Court provides that the party
 applying for a warrant of arrest to be issued must procure a search to
@@ -105,7 +105,7 @@ provide documentation evidencing a search for caveats against arrest or
 release, as the case may be, reflecting a search done no more than 15
 minutes before the hearing of the application.
 
-# 130. Registration of service clerks for admiralty matters
+## 130. Registration of service clerks for admiralty matters
 
 (1) Pursuant to Order 70, Rule 7(3) and Rule 9(2) of the Rules of Court,
 service of a writ or execution of a warrant of arrest may be effected by
@@ -128,7 +128,7 @@ processes and documents.</span>
 mutatis mutandis, apply to the assignment of the Sheriff to effect
 service of a writ or execute a warrant of arrest.
 
-# 130A. Applications for appraisement and sale
+## 130A. Applications for appraisement and sale
 
 (1) Any party applying for the appraisement and sale of any property in
 an admiralty action shall include a prayer to the Court to appoint one

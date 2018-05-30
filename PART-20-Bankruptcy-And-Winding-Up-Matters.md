@@ -19,7 +19,7 @@ applications
 
 • Timeline for tendering documents
 
-# 143. Bankruptcy applications
+## 143. Bankruptcy applications
 
 The following arrangements will apply to hearings of bankruptcy matters:
 
@@ -41,7 +41,7 @@ Act.
 substituted service in bankruptcy proceedings will be dealt with by the
 Duty Registrar.
 
-# 144. Applications to set aside statutory demands made under the Bankruptcy Rules
+## 144. Applications to set aside statutory demands made under the Bankruptcy Rules
 
 (1) Rule 97 of the Bankruptcy Rules allows debtors to apply to set aside
 statutory demands within 14 days from the date of service; or, where the
@@ -64,7 +64,7 @@ the debt or debts specified in the statutory demand; or
 the Court will normally set aside the statutory demand if, in its
 opinion, on the evidence there is a genuine triable issue.
 
-# 145. Judicial Management and Winding Up applications under the Companies Act
+## 145. Judicial Management and Winding Up applications under the Companies Act
 
 After a winding up application has been filed, the applicant or his
 solicitor should file the necessary documents using the checklist
@@ -75,7 +75,7 @@ before the Duty Registrar in compliance with Rule 32 of the Companies
 (Winding Up) Rules.  This requirement shall similarly apply to judicial
 management applications under the Companies Act.
 
-# 146. Documents for use in open Court trials of contested winding-up applications
+## 146. Documents for use in open Court trials of contested winding-up applications
 
 (1) This paragraph shall apply to trials of contested winding-up
 applications in open Court.

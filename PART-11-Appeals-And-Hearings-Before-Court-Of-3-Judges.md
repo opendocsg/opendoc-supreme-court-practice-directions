@@ -84,7 +84,7 @@ Court, Court of Appeal and Court of 3 Judges
 
 92\. Further arguments before the Court of Appeal
 
-# 81\. Application of this Part
+## 81\. Application of this Part
 
 (1) The directions in this Part shall, subject to sub-paragraph (2)
 below, <span style="font-style: italic;">*mutatis mutandis*</span>,
@@ -100,7 +100,7 @@ the parties’ written submissions, the record of proceedings, the
 originating summons and all affidavits filed in the originating summons
 shall be tendered.
 
-# 82. Requests for further arguments before the Judge or Registrar
+## 82. Requests for further arguments before the Judge or Registrar
 
 (1) All requests for further arguments shall be made by way of Request
 filed through the Electronic Filing Service and should, either in the
@@ -123,7 +123,7 @@ authorities; and
 
 (3) All requests should be addressed to the Registrar.
 
-# 83. Civil appeals before the High Court from the State Courts
+## 83. Civil appeals before the High Court from the State Courts
 
 Appeals under Order 55D of the Rules of Court
 
@@ -146,7 +146,7 @@ law, and subject to any further directions made by the Court, the
 Registrar hereby directs that appeals to the High Court from the
 Employment Claims Tribunal shall be heard in open Court.
 
-# 84. Civil appeals before the High Court from tribunal or person under Order 55 of the Rules of Court
+## 84. Civil appeals before the High Court from tribunal or person under Order 55 of the Rules of Court
 
 (1) Order 55, Rule 6(4) of the Rules of Court states that it is the
 appellant's duty to apply to the Judge or other person presiding at the
@@ -166,7 +166,7 @@ appeal, to assist the Judge of the High Court.
 (3) No affidavits shall be filed in respect of the appeal without the
 leave of court.
 
-# 85\. Whether an appeal to the Court of Appeal is to be heard by a 2 or 3 Judge Court of Appeal
+## 85\. Whether an appeal to the Court of Appeal is to be heard by a 2 or 3 Judge Court of Appeal
 
 (1) The time for an appellant to file the record of appeal, the Case and
 the core bundle of documents for hearing before a Court of Appeal is 2
@@ -194,7 +194,7 @@ the determination of the Judge of first instance must, within 7 days of
 the service of the notice prescribed under Order 57, Rule 5(2) inform
 the Legal Registry by filing a Request
 
-# 85A. Whether an appeal to the Court of Appeal is to be heard by 5 or any greater uneven number of Judges
+## 85A. Whether an appeal to the Court of Appeal is to be heard by 5 or any greater uneven number of Judges
 
 Pursuant to section 30(1) of the Supreme Court of Judicature Act (Cap.
 322) and notwithstanding any determination that may be made under
@@ -203,7 +203,7 @@ may determine, as and when appropriate, whether to convene a panel of 5
 or any greater uneven number of Judges. Such determination of the Court
 of Appeal will be final.
 
-# 85B. Leave of the Court of Appeal to receive further affidavits in relation to an application to strike out a notice of appeal
+## 85B. Leave of the Court of Appeal to receive further affidavits in relation to an application to strike out a notice of appeal
 
 (1) Under Order 57, Rule 16, a respondent may make an application to
 strike out a notice of appeal within the time frame provided in the
@@ -212,7 +212,7 @@ pursuant to Order 57, Rule 16(13), may be sought by way of
 correspondence to the Court of Appeal, or an appointment before a Judge
 of Appeal in a case management conference.
 
-# 86. Quantum of security to be provided under Order 57, Rule 3(3) of the Rules of Court
+## 86. Quantum of security to be provided under Order 57, Rule 3(3) of the Rules of Court
 
 (1) Order 57, Rule 3(3) of the Rules of Court provides:
 
@@ -233,7 +233,7 @@ the appellant by way of security for the respondent's costs of an appeal
 to the Court of Appeal at $15,000 for appeals against interlocutory
 orders and $20,000 for all other appeals.
 
-# 86A. Appeals Information Sheet for civil appeals to the Court of Appeal
+## 86A. Appeals Information Sheet for civil appeals to the Court of Appeal
 
 (1) The Chief Justice has directed that for civil appeals to the Court
 of Appeal, parties shall file in court and serve on every other party to
@@ -245,7 +245,7 @@ are filed and served.
 (2) Where appropriate, parties or their solicitors may be required to
 attend in person to take directions on the conduct of the appeal.
 
-# 87. Filing of records of appeal, core bundles and written Cases for civil appeals under Order 57, Rules 9 and 9A of the Rules of Court
+## 87. Filing of records of appeal, core bundles and written Cases for civil appeals under Order 57, Rules 9 and 9A of the Rules of Court
 
 (1) Under Order 57, Rule 9(1) of the Rules of Court, the appellant is
 required to file the record of appeal, the Appellant’s Case and the core
@@ -338,7 +338,7 @@ Legal Registry staff will state on the top right hand corner of the
 bundle the exact amount of Court fees payable under Order 90B. The
 parties should then pay the Court fees as indicated.
 
-# 87A. Request for leave to exceed page limit for Appellant’s Case, Respondent’s Case and Appellant's Reply for civil appeals to the Court of Appeal
+## 87A. Request for leave to exceed page limit for Appellant’s Case, Respondent’s Case and Appellant's Reply for civil appeals to the Court of Appeal
 
 (1) Parties shall apply for leave of the Court of Appeal to exceed the
 page limit for the Appellant’s Case, the Respondent’s Case or the
@@ -354,7 +354,7 @@ the page limit for the Appellant’s Reply shall be filed at least 7 days
 before the date the Appellant’s Reply is due to be filed. Applications
 filed out of time will be rejected.
 
-# 87B. Request for waiver or deferment of court fees
+## 87B. Request for waiver or deferment of court fees
 
 <span style="font-size: 10.0pt; line-height: 115%; font-family: Verdana, sans-serif; mso-fareast-font-family: Calibri; mso-bidi-font-family: &#39;Times New Roman&#39;; mso-ansi-language: EN-GB; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA;">A
 request for the waiver or deferment of the whole or any part of any
@@ -363,7 +363,7 @@ supported by an affidavit in Form 14A of Appendix A of these Practice
 Directions. The affidavit in Form 14A must verify Form 14B of Appendix A
 of these Practice Directions.</span>
 
-# 88. Hard copies and soft copies for hearing of civil appeals before the Court of Appeal under Order 57 of the Rules of Court
+## 88. Hard copies and soft copies for hearing of civil appeals before the Court of Appeal under Order 57 of the Rules of Court
 
 (1) In order to assist the Judges of the Court of Appeal, the appellant
 and the respondent are required to tender hard copies of the Appellant’s
@@ -423,7 +423,7 @@ For example -
 of the proceedings. If there is more than one CD-ROM, the CD-ROMs shall
 be numbered sequentially.
 
-# 89. Preparation of appeal records in civil appeals to the Court of Appeal
+## 89. Preparation of appeal records in civil appeals to the Court of Appeal
 
 Arrangement
 
@@ -576,7 +576,7 @@ of the opinion that costs have been wasted by the inclusion of
 superfluous or irrelevant documents. Documents shall not appear more
 than once in the records, even if exhibited to different affidavits.
 
-# 89A. Bundle of documents filed with leave of the Court of Appeal
+## 89A. Bundle of documents filed with leave of the Court of Appeal
 
 (1) Where leave is granted by the Court of Appeal for the filing of any
 bundle of documents under Order 57, Rule 9A(23), the party shall file
@@ -599,7 +599,7 @@ Court fees as indicated.
 in relation to the preparation of the bundles shall, with the necessary
 modifications, apply to the bundle of documents.
 
-# 90. Skeletal arguments for appeals before the High Court, Court of Appeal and Court of 3 Judges
+## 90. Skeletal arguments for appeals before the High Court, Court of Appeal and Court of 3 Judges
 
 (1) For the avoidance of doubt, this paragraph applies to:
 
@@ -707,7 +707,7 @@ or appeals therefrom, brought under any statute, including the Legal
 Profession Act (Cap. 161) and the Medical Registration Act (Cap. 174)
 which are heard by a Court of 3 Judges.
 
-# 91\. Use of presentation slides for all proceedings before the High Court, Court of Appeal and Court of 3 Judges
+## 91\. Use of presentation slides for all proceedings before the High Court, Court of Appeal and Court of 3 Judges
 
 Subject to approval by the Court, parties may utilise presentation
 slides to assist in oral submissions before the Court. Presentation
@@ -742,7 +742,7 @@ presentation slides. Care should be taken to ensure that the size and
 location of corporate logos do not distract from the substance of the
 presentation slides.
 
-# 92. Further arguments before the Court of Appeal
+## 92. Further arguments before the Court of Appeal
 
 (1) From time to time, requests are received for further arguments to be
 presented before the Court of Appeal after the conclusion of the hearing

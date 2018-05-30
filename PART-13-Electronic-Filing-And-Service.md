@@ -37,7 +37,7 @@ Electronic Filing Service
 115. Responsibility for accuracy and completeness of information
 submitted using the Electronic Filing Service
 
-# 100\.  Application
+## 100\.  Application
 
 (1) The directions in this Part apply to the filing, service, delivery
 and conveyance of documents in civil proceedings under Order 63A of the
@@ -47,7 +47,7 @@ Rules of Court.
 this Part, they shall have the same meaning as defined in Order 63A,
 Rule 1, unless otherwise specified.
 
-# 101\.  Establishment of Electronic Filing Service and appointment of network service provider
+## 101\.  Establishment of Electronic Filing Service and appointment of network service provider
 
 In exercise of the powers conferred by Order 63A, Rules 2 and 3 of the
 Rules of Court, the Registrar, with the approval of the Chief Justice,
@@ -59,7 +59,7 @@ Litigation Systems Committee of the Singapore Academy of Law as its
 superintendent pursuant to Rule 13A(2) of the Singapore Academy of Law
 Rules (Cap. 294A, Rule 1).
 
-# 102\.  Appointment of agent to establish service bureau
+## 102\.  Appointment of agent to establish service bureau
 
 Pursuant to Order 63A, Rule 4 of the Rules of Court, the Registrar
 appoints CrimsonLogic Pte Ltd as an agent to establish a service bureau
@@ -68,7 +68,7 @@ Systems Committee of the Singapore Academy of Law as its superintendent
 pursuant to Rule 13A(2) of the Singapore Academy of Law Rules (Cap.
 294A, Rule 1).
 
-# 103\. Registered users and authorised users
+## 103\. Registered users and authorised users
 
 (1) Under Order 63A of the Rules of Court, any entity may apply to be a
 registered user. For the purpose of Order 63A, the identification code
@@ -91,7 +91,7 @@ subscription to the Electronic Filing Service; and
 (iii) two sets of GIRO application forms for the electronic payment of
 filing and hearing fees, and electronic filing and other charges.
 
-# 104\.  Documents which must be filed, served, delivered or otherwise conveyed using the Electronic Filing Service
+## 104\.  Documents which must be filed, served, delivered or otherwise conveyed using the Electronic Filing Service
 
 (1) Pursuant to Order 63A, Rules 1 and 8 of the Rules of Court, the
 Registrar hereby specifies that all documents to be filed with, served
@@ -166,13 +166,13 @@ file, serve, deliver or convey any document at the High Court using
 Electronic Filing Service if its filing, service, delivery or conveyance
 is not required under Order 55D.
 
-# 105\. Certificate of Service
+## 105\. Certificate of Service
 
 Where documents are served using the Electronic Filing Service, a
 Certificate of Service will automatically be generated and stored in the
 electronic case file.
 
-# 106\.  Form of documents
+## 106\.  Form of documents
 
 (1) It is also not necessary for documents that are electronically filed
 in Court to have a cover page or backing sheet.
@@ -190,7 +190,7 @@ of Court.
 automatically generate the document information page, parties may
 undertake the procedure outlined in paragraph 112(2).
 
-# 107\.  Pagination of documents
+## 107\.  Pagination of documents
 
 Every single page of a document must be paginated so that the pagination
 on the actual document corresponds with the pagination of the Portable
@@ -199,7 +199,7 @@ attention is drawn to paragraphs 57(5) and 59(3) in this regard. This is
 to facilitate hearings involving reference to both printed and soft
 copies of the same document.
 
-# 108. Filing documents through service bureau
+## 108. Filing documents through service bureau
 
 (1) Solicitors and law firms are encouraged file documents through the
 Electronic Filing Service. However, in the event that certain documents
@@ -210,7 +210,7 @@ person may also file documents through the service bureau.
 (2) The operating hours of the service bureau may be found on the
 eLitigation's website at https://www.elitigation.sg.
 
-# 109. Filing of documents to the Supreme Court through a State Courts service bureau
+## 109. Filing of documents to the Supreme Court through a State Courts service bureau
 
 Pursuant to Order 63A, Rule 18(4) of the Rules of Court, the Registrar
 hereby prescribes that any service bureau established or authorised to
@@ -222,7 +222,7 @@ established or authorised to be established by the Registrar are unable
 to provide such services owing to failure of hardware or software, or
 both.
 
-# 110. Limits on the size and number of documents submitted using the Electronic Filing Service
+## 110. Limits on the size and number of documents submitted using the Electronic Filing Service
 
 (1) The following limits currently apply to the filing of documents
 using the Electronic Filing Service:
@@ -246,7 +246,7 @@ Registrar at least 14 days before the intended filing date. The
 solicitor will then be asked to attend before the Registrar for
 directions on how the documents should be filed.
 
-# 111. Documents which cannot be converted into an electronic format
+## 111. Documents which cannot be converted into an electronic format
 
 (1) If a document cannot be converted in whole or in part into an
 electronic format for any reason, the hard copy of the document must be
@@ -257,7 +257,7 @@ be converted in whole or in part into an electronic format, and it can
 discern no good reason why the document cannot be wholly converted into
 an electronic format, the document may be rejected.
 
-# 112. Rejection of documents, back-dating and refund of penalty
+## 112. Rejection of documents, back-dating and refund of penalty
 
 (1) Care must be taken to enter correct, complete and accurate
 information into the electronic form. If the information entered into
@@ -278,7 +278,7 @@ time, pursuant to Order 63A, Rule 10; and
 (b) request for a refund by submitting the requisite electronic form
 through the Electronic Filing Service.
 
-# 113. Urgent hearing
+## 113. Urgent hearing
 
 Subject to the directions of the Court, solicitors may appear before the
 Judge or Registrar with paper documents for an urgent hearing. The
@@ -287,7 +287,7 @@ documents used at the hearing using the Electronic Filing Service by the
 next working day after the hearing. Any document not filed using the
 Electronic Filing Service will not be included in the Court’s case file.
 
-# 114. Hard copies of documents
+## 114. Hard copies of documents
 
 (1) The Registrar may, at his discretion, request for hard copies of any
 documents filed electronically.
@@ -304,7 +304,7 @@ Registrar:
 hard copy instead of using the Electronic Filing Service for such period
 or periods as he in his discretion thinks fit.
 
-# 115. Responsibility for accuracy and completeness of information submitted using the Electronic Filing Service
+## 115. Responsibility for accuracy and completeness of information submitted using the Electronic Filing Service
 
 (1) The solicitor having the conduct of any cause or matter may delegate
 the task of filing originating processes and documents in Court to an

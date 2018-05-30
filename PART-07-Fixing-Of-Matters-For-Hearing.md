@@ -10,7 +10,7 @@
 
 68\. Adjournment or vacation of hearings other than trials
 
-# 64\. Waiting time for the hearing of matters
+## 64\. Waiting time for the hearing of matters
 
 (1) The average waiting times between the filing of certain processes or
 other steps in the proceedings and the date for the hearing or pre-trial
@@ -20,7 +20,7 @@ as they must be ready to proceed at the end of the relevant period.
 
 (2) This paragraph shall apply to both civil and criminal proceedings.
 
-# 65\. Requesting a hearing date through the Electronic Filing Service
+## 65\. Requesting a hearing date through the Electronic Filing Service
 
 (1) When filing applications through the Electronic Filing Service,
 solicitors may be permitted to make a request for a preferred hearing
@@ -43,7 +43,7 @@ urgency of the application or otherwise, solicitors shall select a date
 where counsel arguing the application for the applicant will be
 available.
 
-# 66. Fixing of hearing dates
+## 66. Fixing of hearing dates
 
 (1) To assist the Registrar at the fixing of hearing dates, solicitors
 should provide updated information as to the current status of the cause
@@ -74,7 +74,7 @@ fact without delay.*</span>
 
 \[emphasis added\]
 
-# 67. Adjournment or vacation of trial dates and part-heard cases
+## 67. Adjournment or vacation of trial dates and part-heard cases
 
 (1) <span id="Sub-para_1"></span>Where dates have been fixed for the
 trial of any cause or matter, any request for an adjournment or vacation
@@ -95,7 +95,7 @@ therefore be prepared to continue with the hearing of the matter
 notwithstanding the fact that the time originally allotted may have
 expired.
 
-# 68\. Adjournment or vacation of hearings other than trials
+## 68\. Adjournment or vacation of hearings other than trials
 
 (1) <span id="Sub-para_1"></span>Before solicitors make a Request
 through the Electronic Filing Service to the Court for an adjournment or
