@@ -1,5 +1,6 @@
 title: Practice Directions
 remote_theme: opengovsg/opendoc-theme
+timezone: Asia/Singapore
 plugins:
   - jekyll-seo-tag
   - jekyll-coffeescript
