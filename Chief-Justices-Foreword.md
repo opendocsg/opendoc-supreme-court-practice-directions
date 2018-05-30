@@ -12,7 +12,7 @@ Given the vast improvements that have been made to the litigation process by eLi
 
 I warmly commend those involved in developing and implementing eLitigation for their considerable and untiring efforts in working to refine and update the practice of litigation in Singapore.
 
-__Sundaresh Menon__
+_Sundaresh Menon_
 
 Chief Justice
 
@@ -30,4 +30,4 @@ The e-PD provides a subject matter index and this will serve as a useful concept
 
 I am pleased to launch the e-PD, and I congratulate the Registrar and his team for this innovative project.
 
-__Chief Justice Chan Sek Keong__
+_Chief Justice Chan Sek Keong_
