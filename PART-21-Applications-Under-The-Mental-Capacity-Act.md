@@ -1,4 +1,5 @@
 # PART XXI: APPLICATIONS UNDER THE MENTAL CAPACITY ACT
+&nsbp;
 
 147\. Transfer of mental capacity proceedings to District Court
 

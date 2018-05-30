@@ -1,4 +1,5 @@
 # PART XVIII: MATTERS UNDER THE LEGAL PROFESSION ACT
+&nsbp;
 
 134\. Applications for admission as an advocate and solicitor of the
 Supreme Court
