@@ -2,25 +2,15 @@
 &nbsp;
 
 : 1\. Citation
-
 : 2\. Commencement
-
 : 3\. Revocation of previous practice directions
-
 : 4\. Updating
-
 : 5\. Applicability of Practice Directions
-
 : * Practice Directions to apply to civil proceedings
-
 : * Proceedings using the Electronic Filing Service
-
 : * Proceedings not using the Electronic Filing Service
-
 : 6\. Forms
-
 : 7\. Registrar’s Circulars
-
 : 7A. Business of the Registry
 
 ## 1\. Citation
@@ -56,33 +46,20 @@ Proceedings not using the Electronic Filing Service
 
 (3) For proceedings that do not use the Electronic Filing Service, the following paragraphs of Parts I to XXI do not apply:
 
-(a) 37(3);
-
-(b) 59(5);
-
-(c) 69(1) to 69(3);
-
-(d) 70(3) and (5);
-
-(e) 71(3) to 71(7);
-
-(f) 75(3) to (5);
-
-(g) 78;
-
-(h) 97;
-
-(i) 100 to 115;
-
-(j) 116 to 119;
-
-(k) 132(2) to 132(7);
-
-(l) 133(5);
-
-(m) 134(6); and
-
-(n) 145;
+: (a) 37(3);
+: (b) 59(5);
+: (c) 69(1) to 69(3);
+: (d) 70(3) and (5);
+: (e) 71(3) to 71(7);
+: (f) 75(3) to (5);
+: (g) 78;
+: (h) 97;
+: (i) 100 to 115;
+: (j) 116 to 119;
+: (k) 132(2) to 132(7);
+: (l) 133(5);
+: (m) 134(6); and
+: (n) 145;
 
 and Part XXII applies.
 
