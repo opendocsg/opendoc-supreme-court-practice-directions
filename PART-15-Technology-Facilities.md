@@ -1,21 +1,18 @@
 # PART XV: TECHNOLOGY FACILITIES
-&nsbp;
+&nbsp;
 
-120\. Use of the Technology Courts and the Mobile Infocomm Technology Facilities
-
-121\. Applications to use the Technology Courts
-
-122\. Applications to use the Mobile Infocomm Technology Facilities
-
-123\. Fees
+: 120\. Use of the Technology Courts and the Mobile Infocomm Technology Facilities 
+: 121\. Applications to use the Technology Courts 
+: 122\. Applications to use the Mobile Infocomm Technology Facilities 
+: 123\. Fees
 
 ## 120\. Use of the Technology Courts and the Mobile Infocomm Technology Facilities
 
 (1) The Technology Courts and the Mobile Infocomm Technology Facilities ("MIT facilities") may, at the discretion of the Registrar and subject to the payment of the appropriate fees, be used:
 
-(a) for the hearing of any matter, whether before a Judge or Registrar, in open Court or in Chambers; or
+: (a) for the hearing of any matter, whether before a Judge or Registrar, in open Court or in Chambers; or
 
-(b) for any other dispute resolution process.
+: (b) for any other dispute resolution process.
 
 (2) The Registrar may refuse any request for the use of any of the services described in this Part at any time owing to the unavailability of staff or equipment or for any other reason.  The Registrar need not give any reasons for the refusal of such a request.
 
@@ -29,74 +26,89 @@
 
 (4) The attention of solicitors is drawn to section 62A of the Evidence Act (Cap. 97), which provides:
 
-Evidence through live video or live television links
+: **Evidence through live video or live television links**
 
-62A. —(1) Notwithstanding any other provision of this Act, a person may, with leave of the Court, give evidence through a live video or live television link in any proceedings, other than proceedings in a criminal matter, if —
+: 62A. —(1) Notwithstanding any other provision of this Act, a person may, with leave of the Court, give evidence through a live video or live television link in any proceedings, other than proceedings in a criminal matter, if —
 
-(a) the witness is below the age of 16 years;
+<!-- #########################################################################
+TODO: Add formatting for nested points
+########################################################################## -->
 
-(b) it is expressly agreed between the parties to the proceedings that evidence may be so given;
+: (a) the witness is below the age of 16 years;
 
-(c) the witness is outside Singapore; or
+: (b) it is expressly agreed between the parties to the proceedings that evidence may be so given;
 
-(d) the Court is satisfied that it is expedient in the interests of justice to do so.
+: (c) the witness is outside Singapore; or
 
-(2) In considering whether to grant leave for a witness outside Singapore to give evidence by live video or live television link under this section, the Court shall have regard to all the circumstances of the case including the following:
+: (d) the Court is satisfied that it is expedient in the interests of justice to do so.
 
-(a) the reasons for the witness being unable to give evidence in Singapore;
+: (2) In considering whether to grant leave for a witness outside Singapore to give evidence by live video or live television link under this section, the Court shall have regard to all the circumstances of the case including the following:
 
-(b) the administrative and technical facilities and arrangements made at the place where the witness is to give his evidence; and
+<!-- #########################################################################
+TODO: Add formatting for nested points
+########################################################################## -->
 
-(c) whether any party to the proceedings would be unfairly prejudiced.
+: (a) the reasons for the witness being unable to give evidence in Singapore;
 
-(3) The Court may, in granting leave under subsection (1), make an order on all or any of the following matters:
+: (b) the administrative and technical facilities and arrangements made at the place where the witness is to give his evidence; and
 
-(a) the persons who may be present at the place where the witness is giving evidence;
+: (c) whether any party to the proceedings would be unfairly prejudiced.
 
-(b) that a person be excluded from the place while the witness is giving
-evidence;
+: (3) The Court may, in granting leave under subsection (1), make an order on all or any of the following matters:
 
-(c) the persons in the Courtroom who must be able to be heard, or seen and heard, by the witness and by the persons with the witness;
+<!-- #########################################################################
+TODO: Add formatting for nested points
+########################################################################## -->
 
-(d) the persons in the Courtroom who must not be able to be heard, or seen and heard, by the witness and by the persons with the witness;
+: (a) the persons who may be present at the place where the witness is giving evidence;
 
-(e) the persons in the Courtroom who must be able to see and hear the witness and the persons with the witness;
+: (b) that a person be excluded from the place while the witness is giving evidence;
 
-(f) the stages in the proceedings during which a specified part of the order is to have effect;
+: (c) the persons in the Courtroom who must be able to be heard, or seen and heard, by the witness and by the persons with the witness;
 
-(g) the method of operation of the live video or live television link system including compliance with such minimum technical standards as may be determined by the Chief Justice; and
+: (d) the persons in the Courtroom who must not be able to be heard, or seen and heard, by the witness and by the persons with the witness;
 
-(h) any other order the Court considers necessary in the interests of justice.
+: (e) the persons in the Courtroom who must be able to see and hear the witness and the persons with the witness;
 
-(4) The Court may revoke, suspend or vary an order made under this section if —
+: (f) the stages in the proceedings during which a specified part of the order is to have effect;
 
-(a) the live video or live television link system stops working and it would cause unreasonable delay to wait until a working system becomes available;
+: (g) the method of operation of the live video or live television link system including compliance with such minimum technical standards as may be determined by the Chief Justice; and
 
-(b) it is necessary for the Court to do so to comply with its duty to ensure that the proceedings are conducted fairly to the parties thereto;
+: (h) any other order the Court considers necessary in the interests of justice.
 
-(c) it is necessary for the Court to do so, so that the witness can identify a person or a thing or so that the witness can participate in or view a demonstration or an experiment; 
+: (4) The Court may revoke, suspend or vary an order made under this section if —
 
-(d) it is necessary for the Court to do so because part of the proceedings is being heard outside a Courtroom; or
+<!-- #########################################################################
+TODO: Add formatting for nested points
+########################################################################## -->
 
-(e) there has been a material change in the circumstances after the Court has made an order.
+: (a) the live video or live television link system stops working and it would cause unreasonable delay to wait until a working system becomes available;
 
-(5) The Court shall not make an order under this section, or include a particular provision in such an order, if to do so would be inconsistent with the Court’s duty to ensure that the proceedings are conducted fairly to the parties to the proceedings.
+: (b) it is necessary for the Court to do so to comply with its duty to ensure that the proceedings are conducted fairly to the parties thereto;
 
-(6) An order made under this section shall not cease to have effect merely because the person in respect of whom it was made attains the age of 16 years before the proceedings in which it was made are finally determined.
+: (c) it is necessary for the Court to do so, so that the witness can identify a person or a thing or so that the witness can participate in or view a demonstration or an experiment; 
 
-(7) Evidence given by a witness, whether in Singapore or elsewhere, through a live video or live television link by virtue of this section shall be deemed for the purposes of sections 193, 194, 195, 196, 205 and 209 of the Penal Code (Cap. 224) as having been given in the proceedings in which it is given.
+: (d) it is necessary for the Court to do so because part of the proceedings is being heard outside a Courtroom; or
 
-(8) Where a witness gives evidence in accordance with this section, he shall, for the purposes of this Act, be deemed to be giving evidence in the presence of the Court.
+: (e) there has been a material change in the circumstances after the Court has made an order.
 
-(9) The Rules Committee constituted under the Supreme Court of Judicature Act (Cap. 322) may make such rules as appear to it to be necessary or expedient for the purpose of giving effect to this section and for prescribing anything which may be prescribed under this section.
+: (5) The Court shall not make an order under this section, or include a particular provision in such an order, if to do so would be inconsistent with the Court’s duty to ensure that the proceedings are conducted fairly to the parties to the proceedings.
+
+: (6) An order made under this section shall not cease to have effect merely because the person in respect of whom it was made attains the age of 16 years before the proceedings in which it was made are finally determined.
+
+: (7) Evidence given by a witness, whether in Singapore or elsewhere, through a live video or live television link by virtue of this section shall be deemed for the purposes of sections 193, 194, 195, 196, 205 and 209 of the Penal Code (Cap. 224) as having been given in the proceedings in which it is given.
+
+: (8) Where a witness gives evidence in accordance with this section, he shall, for the purposes of this Act, be deemed to be giving evidence in the presence of the Court.
+
+: (9) The Rules Committee constituted under the Supreme Court of Judicature Act (Cap. 322) may make such rules as appear to it to be necessary or expedient for the purpose of giving effect to this section and for prescribing anything which may be prescribed under this section.
 
 (5) Upon the successful booking of a Technology Court for videoconferencing,
 
-(a) prior arrangements for videoconferencing testing have to be made at least 5 working days before the first day fixed for the hearing, in order to ensure equipment compatibility;
+: (a) prior arrangements for videoconferencing testing have to be made at least 5 working days before the first day fixed for the hearing, in order to ensure equipment compatibility;
 
-(b) applicants will be informed of the ISDN number for videoconferencing during the testing session; and
+: (b) applicants will be informed of the ISDN number for videoconferencing during the testing session; and
 
-(c) as a matter of general practice, the remote site will dial in to the Technology Court and it is the responsibility of the party requesting the videoconferencing to coordinate the booking and calling in from the remote site.
+: (c) as a matter of general practice, the remote site will dial in to the Technology Court and it is the responsibility of the party requesting the videoconferencing to coordinate the booking and calling in from the remote site.
 
 (6) Any person who desires to use audio-visual and computers equipment additional to those provided in the Technology Courts will be asked to provide details of such equipment when applying to use the Courtroom.  The applicant must also be prepared to have the equipment available for testing with the audio-visual system of the Technology Courts at least 3 working days before the first day fixed for the hearing.  It is the responsibility of the applicant to provide equipment that is compatible with the audio-visual system of the Technology Courts. 
 
@@ -112,21 +124,11 @@ evidence;
 
 (5) Upon a successful application of the use of the mobile videoconferencing equipment,
 
-(a) prior arrangements for videoconferencing testing have to be made at least 5 working days before the first day fixed for the hearing, in order to ensure equipment compatibility;
+: (a) prior arrangements for videoconferencing testing have to be made at least 5 working days before the first day fixed for the hearing, in order to ensure equipment compatibility;
 
-(b) applicants will be informed of the ISDN number for videoconferencing during the testing arrangement; and
+: (b) applicants will be informed of the ISDN number for videoconferencing during the testing arrangement; and
 
-(c) as a matter of general practice, the remote site will dial into the Courtroom or chamber and it is the responsibility of the party requesting the videoconferencing to coordinate the booking and calling in from the remote site.
-
-## 120\. Use of the Technology Courts and the Mobile Infocomm Technology Facilities
-
-(1) The Technology Courts and the Mobile Infocomm Technology Facilities ("MIT facilities") may, at the discretion of the Registrar and subject to the payment of the appropriate fees, be used:
-
-(a) for the hearing of any matter, whether before a Judge or Registrar, in open Court or in Chambers; or
-
-(b) for any other dispute resolution process.
-
-(2) The Registrar may refuse any request for the use of any of the services described in this Part at any time owing to the unavailability of staff or equipment or for any other reason.  The Registrar need not give any reasons for the refusal of such a request.
+: (c) as a matter of general practice, the remote site will dial into the Courtroom or chamber and it is the responsibility of the party requesting the videoconferencing to coordinate the booking and calling in from the remote site.
 
 ## 123\. Fees
 
@@ -134,6 +136,6 @@ evidence;
 
 (2) The Registrar may refund any fee or part thereof paid in respect of any day on which the Technology Court and/or the MIT facilities was not used provided that:
 
-(a) such request for refund must be made within 3 months after the last scheduled day of use of the said Technology Court and/or the MIT facilities stated in Form 21; and
+: (a) such request for refund must be made within 3 months after the last scheduled day of use of the said Technology Court and/or the MIT facilities stated in Form 21; and
 
-(b) the fees payable for the first scheduled day of use of the said Technology Court and/or the MIT facilities stated in Form 21 shall not be refunded if notice of cancellation for any scheduled day of use or part thereof is given less than 14 days before the first scheduled day of use.
+: (b) the fees payable for the first scheduled day of use of the said Technology Court and/or the MIT facilities stated in Form 21 shall not be refunded if notice of cancellation for any scheduled day of use or part thereof is given less than 14 days before the first scheduled day of use.

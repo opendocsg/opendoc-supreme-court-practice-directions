@@ -1,31 +1,24 @@
 # PART XVI: ADMIRALTY MATTERS
-&nsbp;
+&nbsp;
 
-124\. Arrest of ships by the Sheriff
-
-125\. Form of undertaking
-
-126\. Release of vessel lying under arrest
-
-127\. Filing of supporting documents
-
-128\. Hard copies at hearing of admiralty matters
-
-129\. Searches for caveats against arrest or release
-
-130\. Registration of service clerks for admiralty matters
-
-130A. Applications for appraisement and sale
+: 124\. Arrest of ships by the Sheriff 
+: 125\. Form of undertaking 
+: 126\. Release of vessel lying under arrest 
+: 127\. Filing of supporting documents 
+: 128\. Hard copies at hearing of admiralty matters 
+: 129\. Searches for caveats against arrest or release 
+: 130\. Registration of service clerks for admiralty matters 
+: 130A\. Applications for appraisement and sale
 
 ## 124\. Arrest of ships by the Sheriff
 
 (1) The Sheriff will apply to a Judge for an omnibus order in every casewhere a ship or vessel is arrested, giving the Sheriff discretion totake various measures for the safe and satisfactory custody of thearrested property. The usual terms of the order are that:
 
-(a) the Sheriff may be at liberty at his discretion at any time to takemeasures to preserve the ship/vessel, her machinery and equipment;
+: (a) the Sheriff may be at liberty at his discretion at any time to takemeasures to preserve the ship/vessel, her machinery and equipment;
 
-(b) the Sheriff may be at liberty at his discretion at any time to movethe ship or vessel within the limits of the port where she is lyingunder arrest, either for her own safety or to comply with therequirements of the port authority; and
+: (b) the Sheriff may be at liberty at his discretion at any time to movethe ship or vessel within the limits of the port where she is lyingunder arrest, either for her own safety or to comply with therequirements of the port authority; and
 
-(c) the costs and expenses incurred in the implementation of the orderbe deemed to be part of the Sheriff’s expenses and in the event of asale be paid first out of the proceeds of sale.
+: (c) the costs and expenses incurred in the implementation of the orderbe deemed to be part of the Sheriff’s expenses and in the event of asale be paid first out of the proceeds of sale.
 
 (2) Solicitors representing plaintiffs in admiralty proceedings arerequired to provide an undertaking that the Sheriff shall be indemnifiedand be provided with sufficient funds as and when required by theSheriff to meet the charges and expenses that may be incurred inconsequence of their request for the arrest of a vessel. If such anundertaking is not fulfilled within a reasonable time, the Sheriff maytake such steps as may be necessary to enforce the undertaking againstthe solicitors concerned.
 
@@ -59,7 +52,7 @@ Order 70, Rule 4(2)(b) of the Rules of Court provides that the partyapplying for
 
 (1) Pursuant to Order 70, Rule 7(3) and Rule 9(2) of the Rules of Court,service of a writ or execution of a warrant of arrest may be effected bya solicitor or a solicitor’s clerk whose name and particulars have beennotified to the Registrar.
 
-(2) Solicitors' attention is drawn to paragraph 32(2) of these PracticeDirections which requires solicitors to notify the Legal Registry of theSupreme Court of the particulars of authorised process servers, who havebeen authorised by them to serve processes and execute warrants ofarrest by submitting a <span style="text-align: justify;">request toauthorise user through the Electronic Filing Service. Where suchauthorised process servers are no longer so authorised, solicitors areto revoke or delete the authorisation immediately by submitting arequest through the Electronic Filing Service. Solicitors’ clerks do notrequire the authorisation of the Registrar to effect personal service ofprocesses and documents.</span>
+(2) Solicitors' attention is drawn to paragraph 32(2) of these PracticeDirections which requires solicitors to notify the Legal Registry of theSupreme Court of the particulars of authorised process servers, who havebeen authorised by them to serve processes and execute warrants ofarrest by submitting a request to authorise user through the Electronic Filing Service. Where suchauthorised process servers are no longer so authorised, solicitors areto revoke or delete the authorisation immediately by submitting arequest through the Electronic Filing Service. Solicitors’ clerks do notrequire the authorisation of the Registrar to effect personal service ofprocesses and documents.
 
 (3) Paragraphs 32(3) to 32(6) of these Practice Directions shall,mutatis mutandis, apply to the assignment of the Sheriff to effectservice of a writ or execute a warrant of arrest.
 

@@ -1,37 +1,22 @@
 # PART XIII: ELECTRONIC FILING AND SERVICE
-&nsbp;
+&nbsp;
 
-100\. Application
-
-101\. Establishment of Electronic Filing Service and appointment of network service provider
-
-102\. Appointment of agent to establish service bureau
-
-103\. Registered users and authorised users
-
-104\. Documents which must be filed, served, delivered or otherwise conveyed using the Electronic Filing Service
-
-105\. Certificate of Service
-
-106\. Form of documents
-
-107\. Pagination of documents
-
-108\. Filing documents through service bureau
-
-109\. Filing of documents to the Supreme Court through a State Courts service bureau
-
-110\. Limits on the size and number of documents submitted using the Electronic Filing Service
-
-111\. Documents which cannot be converted into an electronic format
-
-112\. Rejection of documents, back-dating and refund of penalty
-
-113\. Urgent hearing
-
-114\. Hard copies of documents
-
-115. Responsibility for accuracy and completeness of information submitted using the Electronic Filing Service
+: 100\. Application 
+: 101\. Establishment of Electronic Filing Service and appointment of network service provider 
+: 102\. Appointment of agent to establish service bureau 
+: 103\. Registered users and authorised users 
+: 104\. Documents which must be filed, served, delivered or otherwise conveyed using the Electronic Filing Service 
+: 105\. Certificate of Service 
+: 106\. Form of documents 
+: 107\. Pagination of documents 
+: 108\. Filing documents through service bureau 
+: 109\. Filing of documents to the Supreme Court through a State Courts service bureau 
+: 110\. Limits on the size and number of documents submitted using the Electronic Filing Service 
+: 111\. Documents which cannot be converted into an electronic format 
+: 112\. Rejection of documents, back-dating and refund of penalty 
+: 113\. Urgent hearing 
+: 114\. Hard copies of documents 
+: 115\. Responsibility for accuracy and completeness of information submitted using the Electronic Filing Service
 
 ## 100\.  Application
 
@@ -53,13 +38,17 @@ Pursuant to Order 63A, Rule 4 of the Rules of Court, the Registrar appoints Crim
 
 (2) The following procedures shall apply to applications to become a registered user and for designating authorised users:
 
-(a) The application to become a registered user must be made to the Registrar using Form 20 of Appendix A of these Practice Directions. In Form 20, the registered user must nominate at least one authorised user. Form 20 must be accompanied by the following:
+: (a) The application to become a registered user must be made to the Registrar using Form 20 of Appendix A of these Practice Directions. In Form 20, the registered user must nominate at least one authorised user. Form 20 must be accompanied by the following:
 
-(i) a recent business profile report from the Accounting and Corporate Regulatory Authority (ACRA) of the registered user;
+<!-- #########################################################################
+TODO: Add formatting for nested points
+########################################################################## -->
 
-(ii) an application form including the subscriber agreement for subscription to the Electronic Filing Service; and
+: (i) a recent business profile report from the Accounting and Corporate Regulatory Authority (ACRA) of the registered user;
 
-(iii) two sets of GIRO application forms for the electronic payment of filing and hearing fees, and electronic filing and other charges.
+: (ii) an application form including the subscriber agreement for subscription to the Electronic Filing Service; and
+
+: (iii) two sets of GIRO application forms for the electronic payment of filing and hearing fees, and electronic filing and other charges.
 
 ## 104\.  Documents which must be filed, served, delivered or otherwise conveyed using the Electronic Filing Service
 
@@ -67,37 +56,37 @@ Pursuant to Order 63A, Rule 4 of the Rules of Court, the Registrar appoints Crim
 
 (2) It shall not be necessary to use the Electronic Filing Service in respect of the following proceedings:
 
-(a) any proceedings commenced by a writ of summons before March 2000, subject to the provisions in sub-paragraphs (c), (d), (e) and (f);
+: (a) any proceedings commenced by a writ of summons before March 2000, subject to the provisions in sub-paragraphs (c), (d), (e) and (f);
 
-(b) any proceedings commenced by an originating summons before 18 December 2001;
+: (b) any proceedings commenced by an originating summons before 18 December 2001;
 
-(c) any proceedings for taxation commenced by a bill of costs, including proceedings resulting or arising from such proceedings, filed before 18 December 2001;
+: (c) any proceedings for taxation commenced by a bill of costs, including proceedings resulting or arising from such proceedings, filed before 18 December 2001;
 
-(d) any proceedings commenced by an originating summons or summons for interpleader relief, including proceedings resulting or arising from such proceedings, filed before 18 December 2001;
+: (d) any proceedings commenced by an originating summons or summons for interpleader relief, including proceedings resulting or arising from such proceedings, filed before 18 December 2001;
 
-(e) any notices of appeal under Order 55D, including proceedings resulting or arising from such appeals, filed before 18 December 2001;
+: (e) any notices of appeal under Order 55D, including proceedings resulting or arising from such appeals, filed before 18 December 2001;
 
-(f) any notices of appeal under Order 57, including proceedings resulting or arising from such appeals, filed before 18 December 2001;
+: (f) any notices of appeal under Order 57, including proceedings resulting or arising from such appeals, filed before 18 December 2001;
 
-(g) any proceedings commenced by a petition for the admission of advocates and solicitors filed before 18 December 2001;
+: (g) any proceedings commenced by a petition for the admission of advocates and solicitors filed before 18 December 2001;
 
-(h) any proceedings for winding up of a company commenced  by a petition filed before 28 May 2002;
+: (h) any proceedings for winding up of a company commenced  by a petition filed before 28 May 2002;
 
-(i) any proceedings commenced by an Admiralty writ <span style="font-style: italic;">*in rem*</span> or <span style="font-style: italic;">*in personam*</span> filed before 28 May 2002;
+: (i) any proceedings commenced by an Admiralty writ *in rem* or *in personam* filed before 28 May 2002;
 
-(j) any proceedings commenced by an originating motion filed before 28 May 2002;
+: (j) any proceedings commenced by an originating motion filed before 28 May 2002;
 
-(k) any proceedings commenced by an originating petition filed before 28 May 2002;
+: (k) any proceedings commenced by an originating petition filed before 28 May 2002;
 
-(l) any proceedings commenced by a petition of course filed before 28 May 2002;
+: (l) any proceedings commenced by a petition of course filed before 28 May 2002;
 
-(m) any proceedings or applications under the Bankruptcy Act (Cap. 20) or Bankruptcy Rules (Cap. 20, Rule 1) filed before 28 May 2002;
+: (m) any proceedings or applications under the Bankruptcy Act (Cap. 20) or Bankruptcy Rules (Cap. 20, Rule 1) filed before 28 May 2002;
 
-(n) any proceedings for a grant under Order 71, Rule 5 of the Rules of Court filed before 28 May 2002;
+: (n) any proceedings for a grant under Order 71, Rule 5 of the Rules of Court filed before 28 May 2002;
 
-(o) any applications to deposit an instrument creating a power of attorney filed before 28 May 2002; and
+: (o) any applications to deposit an instrument creating a power of attorney filed before 28 May 2002; and
 
-(p) any proceedings commenced by a petition under Part X of the Women’s Charter (Cap. 353) filed before 15 December 2003.
+: (p) any proceedings commenced by a petition under Part X of the Women’s Charter (Cap. 353) filed before 15 December 2003.
 
 (3) Documents which are filed pursuant to Order 34, Rule 3A(1) may, instead of being filed through the Electronic Filing Service, be filed in accordance with the procedure outlined in paragraph 71(3) to (7). 
 
@@ -133,11 +122,11 @@ Pursuant to Order 63A, Rule 18(4) of the Rules of Court, the Registrar hereby pr
 
 (1) The following limits currently apply to the filing of documents using the Electronic Filing Service:
 
-(a) the total number of documents in a single submission cannot exceed 99.
+: (a) the total number of documents in a single submission cannot exceed 99.
 
-(b) The total number of pages in a single document cannot exceed 9,999.
+: (b) The total number of pages in a single document cannot exceed 9,999.
 
-(c) The size of a single transmission cannot exceed 500 mega-bytes.
+: (c) The size of a single transmission cannot exceed 500 mega-bytes.
 
 (2) The limits described above will apply to filing both online through the Electronic Filing Service and the service bureau.
 
@@ -157,9 +146,9 @@ Pursuant to Order 63A, Rule 18(4) of the Rules of Court, the Registrar hereby pr
 
 (2) In the event however that any document is rejected through no fault of the filing party, a solicitor may:
 
-(a) re-file the document with a request that the date and time of filing or issuance, as the case may be, be back-dated to an earlier date and time, pursuant to Order 63A, Rule 10; and
+: (a) re-file the document with a request that the date and time of filing or issuance, as the case may be, be back-dated to an earlier date and time, pursuant to Order 63A, Rule 10; and
 
-(b) request for a refund by submitting the requisite electronic form through the Electronic Filing Service.
+: (b) request for a refund by submitting the requisite electronic form through the Electronic Filing Service.
 
 ## 113. Urgent hearing
 
@@ -171,9 +160,9 @@ Subject to the directions of the Court, solicitors may appear before the Judge o
 
 (2) Upon such request, the filing party or his solicitors shall furnish hard copies of the relevant documents at the venue specified by the Registrar:
 
-(a) within the specified time frame; or
+: (a) within the specified time frame; or
 
-(b) within 24 hours of the request, if no time frame is specified.
+: (b) within 24 hours of the request, if no time frame is specified.
 
 (3) The Registrar may also direct that any documents shall be filed in hard copy instead of using the Electronic Filing Service for such period or periods as he in his discretion thinks fit.
 
@@ -183,8 +172,8 @@ Subject to the directions of the Court, solicitors may appear before the Judge o
 
 (2) In particular, solicitors should ensure the following:
 
-(a) that the title of the action generated using the Electronic Filing Service is accurate and correct;
+: (a) that the title of the action generated using the Electronic Filing Service is accurate and correct;
 
-(b) where an action is commenced by way of writ of summons, that at least one nature of claim is selected that adequately represents the subject matter of the action; and
+: (b) where an action is commenced by way of writ of summons, that at least one nature of claim is selected that adequately represents the subject matter of the action; and
 
-(c) where an action is commenced by way of originating summons, that either the relevant legislation under which the action is brought is provided or at least one nature of claim is selected that adequately represents the subject matter of the action.
+: (c) where an action is commenced by way of originating summons, that either the relevant legislation under which the action is brought is provided or at least one nature of claim is selected that adequately represents the subject matter of the action.
