@@ -575,9 +575,8 @@ Registrar’s discretion
 
 <u>For example:<u>
 
-|                                      |                                                                       |
-| ------------------------------------ | --------------------------------------------------------------------- |
 | **Case Number Format**               | **Type of Case**                                                      |
+| ------------------------------------ | --------------------------------------------------------------------- |
 | CA/CA \[Case Number\]/\[Year filed\] | Appeal to the Court of Appeal                                         |
 | HC/OS \[Case Number\]/\[Year filed\] | Originating Summons filed in the High Court                           |
 | SIC/S \[Case Number\]/\[Year filed\] | Writ of Summons filed in the Singapore International Commercial Court |
