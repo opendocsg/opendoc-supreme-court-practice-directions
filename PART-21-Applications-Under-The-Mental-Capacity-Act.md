@@ -1,31 +1,19 @@
 # PART XXI: APPLICATIONS UNDER THE MENTAL CAPACITY ACT
-&nsbp;
+&nbsp;
 
-147\. Transfer of mental capacity proceedings to District Court
-
-148\. Documents to be filed at the Legal Registry of the Supreme Court at the Supreme Court Building
-
-149\. Doctor's affidavit exhibiting medical report
-
-• Affidavit by doctor required
-
-• The medical report
-
-150\. Notification
-
-• Dispensing with notification
-
-151\. Application subsequent to the appointment of deputy
-
-152\. Where P ceases to lack capacity or dies
-
-• Application to end proceedings
-
-• Applications where proceedings have concluded
-
-• Procedure to be followed when P dies
-
-• Discharge of security
+: 147\. Transfer of mental capacity proceedings to District Court 
+: 148\. Documents to be filed at the Legal Registry of the Supreme Court at the Supreme Court Building 
+: 149\. Doctor's affidavit exhibiting medical report 
+: • Affidavit by doctor required 
+: • The medical report 
+: 150\. Notification 
+: • Dispensing with notification 
+: 151\. Application subsequent to the appointment of deputy 
+: 152\. Where P ceases to lack capacity or dies 
+: • Application to end proceedings 
+: • Applications where proceedings have concluded 
+: • Procedure to be followed when P dies 
+: • Discharge of security
 
 ## 147. Transfer of mental capacity proceedings to District Court
 
@@ -33,9 +21,9 @@
 
 (2) Pursuant to the Transfer Order –
 
-(a) any proceedings under the Mental Capacity Act 2008 (Cap. 177A) (referred to in this Part as “the MCA”) commenced in the High Court on or after 1 March 2010 shall be transferred to and be heard and determined by a District Court; and
+: (a) any proceedings under the Mental Capacity Act 2008 (Cap. 177A) (referred to in this Part as “the MCA”) commenced in the High Court on or after 1 March 2010 shall be transferred to and be heard and determined by a District Court; and
 
-(b) any application under the MCA made, on or after 1 March 2010, in relation to any proceedings commenced in the High Court before that date under Part I of the Mental Disorders and Treatment Act (Cap. 178) (referred to in this Part as “the MDTA”) in force before that date, shall be heard and determined by the High Court.
+: (b) any application under the MCA made, on or after 1 March 2010, in relation to any proceedings commenced in the High Court before that date under Part I of the Mental Disorders and Treatment Act (Cap. 178) (referred to in this Part as “the MDTA”) in force before that date, shall be heard and determined by the High Court.
 
 (3) Pursuant to the Family Justice Act 2014, with effect from 1 October 2014, proceedings under the MCA shall be heard and determined by the Family Justice Courts. Notwithstanding this, any proceedings under the MCA commenced in the High Court before 1 October 2014 shall, on and after that date, be continued in and dealt with by the High Court.
 
@@ -43,11 +31,11 @@
 
 (1) All documents relating to mental capacity proceedings which are to be heard and determined by the High Court shall be filed at the Legal Registry of the Supreme Court at the Supreme Court Building. These include:
 
-(a) all applications and documents to vary any Order of the High Court in proceedings under the MDTA commenced before 1 March 2010;
+: (a) all applications and documents to vary any Order of the High Court in proceedings under the MDTA commenced before 1 March 2010;
 
-(b) all documents in or ancillary to any application under the MCA made, on or after 1 March 2010, in relation to any proceedings commenced in the High Court before that date under Part 1 of the MDTA in force before that date; and
+: (b) all documents in or ancillary to any application under the MCA made, on or after 1 March 2010, in relation to any proceedings commenced in the High Court before that date under Part 1 of the MDTA in force before that date; and
 
-(c) all applications and documents to vary any Order of the High Court in proceedings referred to in sub-paragraph (b) above.
+: (c) all applications and documents to vary any Order of the High Court in proceedings referred to in sub-paragraph (b) above.
 
 (2) All applications subsequent to the filing of the originating summons in any mental capacity proceedings in the High Court shall be made by way of summons.
 
@@ -65,23 +53,23 @@
 
 ## 149. Doctor's affidavit exhibiting medical report
 
-Affidavit by doctor required
+***Affidavit by doctor required***
 
 (1) Under Order 40A, Rule 3 of the Rules of Court, expert evidence "is to be given in a written report signed by the expert and exhibited in an affidavit sworn to or affirmed by him testifying that the report exhibited is his and that he accepts full responsibility for the report". Where a medical report is relied on for the purposes of an application under the MCA, the doctor who prepared the medical report should affirm or swear to an affidavit and exhibit his or her medical report.
 
 (2) In addition, the doctor should indicate in the affidavit that he or she is aware that his or her report is being adduced for the purpose of the application under the MCA, for example, obtaining a declaration that the person concerned lacks capacity in relation to matters specified in the application.
 
-The medical report
+***The medical report***
 
 (3) In order to assist the Court, the medical report should:
 
-(a) distinguish clearly between observations or conclusions based on information given to the doctor and those that are based on the doctor's examination of the person concerned; 
+: (a) distinguish clearly between observations or conclusions based on information given to the doctor and those that are based on the doctor's examination of the person concerned; 
 
-(b) contain a clear opinion as to whether the person concerned lacks capacity in relation to matters specified in the application;
+: (b) contain a clear opinion as to whether the person concerned lacks capacity in relation to matters specified in the application;
 
-(c) contain a clear opinion on the prognosis of the person concerned and, if necessary, the likelihood of requiring increased or reduced medical expenses in the foreseeable future; and
+: (c) contain a clear opinion on the prognosis of the person concerned and, if necessary, the likelihood of requiring increased or reduced medical expenses in the foreseeable future; and
 
-(d) be current and should be made not more than 6 months before the  date of the hearing of the application.
+: (d) be current and should be made not more than 6 months before the  date of the hearing of the application.
 
 ## 150. Notification
 
@@ -89,43 +77,43 @@ The medical report
 
 (2) Under Order 99, Rule 6 of the Rules of Court, P shall be notified of certain matters by:-
 
-(a) the plaintiff, applicant, or appellant (as the case may be); or
+: (a) the plaintiff, applicant, or appellant (as the case may be); or
 
-(b) such other person as the Court may direct.
+: (b) such other person as the Court may direct.
 
 (3) Where P is to be notified that an application has been filed, the person effecting notification must explain to P:-
 
-(a) who the plaintiff or applicant is;
+: (a) who the plaintiff or applicant is;
 
-(b) that the application raises the question of whether P lacks capacity in relation to a matter or matters, and what that means;
+: b) that the application raises the question of whether P lacks capacity in relation to a matter or matters, and what that means;
 
-(c) what will happen if the Court makes the order or direction that has been applied for;
+: (c) what will happen if the Court makes the order or direction that has been applied for;
 
-(d) where the application is for the appointment of a deputy, details of who that person is, and
+: (d) where the application is for the appointment of a deputy, details of who that person is, and
 
-(e) the date on which the application is fixed for hearing.
+: (e) the date on which the application is fixed for hearing.
 
 (4) Where P is to be notified that an application has been withdrawn, the person effecting notification must explain to P:-
 
-(a) that the application has been withdrawn; and
+: (a) that the application has been withdrawn; and
 
-(b) the consequences of that withdrawal.
+: (b) the consequences of that withdrawal.
 
 (5) Where P is to be notified that a notice of appeal has been filed, the person effecting notification must explain to P:-
 
-(a) who the appellant is;
+: (a) who the appellant is;
 
-(b) the issues raised by the appeal;
+: (b) the issues raised by the appeal;
 
-(c) what will happen if the appeal is dismissed or allowed; and
+: (c) what will happen if the appeal is dismissed or allowed; and
 
-(d) the date on which the appeal is fixed for hearing.
+: (d) the date on which the appeal is fixed for hearing.
 
 (6) Where P is to be notified that a notice of appeal has been withdrawn, the person effecting notification must explain to P:-
 
-(a) that the notice of appeal has been withdrawn; and
+: (a) that the notice of appeal has been withdrawn; and
 
-(b) the consequences of that withdrawal.
+: (b) the consequences of that withdrawal.
 
 (7) Where P is to be notified that an order which affects P has been made by the Court, the person effecting notification must explain to P the effect of the order.
 
@@ -135,7 +123,7 @@ The medical report
 
 (10) The certificate of notification filed under Order 99, Rule 6(5) of the Rules of Court shall be in Form 26 of Appendix A of these Practice Directions.
 
-Dispensing with notification
+***Dispensing with notification***
 
 (11) Under the MCA, notification of P shall be the norm rather than the exception. However, in certain appropriate circumstances, the person required to notify P may apply to Court for an order to dispense with the requirement to notify P. Such an application would be appropriate where, for example, P is in a permanent vegetative state or a minimally conscious state, or where notification is likely to cause significant and disproportionate distress to P. The reasons for seeking dispensation of notification shall be stated in the supporting affidavit of the plaintiff or applicant.
 
@@ -152,28 +140,28 @@ P.
 
 (1) Where P ceases to lack capacity or dies, the following steps in sub-paragraphs (2) to (7) may, where relevant, need to be taken to finalise the court’s involvement in P’s affairs. 
 
-Application to end proceedings
+***Application to end proceedings***
 
 (2) Where P ceases to lack capacity in relation to the matter or matters to which the proceedings relate, an application may be made by any of the following people to the Court to end the proceedings and discharge any orders made in respect of that person:
 
-(a) P;
+: (a) P;
 
-(b) his litigation representative; or
+: (b) his litigation representative; or
 
-(c) any other person who is a party to the proceedings.
+: (c) any other person who is a party to the proceedings.
 
 (3) The application should be supported by evidence that P no longer lacks capacity to make decisions in relation to the matter or matters to which the proceedings relate.
 
-Applications where proceedings have concluded
+***Applications where proceedings have concluded***
 
 (4) Where P ceases to lack capacity after proceedings have concluded, an application may be made to the Court to discharge any orders made (including an order appointing a deputy or an order in relation to security).
 
 (5) The affidavit filed in support should exhibit the orders sought to be discharged and contain evidence that P no longer lacks capacity to make decisions in relation to the matter or matters to which the proceedings relate.
 
-Procedure to be followed when P dies
+***Procedure to be followed when P dies***
 
 (6) An application for final directions (including discharging an order appointing a deputy or discharging the security) may be made following P’s death. The application should be supported by an affidavit exhibiting a copy of P’s death certificate.  
 
-Discharge of security
+***Discharge of security***
 
 (7) The Public Guardian may require a deputy to submit a final report upon P ceasing to lack capacity or P’s death. If security has been ordered by the Court,  the Court must be satisfied that the Public Guardian either does not require a final report or is satisfied with the final report provided by the deputy before the said security can be discharged.

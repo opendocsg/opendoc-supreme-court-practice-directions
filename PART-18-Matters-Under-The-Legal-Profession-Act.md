@@ -1,13 +1,10 @@
 # PART XVIII: MATTERS UNDER THE LEGAL PROFESSION ACT
-&nsbp;
+&nbsp;
 
-134\. Applications for admission as an advocate and solicitor of the Supreme Court
-
-135\. “Part-call” applications pursuant to section 32(3) of the Legal Profession Act
-
-136\. Electronic applications for practising certificates
-
-137\. <span style="margin-left: 40px;">deleted</span>
+: 134\. Applications for admission as an advocate and solicitor of the Supreme Court 
+: 135\. “Part-call” applications pursuant to section 32(3) of the Legal Profession Act 
+: 136\. Electronic applications for practising certificates 
+: 137\. [\deleted\]
 
 ## 134. Applications for admission as an advocate and solicitor of the Supreme Court
 
@@ -19,9 +16,9 @@
 
 (4) The applicant shall file a Request for hearing together with the applicant's affidavit for admission as advocate and solicitor. In the Request for hearing, the applicant shall request the issuance of the following documents:
 
-(a) the instrument of admission under section 16(3) of the Legal Profession Act; and
+: (a) the instrument of admission under section 16(3) of the Legal Profession Act; and
 
-(b) the declaration required under Rule 30 of the Legal Profession (Admission) Rules 2011.
+: (b) the declaration required under Rule 30 of the Legal Profession (Admission) Rules 2011.
 
 The declaration will be generated for the applicant’s signature at the hearing if the applicant’s application for admission as an advocate and solicitor is granted. $120 is payable when filing the Request for hearing which includes $100 for the issuance of the instrument of admission (under the Legal Profession (Prescribed Fees) Rules).
 
@@ -29,9 +26,9 @@ The declaration will be generated for the applicant’s signature at the hearing
 
 (6) An applicant who is not able to comply with the applicable timelines may apply for an abridgment of time (“abridgement application”). An abridgment application shall be made by way of a summons, supported by an affidavit and filed through the Electronic Filing Service at least 14 days before the applicant’s intended admission hearing date (“Intended Call Date”). The abridgement application is to be served on the Attorney-General, the Law Society of Singapore and the Singapore Institute of Legal Education, any of whom may object to the abridgement application.
 
-(a) Where the abridgment application has been filed at least 14 days before the Intended Call Date, it will be fixed for hearing on the Monday before the Intended Call Date. If the abridgment application is granted, the admission application will be re-fixed for hearing on the Intended Call Date.
+: (a) Where the abridgment application has been filed at least 14 days before the Intended Call Date, it will be fixed for hearing on the Monday before the Intended Call Date. If the abridgment application is granted, the admission application will be re-fixed for hearing on the Intended Call Date.
 
-(b) Where the abridgment application is filed less than 14 days before the Intended Call Date, the abridgment application will be fixed on the Monday before the Original Call Date. If the applicant wishes to bring forward the hearing date to the Monday before the Intended Call Date, the applicant has to obtain the written consent of Attorney-General, the Law Society of Singapore and the Singapore Institute of Legal Education and file a Request to bring forward the hearing date of the abridgment application enclosing the relevant written consent.
+: (b) Where the abridgment application is filed less than 14 days before the Intended Call Date, the abridgment application will be fixed on the Monday before the Original Call Date. If the applicant wishes to bring forward the hearing date to the Monday before the Intended Call Date, the applicant has to obtain the written consent of Attorney-General, the Law Society of Singapore and the Singapore Institute of Legal Education and file a Request to bring forward the hearing date of the abridgment application enclosing the relevant written consent.
 
 ## 135. “Part-call” applications pursuant to section 32(3) of the Legal Profession Act
 
