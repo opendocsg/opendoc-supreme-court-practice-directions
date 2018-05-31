@@ -1,4 +1,4 @@
-# PART XII: TAXATION MATTERS AND COSTS
+# PART XII: Taxation Matters and Costs
 &nbsp;
 
 : 93\. Scope of certain paragraphs 

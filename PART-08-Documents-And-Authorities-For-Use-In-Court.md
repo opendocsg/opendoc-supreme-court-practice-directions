@@ -1,4 +1,4 @@
-# PART VIII: DOCUMENTS AND AUTHORITIES FOR USE IN COURT
+# PART VIII: Documents and Authorities For Use In Court
 &nbsp;
 
 : 69\. Filing of documents and authorities for use in Court 

@@ -1,4 +1,4 @@
-# PART XX: BANKRUPTCY AND WINDING UP MATTERS
+# PART XX: Bankruptcy and Winding Up Matters
 &nbsp;
 
 : 143\. Bankruptcy applications 

@@ -1,4 +1,4 @@
-# Part V: DISCOVERY AND INSPECTION OF ELECTRONICALLY STORED DOCUMENTS
+# Part V: Discovery and Inspection of Electronically Stored Documents
 &nbsp;
 
 : 44. Introduction 

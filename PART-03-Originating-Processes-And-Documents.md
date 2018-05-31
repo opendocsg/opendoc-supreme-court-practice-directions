@@ -1,4 +1,4 @@
-# PART III: ORIGINATING PROCESSES AND DOCUMENTS
+# Part III: Originating Processes and Documents
 &nbsp;
 
 : 30\. Originating Summonses 

@@ -1,4 +1,4 @@
-# PART VII: FIXING OF MATTERS FOR HEARING
+# PART VII: Fixing of Matters for Hearing
 &nbsp;
 
 : 64\. Waiting time for the hearing of matters 

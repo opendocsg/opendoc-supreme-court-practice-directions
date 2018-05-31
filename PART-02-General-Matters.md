@@ -1,4 +1,4 @@
-# PART II: GENERAL MATTERS
+# Part II: General Matters
 &nbsp;
 
 : 8\. Operating hours of the Supreme Court
