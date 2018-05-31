@@ -367,13 +367,21 @@ Access by parties to a case file
 
 (4) The Registry may require parties to a case to provide supporting documents to substantiate proposed amendments to other details of the electronic case file before the amendment is approved. For example, amendments to add or remove a party to the case have to be supported by an order of court; and amendments to change the name, gender, identification number, or marital status of a party to the case have to be substantiated by documentary proof.
 
-_**File inspection by non-parties or parties who are not registered users**_
+***File inspection by non-parties or parties who are not registered users***
 
 (5) <In order to inspect a case file, the following procedure should be followed:
+
+<!-- #########################################################################
+TODO: Replace formatting for expanded text
+########################################################################## -->
 
 : (a) A [Request](javascript:TextPopup\(this\))<span id="POPUP343133008" class="expandtext" style="display: none;"> Formerly known as “praecipe”   </span> should be made to obtain leave to inspect the file. The Request should state the name of the person who is to carry out the search or inspection. If this person is not a solicitor, his identity card number should also be included in the Request after his name, and a copy of his identity card should be provided. The Request should also state the interest that the applicant has in the matter, and the reason for the search or inspection. If the search or inspection is requested for the purpose of ascertaining information for use in a separate suit or matter, the Request should clearly state the nature of the information sought and the relevance of such information to the separate suit or matter.
 
 : (b) Once approval for inspection has been received from the Court,
+
+<!-- #########################################################################
+TODO: Add formatting for nested points
+########################################################################## -->
 
 : (i) registered users can inspect the case file online through the Electronic Filing Service;
 
@@ -397,27 +405,27 @@ Electronic cause books and registers maintained by the Registry
 
 (9) Order 60 of the Rules of Court provides that the Registry shall maintain information prescribed or required to be kept by the Rules of Court and Practice Directions issued by the Registrar.  In addition to any provisions in the Rules of Court, the Registrar hereby directs that the following information shall be maintained by the Registry:
 
-(a) details of all originating processes, including:
+: (a) details of all originating processes, including:
 
-(i) details of interlocutory applications;
+: (i) details of interlocutory applications;
 
-(ii) details of appeals filed therein;
+: (ii) details of appeals filed therein;
 
-(iii) details of admiralty proceedings;
+: (iii) details of admiralty proceedings;
 
-(iv) details of caveats filed against arrest of vessels;
+: (iv) details of caveats filed against arrest of vessels;
 
-(v) details of probate proceedings, including wills and caveats filed therein;
+: (v) details of probate proceedings, including wills and caveats filed therein;
 
-(vi) details of bankruptcy proceedings; and
+: (vi) details of bankruptcy proceedings; and
 
-(vii) details of winding up proceedings against companies and limited liability partnerships;
+: (vii) details of winding up proceedings against companies and limited liability partnerships;
 
-(b) details of writs of execution, writs of distress and warrants of arrest;
+: (b) details of writs of execution, writs of distress and warrants of arrest;
 
-(c) details of appeals filed in the Court of Appeal; and
+: (c) details of appeals filed in the Court of Appeal; and
 
-(d) any other information as may from time to time be found necessary.
+: (d) any other information as may from time to time be found necessary.
 
 (10) Searches of this information under Order 60, Rule 3 may be conducted  through the Electronic Filing Service at a service bureau or at the Legal Registry. The fees prescribed by Appendix B to the Rules of Court will be payable for such searches.
 
@@ -427,53 +435,53 @@ Electronic cause books and registers maintained by the Registry
 
 (1) For the purposes of the following paragraphs:
 
-(a) “personal data” shall have the same meaning as defined in the Personal Data Protection Act 2012 (Act No. 26 of 2012); and
+: (a) “personal data” shall have the same meaning as defined in the Personal Data Protection Act 2012 (Act No. 26 of 2012); and
 
-(b) “data subject” means a person whose personal data appears in any document filed in the Registry or an electronic cause book or register maintained by the Registry.
+: (b) “data subject” means a person whose personal data appears in any document filed in the Registry or an electronic cause book or register maintained by the Registry.
 
-Consent to collection, use or disclosure of personal data
+***Consent to collection, use or disclosure of personal data***
 
 (2) Consent to the collection, use or disclosure of personal data contained in any document filed with, served on, delivered or otherwise conveyed to the Registrar need not be obtained.
 
 (3) Pursuant to Order 60, Rule 2 of the Rules of Court, the Registrar may compile and maintain electronic cause books and registers by extracting information, including personal data, contained in any document filed with, served on, delivered or otherwise conveyed to the Registrar.
 
-Access to personal data
+***Access to personal data***
 
-(4) <span style="font-weight: bold;">Contained in documents filed with, served on, delivered or otherwise conveyed to the Registrar</span>.  A data subject who wishes to access his personal data contained in any document filed with, served on, delivered or otherwise conveyed to the Registrar must comply with the applicable provisions in the Rules of Court and these Practice Directions relating to the access to and inspection of case files.  A data subject shall not be entitled to request information about the ways in which his personal data contained in any document filed with, served on, delivered or otherwise conveyed to the Registrar has been used or disclosed. 
+(4) **Contained in documents filed with, served on, delivered or otherwise conveyed to the Registrar**.  A data subject who wishes to access his personal data contained in any document filed with, served on, delivered or otherwise conveyed to the Registrar must comply with the applicable provisions in the Rules of Court and these Practice Directions relating to the access to and inspection of case files.  A data subject shall not be entitled to request information about the ways in which his personal data contained in any document filed with, served on, delivered or otherwise conveyed to the Registrar has been used or disclosed. 
 
-(5) <span style="font-weight: bold;">Contained in electronic cause books and registers maintained by the Registry.</span>  A data subject who wishes to access his personal data contained in any electronic cause book or register must conduct a search through the Electronic Filing Service at a service bureau or at the Legal Registry and shall pay the fees prescribed by Appendix B to the Rules of Court.  A data subject shall not be entitled to request information about the ways in which his personal data contained in any electronic cause book or register has been used or disclosed. 
+(5) **Contained in electronic cause books and registers maintained by the Registry.**  A data subject who wishes to access his personal data contained in any electronic cause book or register must conduct a search through the Electronic Filing Service at a service bureau or at the Legal Registry and shall pay the fees prescribed by Appendix B to the Rules of Court.  A data subject shall not be entitled to request information about the ways in which his personal data contained in any electronic cause book or register has been used or disclosed. 
 
 Correction of personal data
 
-(6) <span style="font-weight: bold;">Contained in documents filed with, served on, delivered or otherwise conveyed to the Registrar</span>.  A data subject who wishes to correct any error or omission in his personal data in any document filed with, served on, delivered or otherwise conveyed to the Registrar must comply with the applicable provisions in the Rules of Court and these Practice Directions relating to the amendment of the relevant document. 
+(6) **Contained in documents filed with, served on, delivered or otherwise conveyed to the Registrar**.  A data subject who wishes to correct any error or omission in his personal data in any document filed with, served on, delivered or otherwise conveyed to the Registrar must comply with the applicable provisions in the Rules of Court and these Practice Directions relating to the amendment of the relevant document. 
 
-(7) <span style="font-weight: bold;">Contained in electronic cause books and registers maintained by the Registry</span>.  A data subject who wishes to correct any error or omission of his personal data in any electronic cause book or register maintained by the Registry shall comply with the following procedure:
+(7) **Contained in electronic cause books and registers maintained by the Registry**.  A data subject who wishes to correct any error or omission of his personal data in any electronic cause book or register maintained by the Registry shall comply with the following procedure:
 
-(a) The request to correct the error or omission must be made in writing by the data subject or by his solicitor, together with the reason for the requested correction.  The request must clearly identify the record and the personal data to be corrected; 
+: (a) The request to correct the error or omission must be made in writing by the data subject or by his solicitor, together with the reason for the requested correction.  The request must clearly identify the record and the personal data to be corrected; 
 
-(b) If the data subject is not represented, his identity card number should also be included in the request and a copy of his identify card should be provided; and
+: (b) If the data subject is not represented, his identity card number should also be included in the request and a copy of his identify card should be provided; and
 
-(c) The following documents should accompany the request:
+: (c) The following documents should accompany the request:
 
-(i) recent copy of the record identifying the error or omission; and
+: (i) recent copy of the record identifying the error or omission; and
 
-(ii) supporting document(s) to substantiate the proposed correction.
+: (ii) supporting document(s) to substantiate the proposed correction.
 
-<span>(8) Where a correction is made pursuant to a request under sub-paragraph (7), any information that is licensed for use under paragraph 24(11) will be updated accordingly with the corrected personal data.</span>
+(8) Where a correction is made pursuant to a request under sub-paragraph (7), any information that is licensed for use under paragraph 24(11) will be updated accordingly with the corrected personal data.
 
 ## 25\. Instruments creating power of attorney
 
-(1) <span id="Sub-para_1"></span>To deposit an instrument creating a power of attorney under Order 60, Rule 6 of the Rules of Court, the instrument and other supporting documents, if any, are to be filed, served, delivered or otherwise conveyed to the Court through the Electronic Filing Service or the service bureau. 
+(1) To deposit an instrument creating a power of attorney under Order 60, Rule 6 of the Rules of Court, the instrument and other supporting documents, if any, are to be filed, served, delivered or otherwise conveyed to the Court through the Electronic Filing Service or the service bureau. 
 
 (2) The directions set out in sub-paragraph (1) will also apply to a party who wishes to file a document which alters the powers created in an instrument that is filed, served, delivered or otherwise conveyed to the Court on or after 28 May 2002. If the document relates to an instrument that is presented for deposit before 28 May 2002, the document must be filed manually in hard copy form.
 
-(3) <span id="Sub-para_3"></span>The Legal Registry of the Supreme Court will not accept a document named as a deed of revocation if the deed only seeks to partially revoke the powers created in an instrument.
+(3) The Legal Registry of the Supreme Court will not accept a document named as a deed of revocation if the deed only seeks to partially revoke the powers created in an instrument.
 
-(4) <span id="Sub-para_4"></span>Where the instrument creating a power of attorney is executed by a corporation and the corporation does not have a common seal, an affidavit in support of the application under Order 60, Rule 6 should be filed on behalf of the corporation:
+(4) Where the instrument creating a power of attorney is executed by a corporation and the corporation does not have a common seal, an affidavit in support of the application under Order 60, Rule 6 should be filed on behalf of the corporation:
 
-(a) to affirm the requirements for a valid execution of the power of attorney in accordance with the laws and practices of the corporation’s country of incorporation; and
+: (a) to affirm the requirements for a valid execution of the power of attorney in accordance with the laws and practices of the corporation’s country of incorporation; and
 
-(b) to satisfy the Court that the requirements have been complied with.
+: (b) to satisfy the Court that the requirements have been complied with.
 
 (5) A party may rely on the same affidavit in a subsequent filing of separate instruments on behalf of the same corporation by indicating on the top right hand corner of the instrument the following statement: “Reference is made to affidavit of \[name\] filed on \[date\] in PA No. (xxxxxx) of (xxxx).”
 
@@ -481,9 +489,9 @@ Correction of personal data
 
 ## 26. Filing directions to the Accountant-General for payment into and out of Court
 
-(1) <span id="Sub-para_1"></span>Where monies are sought to be paid into Court pursuant to a judgment or order of the Court, a copy of the judgment or order must be referenced in the draft direction to the Accountant-General for payment in and submitted to the Legal Registry of the Supreme Court for approval.
+(1) Where monies are sought to be paid into Court pursuant to a judgment or order of the Court, a copy of the judgment or order must be referenced in the draft direction to the Accountant-General for payment in and submitted to the Legal Registry of the Supreme Court for approval.
 
-(2) <span id="Sub-para_2"></span>Where monies are sought to be paid out of Court pursuant to a judgment or order of the Court, pursuant to the acceptance of a payment into Court made under Order 22 of the Rules of Court or pursuant to Order 57, Rule 11, a copy of the judgment or order, or of the notice in Form 32 of Appendix A to the Rules of Court, or of the written consent attached to the draft direction to the Accountant-General for payment out, must be submitted to the Legal Registry for approval.
+(2) Where monies are sought to be paid out of Court pursuant to a judgment or order of the Court, pursuant to the acceptance of a payment into Court made under Order 22 of the Rules of Court or pursuant to Order 57, Rule 11, a copy of the judgment or order, or of the notice in Form 32 of Appendix A to the Rules of Court, or of the written consent attached to the draft direction to the Accountant-General for payment out, must be submitted to the Legal Registry for approval.
 
 (3) Each draft direction for payment into or payment out of Court shall contain amounts in a single currency. Where monies in different currencies are to be paid into or out of Court, separate draft directions must be prepared for each currency in which payment is to be made. 
 
@@ -491,28 +499,28 @@ Correction of personal data
 
 (1) All Requests relating to or in connection with any pending cause or matter are to be made using the electronic forms available through the Electronic Filing Service. Where an electronic form is available through the Electronic Filing Service for the Request that is sought, the Registry has the discretion to refuse acceptance of other forms of written correspondence (including letters or facsimiles) and to refuse to act on such correspondence. 
 
-(1A) All correspondence to the Court relating to or in connection with any pending cause or matter shall be copied to all other parties to the cause or matter or to their solicitors unless there are good reasons for not so doing. Solicitors are further reminded that the Court should not be copied on correspondence between parties or their solicitors. The Registry has the discretion to reject or refuse to act on any inappropriate or <span style="font-style: italic;">*ex parte*</span> correspondence.
+(1A) All correspondence to the Court relating to or in connection with any pending cause or matter shall be copied to all other parties to the cause or matter or to their solicitors unless there are good reasons for not so doing. Solicitors are further reminded that the Court should not be copied on correspondence between parties or their solicitors. The Registry has the discretion to reject or refuse to act on any inappropriate or *ex parte* correspondence.
 
-(2) <span id="Sub-para_1"></span>Apart from Requests coming within sub-paragraph (1), all correspondence relating to or in connection with any cause or matter before the Court of Appeal or a Judge shall be addressed to the Registrar.
+(2) Apart from Requests coming within sub-paragraph (1), all correspondence relating to or in connection with any cause or matter before the Court of Appeal or a Judge shall be addressed to the Registrar.
 
 (3) In addition, all letters should be captioned with the number of the cause to which they relate and the names of the parties. For example:
 
-SUIT NO. 1 OF 2012 <span style="font-weight: normal;">(if a writ action)</span>;
+: **SUIT NO. 1 OF 2012** (if a writ action);
 
-<span style="font-weight: bold;">Between AB</span> (and <span style="font-weight: bold;">ANOR</span> or <span style="font-weight: bold;">ORS</span>, if there are 2 or more plaintiffs, as the case may be) <span style="font-weight: bold;">and CD</span> (and <span style="font-weight: bold;">ANOR</span> or <span style="font-weight: bold;">ORS</span>, if there are 2 or more defendants, as the case may be)
+: **Between AB** (and **ANOR** or **ORS**, if there are 2 or more plaintiffs, as the case may be) **and CD** (and **ANOR** or **ORS**, if there are 2 or more defendants, as the case may be)
 
 If the correspondence relates to an interlocutory application, the reference number of that application should be stated in the caption
 below the parties’ names. For example:
 
-SUMMONS NO. 1 OF 2012
+: **SUMMONS NO. 1 OF 2012**
 
 (4) Compliance with the directions in this paragraph will facilitate the expeditious location of the relevant cause file.
 
-(5) <span id="Sub-para_4"></span>A letter may be sent to the Court by a law firm only in one of 2 ways:
+(5) A letter may be sent to the Court by a law firm only in one of 2 ways:
 
-(a) <span id="Sub-para_4_a"></span>Using the Electronic Filing Service; or
+: (a) Using the Electronic Filing Service; or
 
-(b) By facsimile transmission.
+: (b) By facsimile transmission.
 
 If a letter is sent to the Court by a law firm in any other way, it is liable to be rejected. If a letter is sent to the Court by a law firm without the information specified in sub-paragraph (2), it is also liable to be rejected.
 
@@ -547,7 +555,7 @@ Scope of electronic system
 
 Registrar’s discretion
 
-(4) <span id="Sub-para_4"></span>Unless otherwise approved by the Registrar, payment of Court fees collected over-the-counter must be made by electronic means. The Registrar may, in any case, waive the requirement for the payment to be effected by electronic means, on such terms and conditions as he or she deems fit. 
+(4) Unless otherwise approved by the Registrar, payment of Court fees collected over-the-counter must be made by electronic means. The Registrar may, in any case, waive the requirement for the payment to be effected by electronic means, on such terms and conditions as he or she deems fit. 
 
 ## 29A. Publication of and reports and comments on Court cases
 
@@ -563,9 +571,9 @@ Registrar’s discretion
 
 (1) All originating processes and summons filed in the Supreme Court on or after 1 January 2015 shall bear case numbers in the following format:
 
-Description of Court/ Type of Application \[Case number\]/ Year filed
+__**Description of Court/ Type of Application \[Case number\]/ Year filed**__
 
-For example<span style="text-decoration: none;">:</span>
+__For example:__
 
 |                                      |                                                                       |
 | ------------------------------------ | --------------------------------------------------------------------- |
