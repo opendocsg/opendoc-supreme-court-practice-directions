@@ -1,6 +1,5 @@
 # Part I: Introduction
-
-&nsbp;
+&nbsp;
 
 : 1\. Citation
 
