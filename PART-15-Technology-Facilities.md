@@ -1,4 +1,4 @@
-# PART XV: Technology Facilities
+# Part XV: Technology Facilities
 &nbsp;
 
 : 120\. Use of the Technology Courts and the Mobile Infocomm Technology Facilities 

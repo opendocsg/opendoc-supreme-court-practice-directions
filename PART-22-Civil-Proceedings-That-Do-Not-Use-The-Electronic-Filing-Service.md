@@ -1,4 +1,4 @@
-# PART XXII: Civil Proceedings That Do Not Use The Electronic Filing Service
+# Part XXII: Civil Proceedings That Do Not Use The Electronic Filing Service
 &nbsp;
 
 : 153\. Application 

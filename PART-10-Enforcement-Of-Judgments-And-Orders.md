@@ -1,4 +1,4 @@
-# PART X: Enforcement of Judgments and Orders
+# Part X: Enforcement of Judgments and Orders
 &nbsp;
 
 : 78\. Filing of writs of execution

@@ -1,4 +1,4 @@
-# PART XIII: Electronic Filing and Service
+# Part XIII: Electronic Filing and Service
 &nbsp;
 
 : 100\. Application 

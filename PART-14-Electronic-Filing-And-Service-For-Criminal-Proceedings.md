@@ -1,4 +1,4 @@
-# PART XIV: Electronic Filing and Service for Criminal Proceedings
+# Part XIV: Electronic Filing and Service for Criminal Proceedings
 &nbsp;
 
 : 116\. Application 

@@ -1,4 +1,4 @@
-# PART XI: Appeals and Hearings Before Court of 3 Judges
+# Part XI: Appeals and Hearings Before Court of 3 Judges
 &nbsp;
 
 : 81\. Application of this Part 

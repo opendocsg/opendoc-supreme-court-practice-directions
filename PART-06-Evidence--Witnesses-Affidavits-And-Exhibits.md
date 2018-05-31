@@ -1,4 +1,4 @@
-# PART VI: Evidence - Witnesses, Affidavits and Exhibits
+# Part VI: Evidence - Witnesses, Affidavits and Exhibits
 &nbsp;
 
 : 56\. Witnesses 

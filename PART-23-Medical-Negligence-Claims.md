@@ -1,4 +1,4 @@
-# PART XXIII: Medical Negligence Claims
+# Part XXIII: Medical Negligence Claims
 &nbsp;
 
 : 158\. Compliance with protocol

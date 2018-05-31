@@ -1,4 +1,4 @@
-# PART XVI: Admiralty Matters
+# Part XVI: Admiralty Matters
 &nbsp;
 
 : 124\. Arrest of ships by the Sheriff 

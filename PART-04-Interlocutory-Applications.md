@@ -1,4 +1,4 @@
-# PART IV: Interlocutory Applications
+# Part IV: Interlocutory Applications
 &nbsp;
 
 : 36\. Distribution of applications 
