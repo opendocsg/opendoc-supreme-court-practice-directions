@@ -1,31 +1,19 @@
 # PART IV: INTERLOCUTORY APPLICATIONS
-&nsbp;
+&nbsp;
 
-36\. Distribution of applications
-
-37\. Filing of summonses
-
-• All interlocutory applications to be made by summons
-
-• “<span style="font-style: italic;">*Ex parte*</span>” and “by consent” summonses
-
-37A. Filing of Distinct Applications in Separate Summonses
-
-38\. Summonses to be heard in open Court
-
-39\. Summonses for directions
-
-40\. Transfer of proceedings to the State Courts
-
-41\. Ex parte applications for injunctions
-
-42\. Mareva injunctions and search orders
-
-• Applications for search orders
-
-42A. Documents in support of ex parte applications for injunctions (including Mareva injunctions) and search orders
-
-43\. Applications for discovery or interrogatories against network service providers
+: 36\. Distribution of applications 
+: 37\. Filing of summonses 
+: • All interlocutory applications to be made by summons 
+: • ***Ex parte*** and “by consent” summonses 
+: 37A. Filing of Distinct Applications in Separate Summonses 
+: 38\. Summonses to be heard in open Court 
+: 39\. Summonses for directions 
+: 40\. Transfer of proceedings to the State Courts 
+: 41\. Ex parte applications for injunctions 
+: 42\. Mareva injunctions and search orders 
+: • Applications for search orders 
+: 42A. Documents in support of ex parte applications for injunctions (including Mareva injunctions) and search orders 
+: 43\. Applications for discovery or interrogatories against network service providers
 
 ## 36. Distribution of applications
 
