@@ -4,10 +4,10 @@
 : 153\. Application 
 : 154\. Information to be provided in cause papers and documents that are filed in the Legal Registry of the Supreme Court 
 : 155\. Form of affidavits 
-: • Binding of affidavits 
+: * Binding of affidavits 
 : 156\. Documentary exhibits to affidavits 
-: • Dividing sheets 
-: • More than 10 documentary exhibits 
+: * Dividing sheets 
+: * More than 10 documentary exhibits 
 : 157\. File inspection and obtaining hard copy extracts or certified true copies of documents
 
 ## 153. Application

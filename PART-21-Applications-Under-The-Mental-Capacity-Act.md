@@ -4,16 +4,16 @@
 : 147\. Transfer of mental capacity proceedings to District Court 
 : 148\. Documents to be filed at the Legal Registry of the Supreme Court at the Supreme Court Building 
 : 149\. Doctor's affidavit exhibiting medical report 
-: • Affidavit by doctor required 
-: • The medical report 
+: * Affidavit by doctor required 
+: * The medical report 
 : 150\. Notification 
-: • Dispensing with notification 
+: * Dispensing with notification 
 : 151\. Application subsequent to the appointment of deputy 
 : 152\. Where P ceases to lack capacity or dies 
-: • Application to end proceedings 
-: • Applications where proceedings have concluded 
-: • Procedure to be followed when P dies 
-: • Discharge of security
+: * Application to end proceedings 
+: * Applications where proceedings have concluded 
+: * Procedure to be followed when P dies 
+: * Discharge of security
 
 ## 147. Transfer of mental capacity proceedings to District Court
 

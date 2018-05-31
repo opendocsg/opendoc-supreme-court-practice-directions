@@ -2,27 +2,27 @@
 &nbsp;
 
 : 30\. Originating Summonses 
-: • Forms for originating summonses 
-: • Originating summonses to be heard in open Court 
+: * Forms for originating summonses 
+: * Originating summonses to be heard in open Court 
 : 31\. Identification numbers to be stated in cause papers 
-: • Parties named in the title of the documents 
-: • Parties not named in the title of the documents 
-: • Documents filed by 2 or more parties 
-: • Identification numbers for non-parties 
-: • Special cases 
-: • Identification numbers 
-: • Guidelines for the selection of identification numbers 
-: • Inability to furnish identification number at the time of filing a document 
-: • Meaning of document 
-: • Non-compliance 
+: * Parties named in the title of the documents 
+: * Parties not named in the title of the documents 
+: * Documents filed by 2 or more parties 
+: * Identification numbers for non-parties 
+: * Special cases 
+: * Identification numbers 
+: * Guidelines for the selection of identification numbers 
+: * Inability to furnish identification number at the time of filing a document 
+: * Meaning of document 
+: * Non-compliance 
 : 32\. Personal service of processes and documents 
 : 33\. Substituted service 
 : 34\. Endorsements on originating processes and other documents 
 : 35\. Amendment of documents 
-: • Application 
-: • Amendment of any document 
-: • Amendment of pleadings 
-: • Amendment endorsements on electronic forms
+: * Application 
+: * Amendment of any document 
+: * Amendment of pleadings 
+: * Amendment endorsements on electronic forms
 : 35A. Pleadings
 
 ## 30. Originating Summonses

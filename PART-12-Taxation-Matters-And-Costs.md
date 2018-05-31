@@ -3,11 +3,11 @@
 
 : 93\. Scope of certain paragraphs 
 : 94\. Form of bill of costs 
-: • Margin 
-: • Pagination 
-: • Format 
-: • Particulars 
-: • Goods and services tax 
+: * Margin 
+: * Pagination 
+: * Format 
+: * Particulars 
+: * Goods and services tax 
 : 95\. Electronic filing of bills of costs for taxation 
 : 96\. Objections 
 : 97\. Amount allowed as disbursements on account of use of electronic transmission 

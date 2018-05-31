@@ -2,23 +2,23 @@
 &nbsp;
 
 : 44. Introduction 
-: • Location of electronically stored documents 
-: • Meaning of “metadata information” 
-: • Meaning of “not reasonably accessible documents” 
-: • Meaning of “forensic inspection” 
+: * Location of electronically stored documents 
+: * Meaning of “metadata information” 
+: * Meaning of “not reasonably accessible documents” 
+: * Meaning of “forensic inspection” 
 : 45\. Electronic discovery plans during general discovery 
 : 46\. Discovery of metadata information 
 : 47\. Reasonable searches for electronically stored documents 
-: • Applications to Court 
-: • Review for the purpose of asserting privilege 
+: * Applications to Court 
+: * Review for the purpose of asserting privilege 
 : 48\. Proportionality and economy 
 : 49\. Form of list 
 : 50\. Inspection of electronically stored documents 
-: • Inspection of computer databases 
+: * Inspection of computer databases 
 : 51\. Forensic inspection of electronic media or recording devices 
 : 52\. Supply of copies of electronically stored documents 
-: • Requests for the supply of copies 
-: • Applications for the supply of copies 
+: * Requests for the supply of copies 
+: * Applications for the supply of copies 
 : 53\. Discovery by the supply of copies in lieu of inspection 
 : 54\. Restriction on use of privileged document, inspection of which has been inadvertently allowed 
 : 55\. Costs

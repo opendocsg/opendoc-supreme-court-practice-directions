@@ -2,18 +2,18 @@
 &nbsp;
 
 : 56\. Witnesses 
-: • Issuance of subpoenas 
-: • Release of witness upon completion of evidence 
+: * Issuance of subpoenas 
+: * Release of witness upon completion of evidence 
 : 57\. Form of affidavits 
 : 58\. Non-documentary exhibits to affidavits 
 : 59\. Documentary exhibits to affidavits 
-: • More than 10 documentary exhibits 
-: • Pagination 
-: • Dividing sheets 
-: • Bookmarks 
-: • Numbering 
-: • References to exhibits in other affidavits 
-: • Related documents 
+: * More than 10 documentary exhibits 
+: * Pagination 
+: * Dividing sheets 
+: * Bookmarks 
+: * Numbering 
+: * References to exhibits in other affidavits 
+: * Related documents 
 : 60\. Swearing or affirming of documents by deponents who are blind or illiterate in English 
 : 61\. Effect of non-compliance 
 : 62\. Objections to the contents of affidavits of evidence-in-chief 

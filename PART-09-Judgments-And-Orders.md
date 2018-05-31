@@ -4,11 +4,11 @@
 : 75\. Draft orders 
 : 76\. Judgment in default of appearance or service of defence 
 : 77\. Judgment Interest 
-: • Interest rates in default judgments 
-: • Post-judgment interest 
-: • Interest on costs 
-: • Pre-judgment interest 
-: • Interest under Order 30, Rule 6(2) 
+: * Interest rates in default judgments 
+: * Post-judgment interest 
+: * Interest on costs 
+: * Pre-judgment interest 
+: * Interest under Order 30, Rule 6(2) 
 : 77A. Consent judgments or orders involving disposition or transfer of property
 
 ## 75. Draft orders

@@ -2,24 +2,24 @@
 &nbsp;
 
 : 69\. Filing of documents and authorities for use in Court 
-: • Bundle of authorities 
+: * Bundle of authorities 
 : 70\. Bundle of documents filed on setting down 
-: • Directions for electronic creation and filing of bundles of documents 
+: * Directions for electronic creation and filing of bundles of documents 
 : 71\. Documents for use in trials of writ actions in open Court 
-: • Only opening statement to be filed through the Electronic Filing Service 
-: • Timeline for filing documents 
-: • Bundles of documents 
-: • Bundles of authorities 
-: • Opening statements 
+: * Only opening statement to be filed through the Electronic Filing Service 
+: * Timeline for filing documents 
+: * Bundles of documents 
+: * Bundles of authorities 
+: * Opening statements 
 : 72\. Bundles of authorities for other open Court hearings 
 : 73\. Hearings in Chambers 
 : 73A. Written submissions and bundles of authorities for special date hearings 
 : 74\. Citation of judgments 
-: • Use of judgments as authorities in submissions 
-: • Use of judgments from foreign jurisdictions 
-: • Citation practice 
-: • The neutral citation system for local judgments 
-: • Ancillary provisions
+: * Use of judgments as authorities in submissions 
+: * Use of judgments from foreign jurisdictions 
+: * Citation practice 
+: * The neutral citation system for local judgments 
+: * Ancillary provisions
 
 ## 69\. Filing of documents and authorities for use in Court
 

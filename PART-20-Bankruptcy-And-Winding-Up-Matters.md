@@ -5,10 +5,10 @@
 : 144\. Applications to set aside statutory demands made under the Bankruptcy Rules 
 : 145\. Judicial Management and Winding Up applications under the Companies Act 
 : 146\. Documents for use in open Court trials of contested winding-up applications 
-: • Bundles of documents 
-: • Bundles of authorities 
-: • Opening statements 
-: • Timeline for tendering documents
+: * Bundles of documents 
+: * Bundles of authorities 
+: * Opening statements 
+: * Timeline for tendering documents
 
 ## 143. Bankruptcy applications
 

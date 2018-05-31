@@ -4,9 +4,9 @@
 : 81\. Application of this Part 
 : 82\. Requests for further arguments before the Judge or Registrar 
 : 83\. Civil appeals before the High Court from the State Courts 
-: • Appeals under Order 55D of the Rules of Court 
-: • Appeals from the Family Court 
-: • Appeals from the Employment Claims Tribunal 
+: * Appeals under Order 55D of the Rules of Court 
+: * Appeals from the Family Court 
+: * Appeals from the Employment Claims Tribunal 
 : 84\. Civil appeals before the High Court from tribunal or person under Order 55 of the Rules of Court 
 : 85\. Whether an appeal to the Court of Appeal is to be heard by a 2 or 3 Judge Court of Appeal 
 : 85A. Whether an appeal to the Court of Appeal is to be heard by 5 or any greater uneven number of Judges 
@@ -18,23 +18,23 @@
 : 87B. Requests for waiver or deferment of appeal court fees 
 : 88\. Hard copies and soft copies for hearing of civil appeals before the Court of Appeal under Order 57 of the Rules of Court 
 : 89\. Preparation of appeal records in civil appeals to the Court of Appeal 
-: • Arrangement 
-: • Pagination in soft copy 
-: • Table of contents 
-: • Spacing 
-: • Core bundles – Order 57, Rule 9(2A) 
-: • Responsibility for good order and completeness of appeal records 
-: • Superfluous and irrelevant documents 
+: * Arrangement 
+: * Pagination in soft copy 
+: * Table of contents 
+: * Spacing 
+: * Core bundles – Order 57, Rule 9(2A) 
+: * Responsibility for good order and completeness of appeal records 
+: * Superfluous and irrelevant documents 
 : 89A\. Bundle of documents filed with leave of the Court of Appeal 
 : 90\. Skeletal arguments for appeals before the High Court, Court of Appeal and Court of 3 Judges 
-: • Skeletal arguments for civil matters before the Court of Appeal 
-: • Timelines for submission of skeletal arguments for appeal before the High Court 
-: • Application of this paragraph to Court of 3 Judges 
+: * Skeletal arguments for civil matters before the Court of Appeal 
+: * Timelines for submission of skeletal arguments for appeal before the High Court 
+: * Application of this paragraph to Court of 3 Judges 
 : 91\. Use of presentation slides for all proceedings before the High Court, Court of Appeal and Court of 3 Judges 
-: • Typeface 
-: • Colours 
-: • Animation and sounds 
-: • Corporate logos 
+: * Typeface 
+: * Colours 
+: * Animation and sounds 
+: * Corporate logos 
 : 92\. Further arguments before the Court of Appeal
 
 ## 81\. Application of this Part
