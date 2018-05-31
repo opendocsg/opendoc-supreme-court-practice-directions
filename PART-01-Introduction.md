@@ -1,4 +1,5 @@
-# PART I: INTRODUCTION
+# Part I: Introduction
+
 &nsbp;
 
 : 1\. Citation
