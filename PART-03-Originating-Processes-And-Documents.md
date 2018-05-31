@@ -33,7 +33,7 @@ Forms for originating summonses
 
 (2) The former Form 6 of Appendix A of the Rules of Court (originating summons where appearance is required) has been deleted with effect from 1 January 2006. Solicitors’ attention is drawn to Order 12, Rule 9 of the Rules of Court which provides that no appearance need be entered to an originating summons.
 
-(3) Where any legislation requires a party to file an originating summons and the form is not provided within the legislation, the originating summons must be filed using either Form 4 (Originating Summons) or Form 5 (***Ex Parte*** Originating Summons) of Appendix A of the Rules of Court.
+(3) Where any legislation requires a party to file an originating summons and the form is not provided within the legislation, the originating summons must be filed using either Form 4 (Originating Summons) or Form 5 (*Ex Parte* Originating Summons) of Appendix A of the Rules of Court.
 
 (4) The parties in Form 4 of Appendix A of the Rules of Court must be stated as “plaintiff” and “defendant”, or “appellant” and “respondent”, as the case may be.
 
@@ -110,6 +110,7 @@ Originating summonses to be heard in open Court
 <!-- #########################################################################
 TODO: Replace formatting for expanded text
 ########################################################################## -->
+
 
 (a) where a party is represented by a litigation [representative](javascript:TextPopup\(this\))<span id="POPUP80245594" class="expandtext" style="display: none;">Formerly known as “next friend"</span> or guardian in [adoption](javascript:TextPopup\(this\))<span id="POPUP80262809" class="expandtext" style="display: none;">Formerly known as “guardian ad litem" </span>, sub-paragraphs (1) to (3) shall apply to the litigation representative or guardian in adoption as if he or she was a party to the proceedings, and the identification numbers of the party, the litigation representative and/or the guardian in adoption must be stated after their names; 
 
@@ -258,6 +259,7 @@ Amendment of any document
 <!-- #########################################################################
 TODO: Add formatting for nested points
 ########################################################################## -->
+
 
 : (i) deletions shall be made by drawing a single line across the words to be deleted; and
 

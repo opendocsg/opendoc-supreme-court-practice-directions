@@ -44,6 +44,7 @@ Pursuant to Order 63A, Rule 4 of the Rules of Court, the Registrar appoints Crim
 TODO: Add formatting for nested points
 ########################################################################## -->
 
+
 : (i) a recent business profile report from the Accounting and Corporate Regulatory Authority (ACRA) of the registered user;
 
 : (ii) an application form including the subscriber agreement for subscription to the Electronic Filing Service; and

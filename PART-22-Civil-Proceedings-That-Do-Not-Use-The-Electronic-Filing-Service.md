@@ -68,6 +68,7 @@ corner of the backing sheets.
 TODO: Replace formatting for expanded text
 ########################################################################## -->
 
+
 : (a) A hard copy [Request](javascript:TextPopup\(this\))<span id="POPUP132962134" class="expandtext" style="display: none;"> Formerly known as “praecipe” </span>  should be submitted to obtain leave to inspect the case file. The Request should state the name of the person who is to carry out the search or inspection. If this person is not a solicitor, his identity card number should also be included in the Request, after his name and a copy of his identity card should be provided. The Request should also state the interest that the applicant has in the matter, and the reason for the search or inspection. If the search or inspection is requested for the purpose of ascertaining information for use in a separate suit or matter, the Request should clearly state the nature of the information sought and the relevance of such information to the separate suit or matter.
 
 : (b) Once approval for inspection has been received from the Court, a copy of the approval should be presented at the service bureau.

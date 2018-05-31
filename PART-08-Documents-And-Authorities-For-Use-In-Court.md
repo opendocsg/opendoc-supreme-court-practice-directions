@@ -151,6 +151,7 @@ Bundles of documents
 TODO: Add formatting for nested points
 ########################################################################## -->
 
+
 : (i) be firmly secured together with plastic ring binding or plastic spine thermal binding. The rings or spines should be red for plaintiffs and blue for defendants with a transparent plastic cover in front and at the back;
 
 : (ii) have flags to mark out documents to which repeated references will be made in the course of hearing. Such flags shall bear the appropriate indicium by which the document is indicated in the index of contents. Flags shall be spaced out evenly along the right side of the bundle so that, as far as possible, they do not overlap one another; and
@@ -195,6 +196,7 @@ TODO: Add formatting for nested points
 TODO: Add formatting for nested points
 ########################################################################## -->
 
+
 : (i) the nature of the case generally and the background facts insofar as they are relevant to the matter before the Court and indicating which facts, if any, are agreed;
 
 : (ii) the precise legal and factual issues involved are to be identified with cross-references as appropriate to the pleadings. These issues should be numbered and listed, and each point should be stated in no more than one or two sentences. The object here is to identify the issues in dispute and state each party’s position clearly, not to argue or elaborate on them;
@@ -212,6 +214,7 @@ TODO: Add formatting for nested points
 <!-- #########################################################################
 TODO: Add formatting for nested points
 ########################################################################## -->
+
 
 : (i) all pages shall be paginated, with the first page (including the cover page) numbered as ‘Page 1’ so that the page numbers of the hard copy correspond to the page numbers in the Portable Document Format (PDF) version;
 

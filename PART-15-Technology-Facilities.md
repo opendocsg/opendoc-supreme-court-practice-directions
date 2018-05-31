@@ -34,6 +34,7 @@
 TODO: Add formatting for nested points
 ########################################################################## -->
 
+
 : (a) the witness is below the age of 16 years;
 
 : (b) it is expressly agreed between the parties to the proceedings that evidence may be so given;
@@ -48,6 +49,7 @@ TODO: Add formatting for nested points
 TODO: Add formatting for nested points
 ########################################################################## -->
 
+
 : (a) the reasons for the witness being unable to give evidence in Singapore;
 
 : (b) the administrative and technical facilities and arrangements made at the place where the witness is to give his evidence; and
@@ -59,6 +61,7 @@ TODO: Add formatting for nested points
 <!-- #########################################################################
 TODO: Add formatting for nested points
 ########################################################################## -->
+
 
 : (a) the persons who may be present at the place where the witness is giving evidence;
 
@@ -81,6 +84,7 @@ TODO: Add formatting for nested points
 <!-- #########################################################################
 TODO: Add formatting for nested points
 ########################################################################## -->
+
 
 : (a) the live video or live television link system stops working and it would cause unreasonable delay to wait until a working system becomes available;
 

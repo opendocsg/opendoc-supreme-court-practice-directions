@@ -44,6 +44,7 @@ The attention of solicitors is drawn to Rules 24 and 31 and Appendix 1 of Order 
 TODO: Add formatting for nested points
 ########################################################################## -->
 
+
 : (i) A bill of costs drawn up for taxation between one party to proceedings and another should be divided into 3 separate sections as required by Order 59, Rule 24.
 
 : (ii) Form 16 in Appendix A of these Practice Directions should be used for contentious business in respect of work done for a trial or in contemplation of a trial.
@@ -63,6 +64,7 @@ TODO: Add formatting for nested points
 <!-- #########################################################################
 TODO: Add formatting for nested points
 ########################################################################## -->
+
 
 : (i) A solicitor will be deemed to have indicated that all items included in the bill are in relation to work done or disbursements incurred with the approval of the client.
 
@@ -94,6 +96,7 @@ TODO: Add formatting for nested points
 TODO: Add formatting for nested points
 ########################################################################## -->
 
+
 : (i) The GST registration number allocated by the Comptroller of Goods and Services Tax to the solicitors for the receiving party or parties should appear at the top left-hand corner of the first page of the bill of costs.
 
 : (ii) The GST registration numbers, if any, allocated to the receiving parties or to any one or more of them, as the case may be, must also appear at the same location in all documents.
@@ -114,6 +117,7 @@ TODO: Add formatting for nested points
 TODO: Add formatting for nested points
 ########################################################################## -->
 
+
 : (i) The first and second sections of the bill of costs, which set out the work done in the cause or matter except for taxation of costs and the work done for and in the taxation of costs, should each be divided into such number of parts as will enable the bill to reflect the different rates of GST applicable during the relevant period of time.
 
 : (ii) The third section, which sets out the disbursements made in the cause or matter, should similarly be divided, with the first part setting out the disbursements on which no GST is chargeable by the solicitors for the receiving party or the receiving party, as the case may be. 
@@ -125,6 +129,7 @@ TODO: Add formatting for nested points
 <!-- #########################################################################
 TODO: Add formatting for nested points
 ########################################################################## -->
+
 
 : (i) the global sum of costs claimed for work done during each period for which a different rate of GST applies or no GST applies;
 
@@ -141,6 +146,7 @@ TODO: Add formatting for nested points
 <!-- #########################################################################
 TODO: Add formatting for nested points
 ########################################################################## -->
+
 
 : (i) a summation of the disbursements on which no GST is chargeable by the solicitors for the receiving party or the receiving party, as the case may be; a summation of the disbursements on which GST at the applicable rate is chargeable by the solicitors for the receiving party or the receiving party, as the case may be;
 
@@ -204,6 +210,7 @@ TODO: Add formatting for nested points
 TODO: Add formatting for nested points
 ########################################################################## -->
 
+
 : (i) where no party-and-party bill of costs has been filed; or
 
 : (ii) where the solicitor-and-client costs is not referenced to a party-and-party bill filed earlier,
@@ -215,6 +222,7 @@ the receiving party and the Public Trustee need not attend at the taxation and t
 <!-- #########################################################################
 TODO: Add formatting for nested points
 ########################################################################## -->
+
 
 : (i) party-and-party bills filed by the creditor under the Bankruptcy (Costs) Rules (Cap. 20, Rule 20) to which the estate of the bankrupt is the respondent;
 

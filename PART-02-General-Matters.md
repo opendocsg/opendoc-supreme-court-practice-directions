@@ -375,6 +375,7 @@ Access by parties to a case file
 TODO: Replace formatting for expanded text
 ########################################################################## -->
 
+
 : (a) A [Request](javascript:TextPopup\(this\))<span id="POPUP343133008" class="expandtext" style="display: none;"> Formerly known as “praecipe”   </span> should be made to obtain leave to inspect the file. The Request should state the name of the person who is to carry out the search or inspection. If this person is not a solicitor, his identity card number should also be included in the Request after his name, and a copy of his identity card should be provided. The Request should also state the interest that the applicant has in the matter, and the reason for the search or inspection. If the search or inspection is requested for the purpose of ascertaining information for use in a separate suit or matter, the Request should clearly state the nature of the information sought and the relevance of such information to the separate suit or matter.
 
 : (b) Once approval for inspection has been received from the Court,
@@ -382,6 +383,7 @@ TODO: Replace formatting for expanded text
 <!-- #########################################################################
 TODO: Add formatting for nested points
 ########################################################################## -->
+
 
 : (i) registered users can inspect the case file online through the Electronic Filing Service;
 

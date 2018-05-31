@@ -69,11 +69,13 @@ All applications in Chambers (including summonses and summonses for directions) 
 TODO: Replace formatting for expanded text
 ########################################################################## -->
 
+
 : (a) applications for mandatory [orders](javascript:TextPopup\(this\))<span id="POPUP336130367" class="expandtext" style="display: none;">Formerly known as “mandamus”.</span>, [prohibiting orders](javascript:TextPopup\(this\))<span id="POPUP336333415" class="expandtext" style="display: none;">Formerly known as “prohibition”. </span> or [quashing orders](javascript:TextPopup\(this\))<span id="POPUP336126581" class="expandtext" style="display: none;">Formerly known as “certiorari”.</span> under Order 53, Rule 2;
 
 <!-- #########################################################################
 TODO: Replace formatting for expanded text
 ########################################################################## -->
+
 
 : (b) issuance of summonses for order for review of [detention](javascript:TextPopup\(this\))<span id="POPUP336525336" class="expandtext" style="display: none;">Formerly known as “habeas corpus ad subjiciendum”.</span> under Order 54, Rule 2;
 
@@ -139,11 +141,12 @@ Where a claim in the High Court which may have initially exceeded $250,000 is su
 TODO: Replace formatting for expanded text
 ########################################################################## -->
 
-## 42\. *Mareva* injunctions and search [orders](javascript:TextPopup\(this\))<div id="POPUP337348730" class="droptext" style="display: none;">Formerly known as “Anton Piller order”.</div>
+
+## 42\. *Mareva* injunctions and search [orders](javascript:TextPopup\(this\)) <!-- <div id="POPUP337348730" class="droptext" style="display: none;">Formerly known as “Anton Piller order”.</div>-->
 
 (1) Pursuant to Order 32, Rule 9 of the Rules of Court, the Honourable the Chief Justice has directed that applications for *Mareva* injunctions and for search orders, whether made on an *ex parte* or *inter partes* basis, should be heard by a Judge in person. For the avoidance of doubt, all other *ex parte* applications for interim injunctions may be heard by a Registrar.
 
-(2) <Applicants for *Mareva* injunctions and search orders are required to prepare their orders in accordance with the following forms in Appendix A of these Practice Directions:
+(2) Applicants for *Mareva* injunctions and search orders are required to prepare their orders in accordance with the following forms in Appendix A of these Practice Directions:
 
 : (a) Form 6: Search order;
 
@@ -171,7 +174,7 @@ When composing the summons electronic form online through the Electronic Filing 
 
 : (c) Where the nature of the items removed under the order makes this appropriate, the applicant will be required to insure them.
 
-## 42A. Documents in support of *ex parte* applications for injunctions (including *Mareva*injunctions) and search orders
+## 42A. Documents in support of *ex parte* applications for injunctions (including *Mareva* injunctions) and search orders
 
 (1) Without prejudice to the requirements stated in Paragraphs 41 and 42 of these Practice Directions, in order to assist the Court hearing *ex parte* applications for injunctions (including *Mareva* injunctions) and search orders, an applicant must include in the affidavit prepared in support of the application the following information under clearly defined headings:
 
