@@ -1,87 +1,49 @@
 # PART II: GENERAL MATTERS
-&nsbp;
+&nbsp;
 
 : 8\. Operating hours of the Supreme Court
-
 : 9\. Hours for the sittings of the Supreme Court
-
 : 10\. Calculation of time
-
 : 11\. Urgent applications outside of the Court's office hours
-
 : 12\. Duty Registrar
-
-: 13\. Attendance of solicitors in Court and mentioning on behalf of other
-solicitors
-
+: 13\. Attendance of solicitors in Court and mentioning on behalf of other solicitors
 : 13A. Attendance at hearings in Chambers
-
 : 14\. Absence from Court on medical grounds
-
 : 15\. The Central Display Management System
-
 : 16\. Precedence and preaudience of Senior Counsel
-
 : 17\. Court dress
-
 : 18\. Forms of address
-
 : 19\. Submissions and examination by leading and assisting counsel
-
 : 20\. Interpreters and translation
-
 : 21\. Production of record of hearing
-
 : 22\. Use of electronic and other devices
-
 : 23\. Certification of transcripts
-
 : 24\. Access to case file, inspection, taking copies and searches
-
 : * Access by parties to a case file
-
 : * File inspection by non-parties or parties who are not registered users
-
 : * Obtaining certified true copies of documents
-
 : * Electronic cause books and registers maintained by the Registry
-
 : 24A\. Personal Data
-
 : * Consent to collection, use or disclosure of personal data
-
 : * Access to personal data
-
 : * Correction of personal data
-
 : 25\. Instruments creating power of attorney
-
-: 26\. Filing directions to the Accountant-General for payment into and
-out of Court
-
+: 26\. Filing directions to the Accountant-General for payment into and out of Court
 : 27\. Requests and other Correspondence
-
 : 28\. Authorisation for collection of mail and Court documents
-
 : 29\. Electronic payment of Court fees
-
 : * Implementation of the electronic system for the payment of Court fees
-
 : * Modes of electronic payment
-
 : * Scope of electronic system
-
 : * Registrar’s discretion
-
 : 29A\. Publication of and reports and comments on Court cases
-
 : 29B\. Citation of Case Numbers
 
 ## 8\. Operating hours of the Supreme Court
 
 (1) The Supreme Court operates from 8.30 a.m. to 6.00 p.m. from Monday to Friday. However, various offices and counters within the Supreme Court have different operating hours.
 
-(2) <span id="Sub-para_2"></span>The Legal Registry of the Supreme Court (Level 2) is open from 9.00 a.m. to 5.30 p.m. from Monday to Thursday. On Friday, it is open from 9.00 a.m. to 5.00 p.m.
+(2) The Legal Registry of the Supreme Court (Level 2) is open from 9.00 a.m. to 5.30 p.m. from Monday to Thursday. On Friday, it is open from 9.00 a.m. to 5.00 p.m.
 
 (3) The Commissioner for Oaths office (Level 3M) is open from 8.30 a.m. to 5.30 p.m. from Monday to Thursday. On Friday, it is open from 8.30 a.m. to 5.00 p.m.
 
@@ -147,45 +109,45 @@ Extension, etc., of time (O. 3, r. 4)
 
 (1) The duties of the Duty Registrar are to:
 
-(a) hear <span style="font-style: italic;">*ex parte*</span> or consent applications;
+: (a) hear *ex parte* or consent applications;
 
-(b) grant approval for any matter pertaining to the administration of the Legal Registry of the Supreme Court, including giving early or urgent dates and allowing inspection of files; and
+: (b) grant approval for any matter pertaining to the administration of the Legal Registry of the Supreme Court, including giving early or urgent dates and allowing inspection of files; and
 
-(c) sign and certify documents.
+: (c) sign and certify documents.
 
 (2) On Mondays to Fridays (excluding public holidays), the duty hours shall be from 9.00 a.m. to 12.30 p.m. and from 2.30 p.m. to 5.00 p.m.
 
-(3) <span id="Sub-para_3"></span>Only advocates and solicitors (or, where a party is not represented, a litigant in person) shall appear before the Duty Registrar.
+(3) Only advocates and solicitors (or, where a party is not represented, a litigant in person) shall appear before the Duty Registrar.
 
 (4) Except where the attendance of the advocate and solicitor is required under sub-paragraph (6) below, the filing of the relevant documents will be sufficient for the Duty Registrar to dispose of any application or matter. Documents will be returned to the advocate and solicitor through the Electronic Filing Service to the inbox of the law firm’s computer system or through the service bureau. 
 
-(5) <span id="Sub-para_5"></span>All Court fees for the filing of documents should be duly paid before presentation of the documents to the Duty Registrar for his or her signature and/or decision.
+(5) All Court fees for the filing of documents should be duly paid before presentation of the documents to the Duty Registrar for his or her signature and/or decision.
 
-(6) <span id="Sub-para_6"></span>The advocate and solicitor’s attendance is compulsory only:
+(6) The advocate and solicitor’s attendance is compulsory only:
 
-(a) when he or she is requesting an early or urgent date for a hearing before the Registrar or Judge;
+: (a) when he or she is requesting an early or urgent date for a hearing before the Registrar or Judge;
 
-(b) when an application or document is returned with the direction “solicitor to attend”; or
+: (b) when an application or document is returned with the direction “solicitor to attend”; or
 
-(c) when his or her attendance is required by any provision of law. 
+: (c) when his or her attendance is required by any provision of law. 
 
 (7) A solicitor may, if he or she wishes to expedite matters, attend before the Duty Registrar even if his or her attendance is not ordinarily required.
 
 (8) A solicitor who wishes to attend before a Duty Registrar and to refer him or her to documents filed must either:
 
-(a) file the documents at least one hour before attending before the Duty Registrar, so that the documents would already be in the electronic case file for the Duty Registrar’s reference. Solicitors should as far as possible only attend before the Duty Registrar after they have received notification from the Court that the documents have been accepted; or
+: (a) file the documents at least one hour before attending before the Duty Registrar, so that the documents would already be in the electronic case file for the Duty Registrar’s reference. Solicitors should as far as possible only attend before the Duty Registrar after they have received notification from the Court that the documents have been accepted; or
 
-(b) attend before the Duty Registrar with the paper documents. The Duty Registrar will require the solicitor to give an undertaking to file all the documents by the next working day before dealing with the matter.
+: (b) attend before the Duty Registrar with the paper documents. The Duty Registrar will require the solicitor to give an undertaking to file all the documents by the next working day before dealing with the matter.
 
 ## 13\. Attendance of solicitors in Court and mentioning on behalf of other solicitors
 
 (1) Subject to sub-paragraph (2), a solicitor appearing in any cause or matter may mention for counsel for all other parties provided that:
 
-(a) the solicitor obtains confirmation of his authority to mention on their behalf for the purpose of the hearing; and
+: (a) the solicitor obtains confirmation of his authority to mention on their behalf for the purpose of the hearing; and
 
-<span style="margin-left: 0px;">(b) parties have agreed on the order sought.</span>
+: (b) parties have agreed on the order sought.
 
-(2) <span id="Sub-para_2"></span>However, where an adjournment of the hearing date of any cause or matter is sought, solicitors for all parties must attend the hearing. See also paragraphs 67 and 68 of these Practice Directions.
+(2) However, where an adjournment of the hearing date of any cause or matter is sought, solicitors for all parties must attend the hearing. See also paragraphs 67 and 68 of these Practice Directions.
 
 (3) Solicitors appearing in any cause or matter should be punctual in attending Court, as delay in the commencement of the hearing leads to wastage of judicial time. Appropriate sanctions may be imposed for solicitors who do not arrive for hearings on time.
 
@@ -199,61 +161,61 @@ Extension, etc., of time (O. 3, r. 4)
 
 (1) If:
 
-(a) any party to proceedings;
+: (a) any party to proceedings;
 
-(b) any witness;
+: (b) any witness;
 
-(c) any counsel; or
+: (c) any counsel; or
 
-(d) the Public Prosecutor or his deputy,
+: (d) the Public Prosecutor or his deputy,
 
 is required to attend Court and wishes to absent himself from Court on medical grounds, he must provide the Court with an original medical certificate. The medical certificate must be in the proper form and contain the information and particulars required by sub-paragraphs (2) to (5).
 
 (2) A medical certificate issued by a Government hospital or clinic may be in the pre-printed form produced by the Ministry of Health, a sample of which may be found at Form 1 of Appendix A of these Practice Directions. A medical certificate issued by a restructured hospital or specialist centre may also be in a pre-printed form similar to the sample which appears at Form 1. The pre-printed medical certificate must:
 
-(a) be completely and properly filled in;
+: (a) be completely and properly filled in;
 
-(b) contain the name of the medical practitioner who issued the medical certificate;
+: (b) contain the name of the medical practitioner who issued the medical certificate;
 
-(c) state the name of the hospital or clinic in which the medical practitioner practises;
+: (c) state the name of the hospital or clinic in which the medical practitioner practises;
 
-(d) indicate that the person to whom the certificate is issued is unfit to attend Court, and specify the date(s) on which he is unfit to attend Court;
+: (d) indicate that the person to whom the certificate is issued is unfit to attend Court, and specify the date(s) on which he is unfit to attend Court;
 
-(e) be signed in full by the medical practitioner (and not merely initialled); and
+: (e) be signed in full by the medical practitioner (and not merely initialled); and
 
-(f) be authenticated by a rubber stamp showing the medical practitioner’s full name and his designation in the hospital or clinic, as the case may be.
+: (f) be authenticated by a rubber stamp showing the medical practitioner’s full name and his designation in the hospital or clinic, as the case may be.
 
 (3) If a medical certificate is not in Form 1, the medical certificate should:
 
-(a) be addressed to “Registrar, Supreme Court” (and not “whoever-it-may-concern”);
+: (a) be addressed to “Registrar, Supreme Court” (and not “whoever-it-may-concern”);
 
-(b) identify clearly the medical practitioner who issued the certificate;
+: (b) identify clearly the medical practitioner who issued the certificate;
 
-(c) state the name of the hospital or clinic at which it was issued;
+: (c) state the name of the hospital or clinic at which it was issued;
 
-(d) be signed in full by the medical practitioner (and not merely initialled);
+: (d) be signed in full by the medical practitioner (and not merely initialled);
 
-(e) be authenticated by a rubber stamp showing the medical practitioner’s full name and designation;
+: (e) be authenticated by a rubber stamp showing the medical practitioner’s full name and designation;
 
-(f) contain a diagnosis of the patient concerned (unless the diagnosis cannot or should not normally be disclosed);
+: (f) contain a diagnosis of the patient concerned (unless the diagnosis cannot or should not normally be disclosed);
 
-(g) contain a statement to the effect that the person to whom the certificate is issued is medically unfit to attend Court, and specify the date(s) on which the person is unfit to attend Court; and
+: (g) contain a statement to the effect that the person to whom the certificate is issued is medically unfit to attend Court, and specify the date(s) on which the person is unfit to attend Court; and
 
-(h) bear the date on which it was written and, where this differs from the date of consultation, this must be clearly disclosed.
+: (h) bear the date on which it was written and, where this differs from the date of consultation, this must be clearly disclosed.
 
-<span style="margin-left: 40px;">(4) If any portion of the information set out in sub-paragraph (3) is not found in the medical certificate itself, such information may be included in a memorandum which should be attached to the medical certificate. This memorandum must:</span>
+(4) If any portion of the information set out in sub-paragraph (3) is not found in the medical certificate itself, such information may be included in a memorandum which should be attached to the medical certificate. This memorandum must:
 
-(a) identify clearly the medical practitioner who issued the memorandum;
+: (a) identify clearly the medical practitioner who issued the memorandum;
 
-(b) contain the name of the hospital or clinic at which it was issued;
+: (b) contain the name of the hospital or clinic at which it was issued;
 
-(c) be signed in full by the medical practitioner (and not merely initialled); and
+: (c) be signed in full by the medical practitioner (and not merely initialled); and
 
-(d) be authenticated by a rubber stamp showing the medical practitioner’s full name and designation.
+: (d) be authenticated by a rubber stamp showing the medical practitioner’s full name and designation.
 
-(5) All information and details in any medical certificate or memorandum must be clearly and legibly printed.
+: (5) All information and details in any medical certificate or memorandum must be clearly and legibly printed.
 
-(6) If the directions set out in sub-paragraphs (2) to (5) are not complied with, the Court may reject the medical certificate and decline to excuse the attendance of the person to whom the medical certificate was issued. The Court may then take any action it deems appropriate.
+: (6) If the directions set out in sub-paragraphs (2) to (5) are not complied with, the Court may reject the medical certificate and decline to excuse the attendance of the person to whom the medical certificate was issued. The Court may then take any action it deems appropriate.
 
 (7) This paragraph shall apply to all hearings in the Supreme Court, whether in open Court or in Chambers.
 
@@ -263,9 +225,9 @@ is required to attend Court and wishes to absent himself from Court on medical g
 
 (1) The Central Display Management System (CDMS) is used for the following types of hearings:
 
-(a) hearings before a Registrar (including matters before a Duty Registrar) except applications for bankruptcy orders; and
+: (a) hearings before a Registrar (including matters before a Duty Registrar) except applications for bankruptcy orders; and
 
-(b) hearings before a Judge in chambers, if so directed by the Judge.
+: (b) hearings before a Judge in chambers, if so directed by the Judge.
 
 (2) When taking queue numbers at the CDMS kiosk, solicitors are to confer with their opponent(s) and enter the estimated duration of their own submissions. The number of minutes entered should be an accurate reflection of the actual duration of submissions expected to be made by each of the solicitors. 
 
@@ -279,7 +241,7 @@ Solicitors should indicate in the CDMS that they are ready for hearing only when
 
 (1) By virtue of section 31 of the Legal Profession Act (Cap. 161) and existing custom and usage, Senior Counsel are given precedence and the right of preaudience.
 
-(2) <span id="Sub-para_2"></span>In order to give substance to the principle of precedence and preaudience to Senior Counsel, the Honourable the Chief Justice has directed that Senior Counsel who intend to appear before Judges or Registrars for summonses should inform the Registrar in writing not later than 2 clear days before the scheduled hearing date. Senior Counsel should indicate their presence in the Central Display Management System (CDMS), and shall be given precedence and the right of preaudience, subject to the Judge’s or Registrar’s overriding discretion.
+(2) In order to give substance to the principle of precedence and preaudience to Senior Counsel, the Honourable the Chief Justice has directed that Senior Counsel who intend to appear before Judges or Registrars for summonses should inform the Registrar in writing not later than 2 clear days before the scheduled hearing date. Senior Counsel should indicate their presence in the Central Display Management System (CDMS), and shall be given precedence and the right of preaudience, subject to the Judge’s or Registrar’s overriding discretion.
 
 (3) All other counsel, including those who appear on behalf of their Senior Counsel, will be heard according to the order in which their matters appear on the CDMS, subject to the Judge’s or Registrar’s overriding discretion.
 
@@ -291,13 +253,13 @@ Solicitors should indicate in the CDMS that they are ready for hearing only when
 
 (3) When appearing before the Judge or Registrar in Chambers, the attire for both men and women will be the same as for open Court, save that the gown need not be worn.
 
-(4) <span id="Sub-para_4"></span>The attire for Senior Counsel shall be as described in sub-paragraphs (1) to (3), save that, for hearings in open Court, they may, instead of the existing gown, wear a gown in the design of those worn by Queen’s Counsel of England and Wales and made of the following material: 
+(4) The attire for Senior Counsel shall be as described in sub-paragraphs (1) to (3), save that, for hearings in open Court, they may, instead of the existing gown, wear a gown in the design of those worn by Queen’s Counsel of England and Wales and made of the following material: 
 
-(a) silk;
+: (a) silk;
 
-(b) silk and wool mix; or
+: (b) silk and wool mix; or
 
-(c) artificial silk.
+: (c) artificial silk.
 
 ## 18. Forms of address
 
@@ -311,15 +273,15 @@ The Honourable the Chief Justice, on the advice of the Council of Judges, has di
 
 (1) In the event that a party is represented by more than one counsel at a hearing, whether in open Court or in Chambers, the making of submissions and the questioning of witnesses may be carried out by one counsel for each party only.
 
-(2) <span id="Sub-para_2"></span>If it is necessary for certain portions of the submissions, or examination, cross-examination or re-examination of witnesses to be conducted by different counsel in the same case, an application should be made to Court at the commencement of the trial or hearing for leave to do so. The following information should be provided to the Court for the purposes of the application:
+(2) If it is necessary for certain portions of the submissions, or examination, cross-examination or re-examination of witnesses to be conducted by different counsel in the same case, an application should be made to Court at the commencement of the trial or hearing for leave to do so. The following information should be provided to the Court for the purposes of the application:
 
-(a) the issues on which each counsel will be making submissions; and/or
+: (a) the issues on which each counsel will be making submissions; and/or
 
-(b) the witnesses to be examined, cross-examined or re-examined by each counsel, or the portions of their evidence for which each counsel will conduct the examination, cross-examination or re-examination.
+: (b) the witnesses to be examined, cross-examined or re-examined by each counsel, or the portions of their evidence for which each counsel will conduct the examination, cross-examination or re-examination.
 
-(3)<span id="Sub-para_3"></span> If leave has been granted in accordance with sub-paragraph (2), counsel should ensure that he or she confines himself or herself to the issues or portions of evidence in respect of which leave was granted and that there is no overlap in the issues or the examination being dealt with by different counsel for the same party. Further, counsel must not repeat, clarify or expand on any submissions that have been made by another counsel for the same party, or examine, cross-examine or re-examine witnesses on portions of their evidence dealt with by another counsel for the same party.
+(3) If leave has been granted in accordance with sub-paragraph (2), counsel should ensure that he or she confines himself or herself to the issues or portions of evidence in respect of which leave was granted and that there is no overlap in the issues or the examination being dealt with by different counsel for the same party. Further, counsel must not repeat, clarify or expand on any submissions that have been made by another counsel for the same party, or examine, cross-examine or re-examine witnesses on portions of their evidence dealt with by another counsel for the same party.
 
-(4) <span id="Sub-para_4"></span>If leave of the Court is not sought in accordance with sub-paragraph (2), only one counsel will be allowed to make submissions or conduct examination, cross-examination or re-examination for a party throughout the hearing.
+(4) If leave of the Court is not sought in accordance with sub-paragraph (2), only one counsel will be allowed to make submissions or conduct examination, cross-examination or re-examination for a party throughout the hearing.
 
 (5) This paragraph shall apply to both civil and criminal proceedings.
 
@@ -343,11 +305,11 @@ The Honourable the Chief Justice, on the advice of the Council of Judges, has di
 
 (9) Engagement of private interpreters (i.e. interpreters not from the Supreme Court’s Interpreters Section):
 
-(a) For the avoidance of doubt, a party may engage the services of a private interpreter for interpretation services in respect of the languages listed in Form 2 of Appendix A of these Practice Directions. 
+: (a) For the avoidance of doubt, a party may engage the services of a private interpreter for interpretation services in respect of the languages listed in Form 2 of Appendix A of these Practice Directions. 
 
-(b) If a party requires the services of an interpreter in a language apart from those listed in Form 2 of Appendix A to these Practice Directions, it shall be the duty of the party to engage such an interpreter directly to obtain his or her services for the scheduled hearing.
+: (b) If a party requires the services of an interpreter in a language apart from those listed in Form 2 of Appendix A to these Practice Directions, it shall be the duty of the party to engage such an interpreter directly to obtain his or her services for the scheduled hearing.
 
-(c) Interpreters who are not from the Supreme Court's Interpreters Section must be sworn in before the Duty Registrar before they may provide interpretation services for proceedings in Court.
+: (c) Interpreters who are not from the Supreme Court's Interpreters Section must be sworn in before the Duty Registrar before they may provide interpretation services for proceedings in Court.
 
 (10) Requests for translation of documents in Chinese, Malay or Tamil for use in Supreme Court proceedings should be sent using the form available on the Supreme Court website at least 4 weeks before the date the translations are required, unless there are exceptional reasons justifying non-compliance.
 
@@ -363,13 +325,13 @@ The Honourable the Chief Justice, on the advice of the Council of Judges, has di
 
 (4) Where the Court makes such directions under sub-paragraph (3):
 
-(a) the transcript of the notes of hearing shall, pursuant to Order 38A, Rule 1(1)(b), constitute the official record of hearing; and
+: (a) the transcript of the notes of hearing shall, pursuant to Order 38A, Rule 1(1)(b), constitute the official record of hearing; and
 
-(b) the parties shall inform the Registry by letter at least 7 working days before the scheduled hearing as to the mode by which the proceedings will be recorded.
+: (b) the parties shall inform the Registry by letter at least 7 working days before the scheduled hearing as to the mode by which the proceedings will be recorded.
 
 (5) The costs of engaging a service provider shall be paid by the parties directly to the service provider.
 
-(6) <span id="Sub-para_6"></span>Requests for certified transcripts of the official record of hearing shall be made by filing the requisite Request electronic form through the Electronic Filing Service at least 7 working days before the scheduled hearing.
+(6) Requests for certified transcripts of the official record of hearing shall be made by filing the requisite Request electronic form through the Electronic Filing Service at least 7 working days before the scheduled hearing.
 
 (7) Sub-paragraph (6) shall apply to both civil and criminal proceedings.
 
@@ -405,35 +367,35 @@ Access by parties to a case file
 
 (4) The Registry may require parties to a case to provide supporting documents to substantiate proposed amendments to other details of the electronic case file before the amendment is approved. For example, amendments to add or remove a party to the case have to be supported by an order of court; and amendments to change the name, gender, identification number, or marital status of a party to the case have to be substantiated by documentary proof.
 
-<span style="font-weight: bold; font-style: italic;">*File inspection by non-parties or parties who are not registered users*</span>
+_**File inspection by non-parties or parties who are not registered users**_
 
-(5) <span id="Sub-para_1"></span>In order to inspect a case file, the following procedure should be followed:
+(5) <In order to inspect a case file, the following procedure should be followed:
 
-(a) <span id="Sub-para_1_a"></span>A [Request](javascript:TextPopup\(this\))<span id="POPUP343133008" class="expandtext" style="display: none;"> Formerly known as “praecipe”   </span> should be made to obtain leave to inspect the file. The Request should state the name of the person who is to carry out the search or inspection. If this person is not a solicitor, his identity card number should also be included in the Request after his name, and a copy of his identity card should be provided. The Request should also state the interest that the applicant has in the matter, and the reason for the search or inspection. If the search or inspection is requested for the purpose of ascertaining information for use in a separate suit or matter, the Request should clearly state the nature of the information sought and the relevance of such information to the separate suit or matter.
+: (a) A [Request](javascript:TextPopup\(this\))<span id="POPUP343133008" class="expandtext" style="display: none;"> Formerly known as “praecipe”   </span> should be made to obtain leave to inspect the file. The Request should state the name of the person who is to carry out the search or inspection. If this person is not a solicitor, his identity card number should also be included in the Request after his name, and a copy of his identity card should be provided. The Request should also state the interest that the applicant has in the matter, and the reason for the search or inspection. If the search or inspection is requested for the purpose of ascertaining information for use in a separate suit or matter, the Request should clearly state the nature of the information sought and the relevance of such information to the separate suit or matter.
 
-(b) Once approval for inspection has been received from the Court,
+: (b) Once approval for inspection has been received from the Court,
 
-(i) registered users can inspect the case file online through the Electronic Filing Service;
+: (i) registered users can inspect the case file online through the Electronic Filing Service;
 
-(ii) parties who are not registered users can inspect the case file by presenting a copy of the approval at the service bureau.  After verifying the approval, the service bureau will assign the inspecting party a personal computer for the inspection to be carried out.  An inspecting party will usually be allowed 60 minutes to carry out the inspection. If a longer period is required, the service bureau may impose a charge for use of the computer. The service bureau may impose additional charges for downloading soft copies or printing hard copies of documents from the case file being inspected.
+: (ii) parties who are not registered users can inspect the case file by presenting a copy of the approval at the service bureau.  After verifying the approval, the service bureau will assign the inspecting party a personal computer for the inspection to be carried out.  An inspecting party will usually be allowed 60 minutes to carry out the inspection. If a longer period is required, the service bureau may impose a charge for use of the computer. The service bureau may impose additional charges for downloading soft copies or printing hard copies of documents from the case file being inspected.
 
-(6) <span id="Sub-para_2"></span>Solicitors must communicate to the Registrar in writing the names of their clerks who have their authority to make searches and inspections. Such authority may be in respect of a specific search or inspection or for a specified period. 
+(6) Solicitors must communicate to the Registrar in writing the names of their clerks who have their authority to make searches and inspections. Such authority may be in respect of a specific search or inspection or for a specified period. 
 
 (7) For the avoidance of doubt, a non-party that has obtained approval to inspect a case file may take and retain a soft copy of any document that is available for inspection. All copies of documents taken in the course of inspection should not be used for purposes other than those stated in the Request to inspect. Solicitors shall be responsible for informing their clients of this.
 
 Obtaining certified true copies of documents
 
-(8) <span id="Sub-para_3"></span>Applications to obtain certified true paper copies of documents, should be made by way of filing a Request through the Electronic Filing Service.
+(8) Applications to obtain certified true paper copies of documents, should be made by way of filing a Request through the Electronic Filing Service.
 
-(a) The intended use of the certified true copies should be clearly stated in the Request. The relevance and necessity of the certified true copies in relation to their intended use should also be clearly described.
+: (a) The intended use of the certified true copies should be clearly stated in the Request. The relevance and necessity of the certified true copies in relation to their intended use should also be clearly described.
 
-(b) Once approval is received from the Court, the applicant should present a printed copy of the approved Request at the Legal Registry. After verifying that the Request has been approved, the Legal Registry will inform the applicant of any additional fees payable. Any additional fees should then be stamped on the Request at the Cashier’s Office at the Legal Registry. Upon presentation of this stamped Request, the documents will be furnished to the applicant.
+: (b) Once approval is received from the Court, the applicant should present a printed copy of the approved Request at the Legal Registry. After verifying that the Request has been approved, the Legal Registry will inform the applicant of any additional fees payable. Any additional fees should then be stamped on the Request at the Cashier’s Office at the Legal Registry. Upon presentation of this stamped Request, the documents will be furnished to the applicant.
 
-(c) The fees prescribed by Appendix B to the Rules of Court will be payable for the above services in addition to further printing charges which may be chargeable by the Court or the service bureau for reproducing the copies in paper form.
+: (c) The fees prescribed by Appendix B to the Rules of Court will be payable for the above services in addition to further printing charges which may be chargeable by the Court or the service bureau for reproducing the copies in paper form.
 
 Electronic cause books and registers maintained by the Registry
 
-(9) <span id="Sub-para_4"></span>Order 60 of the Rules of Court provides that the Registry shall maintain information prescribed or required to be kept by the Rules of Court and Practice Directions issued by the Registrar.  In addition to any provisions in the Rules of Court, the Registrar hereby directs that the following information shall be maintained by the Registry:
+(9) Order 60 of the Rules of Court provides that the Registry shall maintain information prescribed or required to be kept by the Rules of Court and Practice Directions issued by the Registrar.  In addition to any provisions in the Rules of Court, the Registrar hereby directs that the following information shall be maintained by the Registry:
 
 (a) details of all originating processes, including:
 
