@@ -571,7 +571,7 @@ Registrar’s discretion
 
 (1) All originating processes and summons filed in the Supreme Court on or after 1 January 2015 shall bear case numbers in the following format:
 
-<u>**Description of Court/ Type of Application \[Case number\]/ Year filed**<u>
+**<u>Description of Court/ Type of Application \[Case number\]/ Year filed</u>**
 
 <u>For example:<u>
 
