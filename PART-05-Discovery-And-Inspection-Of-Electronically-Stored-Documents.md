@@ -1,47 +1,27 @@
 # Part V: DISCOVERY AND INSPECTION OF ELECTRONICALLY STORED DOCUMENTS
-&nsbp;
+&nbsp;
 
-44. Introduction
-
-• Location of electronically stored documents
-
-• Meaning of “metadata information”
-
-• Meaning of “not reasonably accessible documents”
-
-• Meaning of “forensic inspection”
-
-45\. Electronic discovery plans during general discovery
-
-46\. Discovery of metadata information
-
-47\. Reasonable searches for electronically stored documents
-
-• Applications to Court
-
-• Review for the purpose of asserting privilege
-
-48\. Proportionality and economy
-
-49\. Form of list
-
-50\. Inspection of electronically stored documents
-
-• Inspection of computer databases
-
-51\. Forensic inspection of electronic media or recording devices
-
-52\. Supply of copies of electronically stored documents
-
-• Requests for the supply of copies
-
-• Applications for the supply of copies
-
-53\. Discovery by the supply of copies in lieu of inspection
-
-54\. Restriction on use of privileged document, inspection of which has been inadvertently allowed
-
-55\. Costs
+: 44. Introduction 
+: • Location of electronically stored documents 
+: • Meaning of “metadata information” 
+: • Meaning of “not reasonably accessible documents” 
+: • Meaning of “forensic inspection” 
+: 45\. Electronic discovery plans during general discovery 
+: 46\. Discovery of metadata information 
+: 47\. Reasonable searches for electronically stored documents 
+: • Applications to Court 
+: • Review for the purpose of asserting privilege 
+: 48\. Proportionality and economy 
+: 49\. Form of list 
+: 50\. Inspection of electronically stored documents 
+: • Inspection of computer databases 
+: 51\. Forensic inspection of electronic media or recording devices 
+: 52\. Supply of copies of electronically stored documents 
+: • Requests for the supply of copies 
+: • Applications for the supply of copies 
+: 53\. Discovery by the supply of copies in lieu of inspection 
+: 54\. Restriction on use of privileged document, inspection of which has been inadvertently allowed 
+: 55\. Costs
 
 ## 44\. Introduction
 
@@ -49,31 +29,31 @@
 
 (2) Parties should consider the application of this Part or any portion thereof in the following cases:
 
-(a) where the claim or the counterclaim exceeds $ 1 million;
+: (a) where the claim or the counterclaim exceeds $ 1 million;
 
-(b) where documents discoverable by a party exceeds 2,000 pages in aggregate; or
+: (b) where documents discoverable by a party exceeds 2,000 pages in aggregate; or
 
-(c) where documents discoverable in the case or matter comprise substantially of electronic mail and/or electronic documents.
+: (c) where documents discoverable in the case or matter comprise substantially of electronic mail and/or electronic documents.
 
 (3 ) For the avoidance of doubt, this Part applies to pre-action discovery, discovery between parties in a pending cause or matter, and third-party discovery.
 
-Location of electronically stored documents
+***Location of electronically stored documents***
 
 (4) Electronically stored documents may reside in storage management systems, folders or directories in storage locations, electronic media or recording devices, including folders or directories where temporarily deleted files are located (for example, the Recycle Bin folder or Trash folder). Electronically stored documents or parts thereof may also reside in the unallocated file space or file slack on an electronic medium or recording device as deleted files or file fragments which may be recovered through the use of computer forensic tools or techniques.
 
-Meaning of “metadata information”
+***Meaning of “metadata information”***
 
 (5) Metadata information refers to the non-visible and not readily apparent information embedded in or associated with electronically stored documents and may include both application metadata, which is created by the application software used to create the electronic documents, and system metadata, which is created by the operating or storage system. Examples of application metadata include hidden columns or text, formatting and display codes, formulae, prior edits and editorial comments; examples of system metadata include data relating to creation, modification and access of the electronic document, its size, file format and storage location, and other document profile information like title, author, subject and keywords or tags. Metadata information may be stored internally within the electronically stored document or externally in a separate file or database. Externally stored metadata information shall be discoverable as separate documents.
 
-Meaning of “not reasonably accessible documents”
+***Meaning of “not reasonably accessible documents”***
 
 (6) Electronically stored documents which are not reasonably accessible include:
 
-(a) deleted files or file fragments containing information which may be recovered only through the use of computer forensic tools or techniques; and
+: (a) deleted files or file fragments containing information which may be recovered only through the use of computer forensic tools or techniques; and
 
-(b) documents archived using backup software and stored off-line on backup tapes or other storage media.
+: (b) documents archived using backup software and stored off-line on backup tapes or other storage media.
 
-<span style="font-weight: bold; font-style: italic;">*Meaning of “forensic inspection”*</span>
+***Meaning of “forensic inspection”***
 
 (7) A forensic inspection of an electronic medium or recording device means a reasonable search of the electronic medium or recording device for the purpose of recovering deleted electronic documents, which may extend to a forensic examination of the unallocated file space or file slack of the electronic medium or recording device using computer forensic tools and/or techniques.
 
@@ -95,25 +75,25 @@ Meaning of “not reasonably accessible documents”
 
 (1) A class of electronically stored documents may be described by specifying or describing a search term or phrase to be used in a search for electronically stored documents which shall be reasonable in scope (“reasonable search”). A request for the giving of discovery by describing a class of electronically stored documents with reference to search terms or phrases must specify or describe limits on the scope of the search; such limits shall include at least the following:
 
-(a) specifying or describing custodians and repositories, eg physical or logical storage locations, media or devices; and
+: (a) specifying or describing custodians and repositories, eg physical or logical storage locations, media or devices; and
 
-(b) specifying the period during which the requested electronically stored documents were created, received or modified.
+: (b) specifying the period during which the requested electronically stored documents were created, received or modified.
 
 (2) Subject to paragraph 48 (Proportionality and economy), requests for reasonable searches shall not extend to electronically stored documents which are not reasonably accessible unless the conditions in this paragraph are met. A party requesting a reasonable search for electronically stored documents which are not reasonably accessible must demonstrate that the relevance and materiality of the electronically stored documents justify the cost and burden of retrieving and producing them.
 
 (3) The obligations of a party responding to a request for reasonable search for electronically stored documents is fulfilled upon that party carrying out the search to the extent stated in the request and disclosing any electronically stored documents located as a result of that search.  The party giving discovery shall not be required to review the search results for relevance.
 
-Applications to Court
+***Applications to Court***
 
 (4) An application for discovery of any electronically stored document or class of electronically stored documents which specifies or describes a search term or phrase to be used in a reasonable search for electronically stored documents must specify or describe limits on the scope of the search to be conducted.
 
 (5) An application for discovery of any electronically stored document or class of electronically stored documents which specifies or describes a search term or phrase to be used in a reasonable search for electronically stored documents which are <span style="font-style: italic;">*not reasonably accessible*</span> must:
 
-(a) specify or describe limits on the scope of the search to be conducted; and
+: (a) specify or describe limits on the scope of the search to be conducted; and
 
-(b) be supported by an affidavit demonstrating that the relevance and materiality of the electronically stored documents sought to be discovered justify the cost and burden of retrieving and producing them.
+: (b) be supported by an affidavit demonstrating that the relevance and materiality of the electronically stored documents sought to be discovered justify the cost and burden of retrieving and producing them.
 
-Review for the purpose of asserting privilege
+***Review for the purpose of asserting privilege***
 
 (6) Nothing in this paragraph shall prevent the party giving discovery from reviewing the discoverable electronically stored documents or the results of any reasonable search for the purpose of identifying privileged documents. However, such review for the purpose of identifying privileged documents shall not extend to the intentional deletion, removal or alteration of metadata information. Review for the purpose of asserting privilege must, unless otherwise agreed by parties or ordered by the Court, be concluded within fourteen (14) days after the search results are made available to the party giving discovery.
 
@@ -121,31 +101,31 @@ Review for the purpose of asserting privilege
 
 Order 24, Rules 7 and 13 of the Rules of Court states that an order for discovery and production of documents for inspection shall not be made unless such order is necessary either for disposing fairly of the cause or matter or for saving costs. The matters to which regard shall be had, in determining whether an application under this Part is proportionate and economical, shall include:
 
-(a) the number of electronic documents involved;
+: (a) the number of electronic documents involved;
 
-(b) the nature of the case and complexity of the issues;
+: (b) the nature of the case and complexity of the issues;
 
-(c) the value of the claim and the financial position of each party;
+: (c) the value of the claim and the financial position of each party;
 
-(d) the ease and expense of retrieval of any particular electronically stored document or class of electronically stored documents, including—
+: (d) the ease and expense of retrieval of any particular electronically stored document or class of electronically stored documents, including—
 
-(i) the accessibility, location and likelihood of locating any relevant documents,
+: (i) the accessibility, location and likelihood of locating any relevant documents,
 
-(ii) the costs of recovering and giving discovery and inspection, including the supply of copies, of any relevant documents,
+: (ii) the costs of recovering and giving discovery and inspection, including the supply of copies, of any relevant documents,
 
-(iii) the likelihood that any relevant documents will be materially altered in the course of recovery, or the giving of discovery or inspection; and
+: (iii) the likelihood that any relevant documents will be materially altered in the course of recovery, or the giving of discovery or inspection; and
 
-(e) the availability of electronically stored documents or class of electronically stored documents sought from other sources; and
+: (e) the availability of electronically stored documents or class of electronically stored documents sought from other sources; and
 
-(f) the relevance and materiality of any particular electronically stored document or class of electronically stored documents which are likely to be located to the issues in dispute.
+: (f) the relevance and materiality of any particular electronically stored document or class of electronically stored documents which are likely to be located to the issues in dispute.
 
 ## 49\. Form of list
 
 (1) The following matters shall be included in any list of documents made pursuant to the giving of discovery in accordance with this Part in which electronic documents are enumerated:
 
-(a) the name of the electronic file constituting or containing the electronic document; and
+: (a) the name of the electronic file constituting or containing the electronic document; and
 
-(b) the file format of the electronic document.
+: (b) the file format of the electronic document.
 
 (2) An electronic copy of an electronically stored document which reflects that document accurately, or which has been manifestly or consistently acted on, relied upon or used as an accurate copy of that electronic document may be identified in the list of documents as an original.
 
@@ -155,9 +135,9 @@ Order 24, Rules 7 and 13 of the Rules of Court states that an order for discover
 
 (5) If copies of electronic documents are supplied in one or more read-only optical disc(s) or other storage medium, the party giving discovery shall provide a further list, at the time when such copies are supplied, stating the following:
 
-(a) the storage format of the optical disc or storage medium; and
+: (a) the storage format of the optical disc or storage medium; and
 
-(b) if there are multiple optical discs or storage media, a list of electronic documents stored on each optical disc or storage medium.
+: (b) if there are multiple optical discs or storage media, a list of electronic documents stored on each optical disc or storage medium.
 
 (6) An index of documents enumerated in a list of documents referred to in sub-paragraph (1) or (4) above shall be provided in an electronic, text searchable and structured format. In the absence of parties' agreement, this index or load file shall be provided in a delimited text file in the Comma Separated Value (or 'CSV') file format.
 
@@ -167,7 +147,7 @@ Order 24, Rules 7 and 13 of the Rules of Court states that an order for discover
 
 (2) Where the inspecting party wishes to take copies of electronically stored documents produced for inspection, his request to take copies shall comply with the procedures set forth in paragraph 52(3) – (6) (Supply of copies of electronically stored documents).
 
-Inspection of computer databases
+***Inspection of computer databases***
 
 (3) An inspection protocol shall be adopted by parties for inspections of computer databases, in order to ensure that the party entitled to inspection has access only to records therein that are necessary, and is not allowed to trawl through the entire computer database.
 
@@ -191,47 +171,47 @@ Inspection of computer databases
 
 (2) Metadata information internally stored in the native format of discoverable electronically stored documents shall not be intentionally deleted, removed or altered without the agreement of the parties or an order of Court. Where the party giving discovery objects to the production for inspection of certain discoverable electronically stored documents solely on the ground that the internally stored metadata information is protected by privilege, but does not object to the production of the electronic documents without the internally stored metadata information, copies of such documents may be supplied in a reasonably usable format with all or such of the metadata information over which privilege is claimed removed.
 
-Requests for the supply of copies
+***Requests for the supply of copies***
 
 (3) A request for copies of discoverable electronically stored documents may specify the format and manner in which such copies are to be supplied, If the party giving discovery does not agree with the specified format or manner or both, he may either:
 
-(a) propose a reasonably usable format and/or storage medium and/or a reasonable manner in which he intends to supply copies of the requested electronic documents; or
+: (a) propose a reasonably usable format and/or storage medium and/or a reasonable manner in which he intends to supply copies of the requested electronic documents; or
 
-(b) in default of agreement, supply copies of the requested electronic documents in accordance with sub-paragraph (1).
+: (b) in default of agreement, supply copies of the requested electronic documents in accordance with sub-paragraph (1).
 
 (4) The party giving discovery shall not be required to supply copies of electronically stored documents in more than one format.
 
 (5) The file formats set forth in Appendix E Part 4 (Reasonably usable formats) shall be deemed to be reasonably usable formats for the purpose of this paragraph.
 
-Applications for the supply of copies
+***Applications for the supply of copies***
 
 (6) Applications for the supply of copies of discoverable electronically stored documents shall specify the format and manner in which copies of such electronic documents are to be supplied.
 
 ## 53\. Discovery by the supply of copies <span style="font-style: italic;">*in lieu*</span> of inspection
 
-(1) Where the use of technology in the management of documents and conduct of the proceeding will facilitate the just, expeditious and economical disposal of the cause or matter, the Court may order, on its own motion or on application by a party, that discovery be given by the supply of electronic copies of discoverable electronically stored documents <span style="font-style: italic;">*in lieu*</span> of inspection. 
+(1) Where the use of technology in the management of documents and conduct of the proceeding will facilitate the just, expeditious and economical disposal of the cause or matter, the Court may order, on its own motion or on application by a party, that discovery be given by the supply of electronic copies of discoverable electronically stored documents *in lieu* of inspection. 
 
 (2) An order for discovery made under this paragraph may take the following form:
 
-(a) Discovery of electronic mail and electronically stored documents which are in the parties’ possession, power or custody be given by providing electronic copies in native format or one of the reasonably usable formats set forth in the Supreme Court Practice Directions, Appendix E Part 4 (Reasonably usable formats);
+: (a) Discovery of electronic mail and electronically stored documents which are in the parties’ possession, power or custody be given by providing electronic copies in native format or one of the reasonably usable formats set forth in the Supreme Court Practice Directions, Appendix E Part 4 (Reasonably usable formats);
 
-(b) Electronic mail in Microsoft Outlook or Lotus Notes be provided in Personal Storage Table (PST) or Notes Storage Format (NSF), as the case may be, with all attachments intact, and that the electronic mail from each custodian be supplied in a single PST or NSF file;
+: (b) Electronic mail in Microsoft Outlook or Lotus Notes be provided in Personal Storage Table (PST) or Notes Storage Format (NSF), as the case may be, with all attachments intact, and that the electronic mail from each custodian be supplied in a single PST or NSF file;
 
-(c) Electronic copies of discoverable electronically stored documents be supplied using one or more read-only optical disc(s), unless parties agree to an alternative storage medium (eg, removable flash storage or hard disks) or manner (eg, online folders or directories);
+: (c) Electronic copies of discoverable electronically stored documents be supplied using one or more read-only optical disc(s), unless parties agree to an alternative storage medium (eg, removable flash storage or hard disks) or manner (eg, online folders or directories);
 
-(d) Discoverable electronically stored documents are to be organised into meaningful categories and copies of all electronically stored documents in each category are to be stored in a separate folder or directory in the optical disc or storage medium, and further, for sub-categories to be organised as sub-folders or -directories;
+: (d) Discoverable electronically stored documents are to be organised into meaningful categories and copies of all electronically stored documents in each category are to be stored in a separate folder or directory in the optical disc or storage medium, and further, for sub-categories to be organised as sub-folders or -directories;
 
-(e) Enumeration of electronically stored documents in the list of documents is to be dispensed with, but a meaningful description is to be provided for each category or sub-category in the list of documents instead;
+: (e) Enumeration of electronically stored documents in the list of documents is to be dispensed with, but a meaningful description is to be provided for each category or sub-category in the list of documents instead;
 
-(f) All documents in the parties’ possession, power or custody that are in printed or paper form are to be digitised and processed using Optical Character Recognition (OCR) software programs to render the digitised documents searchable, and further, electronic copies are to be supplied in Portable Document Format (PDF) or in any other reasonably usable format (as parties may agree) in accordance with the terms of this Order;
+: (f) All documents in the parties’ possession, power or custody that are in printed or paper form are to be digitised and processed using Optical Character Recognition (OCR) software programs to render the digitised documents searchable, and further, electronic copies are to be supplied in Portable Document Format (PDF) or in any other reasonably usable format (as parties may agree) in accordance with the terms of this Order;
 
-(g) Parties are to exchange electronic copies of discoverable documents together with a list of documents in accordance with paragraph 49 (Form of list) of Part V of the Supreme Court Practice Directions, as modified by this Order, within fourteen days of this Order;
+: (g) Parties are to exchange electronic copies of discoverable documents together with a list of documents in accordance with paragraph 49 (Form of list) of Part V of the Supreme Court Practice Directions, as modified by this Order, within fourteen days of this Order;
 
-(h) Inspection be deferred and that Order 24, Rule 10 applies to the list of documents as though it was a pleading or an affidavit; and 
+: (h) Inspection be deferred and that Order 24, Rule 10 applies to the list of documents as though it was a pleading or an affidavit; and 
 
-(i) The time for objections under Order 27 be ordered to run from the date of exchange of electronic copies in paragraph (f) herein or the date of inspection, if any, whichever is the later.
+: (i) The time for objections under Order 27 be ordered to run from the date of exchange of electronic copies in paragraph (f) herein or the date of inspection, if any, whichever is the later.
 
-(3) For the avoidance of doubt, nothing in this paragraph requires parties to agree to adopt an electronic discovery plan or conduct reasonable searches for electronically stored documents under this Part. An order may be made under this paragraph in proceedings where parties have identified discoverable documents pursuant to the procedure set out in Order 24 of the Rules of Court.
+: (3) For the avoidance of doubt, nothing in this paragraph requires parties to agree to adopt an electronic discovery plan or conduct reasonable searches for electronically stored documents under this Part. An order may be made under this paragraph in proceedings where parties have identified discoverable documents pursuant to the procedure set out in Order 24 of the Rules of Court.
 
 ## 54\. Restriction on use of privileged document, inspection of which has been inadvertently allowed
 
