@@ -1,15 +1,11 @@
 # PART VII: FIXING OF MATTERS FOR HEARING
-&nsbp;
+&nbsp;
 
-64\. Waiting time for the hearing of matters
-
-65\. Requesting a hearing date through the Electronic Filing Service
-
-66\. Fixing of hearing dates
-
-67\. Adjournment or vacation of trial dates and part-heard cases
-
-68\. Adjournment or vacation of hearings other than trials
+: 64\. Waiting time for the hearing of matters 
+: 65\. Requesting a hearing date through the Electronic Filing Service 
+: 66\. Fixing of hearing dates 
+: 67\. Adjournment or vacation of trial dates and part-heard cases 
+: 68\. Adjournment or vacation of hearings other than trials
 
 ## 64\. Waiting time for the hearing of matters
 
@@ -21,11 +17,11 @@
 
 (1) When filing applications through the Electronic Filing Service, solicitors may be permitted to make a request for a preferred hearing date for the following classes of applications:
 
-(a) interlocutory applications to be heard before Registrars;
+: (a) interlocutory applications to be heard before Registrars;
 
-(b) bankruptcy applications; and
+: (b) bankruptcy applications; and
 
-(c) winding up applications.
+: (c) winding up applications.
 
 (2) Solicitors should confer with all parties to the application before selecting a preferred hearing date. Counsel arguing the application for all parties should be available to attend the hearing on the date selected.
 
@@ -41,11 +37,13 @@
 
 (4) The attention of solicitors is drawn to Order 34, Rule 5 of the Rules of Court, which provides:
 
-It shall be the duty of all parties to an action entered in any list to furnish without delay to the Registrar all available information as to the action being or being likely to be settled, or affecting the estimated length of the trial, <span style="font-style: italic;">*and, if the action is settled or withdrawn, to notify the Registrar of the fact without delay.*</span>  \[emphasis added\]
+: It shall be the duty of all parties to an action entered in any list to furnish without delay to the Registrar all available information as to the action being or being likely to be settled, or affecting the estimated length of the trial, *and, if the action is settled or withdrawn, to notify the Registrar of the fact without delay.*
+
+[emphasis added]
 
 ## 67. Adjournment or vacation of trial dates and part-heard cases
 
-(1) <span id="Sub-para_1"></span>Where dates have been fixed for the trial of any cause or matter, any request for an adjournment or vacation of the trial dates shall be made to the Court by way of summons with a supporting affidavit, even in those cases where counsel for the other party or parties consent to the adjournment.
+(1) Where dates have been fixed for the trial of any cause or matter, any request for an adjournment or vacation of the trial dates shall be made to the Court by way of summons with a supporting affidavit, even in those cases where counsel for the other party or parties consent to the adjournment.
 
 (2) Subject to any directions of the Court, when a case is adjourned, the Registrar shall assign such days as are available for the hearing of the case, and counsel will be expected to take the dates at short notice.
 
@@ -53,14 +51,14 @@ It shall be the duty of all parties to an action entered in any list to furnish 
 
 ## 68\. Adjournment or vacation of hearings other than trials
 
-(1) <span id="Sub-para_1"></span>Before solicitors make a Request through the Electronic Filing Service to the Court for an adjournment or vacation of any hearings other than trials, they should seek the consent of the other party or parties to the matter.  Unilateral requests made without first seeking the consent or views of the other party or parties to the matter will not be entertained, except in the most exceptional circumstances.
+(1) Before solicitors make a Request through the Electronic Filing Service to the Court for an adjournment or vacation of any hearings other than trials, they should seek the consent of the other party or parties to the matter.  Unilateral requests made without first seeking the consent or views of the other party or parties to the matter will not be entertained, except in the most exceptional circumstances.
 
 (2) Subject to sub-paragraph (3) below, the Request electronic form should be filed through the Electronic Filing Service at least 2 working days before the hearing, setting out the reasons for the requested adjournment or vacation of hearings.
 
 (3) Where an adjournment of any matter before the Court of Appeal is sought, the Request in electronic form should be filed through the Electronic Filing Service as soon as practicable after the sitting in which the matter is scheduled to be heard has been assigned and notified to the parties. Where there is a delay in the making of the request, the reason or reasons for the delay must be provided with the request. Any request for an adjournment on account of counsel’s diaries will not readily be acceded to.
 
-(4) <span id="Sub-para_3"></span>If the consent of all other parties to the matter is obtained, a letter stating that all parties have consented to the requested adjournment or vacation of hearings may be attached to the Request electronic form.  However, this does not mean that the Request will be granted as a matter of course.  The Court will still evaluate the merits of the Request before making its decision.  
+(4) If the consent of all other parties to the matter is obtained, a letter stating that all parties have consented to the requested adjournment or vacation of hearings may be attached to the Request electronic form.  However, this does not mean that the Request will be granted as a matter of course.  The Court will still evaluate the merits of the Request before making its decision.  
 
-(5) <span id="Sub-para_4"></span>If the consent of one or more of the other parties is not obtained, the letter should set out the reasons for the other parties’ objections, or explain why the consent of one or more of the other parties cannot be obtained. Any relevant correspondence between the parties should also be attached to the Request electronic form. The Court will then evaluate the contents of the Request and the relevant correspondence before deciding whether the requested adjournment or vacation of hearings should be allowed.
+(5) If the consent of one or more of the other parties is not obtained, the letter should set out the reasons for the other parties’ objections, or explain why the consent of one or more of the other parties cannot be obtained. Any relevant correspondence between the parties should also be attached to the Request electronic form. The Court will then evaluate the contents of the Request and the relevant correspondence before deciding whether the requested adjournment or vacation of hearings should be allowed.
 
-(6) <span id="Sub-para_6"></span>In any other case, solicitors on record for all parties must attend before the Court to make an application for an adjournment. See also paragraph 13 of these Practice Directions.
+(6) In any other case, solicitors on record for all parties must attend before the Court to make an application for an adjournment. See also paragraph 13 of these Practice Directions.

@@ -1,13 +1,10 @@
 # PART X: ENFORCEMENT OF JUDGMENTS AND ORDERS
-&nsbp;
+&nbsp;
 
-78\. Filing of writs of execution
-
-79\. Requests for the Sheriff’s attendance
-
-80\. Sale of immovable property
-
-80A. Examination of Judgment Debtor
+: 78\. Filing of writs of execution
+: 79\. Requests for the Sheriff’s attendance
+: 80\. Sale of immovable property
+: 80A. Examination of Judgment Debtor
 
 ## 78. Filing of writs of execution
 
@@ -19,11 +16,11 @@
 
 (1) Where any party requires the Sheriff or his bailiffs to:
 
-(a) attend at the place of execution at any time after the first attendance, whether during or after office hours, for the purposes of executing a writ of execution or distress or to arrest a debtor,or any other purpose;
+: (a) attend at the place of execution at any time after the first attendance, whether during or after office hours, for the purposes of executing a writ of execution or distress or to arrest a debtor,or any other purpose;
 
-(b) to proceed with the auction of property under seizure; or
+: (b) to proceed with the auction of property under seizure; or
 
-(c) to release property under seizure
+: (c) to release property under seizure
 
 he or she must do so by filing the requisite Request in Form 11 of Appendix A of these Practice Directions for attendance electronic form to the Sheriff through the Electronic Filing Service. A Request for attendance made in any other manner will not be acceded to.
 
@@ -33,13 +30,13 @@ he or she must do so by filing the requisite Request in Form 11 of Appendix A of
 
 (1) If an execution creditor wishes to effect the sale of immovable property seized under a writ of seizure and sale, he shall file the requisite Request for sale electronic form to the Sheriff through the Electronic Filing Service stating the following:
 
-(a) the date of registration (and expiry) at the Singapore Land Registry of the order of court/writ of seizure and sale on immovable property;
+: (a) the date of registration (and expiry) at the Singapore Land Registry of the order of court/writ of seizure and sale on immovable property;
 
-(b) that a copy of the order of court/writ of seizure and sale on immovable property has been served on the execution debtor, and the date of such service; and
+: (b) that a copy of the order of court/writ of seizure and sale on immovable property has been served on the execution debtor, and the date of such service; and
 
-(c) whether the immovable property is subject to any mortgage or charge, and if so, that the mortgagee or chargee consents to the sale.
+: (c) whether the immovable property is subject to any mortgage or charge, and if so, that the mortgagee or chargee consents to the sale.
 
-(d) the names of 3 proposed law firms and/or solicitors, among whom the Sheriff will appoint 1 to act on its behalf in the sale of the immovable property.
+: (d) the names of 3 proposed law firms and/or solicitors, among whom the Sheriff will appoint 1 to act on its behalf in the sale of the immovable property.
 
 (2) The Sheriff shall not be required to proceed with the sale if the immovable property is subject to a mortgage or charge and the execution creditor is unable to produce the written consent of the mortgagee or chargee to the sale.
 
@@ -47,13 +44,13 @@ he or she must do so by filing the requisite Request in Form 11 of Appendix A of
 
 (4) The following applies to any sale of immovable property by the Sheriff:
 
-(a) the Sheriff may require more than one valuation report to be submitted by a certified valuer before proceeding with the sale;
+: (a) the Sheriff may require more than one valuation report to be submitted by a certified valuer before proceeding with the sale;
 
-(b) the sale may be conducted by a licensed auctioneer and the immovable property may be offered for sale by way of private treaty, tender, auction or such other manner as the licensed auctioneer may advise;
+: (b) the sale may be conducted by a licensed auctioneer and the immovable property may be offered for sale by way of private treaty, tender, auction or such other manner as the licensed auctioneer may advise;
 
-(c) the immovable property shall not be sold at a price below the forced sale value as specified in the valuation report, or if there exists two or more valuation reports, in the latest valuation report; and
+: (c) the immovable property shall not be sold at a price below the forced sale value as specified in the valuation report, or if there exists two or more valuation reports, in the latest valuation report; and
 
-(d) the solicitor shall prepare all necessary conditions of sale, documentation, accounts and particulars on behalf of the Sheriff in accordance with the Sheriff’s directions, and shall be entitled to recover his legal fees and disbursements from the proceeds of sale as sheriff’s expenses.
+: (d) the solicitor shall prepare all necessary conditions of sale, documentation, accounts and particulars on behalf of the Sheriff in accordance with the Sheriff’s directions, and shall be entitled to recover his legal fees and disbursements from the proceeds of sale as sheriff’s expenses.
 
 ## 80A. Examination of Judgment Debtor
 
@@ -65,6 +62,6 @@ he or she must do so by filing the requisite Request in Form 11 of Appendix A of
 
 (4) The Judgment Debtor need not attend at the examination hearing if:
 
-(a) he is able to provide his answers to the questionnaire by way of an affidavit or statutory declaration; and
+: (a) he is able to provide his answers to the questionnaire by way of an affidavit or statutory declaration; and
 
-(b) the Judgment Creditor agrees to discharge the Order for Examination at the examination hearing.
+: (b) the Judgment Creditor agrees to discharge the Order for Examination at the examination hearing.
