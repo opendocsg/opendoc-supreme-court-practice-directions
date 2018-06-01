@@ -10,6 +10,32 @@ elastic_search:
 environment: DEV
 server_LOCAL: http://127.0.0.1:3000
 server_DEV: https://opendoc.sg
+section_order:
+  - Practice Directions
+  - Part I: Introduction
+  - Part II: General Matters
+  - Part III: Originating Processes and Documents
+  - Part IV: Interlocutory Applications
+  - Part V: Discovery and Inspection of Electronically Stored Documents
+  - Part VI: Evidence - Witnesses, Affidavits and Exhibits
+  - Part VII: Fixing of Matters for Hearing
+  - Part VIII: Documents and Authorities For Use In Court
+  - Part IX: Judgments and Orders
+  - Part X: Enforcement of Judgments and Orders
+  - Part XI: Appeals and Hearings Before Court of 3 Judges
+  - Part XII: Taxation Matters and Costs
+  - Part XIII: Electronic Filing and Service
+  - Part XIV: Electronic Filing and Service for Criminal Proceedings
+  - Part XV: Technology Facilities
+  - Part XVI: Admiralty Matters
+  - Part XVII: Adoption and Probate Matters
+  - Part XVIII: Matters Under The Legal Profession Act
+  - Part XIX: Matrimonial Proceedings and Matters Relating To The Guardianship of Infants
+  - Part XX: Bankruptcy and Winding Up Matters
+  - Part XXI: Applications Under The Mental Capacity Act
+  - Part XXII: Civil Proceedings That Do Not Use The Electronic Filing Service
+  - Part XXIII: Medical Negligence Claims
+  - Appendices
 styling_options:
   base_color: #bc6d75
   logo_path: /assets/logo.png
