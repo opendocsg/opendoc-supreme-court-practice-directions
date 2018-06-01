@@ -1,7 +1,7 @@
-# Practice Directions
+## Practice Directions
 Practice Directions and Registrar's Circulars are issued by the courts to supplement the Rules of Court by regulating court practice and procedure. Court users are expected to comply with all Practice Directions and Registrar's Circulars issued by the court. Until 1994, Practice Directions were issued as discrete documents; since then, however, all Practice Directions have been consolidated into a publication known as The Supreme Court Practice Directions.
 
-##  Chief Justice's Foreword
+###  Chief Justice's Foreword
 
 On 16 March 2010, the Supreme Court launched the electronic Practice Directions (“e-PD”). Since then, anyone requiring access to the Supreme Court Practice Directions has been able to do so conveniently through the Supreme Court website and even using their mobile devices. The e-PD marked an important step as the online version was deemed the authoritative version and amendments have been made by updating the online version.
 
@@ -22,7 +22,7 @@ January 2013
 
 \~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-## Chief Justice Chan Sek Keong's Foreword to the 2010 Revised Edition
+### Chief Justice Chan Sek Keong's Foreword to the 2010 Revised Edition
 
 No system of law can do without procedural rules, which are essential in ensuring that just and fair outcomes are reached in all cases. The Practice Directions of the Supreme Court thus play an important role in the Courts’ quest to achieve justice and to uphold the rule of law. At the dawn of this new decade, the Supreme Court has taken the initiative to launch the electronic Practice Directions (“e-PD”), which will ensure that the Practice Directions are more readily accessible and conveniently at hand to the litigation practitioner and the general public than ever before.
 
