@@ -121,8 +121,7 @@ Form 23. [deleted] Application to Use the Mobile Info-Technology Trolley
 ## Appendix H : List of Registrar, Deputy Registrar, Divisional Registrars and Senior Assistant Registrars
 &nbsp;
 
-<a href="/opendoc-supreme-court-practice-directions/downloads/Appendix_H/Appendix_H.pdf" download>LIST OF REGISTRAR, DEPUTY REGISTRAR, DIVISIONAL REGISTRARS AND SENIOR ASSISTANT REGISTRARS
-</a>
+<a href="/opendoc-supreme-court-practice-directions/downloads/Appendix_H/Appendix_H.pdf" download>LIST OF REGISTRAR, DEPUTY REGISTRAR, DIVISIONAL REGISTRARS AND SENIOR ASSISTANT REGISTRARS</a>
 
 ## Appendix I : Guidelines for Advocates and Solicitors advising clients about ADR
 &nbsp;
