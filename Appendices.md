@@ -1,17 +1,7 @@
 # Appendices
-&nbsp;
-
-: Appendix A : Forms
-: Appendix B : Waiting Periods
-: Appendix C : Sample Bills Of Costs 
-: Appendix D : Fees for the Use of Technology Courts
-: Appendix E : Discovery and Inspection of Electronic Documents
-: Appendix F : Sample Costs Schedule
-: Appendix G : Guidelines for Party-and-Party costs awards in the Supreme Court of Singapore
-: Appendix H : List of Registrar, Deputy Registrar, Divisional Registrars and Senior Assistant Registrars
-: Appendix I : Guidelines for Advocates and Solicitors advising clients about ADR
 
 ## Appendix A : Forms
+&nbsp;
 
 : <a href="/downloads/Appendix_A/Form_01.pdf" download>Form 1. Specimen Government Medical Certificate</a>
 : <a href="/downloads/Appendix_A/Form_01.pdf" download>Form 2. Request for Interpretation Services</a>
@@ -51,20 +41,24 @@
 : <a href="/downloads/Appendix_A/Form_30.pdf" download>Form 30. Undertaking that Appeal Bundles Do Not Contain Sealed or Unredacted Documents</a>
 
 ## Appendix B : Waiting Periods
+&nbsp;
 
-: <a href="/downloads/Appendix_B/Appendix_B.pdf" download>Download file</a>
+: <a href="/downloads/Appendix_B/Appendix_B.pdf" download>Waiting Periods</a>
 
 ## Appendix C : Sample Bills Of Costs 
+&nbsp;
 
 : <a href="/downloads/Appendix_C/Appendix_C1.pdf" download>Sample Bill of Costs for contentious matters – Trials</a>
 : <a href="/downloads/Appendix_C/Appendix_C2.pdf" download>Sample Bill of Costs for contentious matters other than trials</a>
 : <a href="/downloads/Appendix_C/Appendix_C3.pdf" download>Sample Bill of Costs for non-contentious matters</a>
 
 ## Appendix D : Fees for the Use of Technology Courts
+&nbsp;
 
 : <a href="/downloads/Appendix_D/Appendix_D.pdf" download>Fees for Use of the Technology Courts and the Mobile Infocom Technology Facilities</a>
 
 ## Appendix E : Discovery and Inspection of Electronic Documents
+&nbsp;
 
 : <a href="/downloads/Appendix_E/Appendix_E_PART_1.pdf" download>CHECK LIST OF ISSUES FOR GOOD FAITH COLLABORATION</a>
 : <a href="/downloads/Appendix_E/Appendix_E_PART_2.pdf" download>AGREED ELECTRONIC DISCOVERY PLAN</a>
@@ -72,16 +66,26 @@
 : <a href="/downloads/Appendix_E/Appendix_E_PART_4.pdf" download>REASONABLY USABLE FORMATS</a>
 
 ## Appendix F : Sample Costs Schedule
+&nbsp;
+
 : <a href="/downloads/Appendix_F/APPENDIX_F.pdf" download>SAMPLE COSTS SCHEDULE</a>
 
 ## Appendix G : Guidelines for Party-and-Party costs awards in the Supreme Court of Singapore
+&nbsp;
+
 : <a href="/downloads/Appendix_G/Appendix_G.pdf" download>GUIDELINES FOR PARTY-AND-PARTY COSTS AWARDS IN THE SUPREME COURT OF SINGAPORE</a>
 
 ## Appendix H : List of Registrar, Deputy Registrar, Divisional Registrars and Senior Assistant Registrars
+&nbsp;
+
 : <a href="/downloads/Appendix_H/Appendix_H.pdf" download>List of Registrar, Deputy Registrar, Divisional Registrars and Senior Assistant Registrars</a>
 
 ## Appendix I : Guidelines for Advocates and Solicitors advising clients about ADR
+&nbsp;
+
 : <a href="/downloads/Appendix_I/Appendix_I.pdf" download>GUIDELINES FOR ADVOCATES AND SOLICITORS ADVISING CLIENTS ABOUT ADR</a>
 
 ## Appendix J : High Court Protocol for Medical Negligence Cases
+&nbsp;
+
 : <a href="/downloads/Appendix_J/APPENDIX_J.pdf" download>HIGH COURT PROTOCOL FOR MEDICAL NEGLIGENCE CASES</a>
