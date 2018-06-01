@@ -112,7 +112,7 @@ TODO: Replace formatting for expanded text
 ########################################################################## -->
 
 
-(a) where a party is represented by a litigation [representative](javascript:TextPopup\(this\))<span id="POPUP80245594" class="expandtext" style="display: none;">Formerly known as “next friend"</span> or guardian in [adoption](javascript:TextPopup\(this\))<span id="POPUP80262809" class="expandtext" style="display: none;">Formerly known as “guardian ad litem" </span>, sub-paragraphs (1) to (3) shall apply to the litigation representative or guardian in adoption as if he or she was a party to the proceedings, and the identification numbers of the party, the litigation representative and/or the guardian in adoption must be stated after their names; 
+(a) where a party is represented by a litigation <u>representative</u> *(Formerly known as “next friend")* or guardian in <u>adoption</u> *(Formerly known as “guardian ad litem")*, sub-paragraphs (1) to (3) shall apply to the litigation representative or guardian in adoption as if he or she was a party to the proceedings, and the identification numbers of the party, the litigation representative and/or the guardian in adoption must be stated after their names; 
 
 (b) where parties are involved in any proceedings as the personal representatives of the estate of a deceased person, sub-paragraphs (1) to (3) shall apply to the deceased person as if he were a party;
 
