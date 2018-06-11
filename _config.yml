@@ -7,7 +7,8 @@ plugins:
 elastic_search:
   index: pd
   doctype: bare
-environment: DEV
+environment: PROD
+google_analytics: UA-113717369-6
 server_LOCAL: http://127.0.0.1:3000
 server_DEV: https://opendoc.sg
 section_order:
