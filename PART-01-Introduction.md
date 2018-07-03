@@ -12,7 +12,7 @@
 : 6\. Forms
 : 7\. Registrar’s Circulars
 : 7A. Business of the Registry
-:8. Video hearing
+: 8. Video hearing
 
 ## 1\. Citation
 
