@@ -39,5 +39,5 @@ section_order:
   - "Appendices"
 
 styling_options:
-  base_color: #bc6d75
+  primary_brand_color: '#444'
   logo_path: /assets/logo.png
