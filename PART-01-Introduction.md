@@ -14,6 +14,8 @@
 : 7A. Business of the Registry  
 :  8. Video hearing
 
+Example text
+
 ## 1\. Citation
 
 These Practice Directions may be cited as the Supreme Court Practice Directions.
