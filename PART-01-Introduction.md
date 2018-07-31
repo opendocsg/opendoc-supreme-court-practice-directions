@@ -14,7 +14,6 @@
 : 7A. Business of the Registry  
 :  8. Video hearing
 
-Example text
 
 ## 1\. Citation
 
