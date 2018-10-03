@@ -1,0 +1,39 @@
+title: Practice Directions
+remote_theme: opengovsg/opendoc-theme
+timezone: Asia/Singapore
+elastic_search:
+  index: supremecourt-pd
+  doctype: bare
+server_DEV: https://search.opendoc.sg
+environment: DEV
+section_order:
+  - "Practice Directions"
+  - "Part I: Introduction"
+  - "Part II: General Matters"
+  - "Part III: Originating Processes and Documents"
+  - "Part IIIA: Alternative Dispute Resolution"
+  - "Part IV: Interlocutory Applications"
+  - "Part V: Discovery and Inspection of Electronically Stored Documents"
+  - "Part VI: Evidence - Witnesses, Affidavits and Exhibits"
+  - "Part VII: Fixing of Matters for Hearing"
+  - "Part VIII: Documents and Authorities For Use In Court"
+  - "Part IX: Judgments and Orders"
+  - "Part X: Enforcement of Judgments and Orders"
+  - "Part XI: Appeals and Hearings Before Court of 3 Judges"
+  - "Part XII: Taxation Matters and Costs"
+  - "Part XIII: Electronic Filing and Service"
+  - "Part XIV: Electronic Filing and Service for Criminal Proceedings"
+  - "Part XV: Technology Facilities"
+  - "Part XVI: Admiralty Matters"
+  - "Part XVII: Adoption and Probate Matters"
+  - "Part XVIII: Matters Under The Legal Profession Act"
+  - "Part XIX: Matrimonial Proceedings and Matters Relating To The Guardianship of Infants"
+  - "Part XX: Bankruptcy and Winding Up Matters"
+  - "Part XXI: Applications Under The Mental Capacity Act"
+  - "Part XXII: Civil Proceedings That Do Not Use The Electronic Filing Service"
+  - "Part XXIII: Medical Negligence Claims"
+  - "Appendices"
+styling_options:
+  primary_brand_color: '#9f0836'
+  logo_path: /assets/logo.png
+  opendoc_logo_path: /assets/images/logo-full.png
