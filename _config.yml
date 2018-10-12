@@ -6,6 +6,7 @@ elastic_search:
   doctype: bare
 server_DEV: https://search.opendoc.sg
 environment: DEV
+google_analytics: UA-113717369-6
 section_order:
   - "Practice Directions"
   - "Part I: Introduction"
