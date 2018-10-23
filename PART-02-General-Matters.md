@@ -291,7 +291,7 @@ Nothing in this paragraph detracts from the responsibility of lead counsel to en
 <ul type="*">
 <li>(a) Notwithstanding sub-paragraphs (1) and (2), and save where lead counsel is a junior counsel, the junior assisting counsel shall deliver the oral opening statement unless the Court otherwise orders; and</li>
 <li>(b) lead counsel are to inform the trial judge at the Judge Pre-Trial Conference ("JPTC"), or if a JPTC has not been fixed, at the start of the trial, whether their client will be making an application pursuant to sub-paragraph (2) above and, if so, the proposed division of advocacy tasks between lead counsel and junior assisting counsel.</li>
-	
+
 (7) Unless stated otherwise, this paragraph shall apply to both civil and criminal proceedings. 
 
 
