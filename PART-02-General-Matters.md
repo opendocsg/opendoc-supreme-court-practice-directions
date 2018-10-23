@@ -224,7 +224,7 @@ is required to attend Court and wishes to absent himself from Court on medical g
 (1) The Central Display Management System (CDMS) is used for the following types of hearings:
 
 <ul type="*">
-	<li>(a) hearings before a Registrar (including matters before a Duty Registrar) except applications for bankruptcy orders; and</li>
+	<li>(a) hearings before a Registrar (including matters before a Duty Registrar); and</li>
 	<li>(b) hearings before a Judge in chambers, if so directed by the Judge.</li>
 </ul>
 
