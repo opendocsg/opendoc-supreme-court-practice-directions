@@ -272,18 +272,28 @@ The Honourable the Chief Justice, on the advice of the Council of Judges, has di
 
 (1) In the event that a party is represented by more than one counsel at a hearing, whether in open Court or in Chambers, the making of submissions and the questioning of witnesses may be carried out by one counsel for each party only.
 
-(2) If it is necessary for certain portions of the submissions, or examination, cross-examination or re-examination of witnesses to be conducted by different counsel in the same case, an application should be made to Court at the commencement of the trial or hearing for leave to do so. The following information should be provided to the Court for the purposes of the application:
+(2) If a party would like certain portions of the submissions, or examination, cross-examination or re-examination of witnesses to be conducted by different counsel in the same case, an oral application should be made to Court as early as is practicable and by no later than the commencement of the trial or hearing for leave to do so. The following information should be provided to the Court for the purposes of the application:
 
 <ul type="*">
 	<li>(a) the issues on which each counsel will be making submissions; and/or</li>
 	<li>(b) the witnesses to be examined, cross-examined or re-examined by each counsel, or the portions of their evidence for which each counsel will conduct the examination, cross-examination or re-examination.</li>
 </ul>
 
+Nothing in this paragraph detracts from the responsibility of lead counsel to ensure that all counsel making submissions, or having conduct of any portion of the examination, cross-examination or re-examination of witnesses, are adequately supervised and able to handle the tasks assigned to them.
+
 (3) If leave has been granted in accordance with sub-paragraph (2), counsel should ensure that he or she confines himself or herself to the issues or portions of evidence in respect of which leave was granted and that there is no overlap in the issues or the examination being dealt with by different counsel for the same party. Further, counsel must not repeat, clarify or expand on any submissions that have been made by another counsel for the same party, or examine, cross-examine or re-examine witnesses on portions of their evidence dealt with by another counsel for the same party.
 
 (4) If leave of the Court is not sought in accordance with sub-paragraph (2), only one counsel will be allowed to make submissions or conduct examination, cross-examination or re-examination for a party throughout the hearing.
 
-(5) This paragraph shall apply to both civil and criminal proceedings.
+(5) For civil proceedings, lead counsel are strongly encouraged to apprise the client of the benefits of allocating certain advocacy tasks to junior assisting counsel, including the potential benefits of reduced legal costs and increased focus by lead counsel on the main advocacy tasks, and to therefore consider obtaining instructions to make an application in accordance with sub-paragraph (2). In this regard, lead counsel are encouraged to consider that giving junior assisting counsel more opportunities for oral advocacy could potentially benefit the client and, at the same time, promote renewal of the Bar.
+
+(6) For civil trials:
+<ul type="*">
+<li>(a) Notwithstanding sub-paragraphs (1) and (2), and save where lead counsel is a junior counsel, the junior assisting counsel shall deliver the oral opening statement unless the Court otherwise orders; and</li>
+<li>(b) lead counsel are to inform the trial judge at the Judge Pre-Trial Conference ("JPTC"), or if a JPTC has not been fixed, at the start of the trial, whether their client will be making an application pursuant to sub-paragraph (2) above and, if so, the proposed division of advocacy tasks between lead counsel and junior assisting counsel.</li>
+	
+(7) Unless stated otherwise, this paragraph shall apply to both civil and criminal proceedings. 
+
 
 ## 20. Interpreters and translation
 
