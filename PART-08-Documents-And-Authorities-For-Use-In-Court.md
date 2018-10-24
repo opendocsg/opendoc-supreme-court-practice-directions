@@ -186,7 +186,7 @@ Relevance: Choice of law considerations are relevant even when determining the n
 (14) A proper opening statement is of great assistance to the Court as it sets out the case in a nutshell, both as to facts and law. It is intended to identify both for the parties and the Judge the issues that are, and are not, in dispute. It enables the Judge to appreciate what the case is about, and what he is to look out for when reading and listening to the evidence that will follow. The need for brevity is emphasised as opening statements that contain long and elaborate arguments, and citations from and references to numerous authorities, do not serve this purpose.
 
 <ul type="*">
-	<li>(a) Opening statements will be required from all parties in all cases commenced by writ in the High Court, except where dispensation has been granted by the Court and in motor vehicle accident actions. Statements submitted may be taken as read by the trial Judge.</li>
+	<li>(a) Opening statements will be required from all parties in all cases commenced by writ in the High Court, except where dispensation has been granted by the Court and in motor vehicle accident actions.</li>
 	<li>(b) All opening statements must include the following:</li>
 	<ul type="*">
 		<li>(i) the nature of the case generally and the background facts insofar as they are relevant to the matter before the Court and indicating which facts, if any, are agreed;</li>
