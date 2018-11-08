@@ -1,5 +1,5 @@
 title: Supreme Court Practice Directions
-remote_theme: opengovsg/opendoc-theme
+remote_theme: opendocsg/opendoc-theme
 timezone: Asia/Singapore
 server_PROD: https://search.opendoc.sg
 server_DEV: https://search.opendoc.sg
