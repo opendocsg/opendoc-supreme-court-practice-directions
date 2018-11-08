@@ -1,7 +1,7 @@
 # Part XVI: Admiralty Matters
 
 <ul type="*">
-	<li>124. Arrest of ships by the Sheriff</li>
+	<li>124. Arrest of ships</li>
 	<li>125. Form of undertaking</li>
 	<li>126. Release of vessel lying under arrest</li>
 	<li>127. Filing of supporting documents</li>
