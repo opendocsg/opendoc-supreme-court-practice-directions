@@ -33,4 +33,3 @@ I am pleased to launch the e-PD, and I congratulate the Registrar and his team f
 
 _Chief Justice Chan Sek Keong_
 
-
