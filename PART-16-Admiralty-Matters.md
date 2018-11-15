@@ -1,9 +1,11 @@
 # Part XVI: Admiralty Matters
 
 <ul type="*">
-	<li>124. Arrest of ships by the Sheriff</li>
+	<li>124. Arrest of ships</li>
+	<li>124A. Arrest of ships in shipyards</li>
 	<li>125. Form of undertaking</li>
 	<li>126. Release of vessel lying under arrest</li>
+	<li>126A. Caveat against release</li>
 	<li>127. Filing of supporting documents</li>
 	<li>128. Hard copies at hearing of admiralty matters</li>
 	<li>129. Searches for caveats against arrest or release</li>
@@ -11,21 +13,21 @@
 	<li>130A. Applications for appraisement and sale</li>
 </ul>
 
-## 124. Arrest of ships by the Sheriff
+## 124. Arrest of ships
 
-(1) The Sheriff will apply to a Judge for an omnibus order in every casewhere a ship or vessel is arrested, giving the Sheriff discretion to take various measures for the safe and satisfactory custody of the arrested property. The usual terms of the order are that:
-
-<ul type="*">
-	<li>(a) the Sheriff may be at liberty at his discretion at any time to take measures to preserve the ship/vessel, her machinery and equipment;</li>
-	<li>(b) the Sheriff may be at liberty at his discretion at any time to move the ship or vessel within the limits of the port where she is lying under arrest, either for her own safety or to comply with the requirements of the port authority; and</li>
-	<li>(c) the costs and expenses incurred in the implementation of the order be deemed to be part of the Sheriff’s expenses and in the event of a sale be paid first out of the proceeds of sale.</li>
-</ul>
+(1) The plaintiff will apply to a Judge for an omnibus order in every casewhere a ship or vessel is arrested, giving the Sheriff discretion to take various measures for the safe and satisfactory custody of the arrested property. The usual prayers in the application for an omnibus order are prayers 7 to 11 of Annex B (Standard Appraisement and Sale Prayers and Omnibus Prayers) to the Admiralty Court Guide (which may be found as Schedule 1 of the Registrar’s Circular No. 1 of 2018 and which may be amended from time to time) (the “Admiralty Court Guide”).
 
 (2) Solicitors representing plaintiffs in admiralty proceedings are required to provide an undertaking that the Sheriff shall be indemnified and be provided with sufficient funds as and when required by the Sheriff to meet the charges and expenses that may be incurred in consequence of their request for the arrest of a vessel. If such an undertaking is not fulfilled within a reasonable time, the Sheriff may take such steps as may be necessary to enforce the undertaking againstthe solicitors concerned.
 
 (3) Upon the arrest of vessel, funds are required immediately to meet the Sheriff’s expenses, such as guard charges, port and garbage dues, and the supply of minimum victuals, domestic fuel and water to crew members where necessary. Funds to meet such expenses are not provided for by the Government.
 
-(4) To enable the Sheriff to discharge his duties effectively, upon the arrest of a vessel, the Sheriff may require the solicitors representing arresting parties to deposit with the Sheriff a sum of between $5,000 to$10,000. Such deposit is in addition to the usual undertaking..
+(4) To enable the Sheriff to discharge his duties effectively, upon the arrest of a vessel, the Sheriff will require the solicitors representing arresting parties to deposit with the Sheriff a sum of $10,000. Such deposit is in addition to the usual undertaking.
+
+## 124A. Arrest of ships in shipyards
+
+(1) In every case where a vessel is arrested in or within a shipyard, the plaintiff must, within 14 days of the arrest or within 3 days from a request by a shipyard to move the vessel, whichever is the earlier, apply to a Judge for an omnibus order giving the Sheriff discretion to take appropriate measures for the safe and satisfactory custody of the arrested property. 
+
+(2) The usual prayers in the application for an omnibus order are prayers 7 to 11 of Annex B (Standard Appraisement and Sale Prayers and Omnibus Prayers) to the Admiralty Court Guide. In addition, in circumstances where the shipyard is asserting a possessory lien against the vessel, the omnibus order should stipulate that the order is without prejudice to the shipyard’s possessory lien.
 
 ## 125. Form of undertaking
 
@@ -37,6 +39,12 @@ In order to ensure that there is no undue delay in the issuance and execution of
 
 (2) The fees prescribed by Appendix B to the Rules of Court will be payable in respect of any attendance by the Sheriff.
 
+## 126A. Caveat against release
+
+(1) With respect to property as to which a caveat against release is in force, a party, before applying for the issuance of a release, must give at least 24 hours’ prior written notice to any party at whose instance a subsisting caveat against release has been entered to either withdraw the caveat or arrest the property in another action.
+
+(2) A release may be issued by the Court pursuant to Order 70, Rule 12(2)(b) with respect to property as to which a caveat against release is in force if such caveat is not withdrawn or where the caveator has failed to arrest the property in another action notwithstanding that the prior notice in paragraph (1) has been given.
+
 ## 127. Filing of supporting documents
 
 The attention of solicitors is drawn to paragraph 9 which sets out the opening hours of the Legal Registry of Supreme Court. Solicitors shall ensure that the necessary documents are filed within the opening hours of the Legal Registry to enable execution to be effected. The directions in paragraph 11 apply when an urgent application has to be made after the Legal Registry’s opening hours.
@@ -47,7 +55,7 @@ Order 70, Rule 26 of the Rules of Court provides that the party by whom an admir
 
 ## 129. Searches for caveats against arrest or release
 
-Order 70, Rule 4(2)(b) of the Rules of Court provides that the party applying for a warrant of arrest to be issued must procure a search to be made in the record of caveats to ascertain whether there is a caveat against arrest in force. Order 70, Rule 12(2) provides that a release shall not be issued if a caveat against release is in force. A party applying for either arrest or release of a particular property shall provide documentation evidencing a search for caveats against arrest or release, as the case may be, reflecting a search done no more than 15 minutes before the hearing of the application.
+Order 70, Rule 4(2)(b) of the Rules of Court provides that the party applying for a warrant of arrest to be issued must procure a search to be made in the record of caveats to ascertain whether there is a caveat against arrest in force. Order 70, Rule 12(2) provides that a release shall not be issued if a caveat against release is in force, unless, either (a) at the time of the issue of release the property is under arrest in one or more other actions, or (b) the Court so orders. A party applying for either arrest or release of a particular property shall provide documentation evidencing a search for caveats against arrest or release, as the case may be, reflecting a search done no more than 15 minutes before the hearing of the application.
 
 ## 130. Registration of service clerks for admiralty matters
 
