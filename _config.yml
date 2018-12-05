@@ -2,6 +2,9 @@ title: Supreme Court Practice Directions
 remote_theme: opendocsg/opendoc-theme
 timezone: Asia/Singapore
 repository: opendocsg/opendoc-supreme-court-practice-directions
+plugins:
+  - jekyll-seo-tag
+  - jekyll-include-cache
 baseurl: ''
 server_PROD: https://search.opendoc.sg
 server_DEV: https://search-staging.opendoc.sg
