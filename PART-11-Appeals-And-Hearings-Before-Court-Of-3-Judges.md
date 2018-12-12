@@ -36,6 +36,7 @@
 		<li>Timelines for submission of skeletal arguments for appeal before the High Court</li>
 		<li>Application of this paragraph to Court of 3 Judges</li>
 	</ul>
+	<li>90A. Applications before the Court of Appeal</li>
 	<li>91. Use of presentation slides for all proceedings before the High Court, Court of Appeal and Court of 3 Judges</li>
 	<ul>
 		<li>Typeface</li>
