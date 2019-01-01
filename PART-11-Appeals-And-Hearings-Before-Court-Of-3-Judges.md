@@ -36,6 +36,7 @@
 		<li>Timelines for submission of skeletal arguments for appeal before the High Court</li>
 		<li>Application of this paragraph to Court of 3 Judges</li>
 	</ul>
+	<li>90A. Applications before the Court of Appeal</li>
 	<li>91. Use of presentation slides for all proceedings before the High Court, Court of Appeal and Court of 3 Judges</li>
 	<ul>
 		<li>Typeface</li>
@@ -365,7 +366,7 @@ Parties should avoid the use of generic descriptions such as “extracts from th
 
 <ul type="*">
 	<li>(a) civil and criminal appeals in the High Court, excluding appeals from the Registrar to a Judge in Chambers;</li>
-	<li>(b) civil appeals and any other civil matters, including interlocutory applications, before the Court of Appeal; and</li>
+	<li>(b) civil appeals and any other civil matters, before the Court of Appeal; and</li>
 	<li>(c) criminal appeals and other criminal matters before the Court of Appeal.</li>
 </ul>
 
@@ -407,6 +408,26 @@ Parties should avoid the use of generic descriptions such as “extracts from th
 ***Application of this paragraph to Court of 3 Judges***
 
 (11) Sub-paragraphs (1) to (8A) also apply to disciplinary proceedings, or appeals therefrom, brought under any statute, including the Legal Profession Act (Cap. 161) and the Medical Registration Act (Cap. 174) which are heard by a Court of 3 Judges.
+
+## 90A. Applications before the Court of Appeal
+
+(1) Unless otherwise provided by any written law or otherwise directed, reply affidavits (if any) for applications before the Court of Appeal are to be filed and served within 7 days from the date the application and the affidavit in support of the application (if any) are served on the party.
+
+(2) No further affidavits shall be filed without the leave of the Court of Appeal.
+
+(3) Unless otherwise provided by any written law or unless otherwise directed, parties are to file and serve submissions (if any) in respect of the application before the Court of Appeal within 7 days from the date the reply affidavit is due for filing and service.
+
+(4) The submissions should comply with the following requirements:
+<ul type="*">
+	<li>(a) they should not exceed 20 pages, excluding the cover page and the backing page;</li>
+	<li>(b) all pages should be paginated, with the first page (not including any cover page) number as “Page 1”; </li>
+	<li>(c) the minimum font size to be used is Times New Roman 12 or its equivalent; </li>
+	<li>(d) the print of every page shall be double-spaced; and </li>
+	<li>(e) every page shall have a margin on all 4 sides, each of at least 35mm in width.</li>
+</ul>
+
+(5) If no affidavits or submissions are filed by the timelines prescribed by this paragraph, the Court of Appeal will proceed on the basis that the party does not intend to file any affidavit or submissions and may decide the matter based on the documents before it without hearing oral arguments.
+
 
 ## 91. Use of presentation slides for all proceedings before the High Court, Court of Appeal and Court of 3 Judges
 
