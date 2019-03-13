@@ -306,7 +306,7 @@ Nothing in this paragraph detracts from the responsibility of lead counsel to en
 
 (4) The requesting party shall make payment of any prescribed fees for interpretation services under the Rules of Court upon approval of the Request.
 
-(5) In the event that the services of the interpreter are for any reason not required on any of the scheduled days specified in the Request, the requesting party shall immediately notify the appropriate Head Interpreter either by letter, facsimile transmission or email.  This shall serve as a notice of cancellation.
+(5) In the event that the services of the interpreter are for any reason not required on any of the scheduled days specified in the Request, the requesting party shall immediately notify the appropriate Head Interpreter either by letter or email.  This shall serve as a notice of cancellation.
 
 (6) Any request for refund of the fee paid under sub-paragraph (4) must be submitted to the Registrar through the Electronic Filing Service within one month after the date on which the reason for the refund arose.  The supporting reasons and the amount of refund sought must be clearly indicated in the request for refund.
 
@@ -351,9 +351,14 @@ Nothing in this paragraph detracts from the responsibility of lead counsel to en
 
 (1) In order to maintain the dignity of Court proceedings, the Honourable the Chief Justice has directed that, in all hearings in open Court or Chambers before a Judge or Registrar, video and/or image recording is strictly prohibited.
 
-(2) Additionally, all communications with external parties and audio recording during a hearing are strictly prohibited without prior approval of the Judge or Registrar hearing the matter.
+(2) Additionally, audio recording during a hearing is strictly prohibited without prior approval of the Judge or Registrar hearing the matter.
 
-(3) Court users are permitted to use notebooks, tablets and other electronic devices to take notes of evidence and for other purposes pertaining to the proceedings during hearings, provided that such use does not in any way disrupt or trivialise the proceedings. 
+(3) Court users are permitted to use notebooks, tablets, mobile phones and other electronic devices to:
+<ul type="*">
+	<li>(a) take notes of evidence and for other purposes pertaining to the proceedings in open Court or Chambers; or </li>
+	<li>(b) communicate with external parties in all hearings in open Court, </li>
+</ul>
+provided that such use does not in any way disrupt or trivialise the proceedings.
 
 (4) The attention of court users is also drawn to section 5 of the Administration of Justice (Protection) Act 2016 (Act No. 19 of 2016).
 
@@ -499,7 +504,7 @@ Obtaining certified true copies of documents
 
 ## 27. Requests and other Correspondence
 
-(1) All Requests relating to or in connection with any pending cause or matter are to be made using the electronic forms available through the Electronic Filing Service. Where an electronic form is available through the Electronic Filing Service for the Request that is sought, the Registry has the discretion to refuse acceptance of other forms of written correspondence (including letters or facsimiles) and to refuse to act on such correspondence. 
+(1) All Requests relating to or in connection with any pending cause or matter are to be made using the electronic forms available through the Electronic Filing Service. Where an electronic form is available through the Electronic Filing Service for the Request that is sought, the Registry has the discretion to refuse acceptance of other forms of written correspondence (including letters) and to refuse to act on such correspondence. 
 
 (1A) All correspondence to the Court relating to or in connection with any pending cause or matter shall be copied to all other parties to the cause or matter or to their solicitors unless there are good reasons for not so doing. Solicitors are further reminded that the Court should not be copied on correspondence between parties or their solicitors. The Registry has the discretion to reject or refuse to act on any inappropriate or *ex parte* correspondence.
 
@@ -521,12 +526,7 @@ below the parties’ names. For example:
 
 (4) Compliance with the directions in this paragraph will facilitate the expeditious location of the relevant cause file.
 
-(5) A letter may be sent to the Court by a law firm only in one of 2 ways:
-
-<ul type="*">
-	<li>(a) Using the Electronic Filing Service; or</li>
-	<li>(b) By facsimile transmission.</li>
-</ul>
+(5) A letter may be sent to the Court by a law firm using the Electronic Filing Service only.
 
 If a letter is sent to the Court by a law firm in any other way, it is liable to be rejected. If a letter is sent to the Court by a law firm without the information specified in sub-paragraph (2), it is also liable to be rejected.
 
