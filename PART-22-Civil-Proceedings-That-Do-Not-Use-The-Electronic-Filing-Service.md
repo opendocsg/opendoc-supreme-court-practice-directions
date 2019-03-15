@@ -31,8 +31,6 @@ To facilitate the contacting of lawyers having conduct of an action or charge of
 
 Tel : (Contact telephone number.)
 
-Fax : (Contact facsimile number.)
-
 Ref : (File reference of law firm.)
 ```
 

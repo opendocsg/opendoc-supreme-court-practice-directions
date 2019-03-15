@@ -10,7 +10,7 @@
 
 ## 64. Waiting time for the hearing of matters
 
-(1) The average waiting times between the filing of certain processes or other steps in the proceedings and the date for the hearing or pre-trial conference of the matter are set out in Appendix B of these Practice Directions. Solicitors are directed to take note of these waiting times as they must be ready to proceed at the end of the relevant period.
+(1) The average waiting times between the filing of certain processes or other steps in the proceedings and the date for the hearing or pre-trial conference of the matter are set out in Appendix B of these Practice Directions. Solicitors are directed to take note of these waiting times as they must be ready to proceed at the end of the relevant period. The average waiting times in Appendix B do not apply to special date fixings.
 
 (2) This paragraph shall apply to both civil and criminal proceedings.
 
