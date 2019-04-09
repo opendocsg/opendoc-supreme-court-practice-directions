@@ -78,13 +78,13 @@ Registrar’s Circulars can be found at the Supreme Court web site at http://[ww
 
 ## 7A. Business of the Registry
 
-(1) Pursuant to section 71(1) of the Supreme Court of Judicature Act and Order 60, Rule 1(1) of the Rules of Court, the Chief Justice has directed that the Registry shall comprise of the Division for the Court of Appeal, the Division for the High Court and the Division for the Singapore International Commercial Court.
+(1) Pursuant to section 71(1) of the Supreme Court of Judicature Act and Order 60, Rule 1(1) of the Rules of Court, the Chief Justice has directed that the Registry of the Supreme Court (“the Registry”) shall comprise the Division for the Court of Appeal, the Division for the High Court and the Division for the Singapore International Commercial Court.
 
-(2) There shall be a Divisional Registrar for the Court of Appeal, the High Court and the Singapore International Commercial Court. The Divisional Registrar shall have control and supervision of the affairs of each division of the Registry. Overall control and supervision of the Registry shall remain with the Registrar.
+(2) There shall be a Divisional Registrar for the Court of Appeal, the High Court and the Singapore International Commercial Court. The Divisional Registrar for each division shall have control and supervision of the affairs of that division. Overall control and supervision of the Registry shall remain with the Registrar of the Supreme Court.
 
-(3) The Chief Justice may designate the Deputy Registrar, any Senior Assistant Registrar or Assistant Registrar as Divisional Registrar. The Chief Justice may also designate any Assistant Registrar as Senior Assistant Registrar.
+(3) The Chief Justice may designate any Assistant Registrar as Senior Assistant Registrar. The Chief Justice may also designate the Deputy Registrar, any Senior Assistant Registrar or Assistant Registrar as Divisional Registrar or Deputy Divisional Registrar of any division of the Registry.
 
-(4) Appendix H sets out the names of the Registrar, Deputy Registrar, Divisional Registrars and Senior Assistant Registrars.
+(4) Appendix H sets out the names of the Registrar, Deputy Registrar, Divisional and Deputy Divisional Registrars, and Senior Assistant Registrars.
 
 (5) Pursuant to Order 60, Rule 1(3)of the Rules of Court, the business of the Registry is governed by the Rules of Court and these Practice Directions. For the avoidance of doubt, it is hereby declared that any instruction manuals which may be issued from time to time by the Government are not applicable to the business of the Registry.
 
