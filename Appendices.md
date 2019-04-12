@@ -85,7 +85,7 @@
 ## Appendix H : Registrar, Deputy Registrar, Divisional and Deputy Divisional Registrars, and Senior Assistant Registrars
 
 <ul type="*">
-	<li><a href="./downloads/Appendix_H/Appendix_H.pdf" download>Registrar, Deputy Registrar, Divisional and Deputy Divisional Registrars, and Senior Assistant Registrars</a></li>
+	<li><a href="./downloads/Appendix_H/Appendix_H.pdf" download>REGISTRAR, DEPUTY REGISTRAR, DIVISIONAL AND DEPUTY DIVISIONAL REGISTRARS, AND SENIOR ASSISTANT REGISTRARS</a></li>
 </ul>
 
 ## Appendix I : Guidelines for Advocates and Solicitors advising clients about ADR
