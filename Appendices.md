@@ -82,10 +82,10 @@
 	<li><a href="./downloads/Appendix_G/Appendix_G.pdf" download>GUIDELINES FOR PARTY-AND-PARTY COSTS AWARDS IN THE SUPREME COURT OF SINGAPORE</a></li>
 </ul>
 
-## Appendix H : List of Registrar, Deputy Registrar, Divisional and Deputy Divisional Registrars, and Senior Assistant Registrars
+## Appendix H : Registrar, Deputy Registrar, Divisional and Deputy Divisional Registrars, and Senior Assistant Registrars
 
 <ul type="*">
-	<li><a href="./downloads/Appendix_H/Appendix_H.pdf" download>LIST OF Registrar, Deputy Registrar, Divisional and Deputy Divisional Registrars, and Senior Assistant Registrars</a></li>
+	<li><a href="./downloads/Appendix_H/Appendix_H.pdf" download>Registrar, Deputy Registrar, Divisional and Deputy Divisional Registrars, and Senior Assistant Registrars</a></li>
 </ul>
 
 ## Appendix I : Guidelines for Advocates and Solicitors advising clients about ADR
