@@ -49,7 +49,7 @@
 
 <ul type="*">
 	<li>(a) in a case where the matter is before the High Court, at least 10 days before the hearing; and</li>
-	<li>(b) in a case where the matter is before the Court of Appeal, at least 10 days before the week of the Court of Appeal sitting (e.g., the skeletal arguments for matters listed for hearing in the Court of Appeal sitting commencing on 10 April 2017 must be filed no later than 31 March 2017).</li>
+	<li>(b) in a case where the matter is before the Court of Appeal, by 4 p.m. on the Monday three weeks before the start of the Court of Appeal sitting period within which that matter is scheduled for hearing, regardless of the actual day (within that sitting period) on which that matter is scheduled for hearing before the Court of Appeal. (For example, if the sitting period starts on Monday, 18 February 2019 and ends on Friday, 8 March 2019, all skeletal arguments for matters listed before the Court of Appeal in that sitting period must be filed by 4 p.m. on Monday, 28 January 2019.)</li>
 </ul>
 
 (2) Hard copies of bundles of authorities shall be tendered to the Legal Registry of the Supreme Court at the same time as hard copies of skeletal arguments.
