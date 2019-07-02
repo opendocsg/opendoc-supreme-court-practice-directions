@@ -10,33 +10,36 @@ server_PROD: https://search.opendoc.sg
 server_DEV: https://search-staging.opendoc.sg
 google_analytics: UA-113717369-6
 order:
-  - "Part I: Introduction"
-  - "Part II: General Matters"
-  - "Part III: Originating Processes and Documents"
-  - "Part IIIA: Alternative Dispute Resolution"
-  - "Part IV: Interlocutory Applications"
-  - "Part V: Discovery and Inspection of Electronically Stored Documents"
-  - "Part VI: Evidence - Witnesses, Affidavits and Exhibits"
-  - "Part VII: Fixing of Matters for Hearing"
-  - "Part VIII: Documents and Authorities For Use In Court"
-  - "Part IX: Judgments and Orders"
-  - "Part X: Enforcement of Judgments and Orders"
-  - "Part XI: Appeals and Hearings Before Court of 3 Judges"
-  - "Part XII: Taxation Matters and Costs"
-  - "Part XIII: Electronic Filing and Service"
-  - "Part XIV: Electronic Filing and Service for Criminal Proceedings"
-  - "Part XV: Technology Facilities"
-  - "Part XVI: Admiralty Matters"
-  - "Part XVII: Adoption and Probate Matters"
-  - "Part XVIII: Matters Under The Legal Profession Act"
-  - "Part XIX: Matrimonial Proceedings and Matters Relating To The Guardianship of Infants"
-  - "Part XX: Bankruptcy and Winding Up Matters"
-  - "Part XXI: Applications Under The Mental Capacity Act"
-  - "Part XXII: Civil Proceedings That Do Not Use The Electronic Filing Service"
-  - "Part XXIII: Medical Negligence Claims"
-  - "Appendices"
+  - "PART-01-Introduction.md"
+  - "PART-02-General-Matters.md"
+  - "PART-03-Originating-Processes-And-Documents.md"
+  - "PART-03A-Alternative-Dispute-Resolution.md"
+  - "PART-04-Interlocutory-Applications.md"
+  - "PART-05-Discovery-And-Inspection-Of-Electronically-Stored-Documents.md"
+  - "PART-06-Evidence--Witnesses-Affidavits-And-Exhibits.md"
+  - "PART-07-Fixing-Of-Matters-For-Hearing.md"
+  - "PART-08-Documents-And-Authorities-For-Use-In-Court.md"
+  - "PART-09-Judgments-And-Orders.md"
+  - "PART-10-Enforcement-Of-Judgments-And-Orders.md"
+  - "PART-11-Appeals-And-Hearings-Before-Court-Of-3-Judges.md"
+  - "PART-12-Taxation-Matters-And-Costs.md"
+  - "PART-13-Electronic-Filing-And-Service.md"
+  - "PART-14-Electronic-Filing-And-Service-For-Criminal-Proceedings.md"
+  - "PART-15-Technology-Facilities.md"
+  - "PART-16-Admiralty-Matters.md"
+  - "PART-17-Adoption-And-Probate-Matters.md"
+  - "PART-18-Matters-Under-The-Legal-Profession-Act.md"
+  - "PART-19-Matrimonial-Proceedings-And-Matters-Relating-To-The-Guardianship-Of-Infants.md"
+  - "PART-20-Bankruptcy-And-Winding-Up-Matters.md"
+  - "PART-21-Applications-Under-The-Mental-Capacity-Act.md"
+  - "PART-22-Civil-Proceedings-That-Do-Not-Use-The-Electronic-Filing-Service.md"
+  - "PART-23-Medical-Negligence-Claims.md"
+  - "Appendices.md"
 styling_options:
   primary_brand_color: '#9f0836'
   logo_path: /assets/logo.png
   opendoc_logo_path: /assets/images/logo-full.png
   feedback_url: https://form.gov.sg/5cee3d46138e3200109244df
+
+
+
