@@ -1,5 +1,5 @@
 title: Supreme Court Practice Directions
-remote_theme: opendocsg/opendoc-theme@v2
+remote_theme: opendocsg/opendoc-theme@s3pdf
 timezone: Asia/Singapore
 repository: opendocsg/opendoc-supreme-court-practice-directions
 plugins:
@@ -8,6 +8,7 @@ plugins:
 baseurl: ''
 server_PROD: https://search.opendoc.sg
 server_DEV: https://search-staging.opendoc.sg
+offline: false
 google_analytics: UA-113717369-6
 order:
   - "PART-01-Introduction.md"
