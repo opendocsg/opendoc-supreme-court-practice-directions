@@ -234,7 +234,7 @@ A request for the waiver or deferment of the whole or any part of any appeal cou
 	<li>(a) To facilitate cross-referencing, appeal records shall be arranged in the following separate volumes:</li>
 	<ul type="*">
 		<li>(i) <b>Volume I</b> – Judgment or grounds of decision and the engrossed order of Court of judgment appealed from.</li>
-		<li>(ii) <b>Volume I</b> – Notice of appeal, certificate of security for costs and pleadings (to include all originating processes).</li>
+		<li>(ii) <b>Volume II</b> – Notice of appeal, certificate of security for costs and pleadings (to include all originating processes).</li>
 		<li>(iii) <b>Volume III</b> – Affidavits (in chronological order), and transcripts or notes of evidence and arguments.</li>
 		<li>(iv) <b>Volume IV</b> – All such exhibits and documents as they were tendered in the Court below, but which did not form an exhibit to any affidavit.</li>
 		<li>(v) <b>Volume V</b> – The Agreed Bundle (if any) in its original physical form as it was tendered in the Court below.</li>
