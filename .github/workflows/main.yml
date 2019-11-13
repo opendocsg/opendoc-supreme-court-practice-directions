@@ -1,9 +1,6 @@
-name: Build GH Page
+name: Jekyll site CI
 
-on:
-  push:
-    branches: 
-      - master
+on: [push]
 
 jobs:
   build:
@@ -14,12 +11,16 @@ jobs:
     - uses: actions/checkout@v1
     - name: Build the site in the jekyll/builder container
       run: |
+        REPO_NAME=${{ github.repository }}
+        REPO_NAME=${REPO_NAME##*/}
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+        -e REPO_NAME \
         jekyll/builder:latest /bin/bash -c \
         "chmod 777 /srv/jekyll && \
         echo 'offline: true' > _offline-config.yml && \
-        jekyll build --future --config ./_config.yml,./_offline-config.yml && \
+        echo here $REPO_NAME && \
+        jekyll build --future --config ./_config.yml,./_offline-config.yml --baseurl $REPO_NAME  && \
         chmod -R 777 /srv/jekyll/_site && \
         wget -qO- 'https://github.com/dustinblackman/phantomized/releases/download/2.1.1a/dockerized-phantomjs.tar.gz' | tar xz -C / && \
         apk add --update ttf-dejavu ttf-droid ttf-freefont ttf-liberation ttf-ubuntu-font-family && \
