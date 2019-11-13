@@ -1,0 +1,45 @@
+name: Build GH Page
+
+on:
+  push:
+    branches: 
+      - master
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Build the site in the jekyll/builder container
+      run: |
+        docker run \
+        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+        jekyll/builder:latest /bin/bash -c \
+        "chmod 777 /srv/jekyll && \
+        echo 'offline: true' > _offline-config.yml && \
+        jekyll build --future --config ./_config.yml,./_offline-config.yml && \
+        chmod -R 777 /srv/jekyll/_site && \
+        wget -qO- 'https://github.com/dustinblackman/phantomized/releases/download/2.1.1a/dockerized-phantomjs.tar.gz' | tar xz -C / && \
+        apk add --update ttf-dejavu ttf-droid ttf-freefont ttf-liberation ttf-ubuntu-font-family && \
+        git clone https://github.com/opendocsg/opendoc-fonts.git ~/.fonts && \
+        fc-cache -f -v && \
+        ./_site/assets/startup/build.sh"
+    - name: Commit files
+      run: |
+        cd ${{ github.workspace }}/_site
+        git init
+        git add .
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "Build artifacts"
+    - name: Push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        cd ${{ github.workspace }}/_site
+        git status
+        github_repo="https://x-access-token:$GITHUB_TOKEN@github.com/${{ github.repository }}.git"
+        echo $github_repo
+        git push --force $github_repo HEAD:refs/heads/gh-pages
