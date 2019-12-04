@@ -43,4 +43,4 @@ jobs:
         git status
         github_repo="https://x-access-token:$GITHUB_TOKEN@github.com/${{ github.repository }}.git"
         echo $github_repo
-        git push --force $github_repo HEAD:refs/heads/gh-pages
+        git push --force $github_repo HEAD:refs/heads/build
