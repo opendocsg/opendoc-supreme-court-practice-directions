@@ -409,13 +409,13 @@ Parties should avoid the use of generic descriptions such as “extracts from th
 
 (11) Sub-paragraphs (1) to (8A) also apply to disciplinary proceedings, or appeals therefrom, brought under any statute, including the Legal Profession Act (Cap. 161) and the Medical Registration Act (Cap. 174) which are heard by a Court of 3 Judges.
 
-## 90A. Applications before the Court of Appeal
+## 90A. Applications in civil matters before the Court of Appeal
 
-(1) Unless otherwise provided by any written law or otherwise directed, reply affidavits (if any) for applications before the Court of Appeal are to be filed and served within 7 days from the date the application and the affidavit in support of the application (if any) are served on the party.
+(1) Unless otherwise provided by any written law or otherwise directed, reply affidavits (if any) for applications in civil matters before the Court of Appeal are to be filed and served within 7 days after the date the application and the affidavit in support of the application (if any) are served on the party.
 
 (2) No further affidavits shall be filed without the leave of the Court of Appeal.
 
-(3) Unless otherwise provided by any written law or unless otherwise directed, parties are to file and serve submissions (if any) in respect of the application before the Court of Appeal within 7 days from the date the reply affidavit is due for filing and service.
+(3) Unless otherwise provided by any written law or unless otherwise directed, parties are to file and serve submissions (if any) in respect of the application before the Court of Appeal within 7 days after the date the reply affidavit is due for filing and service.
 
 (4) The submissions should comply with the following requirements:
 <ul type="*">
@@ -426,7 +426,7 @@ Parties should avoid the use of generic descriptions such as “extracts from th
 	<li>(e) every page shall have a margin on all 4 sides, each of at least 35mm in width.</li>
 </ul>
 
-(5) If no affidavits or submissions are filed by the timelines prescribed by this paragraph, the Court of Appeal will proceed on the basis that the party does not intend to file any affidavit or submissions and may decide the matter based on the documents before it without hearing oral arguments.
+(5) If no affidavits or submissions are filed by the timelines prescribed by this paragraph, the Court of Appeal will proceed on the basis that the party does not intend to file any affidavit or submissions and may, in accordance with s 34A(1) of the Supreme Court of Judicature Act, decide the matter based on the documents before it without hearing oral arguments.
 
 
 ## 91. Use of presentation slides for all proceedings before the High Court, Court of Appeal and Court of 3 Judges
