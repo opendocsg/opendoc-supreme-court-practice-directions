@@ -15,7 +15,7 @@
 
 ## 124. Arrest of ships
 
-(1) The plaintiff will apply to a Judge for an omnibus order in every casewhere a ship or vessel is arrested, giving the Sheriff discretion to take various measures for the safe and satisfactory custody of the arrested property. The usual prayers in the application for an omnibus order are prayers 7 to 11 of Annex B (Standard Appraisement and Sale Prayers and Omnibus Prayers) to the Admiralty Court Guide (which may be found as Schedule 1 of the Registrar’s Circular No. 1 of 2018 and which may be amended from time to time) (the “Admiralty Court Guide”).
+(1) The plaintiff will apply to a Judge for an omnibus order in every case where a ship or vessel is arrested, giving the Sheriff discretion to take various measures for the safe and satisfactory custody of the arrested property. The usual prayers in the application for an omnibus order are prayers 7 to 11 of Annex B (Standard Appraisement and Sale Prayers and Omnibus Prayers) to the current edition of the Admiralty Court Guide issued pursuant to a Registrar’s Circular (the “Admiralty Court Guide”).
 
 (2) Solicitors representing plaintiffs in admiralty proceedings are required to provide an undertaking that the Sheriff shall be indemnified and be provided with sufficient funds as and when required by the Sheriff to meet the charges and expenses that may be incurred in consequence of their request for the arrest of a vessel. If such an undertaking is not fulfilled within a reasonable time, the Sheriff may take such steps as may be necessary to enforce the undertaking againstthe solicitors concerned.
 

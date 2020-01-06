@@ -43,6 +43,8 @@
 	<li>[emphasis added]</li>
 </ul>
 
+(5) Further, parties are to note that any request for an early hearing date for any application, cause or matter is subject to the discretion and availability of the Court. In deciding when to fix an application, cause or matter for hearing or render its decision in any application, cause or matter, the Court is not obliged to give effect to any private agreement between parties on timelines and hearing dates.  
+
 
 ## 67. Adjournment or vacation of trial dates and part-heard cases
 
