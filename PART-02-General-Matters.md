@@ -250,9 +250,16 @@ Solicitors should indicate in the CDMS that they are ready for hearing only when
 
 (2) The attire for female advocates and solicitors appearing in open Court will be the existing gown worn over a long-sleeved white blouse high to the neck, a dark jacket, a dark skirt or dark trousers and black or plain coloured shoes. Conspicuous jewellery or ornaments should not be worn.
 
-(3) When appearing before the Judge or Registrar in Chambers, the attire for both men and women will be the same as for open Court, save that the gown need not be worn.
+(3) When appearing in open Court proceedings that are conducted through a live video or live television link:
 
-(4) The attire for Senior Counsel shall be as described in sub-paragraphs (1) to (3), save that, for hearings in open Court, they may, instead of the existing gown, wear a gown in the design of those worn by Queen’s Counsel of England and Wales and made of the following material: 
+<ul type="*">
+	<li>(a) if the proceedings are conducted solely through the live video or live television link and do not take place in any Courtroom, the attire for an advocate and solicitor will be the same as for open Court, except that a gown need not be worn; but</li>
+	<li>(b) if one or more Judges hear the proceedings in a Courtroom, unless the Court directs otherwise, every advocate and solicitor in the proceedings will wear the usual attire for open Court.</li>
+</ul>
+
+(4) When appearing before the Judge or Registrar in Chambers, the attire for an advocate and solicitor will be the same as for open Court, except that a gown need not be worn. 
+
+(5) The attire for Senior Counsel shall be as described in sub-paragraphs (1) to (4), save that, for hearings in open Court, they may, instead of the existing gown, wear a gown in the design of those worn by Queen’s Counsel of England and Wales and made of the following material: 
 
 <ul type="*">
 	<li>(a) silk;</li>
