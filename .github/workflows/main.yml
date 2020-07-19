@@ -16,7 +16,7 @@ jobs:
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
         -e REPO_NAME \
-        jekyll/builder:latest /bin/bash -c \
+        jekyll/builder:3.8 /bin/bash -c \
         "chmod 777 /srv/jekyll && \
         echo 'offline: true' > _offline-config.yml && \
         echo here $REPO_NAME && \
