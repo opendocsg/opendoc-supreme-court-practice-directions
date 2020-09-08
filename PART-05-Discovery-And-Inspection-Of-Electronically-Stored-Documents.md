@@ -213,9 +213,10 @@ Order 24, Rules 7 and 13 of the Rules of Court states that an order for discover
 	<li>(f) All documents in the parties’ possession, power or custody that are in printed or paper form are to be digitised and processed using Optical Character Recognition (OCR) software programs to render the digitised documents searchable, and further, electronic copies are to be supplied in Portable Document Format (PDF) or in any other reasonably usable format (as parties may agree) in accordance with the terms of this Order;</li>
 	<li>(g) Parties are to exchange electronic copies of discoverable documents together with a list of documents in accordance with paragraph 49 (Form of list) of Part V of the Supreme Court Practice Directions, as modified by this Order, within fourteen days of this Order;</li>
 	<li>(h) Inspection be deferred and that Order 24, Rule 10 applies to the list of documents as though it was a pleading or an affidavit; and </li>
-	<li>(i) The time for objections under Order 27 be ordered to run from the date of exchange of electronic copies in paragraph (f) herein or the date of inspection, if any, whichever is the later.</li>
-	<li>(3) For the avoidance of doubt, nothing in this paragraph requires parties to agree to adopt an electronic discovery plan or conduct reasonable searches for electronically stored documents under this Part. An order may be made under this paragraph in proceedings where parties have identified discoverable documents pursuant to the procedure set out in Order 24 of the Rules of Court.</li>
-</ul>
+	<li>(i) The time for objections under Order 27 be ordered to run from the date of exchange of electronic copies in paragraph (f) herein or the date of inspection, if any, whichever is the later.</li></ul>
+
+(3) For the avoidance of doubt, nothing in this paragraph requires parties to agree to adopt an electronic discovery plan or conduct reasonable searches for electronically stored documents under this Part. An order may be made under this paragraph in proceedings where parties have identified discoverable documents pursuant to the procedure set out in Order 24 of the Rules of Court.
+
 
 ## 54. Restriction on use of privileged document, inspection of which has been inadvertently allowed
 
