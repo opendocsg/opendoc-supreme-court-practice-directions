@@ -16,6 +16,17 @@
 	<li>7A. Business of the Registry  </li>
 </ul>
 
+## 0. Introduction
+
+1. > dasdsa
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+-----
+
+
 ## 1. Citation
 
 These Practice Directions may be cited as the Supreme Court Practice Directions.
