@@ -54,7 +54,7 @@
 
 ## 9. Hours for the sittings of the Supreme Court
 
-The Honourable the Chief Justice has directed that the Judges of the High Court and the Court of Appeal shall sit from 10.00 a.m. to 1.00 p.m. and from 2.15 p.m. to 5.00 p.m. Registrars shall sit from 9.00 a.m. to 1.00 p.m. and from 2.30 p.m. to 5.00 p.m. This is subject to the presiding Judge’s or Registrar’s discretion to commence or conclude a hearing at an earlier or later time.
+The Honourable the Chief Justice has directed that the the General Division, the Appellate Division and the Court of Appeal shall sit from 10.00 a.m. to 1.00 p.m. and from 2.15 p.m. to 5.00 p.m. Registrars shall sit from 9.00 a.m. to 1.00 p.m. and from 2.30 p.m. to 5.00 p.m. This is subject to the presiding Judge’s or Registrar’s discretion to commence or conclude a hearing at an earlier or later time.
 
 ## 10. Calculation of time
 
@@ -269,11 +269,28 @@ Solicitors should indicate in the CDMS that they are ready for hearing only when
 
 ## 18. Forms of address
 
-The Honourable the Chief Justice, on the advice of the Council of Judges, has directed that the following forms of address shall apply:
+The Honourable the Chief Justice has directed that the following forms of address shall apply:
 
-(1) The Chief Justice, the Judges and Judicial Commissioners shall, when sitting in open Court or in Chambers, be addressed as “Your Honour”, and on social occasions or other extra-judicial occasions, as “Chief Justice” or “Judge”, as the case may be.
+(1) The Chief Justice, the Justices of the Court of Appeal, the Judges of the Appellate Division, the Judges of the High Court, the Senior Judges, the International Judges and the Judicial Commissioners shall, when sitting in open Court or in Chambers, be addressed as “Your Honour”, and on social occasions or other extra-judicial occasions, as “Chief Justice” or “Judge”, as the case may be.
 
-(2) The Chief Justice, the Judges and the Judicial Commissioners shall, in all cause lists, orders of Court, correspondence and other documents, be described respectively as “Chief Justice”, “Justice” or “Judicial Commissioner” without any accompanying gender prefix.
+(2) The Chief Justice, the Justices of the Court of Appeal, the Judges of the Appellate Division, the Judges of the High Court, the Senior Judges, the International Judges and the Judicial Commissioners shall, in all cause lists, orders of Court, correspondence and other documents, be described in the following manner without any accompanying gender preﬁx.:
+
+| **Office** | **Form of Address** | **Abbreviated Form of Address** |
+| -------- | -------- | -------- |
+| Chief Justice     | “Chief Justice [name]”     | “[name] CJ”     |
+| -------- | -------- | -------- |
+| Justice of the Court of Appeal    | Text     | “[name] JCA”     |
+| -------- | -------- | -------- |
+| Judge of the Appellate Division     | Text     | “[name] JAD”    |
+| -------- | -------- | -------- |
+| Judge of the High Court     | Text     | “[name] J”     |
+| -------- | -------- | -------- |
+| Senior Judge     | Text     | “[name] SJ”     |
+| -------- | -------- | -------- |
+| International Judge     | Text     | “[name] IJ”     |
+| -------- | -------- | -------- |
+| Judicial Commissioner     | Text     | “[name] JC”     |
+| -------- | -------- | -------- |
 
 ## 19. Submissions and examination by leading and assisting counsel
 
