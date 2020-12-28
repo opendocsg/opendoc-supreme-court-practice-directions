@@ -276,21 +276,14 @@ The Honourable the Chief Justice has directed that the following forms of addres
 (2) The Chief Justice, the Justices of the Court of Appeal, the Judges of the Appellate Division, the Judges of the High Court, the Senior Judges, the International Judges and the Judicial Commissioners shall, in all cause lists, orders of Court, correspondence and other documents, be described in the following manner without any accompanying gender preﬁx.:
 
 | **Office** | **Form of Address** | **Abbreviated Form of Address** |
-| -------- | -------- | -------- |
 | Chief Justice     | “Chief Justice [name]”     | “[name] CJ”     |
-| -------- | -------- | -------- |
 | Justice of the Court of Appeal    | Text     | “[name] JCA”     |
-| -------- | -------- | -------- |
 | Judge of the Appellate Division     | Text     | “[name] JAD”    |
-| -------- | -------- | -------- |
 | Judge of the High Court     | Text     | “[name] J”     |
-| -------- | -------- | -------- |
 | Senior Judge     | Text     | “[name] SJ”     |
-| -------- | -------- | -------- |
 | International Judge     | Text     | “[name] IJ”     |
-| -------- | -------- | -------- |
 | Judicial Commissioner     | Text     | “[name] JC”     |
-| -------- | -------- | -------- |
+
 
 ## 19. Submissions and examination by leading and assisting counsel
 
