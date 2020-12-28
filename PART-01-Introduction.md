@@ -22,8 +22,8 @@ These Practice Directions may be cited as the Supreme Court Practice Directions.
 
 ## 1A. Definitions
 
-In these Practice Directions, unless the context otherwise requires:
-“Appellate Division” means the Appellate Division of the High Court; and
+In these Practice Directions, unless the context otherwise requires:<br>
+“Appellate Division” means the Appellate Division of the High Court; and<br>
 “General Division” means the General Division of the High Court.
 
 ## 2. Commencement
