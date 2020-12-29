@@ -76,7 +76,7 @@ All applications in Chambers (including summonses and summonses for directions) 
 <ul type="*">
 	<li>(a) applications for mandatory <span title='Formerly known as "mandamus".'><b><i>orders</i></b></span>, <span title='Formerly known as "prohibition".'><b><i>prohibiting orders</i></b></span> or <span title='Formerly known as "certiorari".'><b><i>quashing orders</i></b></span> under Order 53, Rule 2;</li>
 	<li>(b) issuance of summonses for order for review of <span title='Formerly known as "habeas corpus ad subjiciendum".'><b><i>detention</i></b></span> under Order 54, Rule 2;</li>
-	<li>(c) applications to the Court of Appeal in appeals under Order 57, Rule 16;</li>
+	<li>(c) applications to the Court of Appeal in appeals under Order 57, Rule 16 and applications to the Appellate Division in appeals under Order 56A, Rule 17;</li>
 	<li>(d) applications for remedies where property protected by a caveat is arrested under Order 70, Rule 6;</li>
 	<li>(e) applications for orders for damages caused by caveats against the release of property under arrest under Order 70, Rule 13;</li>
 	<li>(f) applications for judgment for failure to file a preliminary act under Order 70, Rule 18;</li>
