@@ -478,7 +478,7 @@ Obtaining certified true copies of documents
 		<li>(vii) details of winding up proceedings against companies and limited liability partnerships;</li>
 	</ul>
 	<li>(b) details of writs of execution, writs of distress and warrants of arrest;</li>
-	<li>(c) details of appeals filed in the Court of Appeal; and</li>
+	<li>(c) details of appeals ﬁled in the Court of Appeal and appeals filed in the Appellate Division; and</li>
 	<li>(d) any other information as may from time to time be found necessary.</li>
 </ul>
 
@@ -548,7 +548,7 @@ Obtaining certified true copies of documents
 
 (1) Where monies are sought to be paid into Court pursuant to a judgment or order of the Court, a copy of the judgment or order must be referenced in the draft direction to the Accountant-General for payment in and submitted to the Legal Registry of the Supreme Court for approval.
 
-(2) Where monies are sought to be paid out of Court pursuant to a judgment or order of the Court, pursuant to the acceptance of a payment into Court made under Order 22 of the Rules of Court or pursuant to Order 57, Rule 11, a copy of the judgment or order, or of the notice in Form 32 of Appendix A to the Rules of Court, or of the written consent attached to the draft direction to the Accountant-General for payment out, must be submitted to the Legal Registry for approval.
+(2) Where monies are sought to be paid out of Court pursuant to a judgment or order of the Court, pursuant to the acceptance of a payment into Court made under Order 22 of the Rules of Court or pursuant to Order 56A, Rule 13 or Order 57, Rule 11, a copy of the judgment or order, or of the notice in Form 32 of Appendix A to the Rules of Court, or of the written consent attached to the draft direction to the Accountant-General for payment out, must be submitted to the Legal Registry for approval.
 
 (3) Each draft direction for payment into or payment out of Court shall contain amounts in a single currency. Where monies in different currencies are to be paid into or out of Court, separate draft directions must be prepared for each currency in which payment is to be made. 
 
@@ -558,7 +558,7 @@ Obtaining certified true copies of documents
 
 (1A) All correspondence to the Court relating to or in connection with any pending cause or matter shall be copied to all other parties to the cause or matter or to their solicitors unless there are good reasons for not so doing. Solicitors are further reminded that the Court should not be copied on correspondence between parties or their solicitors. The Registry has the discretion to reject or refuse to act on any inappropriate or *ex parte* correspondence.
 
-(2) Apart from Requests coming within sub-paragraph (1), all correspondence relating to or in connection with any cause or matter before the Court of Appeal or a Judge shall be addressed to the Registrar.
+(2) Apart from Requests coming within sub-paragraph (1), all correspondence relating to or in connection with any cause or matter before the Court of Appeal, the Appellate Division, the General Division or a Judge shall be addressed to the Registrar.
 
 (3) In addition, all letters should be captioned with the number of the cause to which they relate and the names of the parties. For example:
 
@@ -634,7 +634,8 @@ collected.
 | **Case Number Format**               | **Type of Case**                                                      |
 | ------------------------------------ | --------------------------------------------------------------------- |
 | CA/CA \[Case Number\]/\[Year filed\] | Appeal to the Court of Appeal                                         |
-| HC/OS \[Case Number\]/\[Year filed\] | Originating Summons filed in the High Court                           |
+| AD/CA \[Case Number\]/\[Year filed\] | Appeal to the Appellate Division                                      |
+| HC/OS \[Case Number\]/\[Year filed\] | Originating Summons filed in the General Division                     |
 | SIC/S \[Case Number\]/\[Year filed\] | Writ of Summons filed in the Singapore International Commercial Court |
 
 
