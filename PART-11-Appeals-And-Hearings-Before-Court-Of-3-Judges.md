@@ -151,7 +151,7 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act (Cap. 322) and 
 <ul type="*">
 	<li>(a) The appellant is required to file one copy of the following:</li>
 	<ul type="*">
-		<li>(i) (i) Form of the record of appeal in lieu of the record of appeal (except that in the case of a further appeal to the Court of Appeal from the Appellate Division, the appellant is to file the form of the supplemental record of appeal in lieu of the supplemental record of appeal);</li>
+		<li>(i) Form of the record of appeal in lieu of the record of appeal (except that in the case of a further appeal to the Court of Appeal from the Appellate Division, the appellant is to file the form of the supplemental record of appeal in lieu of the supplemental record of appeal);</li>
 		<li>(ii) Form of the core bundle in lieu of the core bundle; and</li>
 		<li>(iii) Appellant’s Case<span style="text-align: justify;">.</span></li>
 	</ul>	
