@@ -7,7 +7,7 @@
 
 ## 35B. Overview of Alternative Dispute Resolution (ADR) for civil cases
 
-(1) This Part of the Practice Directions applies only to civil cases in the High Court and the Court of Appeal.
+(1) This Part of the Practice Directions applies only to civil cases in the General Division, the Appellate Division and the Court of Appeal.
 
 (2) It is the professional duty of advocates and solicitors to advise their clients about the different ways their disputes may be resolved using an appropriate form of ADR.
 
