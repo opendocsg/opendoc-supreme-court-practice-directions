@@ -66,7 +66,7 @@ All applications in Chambers (including summonses and summonses for directions) 
 <ul type="*">
 	<li>(a) applications under section 343 of the Companies Act (Cap. 50);</li>
 	<li>(b) applications under paragraph 97 of the Fifth Schedule to the Limited Liability Partnerships Act (Cap. 163A);</li>
-	<li>(c) applications for the committal of any person to prison for contempt in relation to winding up of a company or a limited liability partnership; and</li>
+	<li>(c) applications to the Court of Appeal in appeals under Order 57, Rule 16 and applications to the Appellate Division in appeals under Order 56A, Rule 17;</li>
 	<li>(d) applications to rectify the Register in relation to winding up of a company or a limited liability partnership (See Rule 5 of Companies (Winding Up) Rules (Cap. 50, Rule 1) and Rule 5 of Limited Liability Partnerships (Winding Up) Rules 2005).</li>
 </ul>
 
@@ -99,15 +99,15 @@ All applications in Chambers (including summonses and summonses for directions) 
 
 ## 40. Transfer of proceedings to the State Courts
 
-Where a claim in the High Court which may have initially exceeded $250,000 is subsequently reduced below this amount, solicitors should bring this to the attention of the Registrar and apply by summons or at the hearing of the summons for directions for an order that the action be transferred to the District Court for trial under section 54C of the State Courts Act (Cap 321), which provides:
+Where a claim in the General Division which may have initially exceeded $250,000 is subsequently reduced below this amount, solicitors should bring this to the attention of the Registrar and apply by summons or at the hearing of the summons for directions for an order that the action be transferred to the a State Court for trial under section 54C of the State Courts Act (Cap 321), which provides:
 <ul type="*">
 	<p>
-		<strong><em>General power to transfer from High Court to State Courts</em></strong>
+		<strong><em>General power to transfer from General Division of High Court to State Courts</em></strong>
 	</p>
-	<li>54C. — (1) A party to any civil proceedings pending in the High Court may for any sufficient reason at any time apply to the High Court for an order that the proceedings be transferred to a State Court.</li>
-	<li>(2) Subject to subsection (3), the High Court may, if it thinks fit, and on such terms as it sees fit, and either on its own motion or on application, order that the proceedings be transferred accordingly notwithstanding any other provision of this Act.</li>
+	<li>54C. — (1) A party to any civil proceedings pending in the General Division of the High Court may for any suﬃcient reason at any time apply to the General Division of the High Court for an order that the proceedings be transferred to a State Court.</li>
+	<li>(2) Subject to subsection (3), the General Division of the High Court may, if it thinks ﬁt, and on such terms as it sees ﬁt, and either on its own motion or on application, order that the proceedings be transferred accordingly notwithstanding any other provision of this Act.</li>
 	<li>(3) An order under subsection (2) may only be made in respect of such proceedings as could have been commenced in the State Court to which the application relates, if the value of the claim had been within the District Court limit or the Magistrate’s Court limit, as the case may be.</li>
-	<li>*Explanation —* The fact that the proceedings fall within the civil jurisdiction of the State Courts would not, by itself, ordinarily constitute sufficient reason for transferring the proceedings to the State Courts, if enforcement overseas is  intended of any judgment obtained in the High Court under any enforcement arrangements currently in force.</li>
+	<li>*Explanation —* The fact that the proceedings fall within the civil jurisdiction of the State Courts would not, by itself, ordinarily constitute suﬃcient reason for transferring the proceedings to the State Courts, if enforcement overseas is intended of any judgment obtained in the General Division of the High Court under any enforcement arrangements currently in force.</li>
 </ul>
 
 ## 41. *Ex parte* applications for injunctions
