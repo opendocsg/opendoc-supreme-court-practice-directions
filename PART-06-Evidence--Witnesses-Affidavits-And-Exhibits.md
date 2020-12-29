@@ -195,4 +195,4 @@ Non-compliance with any of the requirements of Order 41, Rule 1(4) may result in
 
 ## 63A. Lead Counsel’s Statement on Trial Proceedings
 
-(1) For every case proceeding to trial in the High Court, each party shall file and serve a Lead Counsel’s Statement in Form 9A of Appendix A of these Practice Directions to provide a list of issues for trial and an accurate estimation of the trial days needed after taking into account the time needed for the examination of each witness. The Lead Counsel’s Statement shall be filed and served within one week after objections to affidavits of evidence-in-chief are taken, unless the Court otherwise directs.
+(1) For every case proceeding to trial in the General Division, each party shall file and serve a Lead Counsel’s Statement in Form 9A of Appendix A of these Practice Directions to provide a list of issues for trial and an accurate estimation of the trial days needed after taking into account the time needed for the examination of each witness. The Lead Counsel’s Statement shall be filed and served within one week after objections to affidavits of evidence-in-chief are taken, unless the Court otherwise directs.
