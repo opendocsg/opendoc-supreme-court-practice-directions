@@ -278,12 +278,12 @@ The Honourable the Chief Justice has directed that the following forms of addres
 | **Office** | **Form of Address** | **Abbreviated Form of Address** |
 | -------- | -------- | -------- |
 | Chief Justice     | “Chief Justice [name]”     | “[name] CJ”     |
-| Justice of the Court of Appeal    | Text     | “[name] JCA”     |
-| Judge of the Appellate Division     | Text     | “[name] JAD”    |
-| Judge of the High Court     | Text     | “[name] J”     |
-| Senior Judge     | Text     | “[name] SJ”     |
-| International Judge     | Text     | “[name] IJ”     |
-| Judicial Commissioner     | Text     | “[name] JC”     |
+| Justice of the Court of Appeal    | “Justice [name]”    | “[name] JCA”     |
+| Judge of the Appellate Division     |      | “[name] JAD”    |
+| Judge of the High Court     |      | “[name] J”     |
+| Senior Judge     |     | “[name] SJ”     |
+| International Judge     |    | “[name] IJ”     |
+| Judicial Commissioner     | “Judicial Commissioner [name]”     | “[name] JC”     |
 
 
 ## 19. Submissions and examination by leading and assisting counsel
