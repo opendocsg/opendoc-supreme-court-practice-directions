@@ -99,7 +99,7 @@ All applications in Chambers (including summonses and summonses for directions) 
 
 ## 40. Transfer of proceedings to the State Courts
 
-Where a claim in the General Division which may have initially exceeded $250,000 is subsequently reduced below this amount, solicitors should bring this to the attention of the Registrar and apply by summons or at the hearing of the summons for directions for an order that the action be transferred to the a State Court for trial under section 54C of the State Courts Act (Cap 321), which provides:
+Where a claim in the General Division which may have initially exceeded $250,000 is subsequently reduced below this amount, solicitors should bring this to the attention of the Registrar and apply by summons or at the hearing of the summons for directions for an order that the action be transferred to a State Court for trial under section 54C of the State Courts Act (Cap 321), which provides:
 <ul type="*">
 	<p>
 		<strong><em>General power to transfer from General Division of High Court to State Courts</em></strong>
