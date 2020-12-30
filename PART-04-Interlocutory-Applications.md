@@ -66,7 +66,7 @@ All applications in Chambers (including summonses and summonses for directions) 
 <ul type="*">
 	<li>(a) applications under section 343 of the Companies Act (Cap. 50);</li>
 	<li>(b) applications under paragraph 97 of the Fifth Schedule to the Limited Liability Partnerships Act (Cap. 163A);</li>
-	<li>(c) applications to the Court of Appeal in appeals under Order 57, Rule 16 and applications to the Appellate Division in appeals under Order 56A, Rule 17;</li>
+	<li>(c) applications for the committal of any person to prison for contempt in relation to winding up of a company or a limited liability partnership; and</li>
 	<li>(d) applications to rectify the Register in relation to winding up of a company or a limited liability partnership (See Rule 5 of Companies (Winding Up) Rules (Cap. 50, Rule 1) and Rule 5 of Limited Liability Partnerships (Winding Up) Rules 2005).</li>
 </ul>
 
