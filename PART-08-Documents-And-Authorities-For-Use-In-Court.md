@@ -224,7 +224,7 @@ Relevance: Choice of law considerations are relevant even when determining the n
 
 ## 73A. Written submissions and bundles of authorities for special date hearings
 
-(1) For any contested special date hearing before a Judge sitting in the General Division, each party shall::
+(1) For any contested special date hearing before a Judge sitting in the General Division, each party shall:
 
 <ul type="*">
 	<li>(a) submit to the Court and serve on the other party a hard copy of the following documents at least 1 clear day in advance of the hearing</li>
