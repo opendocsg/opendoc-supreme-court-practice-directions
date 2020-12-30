@@ -33,7 +33,7 @@
 	<li>Form 22. [deleted] Application to Use the Technology Court or Mobile Info-Technology Trolley for Alternative Dispute Resolution</li>
 	<li>Form 23. [deleted] Application to Use the Mobile Info-Technology Trolley</li>
 	<li><a href="./downloads/Appendix_A/Form_24.pdf" download>Form 24. Undertaking to the Sheriff</a></li>
-	<li><a href="./downloads/Appendix_A/Form_25.pdf" download>Form 25. Schedule of Assets</a></li>
+	<li>Form 25. [deleted] Schedule of Assets</a></li>
 	<li><a href="./downloads/Appendix_A/Form_26.pdf" download>Form 26. Certificate of Notification</a></li>
 	<li><a href="./downloads/Appendix_A/Form_27.pdf" download>Form 27. Appeals Information Sheet</a></li>
 	<li><a href="./downloads/Appendix_A/Form_28.pdf" download>Form 28. ADR Offer</a></li>
