@@ -62,7 +62,7 @@
 <ul type="*">
 	<li>(a) appeals to the General Division from a Court, tribunal or person under Order 55, Rule 2(1);</li>
 	<li>(b) applications to the General Division by case stated in Order 55A, Rule 2(1);</li>
-	<li>(c) applications to the Court of Appeal in Order 57, Rule 16 and applications to the Appellate Division in Order 56A, Rule 17;;</li>
+	<li>(c) applications to the Court of Appeal in Order 57, Rule 16 and applications to the Appellate Division in Order 56A, Rule 17;</li>
 	<li>(d) applications under the Arbitration Act (Cap. 10) in Order 69, Rule 2;</li>
 	<li>(e) applications under the International Arbitration Act (Cap. 143A) in Order 69A, Rule 2;</li>
 	<li>(f) applications for apportionment of salvage in Order 70, Rule 32;</li>
