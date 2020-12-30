@@ -146,7 +146,7 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act (Cap. 322) and 
 
 (1) Under Order 56A, Rule 8(1) and Order 57, Rule 9(1) of the Rules of Court, the appellant is required to ﬁle the record of appeal (or in the case of a further appeal from the Appellate Division, the supplemental record of appeal), the Appellant’s Case and the core bundle. Under Order 56A, Rule 9(2) and (3) and Order 57, Rule 9A(2) and (2A), the respondent has to ﬁle the Respondent’s Case and the Respondent’s supplemental core bundle (if any). Under Order 56A, Rule 9(7) and (9) and Order 57, Rule 9A(5A) and (5C), the appellant may ﬁle an Appellant’s Reply and the Appellant’s supplemental core bundle (if any). The record of appeal (and the supplemental record of appeal, if any), core bundle and supplemental core bundle are collectively referred to in this paragraph as “appeal bundles”.
 
-(2) For the purpose of complying with Order 56A, Rules 8 and 9 and Order 57, Rules 9 and 9A, the parties are required to ﬁle the following documents using the Electronic Filing Service in accordance with the speciﬁed time frames in Order 56A, Rules 8(1) and 9(2) and (7) and Order 57, Rules 9(1), and 9A(2) and 9A (5A).
+(2) For the purpose of complying with Order 56A, Rules 8 and 9 and Order 57, Rules 9 and 9A, the parties are required to ﬁle the following documents using the Electronic Filing Service in accordance with the speciﬁed time frames in Order 56A, Rules 8(1) and 9(2) and (7) and Order 57, Rules 9(1) and 9A(2) and 9A (5A).
 
 <ul type="*">
 	<li>(a) The appellant is required to file one copy of the following:</li>
@@ -218,7 +218,7 @@ A request for the waiver or deferment of the whole or any part of any appeal cou
 	<li>(a) Appellant’s and Respondent’s Cases;</li>
 	<li>(b) the Appellant’s Reply;</li>
 	<li>(c) Core bundles of documents and supplemental core bundles of documents;</li>
-	<li>(d) Record of appeal (or, in the case of a further appeal from the Appellate Division, the supplemental record of appeal); and/li>
+	<li>(d) Record of appeal (or, in the case of a further appeal from the Appellate Division, the supplemental record of appeal); and</li>
 	<li>(e) Bundles of authorities.</li>
 </ul>
 
@@ -253,7 +253,7 @@ A request for the waiver or deferment of the whole or any part of any appeal cou
 		<li>(v) <b>Volume V</b> – The Agreed Bundle (if any) in its original physical form as it was tendered in the Court below.</li>
 	</ul>
 	<li>(b) Where there are no exhibits or documents referred to in sub-paragraph (1)(a)(iv) above, Volume IV need not be produced, and Volume V shall be renumbered as Volume IV.</li>
-	<li>(ba) Where there are no exhibits or documents referred to in sub-paragraph (1)(a)(iv) above, Volume IV need not be produced, and Volume V shall be renumbered as Volume IV.</li>
+	<li>(ba) To facilitate cross-referencing, any supplemental record of appeal shall be arranged in the following manner in one volume:</li>
 	<ul type="*">
 		<li>(i)	the notice of appeal to the Court of Appeal;</li>
 		<li>(ii) the certificate of payment of security for costs in respect of the appeal to the Court of Appeal;</li>
@@ -456,8 +456,9 @@ Parties should avoid the use of generic descriptions such as “extracts from th
 
 <ul type="*">
 	<li>(a) an application to the Court of Appeal under Order 57, Rule 2A of the Rules of Court for leave to appeal against a decision of the General Division; and</li>
-	<li>(b) an application to the Appellate Division under Order 56A, Rule 3 of the Rules of Court for leave to appeal against a decision of the General Division, shall be in Form 31A or 31B of Appendix A of these Practice Directions.</li>
+	<li>(b) an application to the Appellate Division under Order 56A, Rule 3 of the Rules of Court for leave to appeal against a decision of the General Division,</li> 
 </ul>
+shall be in Form 31A or 31B of Appendix A of these Practice Directions.
 
 (2) Any written submissions in respect of an application to the Court of Appeal under Order 57, Rule 2A of the Rules of Court for leave to appeal against a decision of the Appellate Division shall be in Form 32A or 32B of Appendix A of these Practice Directions.
 
@@ -475,7 +476,7 @@ Parties should avoid the use of generic descriptions such as “extracts from th
 
 (5) This paragraph does not apply to any application for leave to appeal against a decision of the General Division made before 2 January 2021 against which no appeal was brought before 2 January 2021, in a case where leave of the Court of Appeal was required to bring an appeal to the Court of Appeal under section 34(2), (2A) or (4) of the Supreme Court of Judicature Act as in force immediately before 2 January 2021. For any such application for leave to appeal, paragraph 90A sets out the directions for the filing of affidavits and written submissions.
 
-## 91. Use of presentation slides for all proceedings before the High Court General Division, Appellate Division, Court of Appeal and Court of 3 Judges
+## 91. Use of presentation slides for all proceedings before the General Division, Appellate Division, Court of Appeal and Court of 3 Judges
 
 Subject to approval by the Court, parties may utilise presentation slides to assist in oral submissions before the Court. Presentation slides may be projected in the courtroom or hearing chambers when oral submissions are made. Presentation slides shall comply with the following standards:
 
@@ -497,7 +498,7 @@ Subject to approval by the Court, parties may utilise presentation slides to ass
 
 ## 92. Further arguments before the Court of Appeal and the Appellate Division
 
-(1) From time to time, requests are received for further arguments to be presented before the Court of Appeal after the conclusion of the hearing of the appeal. Such requests should not be made as all relevant arguments should have been presented at the hearing proper. 
+(1) From time to time, requests are received for further arguments to be presented before the Court of Appeal or the Appellate Division after the conclusion of the hearing of the appeal. Such requests should not be made as all relevant arguments should have been presented at the hearing proper. 
 
 (2) The Honourable the Chief Justice has therefore directed that as a general rule, unless asked for by the Court of Appeal or the Appellate Division itself, the Court of Appeal and the Appellate Division will not receive further arguments after the conclusion of the hearing of the appeal.
 
