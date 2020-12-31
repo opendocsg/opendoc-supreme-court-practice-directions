@@ -6,7 +6,7 @@
 
 ## 158. Compliance with protocol
 
-(1) With eﬀect from 1 July 2017, parties in medical negligence claims are to comply with the High Court Protocol for Medical Negligence Cases in the General Division of the High Court at Appendix J of these Practice Directions. A breach by one party will not exempt the other parties in the claim from following the protocol insofar as they are able to do so.
+(1) With eﬀect from 1 July 2017, parties in medical negligence claims are to comply with the Protocol for Medical Negligence Cases in the General Division of the High Court at Appendix J of these Practice Directions. A breach by one party will not exempt the other parties in the claim from following the protocol insofar as they are able to do so.
 
 (2) In exercising its discretion as to costs, the Court will consider compliance with the protocol. If non-compliance with the protocol has led to unnecessary costs, the Court may make the following orders:
 
