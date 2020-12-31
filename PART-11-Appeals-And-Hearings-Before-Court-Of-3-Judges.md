@@ -460,8 +460,8 @@ Parties should avoid the use of generic descriptions such as “extracts from th
 	<li>(a) an application to the Court of Appeal under Order 57, Rule 2A of the Rules of Court for leave to appeal against a decision of the General Division; and</li>
 	<li>(b) an application to the Appellate Division under Order 56A, Rule 3 of the Rules of Court for leave to appeal against a decision of the General Division,</li> 
 </ul>
-shall be in Form 31A or 31B of Appendix A of these Practice Directions.
 
+shall be in Form 31A or 31B of Appendix A of these Practice Directions.
 
 (2) Any written submissions in respect of an application to the Court of Appeal under Order 57, Rule 2A of the Rules of Court for leave to appeal against a decision of the Appellate Division shall be in Form 32A or 32B of Appendix A of these Practice Directions.
 
