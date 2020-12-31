@@ -5,7 +5,7 @@
 	<li>139. Transfer of Section 17A(2) Supreme Court of Judicature Act Proceedings</li>
 	<li>140. Documents to be filed at the Legal Registry of the Supreme Court</li>
 	<li>141. Forms of orders, including Mareva injunctions and search orders</li>
-	<li>142. Appeals on ancillary matters in Divorce Proceedings, Custody Matters or Section 17A(2) Supreme Court of Judicature Act Proceedings from the Family Court to the High Court</li>
+	<li>142. Appeals on ancillary matters in Divorce Proceedings, Custody Matters or Section 17A(2) Supreme Court of Judicature Act Proceedings filed before 1 October 2014</li>
 </ul>
 
 ## 138. Transfer of Matrimonial, Divorce and Guardianship of Infants Proceedings
@@ -70,7 +70,7 @@
 	<li>(a) all originating processes to commence family proceedings before 1 April 1996;</li>
 	<li>(b) all subsequent applications and documents in or ancillary to family proceedings commenced before 1 April 1996;</li>
 	<li>(c) all applications and documents in or ancillary to family proceedings commenced on or after 15 December 2003 but before 1 October 2014 involving the division of matrimonial assets with a net value of $1.5 million or more, which have been transferred to the High Court upon the direction of the Registrar of the State Courts;</li>
-	<li>(d) all applications and documents in or ancillary to section 17A(2) proceedings commenced on or after 1 November 2004 but before 1 October 2014 involving the division of matrimonial assets with a net value of $1.5 million or more, which have been transferred to the High Court upon the direction of the Registrar of the State Courts; and/li>
+	<li>(d) all applications and documents in or ancillary to section 17A(2) proceedings commenced on or after 1 November 2004 but before 1 October 2014 involving the division of matrimonial assets with a net value of $1.5 million or more, which have been transferred to the High Court upon the direction of the Registrar of the State Courts; and</li>
 	<li>(e) all applications and documents to vary any Order of the High Court or the General Division (as the case may be) in the proceedings referred to in sub-paragraphs (1)(a) to (d).</li>
 </ul>
 
