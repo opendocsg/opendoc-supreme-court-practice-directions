@@ -49,7 +49,7 @@
 
 ## 81. Application of this Part
 
-(1) The directions in this Part shall, subject to sub-paragraph (2) below, mutatis mutandis, apply to appeals before the General Division, hearings before the Appellate Division, hearings before the Court of Appeal and disciplinary proceedings (or appeals therefrom) brought under any statute, including the Legal Profession Act and the Medical Registration Act, which are heard by a Court of 3 Judges.
+(1) The directions in this Part shall, subject to sub-paragraph (2) below, *mutatis mutandis*, apply to appeals before the General Division, hearings before the Appellate Division, hearings before the Court of Appeal and disciplinary proceedings (or appeals therefrom) brought under any statute, including the Legal Profession Act and the Medical Registration Act, which are heard by a Court of 3 Judges.
 
 (2) Where disciplinary proceedings (or appeals therefrom) brought under any statute, including the Legal Profession Act and the Medical Registration Act, are heard by a Court of 3 Judges, 1 hard copy each of the parties’ written submissions, the record of proceedings, the originating summons and all aﬃdavits ﬁled in the originating summons shall be tendered, unless otherwise directed.
 
@@ -110,7 +110,7 @@
 
 (3) The Judge of first instance will inform the Legal Registry of the Supreme Court of his decision on the issue mentioned in sub-paragraph (2), and the Legal Registry will inform the appellant in the notice referred to in Order 57, Rule 5(2) of the time for filing of the record of appeal, the Appellant’s Case and the core bundle of documents, in accordance with whether the matter will be heard by a 2 or 3 Judge Court of Appeal. 
 
-(4) If the Judge of first instance does not determine the issue of whether the appeal should be heard before a 2 or 3 Judge Court of Appeal, or if the appellant should dispute the determination of the Judge of first instance, the matter will be referred to a Judge sitting in the Court of Appeal, whose determination is final. An appellant who wishes to dispute the determination of the Judge of first instance must, within 7 days after the service of the notice referred to in Order 57, Rule 5(2) inform the Legal Registry by filing a Request
+(4) If the Judge of first instance does not determine the issue of whether the appeal should be heard before a 2 or 3 Judge Court of Appeal, or if the appellant should dispute the determination of the Judge of first instance, the matter will be referred to a Judge sitting in the Court of Appeal, whose determination is final. An appellant who wishes to dispute the determination of the Judge of first instance must, within 7 days after the service of the notice referred to in Order 57, Rule 5(2), inform the Legal Registry by filing a Request
 
 ## 85A. Whether an appeal to the Court of Appeal is to be heard by 5 or any greater uneven number of Judges
 
@@ -129,7 +129,7 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act (Cap. 322) and 
 	<li>(a) to any appeal against a decision of the High Court that is brought to the Court of Appeal before 2 January 2021 and that continues, on or after that date, in the Court of Appeal in accordance with section 31(3) of the Supreme Court of Judicature (Amendment) Act 2019 (the “Amendment Act”); and</li>
 	<li>(b) to any appeal against a decision of the High Court, where that decision is made before 2 January 2021 in the circumstances mentioned in section 31(4) of the Amendment Act and either of the following applies:</li>
 	<ul type="*">
-		<li>(i) leave is granted as mentioned in section 31(4)(c) of the Amendment Act to bring an appeal against that decision to the Court of Appeal; </li>
+		<li>(i) leave is granted as mentioned in section 31(4)(*c*) of the Amendment Act to bring an appeal against that decision to the Court of Appeal; </li>
 		<li>(ii) leave to appeal to the Court of Appeal is sought from the Court of Appeal under section 34 of the Supreme Court of Judicature Act as in force immediately before 2 January 2021.</li>
 	</ul>
 </ul>
@@ -146,7 +146,7 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act (Cap. 322) and 
 
 (1) Under Order 56A, Rule 8(1) and Order 57, Rule 9(1) of the Rules of Court, the appellant is required to ﬁle the record of appeal (or in the case of a further appeal from the Appellate Division, the supplemental record of appeal), the Appellant’s Case and the core bundle. Under Order 56A, Rule 9(2) and (3) and Order 57, Rule 9A(2) and (2A), the respondent has to ﬁle the Respondent’s Case and the Respondent’s supplemental core bundle (if any). Under Order 56A, Rule 9(7) and (9) and Order 57, Rule 9A(5A) and (5C), the appellant may ﬁle an Appellant’s Reply and the Appellant’s supplemental core bundle (if any). The record of appeal (and the supplemental record of appeal, if any), core bundle and supplemental core bundle are collectively referred to in this paragraph as “appeal bundles”.
 
-(2) For the purpose of complying with Order 56A, Rules 8 and 9 and Order 57, Rules 9 and 9A, the parties are required to ﬁle the following documents using the Electronic Filing Service in accordance with the speciﬁed time frames in Order 56A, Rules 8(1) and 9(2) and (7) and Order 57, Rules 9(1) and 9A(2) and 9A (5A).
+(2) For the purpose of complying with Order 56A, Rules 8 and 9 and Order 57, Rules 9 and 9A, the parties are required to ﬁle the following documents using the Electronic Filing Service in accordance with the speciﬁed time frames in Order 56A, Rules 8(1) and 9(2) and (7) and Order 57, Rules 9(1) and 9A(2) and (5A).
 
 <ul type="*">
 	<li>(a) The appellant is required to file one copy of the following:</li>
@@ -203,7 +203,7 @@ A request for the waiver or deferment of the whole or any part of any appeal cou
 
 ## 88. Hard copies and soft copies for hearing of civil appeals before the Court of Appeal and civil appeals before the Appellate Division
 
-(1) In order to assist the Judges of sitting in the Court of Appeal or the Appellate Division, the appellant and the respondent are required to tender hard copies of the Appellant’s and Respondent’s Cases, the Appellant’s Reply (if any), core bundles of documents and supplemental core bundles of documents (if any) to the Legal Registry of the Supreme Court at the same time when ﬁling them within the prescribed time under Order 56A, Rule 9 or Order 57, Rule 9A of the Rules of Court (as the case may be). The following directions must be complied with:
+(1) In order to assist the Judges sitting in the Court of Appeal or the Appellate Division, the appellant and the respondent are required to tender hard copies of the Appellant’s and Respondent’s Cases, the Appellant’s Reply (if any), core bundles of documents and supplemental core bundles of documents (if any) to the Legal Registry of the Supreme Court at the same time when ﬁling them within the prescribed time under Order 56A, Rule 9 or Order 57, Rule 9A of the Rules of Court (as the case may be). The following directions must be complied with:
 
 <ul type="*">
 	<li>(a) Where the appeal is to be heard by a 3 Judge Court, 4 hard copies of the Cases and the Appellant’s Reply (if any), the core bundles and supplemental core bundles of documents (if any) shall be tendered. </li>
@@ -325,7 +325,7 @@ Parties should avoid the use of generic descriptions such as “extracts from th
 
 ***Superfluous, irrelevant or duplicative documents***
 
-(7) With regard to the inclusion of documents, the solicitor’s attention is drawn to the provisions of Order 56A, Rule 8(2), (3) and (4) and Order 57, Rules Rule 9(2), (2A) and (3) as well as Order 56A, Rule 9(3) and (9) and Order 57, Rules Rule 9A(2A) and (5C). Only documents which are relevant to the subject matter of the appeal, or, in the case of core bundles and supplemental core bundles, will be referred to in the Cases, shall be included in the appeal records.
+(7) With regard to the inclusion of documents, the solicitor’s attention is drawn to the provisions of Order 56A, Rule 8(2), (3) and (4) and Order 57, Rule 9(2), (2A) and (3) as well as Order 56A, Rule 9(3) and (9) and Order 57, Rule 9A(2A) and (5C). Only documents which are relevant to the subject matter of the appeal, or, in the case of core bundles and supplemental core bundles, will be referred to in the Cases, shall be included in the appeal records.
 
 (8) Parties are reminded not to exhibit duplicate documents in their supplemental core bundle if such documents are already included in a core bundle or supplemental core bundle that has been filed earlier. Documents shall not appear more than once in the records, even if exhibited to different affidavits.
 
@@ -429,7 +429,7 @@ Parties should avoid the use of generic descriptions such as “extracts from th
 
 ***Application of this paragraph to Court of 3 Judges***
 
-(11) Sub-paragraphs (1) to (8A) also apply to disciplinary proceedings, or appeals therefrom, brought under any statute, including the Legal Profession Act (Cap. 161) and the Medical Registration Act (Cap. 174) which are heard by a Court of 3 Judges.
+(11) Sub-paragraphs (1) to (8A) also apply to disciplinary proceedings, or appeals therefrom, brought under any statute, including the Legal Profession Act (Cap. 161) and the Medical Registration Act (Cap. 174), which are heard by a Court of 3 Judges.
 
 ## 90A. Applications in civil matters before the Court of Appeal and civil matters before the Appellate Division
 
@@ -448,7 +448,7 @@ Parties should avoid the use of generic descriptions such as “extracts from th
 	<li>(e) every page shall have a margin on all 4 sides, each of at least 35mm in width.</li>
 </ul>
 
-(5) If no aﬃdavits or submissions are ﬁled by the timelines prescribed by this paragraph, the Court of Appeal or the Appellate Division (as the case may be) will proceed on the basis that the party does not intend to ﬁle any aﬃdavit or submissions and may, in accordance with section 55(1)(a) or section 37(1)(a) of the Supreme Court of Judicature Act (as the case may be), decide the matter based on the documents before it without hearing oral arguments.
+(5) If no aﬃdavits or submissions are ﬁled by the timelines prescribed by this paragraph, the Court of Appeal or the Appellate Division (as the case may be) will proceed on the basis that the party does not intend to ﬁle any aﬃdavit or submissions and may, in accordance with section 55(1)(*a*) or section 37(1)(*a*) of the Supreme Court of Judicature Act (as the case may be), decide the matter based on the documents before it without hearing oral arguments.
 
 ## 90B. Applications to the Court of Appeal, and applications to the Appellate Division, for leave to appeal in civil matters
 
@@ -459,6 +459,7 @@ Parties should avoid the use of generic descriptions such as “extracts from th
 	<li>(b) an application to the Appellate Division under Order 56A, Rule 3 of the Rules of Court for leave to appeal against a decision of the General Division,</li> 
 </ul>
 shall be in Form 31A or 31B of Appendix A of these Practice Directions.
+
 
 (2) Any written submissions in respect of an application to the Court of Appeal under Order 57, Rule 2A of the Rules of Court for leave to appeal against a decision of the Appellate Division shall be in Form 32A or 32B of Appendix A of these Practice Directions.
 
@@ -472,7 +473,7 @@ shall be in Form 31A or 31B of Appendix A of these Practice Directions.
 	<li>(e) every page shall have a margin on all 4 sides, each of at least 35mm in width.</li>
 </ul>
 
-(4) If no written submissions are ﬁled in the Court of Appeal or the Appellate Division by the timelines prescribed by Order 57, Rule 2A or Order 56A, Rule 3 of the Rules of Court (as the case may be), the Court of Appeal or the Appellate Division (as the case may be) will proceed on the basis that the party does not intend to ﬁle any written submissions and may, in accordance with section 55(1)(a) or section 37(1)(a) of the Supreme Court of Judicature Act (as the case may be), decide the matter based on the documents before it without hearing oral arguments.
+(4) If no written submissions are ﬁled in the Court of Appeal or the Appellate Division by the timelines prescribed by Order 57, Rule 2A or Order 56A, Rule 3 of the Rules of Court (as the case may be), the Court of Appeal or the Appellate Division (as the case may be) will proceed on the basis that the party does not intend to ﬁle any written submissions and may, in accordance with section 55(1)(*a*) or section 37(1)(*a*) of the Supreme Court of Judicature Act (as the case may be), decide the matter based on the documents before it without hearing oral arguments.
 
 (5) This paragraph does not apply to any application for leave to appeal against a decision of the General Division made before 2 January 2021 against which no appeal was brought before 2 January 2021, in a case where leave of the Court of Appeal was required to bring an appeal to the Court of Appeal under section 34(2), (2A) or (4) of the Supreme Court of Judicature Act as in force immediately before 2 January 2021. For any such application for leave to appeal, paragraph 90A sets out the directions for the filing of affidavits and written submissions.
 
