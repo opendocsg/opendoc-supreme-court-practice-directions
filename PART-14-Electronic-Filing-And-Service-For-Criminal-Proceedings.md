@@ -9,7 +9,7 @@
 
 ## 116. Application
 
-(1) The directions contained in this Part shall apply to the ﬁling, service, delivery and conveyance of documents in criminal proceedings commenced in the High Court and on or after 10 January 2005 but before 2 January 2021 or in the General Division on or after 2 January 2021, and criminal proceedings commenced in the Court of Appeal on or after 10 January 2005.
+(1) The directions contained in this Part shall apply to the ﬁling, service, delivery and conveyance of documents in criminal proceedings commenced in the High Court on or after 10 January 2005 but before 2 January 2021 or in the General Division on or after 2 January 2021, and criminal proceedings commenced in the Court of Appeal on or after 10 January 2005.
 
 (2) The attention of solicitors is drawn to the Criminal Procedure Code (Electronic Filing and Service for Supreme Court) Regulations 2012, which shall have eﬀect in relation to any document that is required to be ﬁled with, served on, delivered or otherwise conveyed to the Supreme Court or any party to any criminal matter that is to be heard in the Supreme Court under the Criminal Procedure Code (Cap 68).
 
