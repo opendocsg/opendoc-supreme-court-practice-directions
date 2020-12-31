@@ -3,23 +3,24 @@
 <ul type="*">
 	<li>81. Application of this Part</li>
 	<li>82. Requests for further arguments before the Judge or Registrar</li>
-	<li>83. Civil appeals before the High Court from the State Courts</li>
+	<li>83. Civil appeals before the General Division from the State Courts</li>
 	<ul>
 		<li>Appeals under Order 55D of the Rules of Court</li>
 		<li>Appeals from the Family Court</li>
 		<li>Appeals from the Employment Claims Tribunal</li>
 	</ul>
-	<li>84. Civil appeals before the High Court from tribunal or person under Order 55 of the Rules of Court</li>
+	<li>84. Civil appeals before the General Division from tribunal or person under Order 55 of the Rules of Court</li>
+	<li>84A. Whether an appeal to the Appellate Division is to be heard by 2 or 3 Judges</li>
 	<li>85. Whether an appeal to the Court of Appeal is to be heard by a 2 or 3 Judge Court of Appeal</li>
 	<li>85A. Whether an appeal to the Court of Appeal is to be heard by 5 or any greater uneven number of Judges</li>
-	<li>85B. Leave of the Court of Appeal to receive further affidavits in relation to an application to strike out a notice of appeal</li>
-	<li>86. Quantum of security to be provided under Order 57, Rule 3(3) of the Rules of Court</li>
-	<li>86A. Appeals Information Sheet for civil appeals to the Court of Appeal</li>
-	<li>87. Filing of records of appeal, core bundles and written Cases for civil appeals under Order 57, Rules 9 and 9A of the Rules of Court</li>
-	<li>87A. Request for leave to exceed page limit for Appellant's Case and Respondent's Case for civil appeals to the Court of Appeal</li>
+	<li>85B. Leave of the Court of Appeal or the Appellate Division to receive further affidavits in relation to an application to strike out a notice of appeal</li>
+	<li>86. Quantum of security to be provided under Order 57, Rule 3(3) of the Rules of Court as in force immediately before 2 January 2021</li>
+	<li>86A. Appeals Information Sheet for civil appeals to the Court of Appeal and civil appeals to the Appellate Division</li>
+	<li>87. Filing of records of appeal, core bundles and written Cases for civil appeals under Order 56A, Rules 8 and 9 and Order 57, Rules 9 and 9A of the Rules of Court</li>
+	<li>87A. Request for leave to exceed page limit for Appellant's Case and Respondent's Case for civil appeals to the Court of Appeal and civil appeals to the Appellate Division</li>
 	<li>87B. Requests for waiver or deferment of appeal court fees</li>
-	<li>88. Hard copies and soft copies for hearing of civil appeals before the Court of Appeal under Order 57 of the Rules of Court</li>
-	<li>89. Preparation of appeal records in civil appeals to the Court of Appeal</li>
+	<li>88. Hard copies and soft copies for hearing of civil appeals before the Court of Appeal and civil appeals before the Appellate Division</li>
+	<li>89. Preparation of appeal records in civil appeals to the Court of Appeal and civil appeals to the Appellate Division</li>
 	<ul>
 		<li>Arrangement</li>
 		<li>Pagination in soft copy</li>
@@ -29,22 +30,23 @@
 		<li>Responsibility for good order and completeness of appeal records</li>
 		<li>Superfluous and irrelevant documents</li>
 	</ul>
-	<li>89A. Bundle of documents filed with leave of the Court of Appeal</li>
-	<li>90. Skeletal arguments for appeals before the High Court, Court of Appeal and Court of 3 Judges</li>
+	<li>Bundle of documents ﬁled with leave of the Court of Appeal or the Appellate Division</li>
+	<li>90. Skeletal arguments for appeals and matters before the General Division, Appellate Division, Court of Appeal and Court of 3 Judges</li>
 	<ul>
 		<li>Skeletal arguments for civil matters before the Court of Appeal</li>
 		<li>Timelines for submission of skeletal arguments for appeal before the High Court</li>
 		<li>Application of this paragraph to Court of 3 Judges</li>
 	</ul>
-	<li>90A. Applications before the Court of Appeal</li>
-	<li>91. Use of presentation slides for all proceedings before the High Court, Court of Appeal and Court of 3 Judges</li>
+	<li>90A. Applications before the Court of Appeal and civil matters before the Appellate Division</li>
+	<li>90B. Applications to the Court of Appeal, and applications to the Appellate Division, for leave to appeal in civil matters/li>
+	<li>91. Use of presentation slides for all proceedings before the General Division, Appellate Division, Court of Appeal and Court of 3 Judges</li>
 	<ul>
 		<li>Typeface</li>
 		<li>Colours</li>
 		<li>Animation and sounds</li>
 		<li>Corporate logos</li>
 	</ul>
-	<li>92. Further arguments before the Court of Appeal</li>
+	<li>92. Further arguments before the Court of Appeal and the Appellate Division</li>
 </ul>
 
 ## 81. Application of this Part
