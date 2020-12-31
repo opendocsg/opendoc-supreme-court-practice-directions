@@ -54,7 +54,7 @@
 
 ## 9. Hours for the sittings of the Supreme Court
 
-The Honourable the Chief Justice has directed that the the General Division, the Appellate Division and the Court of Appeal shall sit from 10.00 a.m. to 1.00 p.m. and from 2.15 p.m. to 5.00 p.m. Registrars shall sit from 9.00 a.m. to 1.00 p.m. and from 2.30 p.m. to 5.00 p.m. This is subject to the presiding Judge’s or Registrar’s discretion to commence or conclude a hearing at an earlier or later time.
+The Honourable the Chief Justice has directed that the General Division, the Appellate Division and the Court of Appeal shall sit from 10.00 a.m. to 1.00 p.m. and from 2.15 p.m. to 5.00 p.m. Registrars shall sit from 9.00 a.m. to 1.00 p.m. and from 2.30 p.m. to 5.00 p.m. This is subject to the presiding Judge’s or Registrar’s discretion to commence or conclude a hearing at an earlier or later time.
 
 ## 10. Calculation of time
 
