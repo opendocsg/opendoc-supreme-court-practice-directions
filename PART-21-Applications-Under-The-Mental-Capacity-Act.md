@@ -29,26 +29,26 @@
 (2) Pursuant to the Transfer Order –
 
 <ul type="*">
-	<li>(a) any proceedings under the Mental Capacity Act 2008 (Cap. 177A) (referred to in this Part as “the MCA”) commenced in the High Court on or after 1 March 2010 shall be transferred to and be heard and determined by a District Court; and</li>
-	<li>(b) any application under the MCA made, on or after 1 March 2010, in relation to any proceedings commenced in the High Court before that date under Part I of the Mental Disorders and Treatment Act (Cap. 178) (referred to in this Part as “the MDTA”) in force before that date, shall be heard and determined by the High Court.</li>
+	<li>(a) any proceedings under the Mental Capacity Act (Cap. 177A) (referred to in this Part as “the MCA”) commenced in the High Court on or after 1 March 2010 but before 1 October 2014 shall be transferred to and be heard and determined by a District Court; and</li>
+	<li>(b) any application under the MCA made, on or after 1 March 2010, in relation to any proceedings commenced in the High Court before that date under Part I of the Mental Disorders and Treatment Act (Cap. 178) (referred to in this Part as “the MDTA”) in force before that date, shall be heard and determined by the High Court before 2 January 2021 or the General Division on or after 2 January 2021.</li>
 </ul>
 
-(3) Pursuant to the Family Justice Act 2014, with effect from 1 October 2014, proceedings under the MCA shall be heard and determined by the Family Justice Courts. Notwithstanding this, any proceedings under the MCA commenced in the High Court before 1 October 2014 shall, on and after that date, be continued in and dealt with by the High Court.
+(3) Pursuant to the Family Justice Act 2014, with eﬀect from 1 October 2014, proceedings under the MCA shall be heard and determined by the Family Justice Courts. Notwithstanding this, any proceedings under the MCA commenced in the High Court before 1 October 2014 shall, on and after that date, be continued in and dealt with by the High Court before 2 January 2021 or the General Division on or after 2 January 2021.
 
 ## 148. Documents to be filed at the Legal Registry of the Supreme Court at the Supreme Court Building
 
-(1) All documents relating to mental capacity proceedings which are to be heard and determined by the High Court shall be filed at the Legal Registry of the Supreme Court at the Supreme Court Building. These include:
+(1) All documents relating to mental capacity proceedings which are to be heard and determined by the High Court before 2 January 2021 or the General Division on or after 2 January 2021 shall be ﬁled at the Legal Registry of the Supreme Court at the Supreme Court Building. These include:
 <ul type="*">
-	<li>(a) all applications and documents to vary any Order of the High Court in proceedings under the MDTA commenced before 1 March 2010;</li>
+	<li>(a) all applications and documents to vary any Order of the High Court or the General Division (as the case may be) in proceedings under the MDTA commenced before 1 March 2010;</li>
 	<li>(b) all documents in or ancillary to any application under the MCA made, on or after 1 March 2010, in relation to any proceedings commenced in the High Court before that date under Part 1 of the MDTA in force before that date; and</li>
-	<li>(c) all applications and documents to vary any Order of the High Court in proceedings referred to in sub-paragraph (b) above.</li>
+	<li>(c) all applications and documents to vary any Order of the High Court or the General Division (as the case may be) in proceedings referred to in sub-paragraph (b) above.</li>
 </ul>
 
-(2) All applications subsequent to the filing of the originating summons in any mental capacity proceedings in the High Court shall be made by way of summons.
+(2) All applications subsequent to the ﬁling of the originating summons in any mental capacity proceedings in the High Court or the General Division (as the case may be) shall be made by way of summons.
 
 (3) An affidavit stating clearly the grounds for the application shall be filed together with the summons.
 
-(4) Where permission is not required to make the application, the affidavit should state the applicant’s belief that he or she falls within the categories of persons listed within section 38(1) of the MCA and Order 99, Rule 2(3) of the Rules of Court.
+(4) Where permission is not required to make the application, the aﬃdavit should state the applicant’s belief that he or she falls within the categories of persons listed within section 38(1) of the MCA and Order 99, Rule 2(3) of the Rules of Court as in force immediately before 1 January 2015.
 
 (5) Where permission is required to make the application, that prayer may be included in the main application itself. There is no requirement for a separate application for permission. The grounds upon which the applicant is relying to obtain such permission must be stated clearly in the supporting affidavit. The Court will decide whether to grant such permission based on the grounds stated in the affidavit.
 

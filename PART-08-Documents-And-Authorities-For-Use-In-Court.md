@@ -186,7 +186,7 @@ Relevance: Choice of law considerations are relevant even when determining the n
 (14) A proper opening statement is of great assistance to the Court as it sets out the case in a nutshell, both as to facts and law. It is intended to identify both for the parties and the Judge the issues that are, and are not, in dispute. It enables the Judge to appreciate what the case is about, and what he is to look out for when reading and listening to the evidence that will follow. The need for brevity is emphasised as opening statements that contain long and elaborate arguments, and citations from and references to numerous authorities, do not serve this purpose.
 
 <ul type="*">
-	<li>(a) Opening statements will be required from all parties in all cases commenced by writ in the High Court, except where dispensation has been granted by the Court and in motor vehicle accident actions.</li>
+	<li>(a) Opening statements will be required from all parties in all cases commenced by writ in the General Division, except where dispensation has been granted by the Court and in motor vehicle accident actions.</li>
 	<li>(b) All opening statements must include the following:</li>
 	<ul type="*">
 		<li>(i) the nature of the case generally and the background facts insofar as they are relevant to the matter before the Court and indicating which facts, if any, are agreed;</li>
@@ -210,9 +210,9 @@ Relevance: Choice of law considerations are relevant even when determining the n
 
 ## 72. Bundles of authorities for other open Court hearings
 
-(1) In all criminal proceedings and civil and criminal appeals heard in open Court in the High Court, counsel shall submit their own bundle of authorities. In this regard, paragraph 71(12) to (13) shall, *mutatis mutandis*, be complied with.
+(1) In all criminal proceedings and civil and criminal appeals heard in open Court in the General Division, counsel shall submit their own bundle of authorities. In this regard, paragraph 71(12) to (13) shall, *mutatis mutandis*, be complied with.
 
-(2) In all criminal proceedings and civil and criminal appeals heard in open Court in the Court of Appeal, as well as disciplinary proceedings (or appeals therefrom) brought under any statute, including the Legal Profession Act and the Medical Registration Act which are heard by a Court of 3 Judges, counsel shall submit a soft copy of the bundle of authorities in Adobe Portable Document Format (PDF) together with the other documents required to be submitted under paragraph 88(3).
+(2) In all criminal proceedings and civil and criminal appeals heard in open Court in the Court of Appeal, all civil appeals heard in open Court in the Appellate Division, as well as all disciplinary proceedings (or appeals therefrom) brought under any statute, including the Legal Profession Act and the Medical Registration Act which are heard by a Court of 3 Judges, counsel shall submit a soft copy of the bundle of authorities in Adobe Portable Document Format (PDF) together with the other documents required to be submitted under paragraph 88(3).
 
 (3) With regard to soft copy bundles of authorities, the requirements set out in paragraphs 69(5), 71(12)(a), 71(12)(b) and 71(13) shall be complied with. The soft copy bundle of authorities shall contain electronic bookmarks to each case therein, bearing the name of each of the cases for easy electronic access. The page numbers of any hard copy bundle of authorities must correspond to the page numbers in the Portable Document Format (PDF) version.
 
@@ -224,7 +224,7 @@ Relevance: Choice of law considerations are relevant even when determining the n
 
 ## 73A. Written submissions and bundles of authorities for special date hearings
 
-(1) For any contested special date hearing before a Judge in the High Court, each party shall:
+(1) For any contested special date hearing before a Judge sitting in the General Division, each party shall:
 
 <ul type="*">
 	<li>(a) submit to the Court and serve on the other party a hard copy of the following documents at least 1 clear day in advance of the hearing</li>
@@ -329,8 +329,9 @@ The neutral citation system for local judgments
 		<b>COURT DESIGNATORS</b>
 	</p>
 	<li>SGCA – Singapore Court of Appeal</li>
-	<li>SGHC – Singapore High Court</li>
-	<li>SGHCR – Singapore High Court Registrar</li>
+	<li>SGHC(A) – Singapore High Court (Appellate Division)</li>
+	<li>SGHC – Singapore High Court (before 2 January 2021) or Singapore High Court (General Division) (on or after 2 January 2021)</li>
+	<li>SGHCR – Singapore High Court Registrar (before 2 January 2021) or Singapore High Court (General Division) Registrar (on or after 2 January 2021)</li>
 	<p>
 		<b>EXAMPLE AND EXPLANATION</b>
 	</p>

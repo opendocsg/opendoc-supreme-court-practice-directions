@@ -60,7 +60,7 @@
 
 (2) Subject to sub-paragraph (3) below, the Request electronic form should be filed through the Electronic Filing Service at least 2 working days before the hearing, setting out the reasons for the requested adjournment or vacation of hearings.
 
-(3) Where an adjournment of any matter before the Court of Appeal is sought, the Request in electronic form should be filed through the Electronic Filing Service as soon as practicable after the sitting in which the matter is scheduled to be heard has been assigned and notified to the parties. Where there is a delay in the making of the request, the reason or reasons for the delay must be provided with the request. Any request for an adjournment on account of counsel’s diaries will not readily be acceded to.
+(3) Where an adjournment of any matter before the Court of Appeal or the Appellate Division is sought, the Request in electronic form should be ﬁled through the Electronic Filing Service as soon as practicable after the sitting in which the matter is scheduled to be heard has been assigned and notiﬁed to the parties. Where there is a delay in the making of the request, the reason or reasons for the delay must be provided with the request. Any request for an adjournment on account of counsel’s diaries will not readily be acceded to.
 
 (4) If the consent of all other parties to the matter is obtained, a letter stating that all parties have consented to the requested adjournment or vacation of hearings may be attached to the Request electronic form.  However, this does not mean that the Request will be granted as a matter of course.  The Court will still evaluate the merits of the Request before making its decision.  
 

@@ -54,7 +54,7 @@
 
 ## 9. Hours for the sittings of the Supreme Court
 
-The Honourable the Chief Justice has directed that the Judges of the High Court and the Court of Appeal shall sit from 10.00 a.m. to 1.00 p.m. and from 2.15 p.m. to 5.00 p.m. Registrars shall sit from 9.00 a.m. to 1.00 p.m. and from 2.30 p.m. to 5.00 p.m. This is subject to the presiding Judge’s or Registrar’s discretion to commence or conclude a hearing at an earlier or later time.
+The Honourable the Chief Justice has directed that the General Division, the Appellate Division and the Court of Appeal shall sit from 10.00 a.m. to 1.00 p.m. and from 2.15 p.m. to 5.00 p.m. Registrars shall sit from 9.00 a.m. to 1.00 p.m. and from 2.30 p.m. to 5.00 p.m. This is subject to the presiding Judge’s or Registrar’s discretion to commence or conclude a hearing at an earlier or later time.
 
 ## 10. Calculation of time
 
@@ -269,11 +269,54 @@ Solicitors should indicate in the CDMS that they are ready for hearing only when
 
 ## 18. Forms of address
 
-The Honourable the Chief Justice, on the advice of the Council of Judges, has directed that the following forms of address shall apply:
+The Honourable the Chief Justice has directed that the following forms of address shall apply:
 
-(1) The Chief Justice, the Judges and Judicial Commissioners shall, when sitting in open Court or in Chambers, be addressed as “Your Honour”, and on social occasions or other extra-judicial occasions, as “Chief Justice” or “Judge”, as the case may be.
+(1) The Chief Justice, the Justices of the Court of Appeal, the Judges of the Appellate Division, the Judges of the High Court, the Senior Judges, the International Judges and the Judicial Commissioners shall, when sitting in open Court or in Chambers, be addressed as “Your Honour”, and on social occasions or other extra-judicial occasions, as “Chief Justice” or “Judge”, as the case may be.
 
-(2) The Chief Justice, the Judges and the Judicial Commissioners shall, in all cause lists, orders of Court, correspondence and other documents, be described respectively as “Chief Justice”, “Justice” or “Judicial Commissioner” without any accompanying gender prefix.
+(2) The Chief Justice, the Justices of the Court of Appeal, the Judges of the Appellate Division, the Judges of the High Court, the Senior Judges, the International Judges and the Judicial Commissioners shall, in all cause lists, orders of Court, correspondence and other documents, be described in the following manner without any accompanying gender preﬁx:
+
+<table>
+<thead>
+  <tr>
+	  <th><strong>Office</strong></th>
+	  <th><strong>Form of Address</strong></th>
+	  <th><strong>Abbreviated Form of Address</strong></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Chief Justice</td>
+    <td>“Chief Justice [name]”</td>
+    <td>“[name] CJ”</td>
+  </tr>
+  <tr>
+    <td>Justice of the Court of Appeal</td>
+    <td rowspan="5">“Justice [name]”</td>
+    <td>“[name] JCA”</td>
+  </tr>
+  <tr>
+    <td>Judge of the Appellate Division</td>
+    <td>“[name] JAD”</td>
+  </tr>
+  <tr>
+    <td>Judge of the High Court</td>
+    <td>“[name] J”</td>
+  </tr>
+  <tr>
+    <td>Senior Judge</td>
+    <td>“[name] SJ”</td>
+  </tr>
+  <tr>
+    <td>International Judge</td>
+    <td>“[name] IJ”</td>
+  </tr>
+  <tr>
+    <td>Judicial Commissioner</td>
+    <td>“Judicial Commissioner [name]”</td>
+    <td>“[name] JC”</td>
+  </tr>
+</tbody>
+</table>
 
 ## 19. Submissions and examination by leading and assisting counsel
 
@@ -435,7 +478,7 @@ Obtaining certified true copies of documents
 		<li>(vii) details of winding up proceedings against companies and limited liability partnerships;</li>
 	</ul>
 	<li>(b) details of writs of execution, writs of distress and warrants of arrest;</li>
-	<li>(c) details of appeals filed in the Court of Appeal; and</li>
+	<li>(c) details of appeals ﬁled in the Court of Appeal and appeals filed in the Appellate Division; and</li>
 	<li>(d) any other information as may from time to time be found necessary.</li>
 </ul>
 
@@ -505,7 +548,7 @@ Obtaining certified true copies of documents
 
 (1) Where monies are sought to be paid into Court pursuant to a judgment or order of the Court, a copy of the judgment or order must be referenced in the draft direction to the Accountant-General for payment in and submitted to the Legal Registry of the Supreme Court for approval.
 
-(2) Where monies are sought to be paid out of Court pursuant to a judgment or order of the Court, pursuant to the acceptance of a payment into Court made under Order 22 of the Rules of Court or pursuant to Order 57, Rule 11, a copy of the judgment or order, or of the notice in Form 32 of Appendix A to the Rules of Court, or of the written consent attached to the draft direction to the Accountant-General for payment out, must be submitted to the Legal Registry for approval.
+(2) Where monies are sought to be paid out of Court pursuant to a judgment or order of the Court, pursuant to the acceptance of a payment into Court made under Order 22 of the Rules of Court or pursuant to Order 56A, Rule 13 or Order 57, Rule 11, a copy of the judgment or order, or of the notice in Form 32 of Appendix A to the Rules of Court, or of the written consent attached to the draft direction to the Accountant-General for payment out, must be submitted to the Legal Registry for approval.
 
 (3) Each draft direction for payment into or payment out of Court shall contain amounts in a single currency. Where monies in different currencies are to be paid into or out of Court, separate draft directions must be prepared for each currency in which payment is to be made. 
 
@@ -515,7 +558,7 @@ Obtaining certified true copies of documents
 
 (1A) All correspondence to the Court relating to or in connection with any pending cause or matter shall be copied to all other parties to the cause or matter or to their solicitors unless there are good reasons for not so doing. Solicitors are further reminded that the Court should not be copied on correspondence between parties or their solicitors. The Registry has the discretion to reject or refuse to act on any inappropriate or *ex parte* correspondence.
 
-(2) Apart from Requests coming within sub-paragraph (1), all correspondence relating to or in connection with any cause or matter before the Court of Appeal or a Judge shall be addressed to the Registrar.
+(2) Apart from Requests coming within sub-paragraph (1), all correspondence relating to or in connection with any cause or matter before the Court of Appeal, the Appellate Division, the General Division or a Judge shall be addressed to the Registrar.
 
 (3) In addition, all letters should be captioned with the number of the cause to which they relate and the names of the parties. For example:
 
@@ -591,7 +634,8 @@ collected.
 | **Case Number Format**               | **Type of Case**                                                      |
 | ------------------------------------ | --------------------------------------------------------------------- |
 | CA/CA \[Case Number\]/\[Year filed\] | Appeal to the Court of Appeal                                         |
-| HC/OS \[Case Number\]/\[Year filed\] | Originating Summons filed in the High Court                           |
+| AD/CA \[Case Number\]/\[Year filed\] | Appeal to the Appellate Division                                      |
+| HC/OS \[Case Number\]/\[Year filed\] | Originating Summons filed in the General Division                     |
 | SIC/S \[Case Number\]/\[Year filed\] | Writ of Summons filed in the Singapore International Commercial Court |
 
 

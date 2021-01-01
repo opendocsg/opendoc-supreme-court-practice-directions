@@ -75,7 +75,7 @@ Pursuant to Order 63A, Rule 4 of the Rules of Court, the Registrar appoints Crim
 
 (3) Documents which are filed pursuant to Order 34, Rule 3A(1) may, instead of being filed through the Electronic Filing Service, be filed in accordance with the procedure outlined in paragraph 71(3) to (7). 
 
-(4) In respect of appeals under Order 55D, it shall not be necessary to file, serve, deliver or convey any document at the High Court using Electronic Filing Service if its filing, service, delivery or conveyance is not required under Order 55D.
+(4) In respect of appeals under Order 55D, it shall not be necessary to file, serve, deliver or convey any document at the General Division using Electronic Filing Service if its filing, service, delivery or conveyance is not required under Order 55D.
 
 ## 105. Certificate of Service
 

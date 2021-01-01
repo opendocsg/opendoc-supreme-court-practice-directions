@@ -1,5 +1,7 @@
 # Part IV: Interlocutory Applications
 
+Small change here
+
 <ul type="*">
 	<li>36. Distribution of applications </li>
 	<li>37. Filing of summonses </li>
@@ -74,7 +76,7 @@ All applications in Chambers (including summonses and summonses for directions) 
 <ul type="*">
 	<li>(a) applications for mandatory <span title='Formerly known as "mandamus".'><b><i>orders</i></b></span>, <span title='Formerly known as "prohibition".'><b><i>prohibiting orders</i></b></span> or <span title='Formerly known as "certiorari".'><b><i>quashing orders</i></b></span> under Order 53, Rule 2;</li>
 	<li>(b) issuance of summonses for order for review of <span title='Formerly known as "habeas corpus ad subjiciendum".'><b><i>detention</i></b></span> under Order 54, Rule 2;</li>
-	<li>(c) applications to the Court of Appeal in appeals under Order 57, Rule 16;</li>
+	<li>(c) applications to the Court of Appeal in appeals under Order 57, Rule 16 and applications to the Appellate Division in appeals under Order 56A, Rule 17;</li>
 	<li>(d) applications for remedies where property protected by a caveat is arrested under Order 70, Rule 6;</li>
 	<li>(e) applications for orders for damages caused by caveats against the release of property under arrest under Order 70, Rule 13;</li>
 	<li>(f) applications for judgment for failure to file a preliminary act under Order 70, Rule 18;</li>
@@ -97,15 +99,15 @@ All applications in Chambers (including summonses and summonses for directions) 
 
 ## 40. Transfer of proceedings to the State Courts
 
-Where a claim in the High Court which may have initially exceeded $250,000 is subsequently reduced below this amount, solicitors should bring this to the attention of the Registrar and apply by summons or at the hearing of the summons for directions for an order that the action be transferred to the District Court for trial under section 54C of the State Courts Act (Cap 321), which provides:
+Where a claim in the General Division which may have initially exceeded $250,000 is subsequently reduced below this amount, solicitors should bring this to the attention of the Registrar and apply by summons or at the hearing of the summons for directions for an order that the action be transferred to a State Court for trial under section 54C of the State Courts Act (Cap 321), which provides:
 <ul type="*">
 	<p>
-		<strong><em>General power to transfer from High Court to State Courts</em></strong>
+		<strong><em>General power to transfer from General Division of High Court to State Courts</em></strong>
 	</p>
-	<li>54C. — (1) A party to any civil proceedings pending in the High Court may for any sufficient reason at any time apply to the High Court for an order that the proceedings be transferred to a State Court.</li>
-	<li>(2) Subject to subsection (3), the High Court may, if it thinks fit, and on such terms as it sees fit, and either on its own motion or on application, order that the proceedings be transferred accordingly notwithstanding any other provision of this Act.</li>
+	<li>54C. — (1) A party to any civil proceedings pending in the General Division of the High Court may for any suﬃcient reason at any time apply to the General Division of the High Court for an order that the proceedings be transferred to a State Court.</li>
+	<li>(2) Subject to subsection (3), the General Division of the High Court may, if it thinks ﬁt, and on such terms as it sees ﬁt, and either on its own motion or on application, order that the proceedings be transferred accordingly notwithstanding any other provision of this Act.</li>
 	<li>(3) An order under subsection (2) may only be made in respect of such proceedings as could have been commenced in the State Court to which the application relates, if the value of the claim had been within the District Court limit or the Magistrate’s Court limit, as the case may be.</li>
-	<li>*Explanation —* The fact that the proceedings fall within the civil jurisdiction of the State Courts would not, by itself, ordinarily constitute sufficient reason for transferring the proceedings to the State Courts, if enforcement overseas is  intended of any judgment obtained in the High Court under any enforcement arrangements currently in force.</li>
+	<li>*Explanation —* The fact that the proceedings fall within the civil jurisdiction of the State Courts would not, by itself, ordinarily constitute suﬃcient reason for transferring the proceedings to the State Courts, if enforcement overseas is intended of any judgment obtained in the General Division of the High Court under any enforcement arrangements currently in force.</li>
 </ul>
 
 ## 41. *Ex parte* applications for injunctions
