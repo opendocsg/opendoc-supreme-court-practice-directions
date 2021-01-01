@@ -30,7 +30,8 @@
 		<li>Responsibility for good order and completeness of appeal records</li>
 		<li>Superﬂuous, irrelevant or duplicative documents</li>
 	</ul>
-	<li>Bundle of documents ﬁled with leave of the Court of Appeal or the Appellate Division</li>
+	<li>89A. Bundle of documents ﬁled with leave of the Court of Appeal or the Appellate Division</li>
+	<li>89B. Inclusion in appeal bundles of documents ordered to be sealed or redacted</li>
 	<li>90. Skeletal arguments for appeals and matters before the General Division, Appellate Division, Court of Appeal and Court of 3 Judges</li>
 	<ul>
 		<li>Skeletal arguments for civil matters before the Court of Appeal and civil matters before the Appellate Division</li>
