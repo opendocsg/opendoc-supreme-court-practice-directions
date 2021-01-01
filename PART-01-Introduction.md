@@ -2,6 +2,7 @@
 
 <ul type="*">
 	<li>1. Citation</li>
+	<li>1A. Definitions</li>
 	<li>2. Commencement</li>
 	<li>3. Revocation of previous practice directions</li>
 	<li>4. Updating</li>
