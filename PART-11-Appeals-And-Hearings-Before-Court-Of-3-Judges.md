@@ -17,7 +17,7 @@
 	<li>86. Quantum of security to be provided under Order 57, Rule 3(3) of the Rules of Court as in force immediately before 2 January 2021</li>
 	<li>86A. Appeals Information Sheet for civil appeals to the Court of Appeal and civil appeals to the Appellate Division</li>
 	<li>87. Filing of records of appeal, core bundles and written Cases for civil appeals under Order 56A, Rules 8 and 9 and Order 57, Rules 9 and 9A of the Rules of Court</li>
-	<li>87A. Request for leave to exceed page limit for Appellant's Case and Respondent's Case for civil appeals to the Court of Appeal and civil appeals to the Appellate Division</li>
+	<li>87A. Request for leave to exceed page limit for Appellant’s Case, Respondent’s Case and Appellant’s Reply for civil appeals to the Court of Appeal and civil appeals to the Appellate Division</li>
 	<li>87B. Requests for waiver or deferment of appeal court fees</li>
 	<li>88. Hard copies and soft copies for hearing of civil appeals before the Court of Appeal and civil appeals before the Appellate Division</li>
 	<li>89. Preparation of appeal records in civil appeals to the Court of Appeal and civil appeals to the Appellate Division</li>
@@ -26,19 +26,20 @@
 		<li>Pagination in soft copy</li>
 		<li>Table of contents</li>
 		<li>Spacing</li>
-		<li>Core bundles – Order 57, Rule 9(2A)</li>
+		<li>Core bundles – Order 56A, Rule 8(3) and Order 57, Rule 9(2A)</li>
 		<li>Responsibility for good order and completeness of appeal records</li>
-		<li>Superfluous and irrelevant documents</li>
+		<li>Superﬂuous, irrelevant or duplicative documents</li>
 	</ul>
 	<li>Bundle of documents ﬁled with leave of the Court of Appeal or the Appellate Division</li>
 	<li>90. Skeletal arguments for appeals and matters before the General Division, Appellate Division, Court of Appeal and Court of 3 Judges</li>
 	<ul>
-		<li>Skeletal arguments for civil matters before the Court of Appeal</li>
-		<li>Timelines for submission of skeletal arguments for appeal before the High Court</li>
+		<li>Skeletal arguments for civil matters before the Court of Appeal and civil matters before the Appellate Division</li>
+		<li>Further skeletal arguments for civil and criminal matters before the Court of Appeal and civil matters before the Appellate Division</li>
+		<li>Timelines for submission of skeletal arguments for appeal before the General Division</li>
 		<li>Application of this paragraph to Court of 3 Judges</li>
 	</ul>
-	<li>90A. Applications before the Court of Appeal and civil matters before the Appellate Division</li>
-	<li>90B. Applications to the Court of Appeal, and applications to the Appellate Division, for leave to appeal in civil matters/li>
+	<li>90A. Applications in civil matters before the Court of Appeal and civil matters before the Appellate Division</li>
+	<li>90B. Applications to the Court of Appeal, and applications to the Appellate Division, for leave to appeal in civil matters</li>
 	<li>91. Use of presentation slides for all proceedings before the General Division, Appellate Division, Court of Appeal and Court of 3 Judges</li>
 	<ul>
 		<li>Typeface</li>
