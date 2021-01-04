@@ -101,8 +101,8 @@
 	<li><a href="./downloads/Appendix_I/Appendix_I.pdf" download>GUIDELINES FOR ADVOCATES AND SOLICITORS ADVISING CLIENTS ABOUT ADR</a></li>
 </ul>
 
-## Appendix J : High Court Protocol for Medical Negligence Cases
+## Appendix J : Protocol for Medical Negligence Cases in The General Division of The High Court
 
 <ul type="*">
-	<li><a href="./downloads/Appendix_J/APPENDIX_J.pdf" download>HIGH COURT PROTOCOL FOR MEDICAL NEGLIGENCE CASES</a></li>
+	<li><a href="./downloads/Appendix_J/APPENDIX_J.pdf" download>PROTOCOL FOR MEDICAL NEGLIGENCE CASES IN THE GENERAL DIVISION OF THE HIGH COURT</a></li>
 </ul>
