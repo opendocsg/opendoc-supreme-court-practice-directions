@@ -133,7 +133,7 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act (Cap. 322) and 
 	<li>(a) to any appeal against a decision of the High Court that is brought to the Court of Appeal before 2 January 2021 and that continues, on or after that date, in the Court of Appeal in accordance with section 31(3) of the Supreme Court of Judicature (Amendment) Act 2019 (the “Amendment Act”); and</li>
 	<li>(b) to any appeal against a decision of the High Court, where that decision is made before 2 January 2021 in the circumstances mentioned in section 31(4) of the Amendment Act and either of the following applies:</li>
 	<ul type="*">
-		<li>(i) leave is granted as mentioned in section 31(4)(*c*) of the Amendment Act to bring an appeal against that decision to the Court of Appeal; </li>
+		<li>(i) leave is granted as mentioned in section 31(4)(<em>c</em>) of the Amendment Act to bring an appeal against that decision to the Court of Appeal; </li>
 		<li>(ii) leave to appeal to the Court of Appeal is sought from the Court of Appeal under section 34 of the Supreme Court of Judicature Act as in force immediately before 2 January 2021.</li>
 	</ul>
 </ul>
