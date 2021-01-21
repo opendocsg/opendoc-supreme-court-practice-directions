@@ -107,7 +107,7 @@ Where a claim in the General Division which may have initially exceeded $250,000
 	<li>54C. — (1) A party to any civil proceedings pending in the General Division of the High Court may for any suﬃcient reason at any time apply to the General Division of the High Court for an order that the proceedings be transferred to a State Court.</li>
 	<li>(2) Subject to subsection (3), the General Division of the High Court may, if it thinks ﬁt, and on such terms as it sees ﬁt, and either on its own motion or on application, order that the proceedings be transferred accordingly notwithstanding any other provision of this Act.</li>
 	<li>(3) An order under subsection (2) may only be made in respect of such proceedings as could have been commenced in the State Court to which the application relates, if the value of the claim had been within the District Court limit or the Magistrate’s Court limit, as the case may be.</li>
-	<li>*Explanation —* The fact that the proceedings fall within the civil jurisdiction of the State Courts would not, by itself, ordinarily constitute suﬃcient reason for transferring the proceedings to the State Courts, if enforcement overseas is intended of any judgment obtained in the General Division of the High Court under any enforcement arrangements currently in force.</li>
+	<li><em>Explanation —</em> The fact that the proceedings fall within the civil jurisdiction of the State Courts would not, by itself, ordinarily constitute suﬃcient reason for transferring the proceedings to the State Courts, if enforcement overseas is intended of any judgment obtained in the General Division of the High Court under any enforcement arrangements currently in force.</li>
 </ul>
 
 ## 41. *Ex parte* applications for injunctions
