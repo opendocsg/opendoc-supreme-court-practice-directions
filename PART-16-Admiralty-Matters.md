@@ -32,7 +32,7 @@
 	<li>(e)	if the ship is in a shipyard — the shipyard.</li>
 </ul>
 
-(6) For the purposes of Order 70, Rules 10A(3)(a) and (4)(a)(ii) of the Rules of Court, the plaintiff must annex a copy of the results of a search on the ship conducted on the website of the Maritime and Port Authority of Singapore at https://digitalport.mpa.gov.sg(https://digitalport.mpa.gov.sg) showing:  
+(6) For the purposes of Order 70, Rules 10A(3)(a) and (4)(a)(ii) of the Rules of Court, the plaintiff must annex a copy of the results of a search on the ship conducted on the website of the Maritime and Port Authority of Singapore at [https://digitalport.mpa.gov.sg](https://digitalport.mpa.gov.sg) showing:  
 <ul type="*">
 	<li>(a) the identity of the agent of the ship; and</li>
 	<li>(b)	the location of the ship or, where the property is cargo, the ship in which the cargo was carried, within the limits of the port declared under section 3(1) of the Maritime and Port Authority of Singapore Act, on the date and at the time of the service of the warrant of arrest or the writ in an action <em>in rem</em> (as the case may be). </li>
