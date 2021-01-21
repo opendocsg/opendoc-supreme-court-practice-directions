@@ -107,7 +107,7 @@ Where a claim in the General Division which may have initially exceeded $250,000
 	<li>54C. — (1) A party to any civil proceedings pending in the General Division of the High Court may for any suﬃcient reason at any time apply to the General Division of the High Court for an order that the proceedings be transferred to a State Court.</li>
 	<li>(2) Subject to subsection (3), the General Division of the High Court may, if it thinks ﬁt, and on such terms as it sees ﬁt, and either on its own motion or on application, order that the proceedings be transferred accordingly notwithstanding any other provision of this Act.</li>
 	<li>(3) An order under subsection (2) may only be made in respect of such proceedings as could have been commenced in the State Court to which the application relates, if the value of the claim had been within the District Court limit or the Magistrate’s Court limit, as the case may be.</li>
-	<li>*Explanation —* The fact that the proceedings fall within the civil jurisdiction of the State Courts would not, by itself, ordinarily constitute suﬃcient reason for transferring the proceedings to the State Courts, if enforcement overseas is intended of any judgment obtained in the General Division of the High Court under any enforcement arrangements currently in force.</li>
+	<li><em>Explanation —</em> The fact that the proceedings fall within the civil jurisdiction of the State Courts would not, by itself, ordinarily constitute suﬃcient reason for transferring the proceedings to the State Courts, if enforcement overseas is intended of any judgment obtained in the General Division of the High Court under any enforcement arrangements currently in force.</li>
 </ul>
 
 ## 41. *Ex parte* applications for injunctions
@@ -132,8 +132,8 @@ Where a claim in the General Division which may have initially exceeded $250,000
 
 <ul type="*">
 	<li>(a) Form 6: Search order;</li>
-	<li>(b) Form 7: worldwide *Mareva* injunction; and</li>
-	<li>(c) Form 8: *Mareva* injunction limited to assets within the jurisdiction.</li>
+	<li>(b) Form 7: worldwide <em>Mareva</em> injunction; and</li>
+	<li>(c) Form 8: <em>Mareva</em> injunction limited to assets within the jurisdiction.</li>
 </ul>
 
 When composing the summons electronic form online through the Electronic Filing Service, these Forms shall be prepared in Portable Document Format (PDF) and attached to the summons electronic form. 
@@ -161,11 +161,11 @@ When composing the summons electronic form online through the Electronic Filing 
 (1) Without prejudice to the requirements stated in Paragraphs 41 and 42 of these Practice Directions, in order to assist the Court hearing *ex parte* applications for injunctions (including *Mareva* injunctions) and search orders, an applicant must include in the affidavit prepared in support of the application the following information under clearly defined headings:
 
 <ul type="*">
-	<li>(a) Reason(s) the application is taken out on an *ex parte* basis, including whether the applicant believes that there is a risk of dissipation of assets, destruction of evidence or any other prejudicial conduct;</li>
+	<li>(a) Reason(s) the application is taken out on an <em>ex parte</em> basis, including whether the applicant believes that there is a risk of dissipation of assets, destruction of evidence or any other prejudicial conduct;</li>
 	<li>(b) Urgency of the application (if applicable), including whether there is any particular event that may trigger the dissipation of assets, destruction of evidence or any other prejudicial conduct;</li>
 	<li>(c) Factual basis for the application, including the basis of any belief that there will be dissipation of assets, destruction of evidence or any other prejudicial conduct, whether there have been any past incidents of the opponent dissipating assets, destroying evidence or engaging in any other prejudicial conduct, and whether there is any evidence of dishonesty or bad faith of the opponent; </li>
 	<li>(d) Factual basis for any reasonable defences that may be relied on by the opponent;</li>
-	<li>(e) Whether the applicant is aware of any issues relating to jurisdiction, *forum non conveniens* or service out of jurisdiction, and. if so, whether any application relating to these issues has been or will be made;</li>
+	<li>(e) Whether the applicant is aware of any issues relating to jurisdiction, <em>forum non conveniens</em> or service out of jurisdiction, and if so, whether any application relating to these issues has been or will be made;</li>
 	<li>(f) An undertaking to pay for losses that may be caused to the opponent or other persons by the granting of the orders sought, stating what assets are available to meet that undertaking and to whom the assets belong; and</li>
 	<li>(g) Any other material facts which the Court should be aware of.</li>
 </ul>
