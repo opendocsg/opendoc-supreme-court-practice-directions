@@ -165,7 +165,7 @@ When composing the summons electronic form online through the Electronic Filing 
 	<li>(b) Urgency of the application (if applicable), including whether there is any particular event that may trigger the dissipation of assets, destruction of evidence or any other prejudicial conduct;</li>
 	<li>(c) Factual basis for the application, including the basis of any belief that there will be dissipation of assets, destruction of evidence or any other prejudicial conduct, whether there have been any past incidents of the opponent dissipating assets, destroying evidence or engaging in any other prejudicial conduct, and whether there is any evidence of dishonesty or bad faith of the opponent; </li>
 	<li>(d) Factual basis for any reasonable defences that may be relied on by the opponent;</li>
-	<li>(e) Whether the applicant is aware of any issues relating to jurisdiction, <em>forum non conveniens</em> or service out of jurisdiction, and. if so, whether any application relating to these issues has been or will be made;</li>
+	<li>(e) Whether the applicant is aware of any issues relating to jurisdiction, <em>forum non conveniens</em> or service out of jurisdiction, and if so, whether any application relating to these issues has been or will be made;</li>
 	<li>(f) An undertaking to pay for losses that may be caused to the opponent or other persons by the granting of the orders sought, stating what assets are available to meet that undertaking and to whom the assets belong; and</li>
 	<li>(g) Any other material facts which the Court should be aware of.</li>
 </ul>
