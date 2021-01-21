@@ -23,7 +23,7 @@
 
 (4) To enable the Sheriff to discharge his duties effectively, upon the arrest of a vessel, the Sheriff will require the solicitors representing arresting parties to deposit with the Sheriff a sum of $10,000. Such deposit is in addition to the usual undertaking.
 
-(5) During the relevant period as defined in Order 70, Rule 10A(5) of the Rules of Court, the solicitors representing arresting parties must make reasonable efforts to notify the following persons and entities in writing of the service of the warrant of arrest or the writ in an action in rem as soon as practicable after the warrant of arrest or the writ (as the case may be) is served in accordance with Order 70, Rule 10A(1) of the Rules of Court:
+(5) During the relevant period as defined in Order 70, Rule 10A(5) of the Rules of Court, the solicitors representing arresting parties must make reasonable efforts to notify the following persons and entities in writing of the service of the warrant of arrest or the writ in an action <em>in rem</em> as soon as practicable after the warrant of arrest or the writ (as the case may be) is served in accordance with Order 70, Rule 10A(1) of the Rules of Court:
 <ul type="*">
 	<li>(a)	the owner of the ship;</li>
 	<li>(b)	the demise charterer (if any) of the ship;</li>
@@ -35,7 +35,7 @@
 (6) For the purposes of Order 70, Rules 10A(3)(a) and (4)(a)(ii) of the Rules of Court, the plaintiff must annex a copy of the results of a search on the ship conducted on the website of the Maritime and Port Authority of Singapore at https://digitalport.mpa.gov.sg showing:  
 <ul type="*">
 	<li>(a) the identity of the agent of the ship; and</li>
-	<li>(b)	the location of the ship or, where the property is cargo, the ship in which the cargo was carried, within the limits of the port declared under section 3(1) of the Maritime and Port Authority of Singapore Act, on the date and at the time of the service of the warrant of arrest or the writ in an action in rem (as the case may be). </li>
+	<li>(b)	the location of the ship or, where the property is cargo, the ship in which the cargo was carried, within the limits of the port declared under section 3(1) of the Maritime and Port Authority of Singapore Act, on the date and at the time of the service of the warrant of arrest or the writ in an action <em>in rem</em> (as the case may be). </li>
 </ul>
 
 ## 124A. Arrest of ships in shipyards
