@@ -1,4 +1,4 @@
-# 1 Appendices
+# Appendices
 
 ## Appendix A : Forms
 
