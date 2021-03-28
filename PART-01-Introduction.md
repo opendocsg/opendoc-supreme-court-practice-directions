@@ -3,6 +3,7 @@
 <ul type="*">
 	<li>1. Citation</li>
 	<li>1A. Definitions</li>
+    <li>1B. References to repealed provisions of written laws</li>
 	<li>2. Commencement</li>
 	<li>3. Revocation of previous practice directions</li>
 	<li>4. Updating</li>
@@ -17,6 +18,7 @@
 	<li>7A. Business of the Registry  </li>
 </ul>
 
+
 ## 1. Citation
 
 These Practice Directions may be cited as the Supreme Court Practice Directions.
@@ -26,6 +28,10 @@ These Practice Directions may be cited as the Supreme Court Practice Directions.
 In these Practice Directions, unless the context otherwise requires:<br>
  “Appellate Division” means the Appellate Division of the High Court; and<br>
  “General Division” means the General Division of the High Court.
+
+## 1B. References to repealed provisions of written laws
+
+In these Practice Directions, any reference to a repealed provision of any written law is a reference to that provision as in force immediately before the date the provision is repealed.
 
 ## 2. Commencement
 
