@@ -62,14 +62,17 @@ All applications in Chambers (including summonses and summonses for directions) 
 (2) The following applications are examples of summonses to be heard in open Court pursuant to written law:
 
 <ul type="*">
-	<li>(a) applications under section 343 of the Companies Act (Cap. 50);</li>
-	<li>(b) applications under paragraph 97 of the Fifth Schedule to the Limited Liability Partnerships Act (Cap. 163A);</li>
-	<li>(c) applications for the committal of any person to prison for contempt in relation to winding up of a company or a limited liability partnership; and</li>
-	<li>(d) applications to rectify the Register in relation to winding up of a company or a limited liability partnership (See Rule 5 of Companies (Winding Up) Rules (Cap. 50, Rule 1) and Rule 5 of Limited Liability Partnerships (Winding Up) Rules 2005).</li>
+	<li>(a) applications for an order declaring the dissolution of a company void (Rule 5(1)(c) of the Companies (Winding Up) Rules or Rule 6(1)(c) of the Insolvency, Restructuring and Dissolution (Corporate Insolvency and Restructuring) Rules 2020 ;</li>
+	<li>(b) applications under paragraph 97 of the Fifth Schedule to the Limited Liability Partnerships Act (Cap. 163A) (Rule 5(1)(c) of the Limited Liability Partnerships (Winding Up) Rules);</li>
+	<li>(c) applications for an order declaring the dissolution of a variable capital company void (Rule 6(1)(c) of the Variable Capital Companies (Winding Up) Rules 2020) or an order declaring the dissolution of a sub-fund void (Rule 6(1)(d) of the Variable Capital Companies (Winding Up) Rules 2020);</li>
+	<li>(d) applications for the committal of any person to prison for contempt in relation to the winding up of a company under the Companies Act (Cap. 50) or (Rule 5(1)(d) of the Companies (Winding Up) Rules), in relation to the winding up of a limited liability partnership (Rule 5(1)(d) of the Limited Liability Partnerships (Winding Up) Rules) or in relation to the winding up of a variable capital company (Rule 6(1)(e) of the Variable Capital Companies (Winding Up) Rules 2020);</li>
+    <li>(e) applications to rectify the register of members of a company under the Companies Act (Cap. 50)(Rule 5(1)(e) of the Companies (Winding Up) Rules);</li>
+    <li>(f) applications to rectify the register of partners of a limited liability partnership (Rule 5(1)(e) of the Limited Liability Partnerships (Winding Up) Rules); and</li>
+    <li>(g) applications to rectify the register of members kept by a variable capital company (Rule 6(1)(f) of the Variable Capital Companies (Winding Up) Rules 2020). </li>
 </ul>
 
-(3) In addition to any provisions in the Rules of Court or other written law, and subject to further directions made by the Court, the Registrar hereby directs that the following applications by summons shall be heard in open Court:
 
+(3) In addition to any provisions in the Rules of Court or other written law, and subject to further directions made by the Court, the Registrar hereby directs that the following applications by summons shall be heard in open Court:
 
 <ul type="*">
 	<li>(a) applications for mandatory <span title='Formerly known as "mandamus".'><b><i>orders</i></b></span>, <span title='Formerly known as "prohibition".'><b><i>prohibiting orders</i></b></span> or <span title='Formerly known as "certiorari".'><b><i>quashing orders</i></b></span> under Order 53, Rule 2;</li>
@@ -83,9 +86,12 @@ All applications in Chambers (including summonses and summonses for directions) 
 	<li>(i) applications in a pending action for apportionment of salvage under Order 70, Rule 32;</li>
 	<li>(j) applications for objections to a decision on a reference under Order 70, Rule 42;</li>
 	<li>(k) applications under the Patents Act (Cap. 221) under Order 87A, Rule 11(6);</li>
-	<li>(l) applications for legal officers or non-practising solicitors to be struck off the roll under section 82A(10) of the Legal Profession Act (Cap. 161); and</li>
-	<li>(m) applications for an order that a solicitor be struck off the roll, etc. under section 98(1) of the Legal Profession Act.</li>
+	<li>(l) applications for legal officers or non-practising solicitors to be struck off the roll under section 82A(10) of the Legal Profession Act (Cap. 161);</li>
+	<li>(m) applications for an order that a solicitor be struck off the roll, etc. under section 98(1) of the Legal Profession Act;</li>
+    <li>(n) applications for the committal of a person to prison for contempt in relation to the winding up of a company under section 124 of the Insolvency, Restructuring and Dissolution Act 2018 (Act 40 of 2018); and</li>
+    <li>(o) applications to rectify the register of members of a company under section 152 of the Insolvency, Restructuring and Dissolution Act 2018.</li>
 </ul>
+
 
 ## 39. Summonses for directions
 

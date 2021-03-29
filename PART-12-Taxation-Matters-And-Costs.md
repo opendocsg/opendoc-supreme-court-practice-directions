@@ -21,7 +21,7 @@
 
 ## 93. Scope of certain paragraphs
 
-Paragraphs 94 and 96 apply to all taxations save where the entitlement to costs arose prior to 1 February 1992, in which case the bill should be drawn up in accordance with the provisions of Order 59 of the Rules of Court in force immediately prior to 1 February 1992 and, in accordance with the practice immediately prior to that date. For the avoidance of doubt, the directions contained in this part, save for paragraph 98, do not apply to taxations governed by the Bankruptcy (Costs) Rules (Cap. 20, Rule 2).
+Paragraphs 94 and 96 apply to all taxations save where the entitlement to costs arose prior to 1 February 1992, in which case the bill should be drawn up in accordance with the provisions of Order 59 of the Rules of Court in force immediately prior to 1 February 1992 and, in accordance with the practice immediately prior to that date. For the avoidance of doubt, the directions contained in this part, save for paragraph 98, do not apply to taxations governed by the Bankruptcy (Costs) Rules or the Insolvency, Restructuring and Dissolution (Personal Insolvency) Rules 2020. 
 
 ## 94.  Form of bill of costs
 
@@ -183,12 +183,13 @@ The attention of solicitors is drawn to Rules 24 and 31 and Appendix 1 of Order 
 	<li>the receiving party and the Public Trustee need not attend at the taxation and the bill will be taxed in their absence. However, if the taxing Registrar disagrees with the quantum of costs agreed on, he may nonetheless direct the attendance of the Public Trustee at a later date;</li>
 	<li>(b) for:</li>
 	<ul type="*">
-		<li>(i) party-and-party bills filed by the creditor under the Bankruptcy (Costs) Rules (Cap. 20, Rule 20) to which the estate of the bankrupt is the respondent;</li>
+		<li>(i) party-and-party bills filed by the creditor under the Bankruptcy (Costs) Rules or the Insolvency, Restructuring and Dissolution (Personal Insolvency) Rules 2020, to which the estate of the bankrupt is the respondent;</li>
 		<li>(ii) party-and-party bills filed by the creditor in companies winding-up matters where the Official Receiver is appointed liquidator and to which the company in liquidation is the respondent to the bill of  costs; or</li>
 		<li>(iii) solicitor-and-client bills filed pursuant to the Legal Aid and Advice Act (Cap. 160) where the Director of Legal Aid is the respondent,</li>
 	</ul>
 	<li>the receiving party and the Official Assignee, the Official Receiver or the Director of Legal Aid, as the case may be, need not attend at the taxation and the bill will be taxed in their absence. However, if the taxing Registrar disagrees with the quantum of costs agreed on, he may nonetheless direct the attendance of the Official Assignee, the Official Receiver or the Director of Legal Aid, as the case may be, at a later date.</li>
 </ul>
+
 
 (4) If solicitor-and-client costs are required to be taxed pursuant to the provisions of the Motor Vehicles (Third-Party Risks and Compensation) Act and the bill of costs claiming the same is referenced to an earlier party-and-party bill filed pursuant to paragraph 94(3)(d), the Public Trustee need not attend the taxation of the bill and the party-and-party and solicitor-and-client costs will be taxed in the absence of the Public Trustee. However, the Public Trustee may attend at the taxation if he so wishes, and shall attend if an express direction is made by the taxing Registrar that he attend in relation to a particular bill of costs.
 
