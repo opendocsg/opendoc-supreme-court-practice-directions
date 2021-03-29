@@ -35,7 +35,7 @@ The following arrangements will apply to hearings of bankruptcy matters:
 
 ## 144. Applications to set aside statutory demands made under the Bankruptcy Rules or the Insolvency, Restructuring and Dissolution (Personal Insolvency) Rules 2020
 
-(1) (1) Rule 97 of the Bankruptcy Rules and Rule 67 of the Insolvency, Restructuring and Dissolution (Personal Insolvency) Rules 2020 allows a debtor to apply to set aside a statutory demand within such of the following periods, after the date on which the statutory demand is served or deemed to be served on the debtor, as may be applicable:
+(1)Rule 97 of the Bankruptcy Rules and Rule 67 of the Insolvency, Restructuring and Dissolution (Personal Insolvency) Rules 2020 allows a debtor to apply to set aside a statutory demand within such of the following periods, after the date on which the statutory demand is served or deemed to be served on the debtor, as may be applicable:
 
 <ul type="*">
 	<li>(a) in a case where the debtor was served or deemed to be served with a statutory demand during the prescribed period under the COVID-19 (Temporary Measures) Act 2020 (Act 14 of 2020) – 6 months; </li>
