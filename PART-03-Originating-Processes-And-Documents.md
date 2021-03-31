@@ -55,9 +55,10 @@
 <ul type="*">
 	<li>(a) applications for a judicial management order (Rule 6(1)(a) of the Insolvency, Restructuring and Dissolution (Corporate Insolvency and Restructuring) Rules 2020); </li>
 	<li>(b) applications to wind up a company (Rule 5 of the Companies (Winding Up) Rules or Rule 6(1)(b) of the Insolvency, Restructuring and Dissolution (Corporate Insolvency and Restructuring) Rules 2020);  </li>
-    <li>(c) applications to wind up a limited liability partnership (Rule 5 of the Limited Liability Partnerships (Winding Up) Rules) ; and</li>
+    <li>(c) applications to wind up a limited liability partnership (Rule 5 of the Limited Liability Partnerships (Winding Up) Rules); and</li>
     <li>(d) applications to wind up a variable capital company or a sub-fund (Rule 6(1)(a) of the Variable Capital Companies (Winding Up) Rules 2020). </li>
 </ul>
+
 
 
 (8) In addition to any provisions in the Rules of Court or other written law, and subject to any further directions made by the Court, the Registrar hereby directs that the following applications made by originating summonses shall be heard in open Court:

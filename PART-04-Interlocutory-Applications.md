@@ -65,11 +65,12 @@ All applications in Chambers (including summonses and summonses for directions) 
 	<li>(a) applications for an order declaring the dissolution of a company void (Rule 5(1)(c) of the Companies (Winding Up) Rules or Rule 6(1)(c) of the Insolvency, Restructuring and Dissolution (Corporate Insolvency and Restructuring) Rules 2020;</li>
 	<li>(b) applications under paragraph 97 of the Fifth Schedule to the Limited Liability Partnerships Act (Cap. 163A) (Rule 5(1)(c) of the Limited Liability Partnerships (Winding Up) Rules);</li>
 	<li>(c) applications for an order declaring the dissolution of a variable capital company void (Rule 6(1)(c) of the Variable Capital Companies (Winding Up) Rules 2020) or an order declaring the dissolution of a sub-fund void (Rule 6(1)(d) of the Variable Capital Companies (Winding Up) Rules 2020);</li>
-	<li>(d) applications for the committal of any person to prison for contempt in relation to the winding up of a company under the Companies Act (Cap. 50) or (Rule 5(1)(d) of the Companies (Winding Up) Rules), in relation to the winding up of a limited liability partnership (Rule 5(1)(d) of the Limited Liability Partnerships (Winding Up) Rules) or in relation to the winding up of a variable capital company (Rule 6(1)(e) of the Variable Capital Companies (Winding Up) Rules 2020);</li>
-    <li>(e) applications to rectify the register of members of a company under the Companies Act (Cap. 50)(Rule 5(1)(e) of the Companies (Winding Up) Rules);</li>
+	<li>(d) applications for the committal of any person to prison for contempt in relation to the winding up of a company under the Companies Act (Cap. 50) (Rule 5(1)(d) of the Companies (Winding Up) Rules), in relation to the winding up of a limited liability partnership (Rule 5(1)(d) of the Limited Liability Partnerships (Winding Up) Rules) or in relation to the winding up of a variable capital company (Rule 6(1)(e) of the Variable Capital Companies (Winding Up) Rules 2020);</li>
+    <li>(e) applications to rectify the register of members of a company under the Companies Act (Cap. 50) (Rule 5(1)(e) of the Companies (Winding Up) Rules);</li>
     <li>(f) applications to rectify the register of partners of a limited liability partnership (Rule 5(1)(e) of the Limited Liability Partnerships (Winding Up) Rules); and</li>
     <li>(g) applications to rectify the register of members kept by a variable capital company (Rule 6(1)(f) of the Variable Capital Companies (Winding Up) Rules 2020). </li>
 </ul>
+
 
 
 
