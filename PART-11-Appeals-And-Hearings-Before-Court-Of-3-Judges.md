@@ -49,7 +49,7 @@
 		<li>Corporate logos</li>
 	</ul>
 	<li>92. Further arguments before the Court of Appeal and the Appellate Division</li>
-    <li>92A. Further arguments before the Court of Appeal and the Appellate Division</li>
+	<li>92A. Lapse or cancellation of Grant of Aid under the Legal Aid and Advice Act and the Legal Aid and Advice Regulations</li>
 </ul>
 
 
