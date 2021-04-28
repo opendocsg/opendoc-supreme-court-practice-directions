@@ -73,11 +73,10 @@ automatically updated with the new amended paragraphs.  A list of amendments mad
 	<li>(h) 97;</li>
 	<li>(i) 100 to 115;</li>
 	<li>(j) 116 to 119;</li>
-	<li>(k) 132(2) to 132(7);</li>
-	<li>(l) 133(5);</li>
-	<li>(m) 134(6); and</li>
-	<li>(an) 145;</li>
+	<li>(k) 134(6); and</li>
+	<li>(l) 145;</li>
 </ul>
+
 
 and Part XXII applies.
 

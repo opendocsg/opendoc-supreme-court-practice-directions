@@ -49,7 +49,9 @@
 		<li>Corporate logos</li>
 	</ul>
 	<li>92. Further arguments before the Court of Appeal and the Appellate Division</li>
+    <li>92A. Further arguments before the Court of Appeal and the Appellate Division</li>
 </ul>
+
 
 ## 81. Application of this Part
 
@@ -441,7 +443,7 @@ Parties should avoid the use of generic descriptions such as “extracts from th
 
 (2) No further aﬃdavits shall be ﬁled without the leave of the Court of Appeal or the Appellate Division (as the case may be).
 
-(3) Unless otherwise provided by any written law or unless otherwise directed, parties are to ﬁle and serve written submissions (if any) in respect of the application before the Court of Appeal or the Appellate Division (as the case may be) within 7 days after the date the reply aﬃdavit is due for ﬁling and service.
+(3) Unless otherwise provided by any written law or unless otherwise directed, parties are to file and serve written submissions (if any) in respect of the application before the Court of Appeal or the Appellate Division (as the case may be) within 7 days after the date the reply affidavit is due for filing and service. Parties shall include in the final paragraph(s) of the written submissions their submissions on costs, stating (with reasons) the appropriate costs order and the quantum (including the disbursements incurred) that should be awarded by the Court.
 
 (4) The written submissions should comply with the following requirements:
 <ul type="*">
@@ -526,3 +528,9 @@ Subject to approval by the Court, parties may utilise presentation slides to ass
 (6) A copy of the request should be furnished to all parties concerned.
 
 (7) All requests should be addressed to the Registrar.
+
+## 92A. **Lapse or cancellation of Grant of Aid under the Legal Aid and Advice Act and the Legal Aid and Advice Regulations** 
+
+(1) Where a Grant of Aid lapses or is cancelled in the course of any proceedings in the Court of Appeal or the Appellate Division, counsel should promptly notify the Court of Appeal or the Appellate Division (as the case may be) of the lapse or the cancellation in writing. This is given that questions may arise from the lapse or the cancellation of a Grant of Aid as to whether security for costs would need to be furnished to enable the proceedings in the Court of Appeal or the Appellate Division (as the case may be) to continue to be pursued.
+
+(2) For the avoidance of doubt, “Grant of Aid” in sub-paragraph (1) means a document issued under section 8 of the Legal Aid and Advice Act (Cap. 160) stating that legal aid is granted to a person (whether on a provisional basis or otherwise).
