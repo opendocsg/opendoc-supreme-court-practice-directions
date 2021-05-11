@@ -13,7 +13,6 @@ jobs:
       - uses: actions/checkout@v1
       - name: Build the site in the jekyll/builder container
         run: |
-          BASE_URL=supremecourt
           REPO_NAME=${{ github.repository }}
           REPO_NAME=${REPO_NAME##*/}
           docker run \
@@ -23,7 +22,7 @@ jobs:
           "chmod 777 /srv/jekyll && \
           echo 'offline: true' > _offline-config.yml && \
           echo here $REPO_NAME && \
-          jekyll build --future --config ./_config.yml,./_offline-config.yml --baseurl $BASE_URL  && \
+          jekyll build --future --config ./_config.yml,./_offline-config.yml && \
           chmod -R 777 /srv/jekyll/_site && \
           wget -qO- 'https://github.com/dustinblackman/phantomized/releases/download/2.1.1a/dockerized-phantomjs.tar.gz' | tar xz -C / && \
           apk add --update ttf-dejavu ttf-droid ttf-freefont ttf-liberation ttf-ubuntu-font-family && \
