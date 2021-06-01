@@ -2,10 +2,11 @@
 
 <ul type="*">
 	<li>120. Use of the Video Conference Facilities and the Mobile Infocomm Technology Facilities</li>
-	<li>121. Applications to use the Video Conference Facilities</li>
+	<li>121. Applications to use the Video Conference Facilities and Usage of Additional Equipment</li>
 	<li>122. Applications to use the Mobile Infocomm Technology Facilities</li>
 	<li>123. [deleted] Fees</li>
 </ul>
+
 
 ## 120. Use of the Video Conference Facilities and the Mobile Infocomm Technology Facilities
 
@@ -35,9 +36,7 @@
 	<li>(b) applicants will be informed of the number for video conferencing during the testing session; and</li>
 	<li>(c) as a matter of general practice, the remote site will connect to the number and it is the responsibility of the party requesting the video conference to coordinate the booking and calling in from the remote site.</li>
 </ul>
-
-
-(6) Any person who desires to use audio-visual and computers equipment additional to those provided in a Courtroom will be asked to provide details of such equipment. The applicant must also be prepared to have the equipment available for testing with the audio-visual system of Courtroom at least 3 working days before the first day fixed for the hearing. It is the responsibility of the applicant to provide equipment that is compatible with the audio-visual system of the Courtroom.
+(6) Any person who desires to use audio-visual and computer equipment additional to those provided in a Courtroom will be asked to provide details of such equipment. The applicant must also be prepared to have the equipment available for testing with the audio-visual system of the Courtroom at least 3 working days before the first day fixed for the hearing. It is the responsibility of the applicant to provide equipment that is compatible with the audio-visual system of the Courtroom.
 
 ## 122. Applications to use the Mobile Infocomm Technology Facilities
 

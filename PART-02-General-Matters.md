@@ -607,7 +607,7 @@ collected.
 
 ***Scope of electronic system***
 
-(3) The electronic system covers all Court fees previously collected over-the-counter, hearing and mechanical recording services fees in the Supreme Court.
+(3) The electronic system covers all Court fees previously collected over-the-counter, hearing fees and mechanical recording services fees in the Supreme Court.
 
 ***Registrar’s discretion***
 
