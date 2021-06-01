@@ -30,7 +30,7 @@
 	<li><a href="./downloads/Appendix_A/Form_18A.pdf" download>Form 18A. Costs Schedule</a></li>
 	<li><a href="./downloads/Appendix_A/Form_19.pdf" download>Form 19. Notice of Dispute</a></li>
 	<li><a href="./downloads/Appendix_A/Form_20.pdf" download>Form 20. Application to be Registered User of the Electronic Filing Service</a></li>
-	<li><a href="./downloads/Appendix_A/Form_21.pdf" download>Form 21. Application to Use the Technology Courts or Mobile Infocomm Technology Facilities (MIT facilities)</a></li>
+	<li><a href="./downloads/Appendix_A/Form_21.pdf" download>Form 21. Application to Use the Video Conference Facilities or Mobile Infocomm Technology Facilities (MIT facilities)</a></li>
 	<li>Form 22. [deleted] Application to Use the Technology Court or Mobile Info-Technology Trolley for Alternative Dispute Resolution</li>
 	<li>Form 23. [deleted] Application to Use the Mobile Info-Technology Trolley</li>
 	<li><a href="./downloads/Appendix_A/Form_24.pdf" download>Form 24. Undertaking to the Sheriff</a></li>
@@ -62,7 +62,7 @@
 	<li><a href="./downloads/Appendix_C/Appendix_C3.pdf" download>3. Sample Bill of Costs for non-contentious matters</a></li>
 </ul>
 
-## Appendix D : Fees for the Use of Technology Courts
+## Appendix D : [deleted] Fees for the Use of Technology Courts
 
 <ul type="*">
 	<li><a href="./downloads/Appendix_D/Appendix_D.pdf" download>Fees for Use of the Technology Courts and the Mobile Infocom Technology Facilities</a></li>
