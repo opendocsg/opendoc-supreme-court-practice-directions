@@ -62,12 +62,6 @@
 	<li><a href="./downloads/Appendix_C/Appendix_C3.pdf" download>3. Sample Bill of Costs for non-contentious matters</a></li>
 </ul>
 
-## Appendix D : [deleted] Fees for the Use of Technology Courts
-
-<ul type="*">
-	<li><a href="./downloads/Appendix_D/Appendix_D.pdf" download>Fees for Use of the Technology Courts and the Mobile Infocom Technology Facilities</a></li>
-</ul>
-
 ## Appendix E : Discovery and Inspection of Electronic Documents
 
 <ul type="*">
