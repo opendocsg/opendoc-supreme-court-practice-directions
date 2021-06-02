@@ -18,12 +18,14 @@
 		<li>References to exhibits in other affidavits</li>
 		<li>Related documents</li>
 	</ul>
+    <li>59A. Swearing and signing of affidavits in Singapore before, and completing of attestation by, commissioner for oaths through live video link or live television link</li>
 	<li>60. Swearing or affirming of documents by deponents who are blind or illiterate in English</li>
 	<li>61. Effect of non-compliance</li>
 	<li>62. Objections to the contents of affidavits of evidence-in-chief</li>
 	<li>63. Order 41 of the Rules of Court</li>
 	<li>63A. Lead Counsel’s Statement on Trial Proceedings</li>
 </ul>
+
 
 ## 56. Witnesses
 
@@ -150,6 +152,14 @@ A Commissioner for Oaths”
 
 (8) Related documents (e.g., correspondence and invoices) may be collected together and collectively exhibited as one exhibit arranged in chronological order, beginning with the earliest at the top, paginated in accordance with sub-paragraph (3) above, and the exhibit must have a front page showing the table of contents of the items in the exhibit. 
 
+## 59A. Swearing and signing of affidavits in Singapore before, and completing of attestation by, commissioner for oaths through live video link or live television link
+
+(1) A remote communication technology mentioned in Order 41, Rule 13(1) of the Rules of Court must be capable of creating a live video link or live television link through which a commissioner for oaths is able to do all of the things mentioned in Order 41, Rule 13(3) of the Rules of Court.
+
+(2) For the purposes of Order 41, Rule 13(2) of the Rules of Court, the deponent and the commissioner for oaths may sign the affidavit electronically by applying a security procedure that results in a secure electronic signature under section 18 of the Electronic Transactions Act (Cap. 88).
+
+(3) Where an affidavit is made pursuant to Order 41, Rule 13 of the Rules of Court, the affidavit should be made, as far as possible, as if the deponent were appearing before the commissioner for oaths in person, and the attestation must state that the affidavit was sworn (or affirmed) and signed in Singapore with the deponent appearing before the commissioner for oaths through a live video link or live television link, or that the affidavit was signed by the deponent and/or the commissioner for oaths electronically in Singapore, or both, as the case may be.
+
 ## 60. Swearing or affirming of documents by deponents who are blind or illiterate in English
 
 (1) Rule 8 of the Commissioners for Oaths Rules (Cap. 322, Rule 3) restricts advocates and solicitors who are appointed as commissioners for oaths to taking affidavits or statutory declarations, or administering oaths, for deponents who speak and understand English. In view of this, many deponents who are illiterate in English are brought by solicitors to Supreme Court commissioners for oaths to swear or affirm affidavits and statutory declarations. As the Supreme Court commissioners for oaths are under a duty to ensure that the deponent understands the document being deposed to, they are obliged to interpret the document to intended deponents; this is also the case in relation to blind deponents. This necessary exercise may take a considerable time and may cause long delays for other persons who wish to take affidavits or statutory declarations before the Supreme Court commissioners for oaths.
@@ -168,7 +178,7 @@ A Commissioner for Oaths”
 
 ## 61. Effect of non-compliance
 
-Any affidavit or exhibit which does not comply with the directions contained in this Part will be liable to be rejected by the Court and made the subject of an order for costs.
+Any affidavit or exhibit which does not comply with the directions contained in this Part may be rejected by the Court and made the subject of an order for costs.
 
 ## 62.Objections to the contents of affidavits of evidence-in-chief
 
