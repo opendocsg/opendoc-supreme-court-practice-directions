@@ -100,4 +100,3 @@ Registrar’s Circulars can be found at the Supreme Court web site at http://[ww
 
 (5) Pursuant to Order 60, Rule 1(3) of the Rules of Court, the business of the Registry is governed by the Rules of Court and these Practice Directions. For the avoidance of doubt, it is hereby declared that any instruction manuals which may be issued from time to time by the Government are not applicable to the business of the Registry.
 
-+ Example
