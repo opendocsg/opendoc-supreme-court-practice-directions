@@ -204,18 +204,16 @@ The attention of solicitors is drawn to Rules 24 and 31 and Appendix 1 of Order 
 (1) The directions contained in this paragraph shall apply to:
 
 <ul type="*">
-	<li>(a) trials in open court for all writ actions and originating summonses ordered to be continued as if the cause or matter had been begun by writ;</li>
-	<li>(b) originating summonses involving cross-examination of any deponent; and</li>
-	<li>(c) civil appeals before the Court of Appeal and civil appeals before the Appellate Division.</li>
+	<li>(a) trials in open court for all writ actions and originating summonses ordered to be continued as if the cause or matter had been begun by writ; and</li>
+	<li>(b) originating summonses involving cross-examination of any deponent;</li>
 </ul>
+
 
 (2) Each party to the proceedings described in sub-paragraph (1) shall be required to file a costs schedule using Form 18A in Appendix A of these Practice Directions. The costs schedule should set out with sufficient particularity the quantum of party-and-party costs and disbursements that the party intends to claim in the event that the party succeeds. A specimen form illustrating the use of Form 18A can be found in Appendix F of these Practice Directions. 
 
 (3) The relevant costs schedule will be taken into account for the purposes of assessing the quantum of costs to be awarded for the proceedings.
 
 (4) The costs schedule for the proceedings described in sub-paragraphs (1)(a) and (b) shall be filed together with the parties’ written closing submissions or, where there are no written closing submissions, before the parties’ oral closing submissions are presented.
-
-(5) The costs schedule for the proceedings described in sub-paragraph 1(c) shall be filed together with the parties’ skeletal arguments.
 
 ## 99B. Costs Guidelines
 
