@@ -407,12 +407,13 @@ Parties should avoid the use of generic descriptions such as “extracts from th
 <ul type="*">
 	<li>(a) they should contain a numbered list of the points proposed to be argued, stated in no more than one or 2 sentences;</li>
 	<li>(b) each listed point should be accompanied by a full reference to the material to which counsel will be referring, i.e., the relevant pages or passages in authorities, the record of appeal (or the supplemental record of appeal), the bundles of documents, aﬃdavits, transcripts and the judgment under appeal;</li>
-    <li>(c) for civil appeals and any other civil matters before the Court of Appeal, and civil appeals and any other civil matters before the Appellate Division, the final paragraph(s) should contain the   appropriate costs order and the quantum (including the disbursements incurred) that should be awarded by the Court;</li>
+    <li>(c) for civil appeals and any other civil matters before the Court of Appeal, and civil appeals and any other civil matters before the Appellate Division, the final paragraph(s) should contain the parties' submissions on costs, stating (with reasons) the appropriate costs order and the quantum (including the disbursements incurred) that should be awarded by the Court;</li>
 	<li>(d) all pages should be paginated, with the first page (not including any cover page) numbered as “Page 1”;</li>
 	<li>(e) the minimum font size to be used is Times New Roman 12 or its equivalent;</li>
 	<li>(f) the print of every page shall be double-spaced; and</li>
 	<li>(g) every page shall have a margin on all 4 sides, each of at least 35mm in width.</li>
 </ul>
+
 
 
 ***Skeletal arguments for civil matters before the Court of Appeal and civil matters before the Appellate Division***

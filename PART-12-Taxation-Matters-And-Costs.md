@@ -205,8 +205,9 @@ The attention of solicitors is drawn to Rules 24 and 31 and Appendix 1 of Order 
 
 <ul type="*">
 	<li>(a) trials in open court for all writ actions and originating summonses ordered to be continued as if the cause or matter had been begun by writ; and</li>
-	<li>(b) originating summonses involving cross-examination of any deponent;</li>
+	<li>(b) originating summonses involving cross-examination of any deponent.</li>
 </ul>
+
 
 
 (2) Each party to the proceedings described in sub-paragraph (1) shall be required to file a costs schedule using Form 18A in Appendix A of these Practice Directions. The costs schedule should set out with sufficient particularity the quantum of party-and-party costs and disbursements that the party intends to claim in the event that the party succeeds. A specimen form illustrating the use of Form 18A can be found in Appendix F of these Practice Directions. 
