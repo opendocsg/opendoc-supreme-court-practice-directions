@@ -44,6 +44,6 @@
 
 (2) An application to use the MIT facilities for any other dispute resolution process must be made by submitting Form 21 to the Registrar through the relevant person-in-charge at the organisation at which the dispute resolution process is carried out as soon  as practicable, as availability of the resources are on a first-come-first served basis.
 
-(3) MIT facilities are available for use in both open Court and in Chambers.
+(3) The mobile audio-visual equipment is available for use in both open Court and in Chambers while the mobile videoconferencing equipment is only for use in Chambers.
 
-(4) Any applicant desiring to use MIT facilities is required to provide details of the type of evidence to be presented and media format in the application form.  The applicant must also be prepared to have the presentation material or media available for testing with the MIT facilities at least 5 working days before the first day fixed for the hearing.  It is the responsibility of the applicant to provide presentation materials or media format that is compatible with the equipment provided by the Court.
+(4) Any applicant desiring to use the mobile audio-visual equipment is required to provide details of the type of evidence presenting and media format in the application form.  The applicant must also be prepared to have the presentation material or media available for testing with the audio-visual system at least 5 working days before the first day fixed for the hearing.  It is the responsibility of the applicant to provide presentation materials or media format that is compatible with the equipment provided by the Court.
