@@ -6,7 +6,6 @@
 	<li>10. Calculation of time</li>
 	<li>11. Urgent applications outside of the Court's office hours</li>
 	<li>12. Duty Registrar</li>
-    <li>12A. Request for urgent hearing before Judge</li>
 	<li>13. Attendance of solicitors in Court and mentioning on behalf of other solicitors</li>
 	<li>13A. Attendance at hearings in Chambers</li>
 	<li>14. Absence from Court on medical grounds</li>
@@ -46,7 +45,6 @@
 	<li>29A. Publication of and reports and comments on Court cases</li>
 	<li>29B. Citation of Case Numbers</li>
 </ul>
-
 
 ## 8. Operating hours of the Supreme Court
 
@@ -145,34 +143,6 @@ __Extension, etc., of time (O. 3, r. 4)__
 <ul type="*">
 	<li>(a) file the documents at least one hour before attending before the Duty Registrar, so that the documents would already be in the electronic case file for the Duty Registrar’s reference. Solicitors should as far as possible only attend before the Duty Registrar after they have received notification from the Court that the documents have been accepted; or</li>
 	<li>(b) attend before the Duty Registrar with the paper documents. The Duty Registrar will require the solicitor to give an undertaking to file all the documents by the next working day before dealing with the matter.</li>
-</ul>
-## 12A. Request for urgent hearing before Judge
-
-(1) Before an applicant attends before the Duty Registrar to request an urgent hearing before a Judge of any application for any civil matter, the applicant should complete (as far as possible) and file Form 1A of Appendix A of these Practice Directions. A copy of Form 1A should be served on each respondent to the application at the time of filing, unless the application is an *ex parte* application and service of Form 1A would or might defeat the purpose of the application.
-
-(2) The applicant should prepare skeletal submissions for the urgent hearing before the Judge, and file the skeletal submissions at the same time as Form 1A. A copy of the skeletal submissions should be served on each respondent to the application at the time of filing, unless the application is an *ex parte* application and service of the skeletal submissions would or might defeat the purpose of the application. If the skeletal submissions are not filed, the applicant should inform the Duty Registrar whether the skeletal submissions will be filed and served by the time of the urgent hearing before the Judge.
-
-(3) If, due to urgency, the applicant is unable to file or serve Form 1A and/or the skeletal submissions before attending before the Duty Registrar, the applicant should provide a copy each of Form 1A and the skeletal submissions to each respondent to the application when the parties attend before the Duty Registrar. Each such copy of Form 1A or the skeletal submissions must be a hard copy, if the parties attend before the Duty Registrar physically, or in soft copy, if the parties attend before the Duty Registrar by live video or live television link. Thereafter, Form 1A and the skeletal submissions should be filed as soon as possible and, in any event, no later than the next working day after the attendance before the Duty Registrar, unless the Court directs otherwise. If any respondent does not attend before the Duty Registrar, Form 1A and the skeletal submissions should be served on that respondent as soon as possible after the hearing before the Duty Registrar, and, in any event, before the urgent hearing before the Judge, unless the Court directs otherwise. 
-
-(4) In cases of extreme urgency where the applicant is unable to comply with the requirement to file or provide a copy of the skeletal submissions by the time of the urgent hearing before the Judge, the applicant should inform the Duty Registrar of the applicant's intention to seek a dispensation of that requirement at the hearing before the Judge, and provide supporting reasons for the dispensation.
-
-(5) The applicant's skeletal submissions should contain the following:
-
-<ul type="*">
-	<li>(a) the relevant facts;</li>
-	<li>(b) the applicable law;</li>
-	<li>(c) the reason(s) for requesting an urgent hearing; and</li>
-	<li>(d) a summary of arguments.</li>
-</ul>
-
-(6) The applicant's skeletal submissions should be in the following format:
-
-<ul type="*">
-	<li>(a) all pages should be paginated;</li>
-	<li>(b) the skeletal submissions should not exceed 10 pages (excluding the cover page and backing page);</li>
-	<li>(c) the minimum font size to be used is Times New Roman 12 or its equivalent;</li>
-	<li>(d) the print of every page must be double-spaced; and</li>
-    <li>(e) every page must have a margin on all 4 sides, each of at least 35mm in width.</li>
 </ul>
 
 ## 13. Attendance of solicitors in Court and mentioning on behalf of other solicitors
@@ -402,11 +372,9 @@ Nothing in this paragraph detracts from the responsibility of lead counsel to en
 	<li>(c) Interpreters who are not from the Supreme Court's Interpreters Section must be sworn in before the Duty Registrar before they may provide interpretation services for proceedings in Court.</li>
 </ul>
 
-(10) Requests for translation of documents in Chinese, Malay or Tamil for use in Supreme Court proceedings must be filed through the Electronic Filing Service at least 4 weeks before the date the translations are required. Failure to comply with the directions set out in this sub-paragraph may result in the translations not being available or provided by the date they are required.
+(10) Requests for translation of documents in Chinese, Malay or Tamil for use in Supreme Court proceedings should be sent using the form available on the Supreme Court website at least 4 weeks before the date the translations are required, unless there are exceptional reasons justifying non-compliance.
 
 (11) In the event that the Supreme Court's Interpreters Section is unable to accept a translation request, parties and counsel should approach a private translation service instead. 
-
-(12) Litigants in person may submit their requests for interpretation services or translation of documents for Supreme Court proceedings using the respective forms available on the website at [http://www.supremecourt.gov.sg.](http://www.supremecourt.gov.sg/)
 
 ## 21. Production of record of hearing
 
