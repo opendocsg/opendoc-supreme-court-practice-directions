@@ -1,6 +1,6 @@
 # Appendices
 
-## Appendix A : Forms TEST
+## Appendix A : Forms 
 
 <ul type="*">
 	<li><a href="./downloads/Appendix_A/Form_01.pdf" download>Form 1. Specimen Government Medical Certificate</a></li>
