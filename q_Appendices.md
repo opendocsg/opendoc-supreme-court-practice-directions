@@ -47,7 +47,7 @@
 	<li><a href="./downloads/Appendix_A/Form_32B.pdf" download>Form 32B. Submissions for Application for Leave to Appeal against a Decision of the Appellate Division (Respondent)</a></li>
 	<li><a href="./downloads/Appendix_A/Form_33.pdf" download>Form 33. Judge Pre-Trial Conference Checklist for criminal cases in the General Division
 </a></li>
-	<li><a href="./downloads/Appendix_A/Form_34.pdf" download>Form 34. Information Sheet to be exhibited in an Affidavit in support of a Leave Application under section 394H of the Criminal Procedure Code</a></li>
+	<li><a href="./downloads/Appendix_A/Form_34.pdf" download>Form 34. Information Sheet to be exhibited in an Affidavit in support of a Leave Application under section 394H of the Criminal Procedure Code.</a></li>
 </ul>
 
 ## Appendix B : Waiting Periods
