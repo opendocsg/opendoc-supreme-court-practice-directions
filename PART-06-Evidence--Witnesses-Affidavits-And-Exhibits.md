@@ -6,6 +6,7 @@
 		<li>Issuance of subpoenas</li>
 		<li>Release of witness upon completion of evidence</li>
 	</ul>
+    <li>56A. Giving of evidence by person outside Singapore through live video or live television link in any proceedings (other than proceedings in a criminal matter)</li>
 	<li>57. Form of affidavits</li>
 	<li>58. Non-documentary exhibits to affidavits</li>
 	<li>59. Documentary exhibits to affidavits</li>
@@ -25,6 +26,7 @@
 	<li>63. Order 41 of the Rules of Court</li>
 	<li>63A. Lead Counsel’s Statement on Trial Proceedings</li>
 </ul>
+
 
 
 ## 56. Witnesses
