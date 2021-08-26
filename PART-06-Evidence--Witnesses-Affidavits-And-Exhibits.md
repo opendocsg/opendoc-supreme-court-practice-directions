@@ -41,7 +41,7 @@
 
 ## 56A. Giving of evidence by person outside Singapore through live video or live television link in any proceedings (other than proceedings in a criminal matter)
 
-(1) Any application for leave for any person outside Singapore to give evidence by live video or live television link in any proceedings (other than proceedings in a criminal matter) must be made expeditiously and, in any case, unless the Court otherwise directs, not later than eight weeks before the date of commencement of the hearing at which the person is to give evidence. 
+(1) Any application for leave for any person outside Singapore to give evidence by live video or live television link in any proceedings (other than proceedings in a criminal matter) must be made expeditiously and, in any case, unless the Court otherwise directs, not later than eight weeks before the date of commencement of the hearing at which the person is to give evidence. The application may also contain a prayer for the issue of a letter of request, to the relevant authorities of a foreign jurisdiction, for permission for evidence to be given by live video or live television link by a person located in that jurisdiction, if the laws of that jurisdiction require the issue of such a letter of request.
 
 (2) A party applying for leave for any person outside Singapore to give evidence by live video or live television link must take note of the relevant legislation and requirements in force in the foreign country or territory where the person is giving evidence. Certain countries or territories may impose prohibitions against, restrictions on, or requirements to obtain permission for or relating to, the giving of evidence by a person in that country or territory for court proceedings in a different country or territory. The party applying for leave must make all necessary enquiries, and take all necessary steps, to ensure that the foreign country or territory where the person is giving evidence raises no objection, to the giving of evidence in that country or territory for court proceedings in Singapore. This may be done by any means that the party considers appropriate, including:
 
@@ -50,8 +50,9 @@
 	<li>(b) making enquiries with the relevant authorities; or</li>
 	<li>(c)	obtaining permission from the relevant foreign country or territory, in accordance with any applicable procedure, for evidence to be given by a person located in that country or territory through a live video or live television link, if such permission is required.</li>
 </ul>
+(3) An application for the issue of a letter of request, to the relevant authorities of a foreign jurisdiction, for permission for evidence to be given by live video or live television link by a person located in that jurisdiction, if not contained in an application mentioned in sub-paragraph (1), must be made expeditiously and, in any case, unless the Court otherwise directs, not later than eight weeks before the date of commencement of the hearing at which the person is to give evidence.
 
-(3) To avoid doubt, the proceedings mentioned in sub-paragraph (1) include all civil proceedings involving the examination of any person.
+(4) To avoid doubt, the proceedings mentioned in sub-paragraph (1) include all civil proceedings involving the examination of any person.
 
 ## 57. Form of affidavits
 
