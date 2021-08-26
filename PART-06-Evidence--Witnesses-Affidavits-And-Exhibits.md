@@ -50,8 +50,9 @@
 <ul type="*">
 	<li>(a) obtaining advice from a foreign lawyer qualified to advise on the laws of the relevant foreign country or territory;</li>
 	<li>(b) making enquiries with the relevant authorities; or</li>
-	<li>(c)	obtaining permission from the relevant foreign country or territory, in accordance with any applicable procedure, for evidence to be given by a person located in that country or territory through a live video or live television link, if such permission is required.</li>
+	<li>(c) obtaining permission from the relevant foreign country or territory, in accordance with any applicable procedure, for evidence to be given by a person located in that country or territory through a live video or live television link, if such permission is required.</li>
 </ul>
+
 (3) An application for the issue of a letter of request, to the relevant authorities of a foreign jurisdiction, for permission for evidence to be given by live video or live television link by a person located in that jurisdiction, if not contained in an application mentioned in sub-paragraph (1), must be made expeditiously and, in any case, unless the Court otherwise directs, not later than eight weeks before the date of commencement of the hearing at which the person is to give evidence.
 
 (4) To avoid doubt, the proceedings mentioned in sub-paragraph (1) include all civil proceedings involving the examination of any person.
