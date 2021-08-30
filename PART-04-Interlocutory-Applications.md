@@ -8,6 +8,7 @@
 		<li>"<i>Ex parte</i>"" and “<i>by consent</i>” summonses </li>
 	</ul>
 	<li>37A. Filing of Distinct Applications in Separate Summonses </li>
+    <li>37B. Summary Table for Applications for Further and Better Particulars, Discovery, Production of Documents or Interrogatories</li>
 	<li>38. Summonses to be heard in open Court </li>
 	<li>39. Summonses for directions </li>
 	<li>40. Transfer of proceedings to the State Courts </li>
@@ -19,6 +20,7 @@
 	<li>42A. Documents in support of ex parte applications for injunctions (including Mareva injunctions) and search orders </li>
 	<li>43. Applications for discovery or interrogatories against network service providers</li>
 </ul>
+
 
 ## 36. Distribution of applications
 
@@ -52,8 +54,36 @@ All applications in Chambers (including summonses and summonses for directions) 
 <ul type="*">
 	<li>In the defendant’s summons setting out a prayer for the striking out of certain paragraphs of the Statement of Claim, the defendant may include an alternative prayer for the plaintiff to be ordered to amend those paragraphs of the Statement of Claim.</li>
 </ul>
-
 (3) Any summons that is not in compliance with this paragraph may be rejected by the Legal Registry of the Supreme Court. The Court may also direct the party to file separate summonses before proceeding with the hearing or proceed with the hearing on the solicitor’s undertaking to file further summonses for the distinct applications.
+
+## 37B. Summary Table for Applications for Further and Better Particulars, Discovery, Production of Documents or Interrogatories
+
+(1) Unless otherwise directed, this paragraph applies to any application made for an order under Order 18, Rule 12, Order 24, Rule 1, 5, 6, 11 or 12, Order 26, Rule 1 or Order 26A, Rule 1 of the Rules of Court, where:
+
+<ul type="*">
+	<li>(a) more than 5 categories or sub-categories of particulars, documents or interrogatories are sought, or the parties agree that this paragraph applies to the application; and</li>
+	<li>(b) the application is contested.</li>
+</ul>
+
+The Court may also direct that this paragraph applies to any other application.
+
+(2) With a view to enhancing the efficacy of an oral hearing, the parties must complete the summary table in Form 5 in Appendix A of these Practice Directions (the “Summary Table”), in lieu of filing written submissions. In exceptional circumstances (e.g. where there are novel issues to be determined), the parties may seek leave of the Court to file written submissions in addition to the Summary Table.
+
+(3) Unless otherwise directed by the Court, the parties must complete the Summary Table in the following manner:
+
+<ul type="*">
+	<li>(a) The applicant must complete Columns A and B of the Summary Table, and serve the Summary Table on the respondent, when filing the application. The applicant may also complete Column C of the Summary Table before the applicant serves the Summary Table on the respondent under this sub-paragraph.</li>
+	<li>(b) If the applicant did not complete Column C of the Summary Table when the application was filed, the applicant must complete Column C of the Summary Table, and serve the Summary Table with Column C completed on the respondent, no later than 8 working days before the date of the hearing.</li>
+    <li>(c) The respondent must complete Column D of the Summary Table, and serve the Summary Table with Column D completed on the applicant, within 3 working days after receiving from the applicant the Summary Table with Column C completed.</li>
+    <li>(d) The applicant must complete Column E of the Summary Table, serve on the respondent the completed Summary Table, and file the completed Summary Table using the Electronic Filing Service as an “Other Hearing Related request”, within 3 working days after receiving from the respondent the Summary Table with Column D completed and, in any event, no later than 2 working days before the date of the hearing.</li>
+</ul>
+
+(4)  Where a party wishes to adduce any evidence for the purposes of the application, or the Court grants a party leave to file written submissions in addition to the Summary Table:
+
+<ul type="*">
+	<li>(a) the Court may adjust the timelines mentioned in sub-paragraph (3); and</li>
+	<li>(b) the party must file and serve the party’s affidavit or written submissions (as the case may be) in accordance with the timelines directed by the Court.</li>
+</ul>
 
 ## 38. Summonses to be heard in open Court
 
