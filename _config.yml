@@ -24,7 +24,7 @@ hide_toolbar:
 
 folders:
   - name: '/'
-    title: 'Supreme Court Practice Directions'
+    title: 'Supreme Court Practice Directions 2013'
     subtitle: ''
     order:
       - 'PART-01-Introduction.md'
