@@ -21,7 +21,7 @@
 
 ## 93. Scope of certain paragraphs
 
-Paragraphs 94 and 96 apply to all taxations save where the entitlement to costs arose prior to 1 February 1992, in which case the bill should be drawn up in accordance with the provisions of Order 59 of the Rules of Court in force immediately prior to 1 February 1992 and, in accordance with the practice immediately prior to that date. For the avoidance of doubt, the directions contained in this part, save for paragraph 98, do not apply to taxations governed by the Bankruptcy (Costs) Rules or the Insolvency, Restructuring and Dissolution (Personal Insolvency) Rules 2020. 
+Paragraphs 94 and 96 apply to all taxations save where the entitlement to costs arose prior to 1 February 1992, in which case the bill should be drawn up in accordance with the provisions of Order 59 of the Rules of Court in force immediately prior to 1 February 1992 and, in accordance with the practice immediately prior to that date. For the avoidance of doubt, the directions contained in this part, save for paragraph 98, do not apply to taxations governed by the Bankruptcy (Costs) Rules or the Insolvency, Restructuring and Dissolution (Personal Insolvency) Rules 2020.
 
 ## 94.  Form of bill of costs
 
@@ -142,7 +142,7 @@ The attention of solicitors is drawn to Rules 24 and 31 and Appendix 1 of Order 
 
 (2) As the Registrar’s certificate of costs under Order 59, Rule 32 of the Rules of Court will be composed online based on the summary in sub-paragraph (1)(c), solicitors should ensure that the information contained in the summary accurately reflects the information contained in the bill of costs submitted. Solicitors should also ensure that the amounts claimed for goods and services tax in the Registrar’s certificate of costs are correct.
 
-(3) There is no necessity for lawyers to collect the taxed bill of costs from the Legal Registry to prepare the Registrar’s certificate. The procedure for preparation of draft orders in paragraph 75 of these Practice Directions shall, mutatis mutandis, apply to the preparation of the Registrar’s certificate. 
+(3) There is no necessity for lawyers to collect the taxed bill of costs from the Legal Registry to prepare the Registrar’s certificate. The procedure for preparation of draft orders in paragraph 75 of these Practice Directions shall, mutatis mutandis, apply to the preparation of the Registrar’s certificate.
 
 (4) For the avoidance of doubt, the Registrar’s certificate of costs shall be filed as a Portable Document Format (PDF) document for bills of costs filed before 1 January 2013. For all other cases, the Registrar’s certificate of costs shall be composed online through the Electronic Filing Service.
 
@@ -150,11 +150,11 @@ The attention of solicitors is drawn to Rules 24 and 31 and Appendix 1 of Order 
 
 (1) Any objections in principle or as to quantum of the items claimed in a bill of costs must be indicated by the filing and service of a Notice of Dispute in Form 19 of Appendix A of these Practice Directions at least 7 days before the date fixed by the Registrar for the taxation of the bill of costs.
 
-(2) The Notice of Dispute shall be filed through the Electronic Filing Service in Portable Document Format (PDF) and be accompanied by a Notice of Dispute summary, the electronic form of which will be composed online through the Electronic Filing Service. The information required by the Electronic Filing Service to compose the Notice of Dispute summary includes the amounts of costs to be awarded under Sections 1, 2 and 3 of the bill of costs according to the respondent. 
+(2) The Notice of Dispute shall be filed through the Electronic Filing Service in Portable Document Format (PDF) and be accompanied by a Notice of Dispute summary, the electronic form of which will be composed online through the Electronic Filing Service. The information required by the Electronic Filing Service to compose the Notice of Dispute summary includes the amounts of costs to be awarded under Sections 1, 2 and 3 of the bill of costs according to the respondent.
 
 ## 97.  Amount allowed as disbursements on account of use of Electronic Filing Service
 
-(1) If a document is filed using the Electronic Filing Service, $0.40 for each page of the document thus filed shall be allowed as costs between parties to proceedings. Such costs may be claimed by a receiving party from the paying party where the receiving party is entitled to costs for the filing of the document. These costs shall be allowed in addition to all other disbursements and Court fees. 
+(1) If a document is filed using the Electronic Filing Service, $0.40 for each page of the document thus filed shall be allowed as costs between parties to proceedings. Such costs may be claimed by a receiving party from the paying party where the receiving party is entitled to costs for the filing of the document. These costs shall be allowed in addition to all other disbursements and Court fees.
 
 (2) This paragraph shall apply to the taxation of costs as well as cases where the Court fixes a gross sum in lieu of taxation.
 
@@ -162,7 +162,7 @@ The attention of solicitors is drawn to Rules 24 and 31 and Appendix 1 of Order 
 
 ## 98.  Taxations involving the Official Assignee, the Official Receiver, the Public Trustee or the Director of Legal Aid
 
-(1) The directions contained in this paragraph shall be followed in respect of all taxations in which the Official Assignee, the Official Receiver, the Public Trustee or the Director of Legal Aid is involved. 
+(1) The directions contained in this paragraph shall be followed in respect of all taxations in which the Official Assignee, the Official Receiver, the Public Trustee or the Director of Legal Aid is involved.
 
 (2) Subject to sub-paragraph (4) below, for all taxations in which the Official Assignee, the Official Receiver, the Public Trustee or the Director of Legal Aid is involved:
 
@@ -180,14 +180,14 @@ The attention of solicitors is drawn to Rules 24 and 31 and Appendix 1 of Order 
 		<li>(i) where no party-and-party bill of costs has been filed; or</li>
 		<li>(ii) where the solicitor-and-client costs is not referenced to a party-and-party bill filed earlier,</li>
 	</ul>
-	<li>the receiving party and the Public Trustee need not attend at the taxation and the bill will be taxed in their absence. However, if the taxing Registrar disagrees with the quantum of costs agreed on, he may nonetheless direct the attendance of the Public Trustee at a later date;</li>
+	<li>the receiving party and the Public Trustee need not attend at the taxation and the bill will be taxed in their absence. However, if the taxing Registrar disagrees with the quantum of costs agreed on, he or she may nonetheless direct the attendance of the receiving party and the Public Trustee at a later date;</li>
 	<li>(b) for:</li>
 	<ul type="*">
 		<li>(i) party-and-party bills filed by the creditor under the Bankruptcy (Costs) Rules or the Insolvency, Restructuring and Dissolution (Personal Insolvency) Rules 2020, to which the estate of the bankrupt is the respondent;</li>
 		<li>(ii) party-and-party bills filed by the creditor in companies winding-up matters where the Official Receiver is appointed liquidator and to which the company in liquidation is the respondent to the bill of  costs; or</li>
 		<li>(iii) solicitor-and-client bills filed pursuant to the Legal Aid and Advice Act (Cap. 160) where the Director of Legal Aid is the respondent,</li>
 	</ul>
-	<li>the receiving party and the Official Assignee, the Official Receiver or the Director of Legal Aid, as the case may be, need not attend at the taxation and the bill will be taxed in their absence. However, if the taxing Registrar disagrees with the quantum of costs agreed on, he may nonetheless direct the attendance of the Official Assignee, the Official Receiver or the Director of Legal Aid, as the case may be, at a later date.</li>
+	<li>the receiving party and the Official Assignee, the Official Receiver or the Director of Legal Aid, as the case may be, need not attend at the taxation and the bill will be taxed in their absence. However, if the taxing Registrar disagrees with the quantum of costs agreed on, he or she may nonetheless direct the attendance of the receiving party and the Official Assignee, the Official Receiver or the Director of Legal Aid, as the case may be, at a later date.</li>
 </ul>
 
 
@@ -210,7 +210,7 @@ The attention of solicitors is drawn to Rules 24 and 31 and Appendix 1 of Order 
 
 
 
-(2) Each party to the proceedings described in sub-paragraph (1) shall be required to file a costs schedule using Form 18A in Appendix A of these Practice Directions. The costs schedule should set out with sufficient particularity the quantum of party-and-party costs and disbursements that the party intends to claim in the event that the party succeeds. A specimen form illustrating the use of Form 18A can be found in Appendix F of these Practice Directions. 
+(2) Each party to the proceedings described in sub-paragraph (1) shall be required to file a costs schedule using Form 18A in Appendix A of these Practice Directions. The costs schedule should set out with sufficient particularity the quantum of party-and-party costs and disbursements that the party intends to claim in the event that the party succeeds. A specimen form illustrating the use of Form 18A can be found in Appendix F of these Practice Directions.
 
 (3) The relevant costs schedule will be taken into account for the purposes of assessing the quantum of costs to be awarded for the proceedings.
 

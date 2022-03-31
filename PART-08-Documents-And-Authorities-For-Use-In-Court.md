@@ -10,7 +10,7 @@
 		<li>Directions for electronic creation and filing of bundles of documents</li>
 	</ul>
 	<li>71. Documents for use in trials of writ actions in open Court</li>
-	<ul>	
+	<ul>
 		<li>Only opening statement to be filed through the Electronic Filing Service</li>
 		<li>Timeline for filing documents</li>
 		<li>Bundles of documents</li>
@@ -93,7 +93,7 @@ Relevance: Choice of law considerations are relevant even when determining the n
 (4) The following directions shall apply to the filing of bundles:
 
 <ul type="*">
-	<li>(a) Index pages shall be prepared. Bookmarks should be created in the Portable Document Format (PDF) file for each such reference in the index. There should be as many book-marks in that PDF file as there are references in the index to documents in that PDF file.</li>
+	<li>(a) Index pages shall be prepared. Bookmarks should be created in the Portable Document Format (PDF) file for each such reference in the index. There should be as many bookmarks in that PDF file as there are references in the index to documents in that PDF file.</li>
 	<li>(b) The name given to each bookmark should be the same as the corresponding reference in the index.</li>
 	<li>(c) The various PDF documents should be arranged chronologically or in some logical order.</li>
 	<li>(d) The page number of each bundle of documents must correspond to the page number in the Portable Document Format (PDF) version of that bundle. Each separate bundle of documents shall start at page 1 and every page shall be numbered consecutively.</li>
@@ -126,13 +126,13 @@ Relevance: Choice of law considerations are relevant even when determining the n
 	<li>(b) A party may choose not to include the bundles of authorities in the CD-ROM and may instead tender it in hard copy.</li>
 </ul>
 
-(4) Any Court fees payable, pursuant to Appendix B of the Rules of Court, on filing the documents in this sub-paragraph, shall be payable at the cashier at the Legal Registry. Parties should, when making payment at the cashier, indicate to the cashier the precise number of pages which comprise the documents. 
+(4) Any Court fees payable, pursuant to Appendix B of the Rules of Court, on filing the documents in this sub-paragraph, shall be payable at the cashier at the Legal Registry. Parties should, when making payment at the cashier, indicate to the cashier the precise number of pages which comprise the documents.
 
 (5) Payment of the Court fees on such documents should be made before the documents are filed in Court in compliance with Order 34, Rule 3A. As such, the hard copy of documents tendered to Court should show, on the front page, the amount of Court fees paid on the document.
 
 (6) The electronic copy must tally in all respects with the hard copy, as it will be uploaded into the case file by the Legal Registry staff and will form part of the electronic case file. The page numbers of the hard copy must correspond to the page numbers in the Portable Document Format (PDF) version. Unnecessarily large electronic files should not be submitted.  Parties should adhere as far as possible to the guidelines set out on the Electronic Filing Service website ([www.elitigation.sg)](https://www.elitigation.sg/) on the resolution to be used when scanning documents into PDF.
 
-(7) In the event that parties elect to electronically file such documents, they must nevertheless tender a bundle of these documents to the Legal Registry in hard copy. It shall not be necessary to pay any additional Court fees in respect of the hard copy in such circumstances. 
+(7) In the event that parties elect to electronically file such documents, they must nevertheless tender a bundle of these documents to the Legal Registry in hard copy. It shall not be necessary to pay any additional Court fees in respect of the hard copy in such circumstances.
 
 ***Timeline for filing documents***
 
@@ -235,7 +235,7 @@ Relevance: Choice of law considerations are relevant even when determining the n
 	<li>(b) file a soft copy of his written submissions using the Electronic Filing Service no later than 1 working day after the hearing.</li>
 </ul>
 
-(2) If any party does not intend to rely on written submissions at the contested hearing referred to in sub-paragraph (1) above (e.g., where the hearing does not involve complex issues), the party should seek the Court’s approval for a waiver by way of a Request using the Electronic Filing Service at least 7 days before the hearing. 
+(2) If any party does not intend to rely on written submissions at the contested hearing referred to in sub-paragraph (1) above (e.g., where the hearing does not involve complex issues), the party should seek the Court’s approval for a waiver by way of a Request using the Electronic Filing Service at least 7 days before the hearing.
 
 (3) This paragraph does not apply to any hearing before a Judge which is fixed on the normal list. However, parties are encouraged to adhere to the directions set out in sub-paragraph (1) above if the application will be contested. In the event that this is not done, the Judge may adjourn the hearing to enable the filing of written submissions or bundle of authorities if appropriate.
 
@@ -316,9 +316,9 @@ Relevance: Choice of law considerations are relevant even when determining the n
 	</table>
 </ul>
 
-(7) Counsel should, where possible, make specific citations by referring to the paragraph number of the judgment, and not to the page number of the judgment or report. For consistency, square brackets (\[xx\]) should be used to denote paragraph numbers. The paragraph mark (¶) should no longer be used.
+(7) Counsel should, where possible, make specific citations by referring to the paragraph number of the judgment, and not to the page number of the judgment or report. For consistency, square brackets ([xx]) should be used to denote paragraph numbers. The paragraph mark (¶) should no longer be used.
 
-The neutral citation system for local judgments
+***The neutral citation system for local judgments***
 
 (8) A neutral citation is a Court-approved system of citation which is independent of the series of law reports or other publication, and unique to each written judgment. Each written judgment from a particular level of Court is assigned a sequential number, starting from 1 at the beginning of each calendar year. The application of the system is as follows:
 
@@ -335,7 +335,7 @@ The neutral citation system for local judgments
 	<p>
 		<b>EXAMPLE AND EXPLANATION</b>
 	</p>
-	
+
 </ul>
 ```
 ABC Co Pte Ltd v XYZ Co Ltd [2003] SGCA 5, at [3], [8].
@@ -349,7 +349,7 @@ Paragraph Number(s): Paragraphs 3 and 8 of the judgment
 
 (9) The Court in exercising its discretion as to costs may, where appropriate in the circumstances, take into account the extent to which counsel has complied with this practice direction in the citation of judgments before the Court.
 
-(10) It will remain the duty of counsel to draw the attention of the Court to any judgment not cited by an opponent, which is adverse to the case being advanced. 
+(10) It will remain the duty of counsel to draw the attention of the Court to any judgment not cited by an opponent, which is adverse to the case being advanced.
 
 (11) In addition, counsel should also comply with paragraphs 71(12) and 71(13) when preparing bundles of authorities for use in trials of writ actions in open Court.
 

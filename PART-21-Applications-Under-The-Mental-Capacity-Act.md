@@ -143,7 +143,7 @@ P.
 
 ## 152. Where P ceases to lack capacity or dies
 
-(1) Where P ceases to lack capacity or dies, the following steps in sub-paragraphs (2) to (7) may, where relevant, need to be taken to finalise the court’s involvement in P’s affairs. 
+(1) Where P ceases to lack capacity or dies, the following steps in sub-paragraphs (2) to (7) may, where relevant, need to be taken to finalise the court’s involvement in P’s affairs.
 
 ***Application to end proceedings***
 
@@ -165,7 +165,7 @@ P.
 
 ***Procedure to be followed when P dies***
 
-(6) An application for final directions (including discharging an order appointing a deputy or discharging the security) may be made following P’s death. The application should be supported by an affidavit exhibiting a copy of P’s death certificate.  
+(6) An application for final directions (including discharging an order appointing a deputy or discharging the security) may be made following P’s death. The application should be supported by an affidavit exhibiting a copy of P’s death certificate.
 
 ***Discharge of security***
 

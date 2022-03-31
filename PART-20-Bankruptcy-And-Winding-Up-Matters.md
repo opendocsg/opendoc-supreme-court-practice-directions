@@ -57,7 +57,7 @@ The following arrangements will apply to hearings of bankruptcy matters:
 	<li>the Court will normally set aside the statutory demand if, in its opinion, on the evidence there is a genuine triable issue.</li>
 </ul>
 
-## 145. Judicial Management and Winding Up applications under the Companies Act or the Insolvency, Restructuring and Dissolution Act 2018 
+## 145. Judicial Management and Winding Up applications under the Companies Act or the Insolvency, Restructuring and Dissolution Act 2018
 
 After a winding up application has been filed, the applicant or his solicitor should file the necessary documents using the checklist provided in the Electronic Filing Service. Once the necessary documents under the checklist have been filed, the applicant or his solicitor should generate and file the winding up memorandum before attending before the Duty Registrar in compliance with Rule 32 of the Companies (Winding Up) Rules or Rule 73 of the Insolvency, Restructuring and Dissolution (Corporate Insolvency and Restructuring) Rules 2020. This requirement shall similarly apply to judicial management applications under the Companies Act (Cap. 50) or the Insolvency, Restructuring and Dissolution Act 2018 (Act 40 of 2018).
 

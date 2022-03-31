@@ -45,7 +45,7 @@
 
 ## 118. Timelines for filing
 
-(1) Skeletal arguments that are to be electronically filed must be filed and served in accordance with the following timelines:
+(1) Skeletal arguments that are to be electronically filed must be filed and served in accordance with the following timelines and any Court directions:
 
 <ul type="*">
 	<li>(a) in a case where the matter is before the General Division, at least 10 days before the hearing; and</li>

@@ -80,7 +80,7 @@
 
 ***Appeals under Order 55D of the Rules of Court***
 
-(1) In appeals under Order 55D of the Rules of Court, the appellant and the respondent are to tender one hard copy of the record of appeal and the Cases, as well as any bundle of authorities to be relied upon to the Legal Registry of the Supreme Court not less than 5 working days before the hearing of the appeal, to assist the Judge hearing the appeal.  
+(1) In appeals under Order 55D of the Rules of Court, the appellant and the respondent are to tender one hard copy of the record of appeal and the Cases, as well as any bundle of authorities to be relied upon to the Legal Registry of the Supreme Court not less than 5 working days before the hearing of the appeal, to assist the Judge hearing the appeal.
 
 ***Appeals from the Family Court***
 
@@ -114,7 +114,7 @@
 
 (2) To resolve any confusion or uncertainty over the issue of whether an appeal is to be heard by a 2 or 3 Judge Court of Appeal, this issue will be determined by the Judge who heard the matter at first instance.
 
-(3) The Judge of first instance will inform the Legal Registry of the Supreme Court of his decision on the issue mentioned in sub-paragraph (2), and the Legal Registry will inform the appellant in the notice referred to in Order 57, Rule 5(2) of the time for filing of the record of appeal, the Appellant’s Case and the core bundle of documents, in accordance with whether the matter will be heard by a 2 or 3 Judge Court of Appeal. 
+(3) The Judge of first instance will inform the Legal Registry of the Supreme Court of his decision on the issue mentioned in sub-paragraph (2), and the Legal Registry will inform the appellant in the notice referred to in Order 57, Rule 5(2) of the time for filing of the record of appeal, the Appellant’s Case and the core bundle of documents, in accordance with whether the matter will be heard by a 2 or 3 Judge Court of Appeal.
 
 (4) If the Judge of first instance does not determine the issue of whether the appeal should be heard before a 2 or 3 Judge Court of Appeal, or if the appellant should dispute the determination of the Judge of first instance, the matter will be referred to a Judge sitting in the Court of Appeal, whose determination is final. An appellant who wishes to dispute the determination of the Judge of first instance must, within 7 days after the service of the notice referred to in Order 57, Rule 5(2), inform the Legal Registry by filing a Request
 
@@ -160,7 +160,7 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act (Cap. 322) and 
 		<li>(i) Form of the record of appeal in lieu of the record of appeal (except that in the case of a further appeal to the Court of Appeal from the Appellate Division, the appellant is to file the form of the supplemental record of appeal in lieu of the supplemental record of appeal);</li>
 		<li>(ii) Form of the core bundle in lieu of the core bundle; and</li>
 		<li>(iii) Appellant’s Case<span style="text-align: justify;">.</span></li>
-	</ul>	
+	</ul>
 	<li>(b) The respondent is required to file one copy of the following:</li>
 	<ul type="*">
 		<li>(i) Respondent’s Case; and</li>
@@ -193,7 +193,7 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act (Cap. 322) and 
 	<li>(b) Any document referred to in a Case should be suitably described in such a manner as to allow the court to identify the nature of the document. Parties’ attention is drawn to paragraph 89(5A) for illustrations of suitable descriptions.</li>
 </ul>
 
-(5) If a party wishes to rely on a document which does not exist in the electronic case file, he must file the document <span style="font-style: italic;">*together*</span> with the respective forms of appeal bundles. Further, a table of contents must be included for these documents. These documents must be paginated consecutively at the centre top of the page and the solicitor must ensure that the pagination takes into account the pages comprising the respective forms of appeal bundles and the table of contents for these additional documents. For example, if the form of the core bundle is 5 pages and the table of contents for the additional documents is 2 pages, the first page of the first document should be paginated as page 8. 
+(5) If a party wishes to rely on a document which does not exist in the electronic case file, he must file the document <span style="font-style: italic;">*together*</span> with the respective forms of appeal bundles. Further, a table of contents must be included for these documents. These documents must be paginated consecutively at the centre top of the page and the solicitor must ensure that the pagination takes into account the pages comprising the respective forms of appeal bundles and the table of contents for these additional documents. For example, if the form of the core bundle is 5 pages and the table of contents for the additional documents is 2 pages, the first page of the first document should be paginated as page 8.
 
 (6) When the core bundles and supplemental core bundles are tendered at the Legal Registry of the Supreme Court pursuant to paragraph 88(1), the Legal Registry staff will state on the top right hand corner of the bundle the exact amount of Court fees payable under Order 90B. The parties should then pay the Court fees as indicated.
 
@@ -339,7 +339,7 @@ Parties should avoid the use of generic descriptions such as “extracts from th
 
 ## 89A. Bundle of documents ﬁled with leave of the Court of Appeal or the Appellate Division
 
-(1) Where leave is granted by the Court of Appeal or the Appellate Division for the ﬁling of any bundle of documents under Order 57, Rule 9A(23) or Order 56A, Rule 9(22) (as the case may be), the party shall ﬁle the bundle of documents by tendering the requisite hard copies of the bundle of documents to the Legal Registry of the Supreme Court in accordance with paragraph 88(1) of these Practice Directions. 
+(1) Where leave is granted by the Court of Appeal or the Appellate Division for the ﬁling of any bundle of documents under Order 57, Rule 9A(23) or Order 56A, Rule 9(22) (as the case may be), the party shall ﬁle the bundle of documents by tendering the requisite hard copies of the bundle of documents to the Legal Registry of the Supreme Court in accordance with paragraph 88(1) of these Practice Directions.
 
 (2) In addition to hard copies, the party filing the bundle of documents is required to tender soft copies of the bundle of documents in Portable Document Format (PDF) at the same time in a CD-ROM in accordance with paragraphs 88(4) and (5) of these Practice Directions.
 
@@ -434,7 +434,7 @@ Parties should avoid the use of generic descriptions such as “extracts from th
 
 (9) Where the appeal is a civil appeal before the General Division, the skeletal arguments should be sent to the Legal Registry at least 2 working days before the hearing of the appeal.
 
-(10) Where the appeal is a criminal appeal before the General Division, the skeletal arguments should be sent to the Legal Registry at least 10 days before the hearing of the appeal. Skeletal arguments filed in breach of this timeline will be stamped “Late Submission”. 
+(10) Where the appeal is a criminal appeal before the General Division, the skeletal arguments should be sent to the Legal Registry at least 10 days before the hearing of the appeal. Skeletal arguments filed in breach of this timeline will be stamped “Late Submission”.
 
 ***Application of this paragraph to Court of 3 Judges***
 
@@ -465,7 +465,7 @@ Parties should avoid the use of generic descriptions such as “extracts from th
 
 <ul type="*">
 	<li>(a) an application to the Court of Appeal under Order 57, Rule 2A of the Rules of Court for leave to appeal against a decision of the General Division; and</li>
-	<li>(b) an application to the Appellate Division under Order 56A, Rule 3 of the Rules of Court for leave to appeal against a decision of the General Division,</li> 
+	<li>(b) an application to the Appellate Division under Order 56A, Rule 3 of the Rules of Court for leave to appeal against a decision of the General Division,</li>
 </ul>
 
 shall be in Form 31A or 31B of Appendix A of these Practice Directions.
@@ -504,11 +504,11 @@ Subject to approval by the Court, parties may utilise presentation slides to ass
 
 ***Corporate logos***
 
-(4) Corporate logos of the law practice may be displayed on the presentation slides. Care should be taken to ensure that the size and location of corporate logos do not distract from the substance of the presentation slides. 
+(4) Corporate logos of the law practice may be displayed on the presentation slides. Care should be taken to ensure that the size and location of corporate logos do not distract from the substance of the presentation slides.
 
 ## 92. Further arguments before the Court of Appeal and the Appellate Division
 
-(1) From time to time, requests are received for further arguments to be presented before the Court of Appeal or the Appellate Division after the conclusion of the hearing of the appeal. Such requests should not be made as all relevant arguments should have been presented at the hearing proper. 
+(1) From time to time, requests are received for further arguments to be presented before the Court of Appeal or the Appellate Division after the conclusion of the hearing of the appeal. Such requests should not be made as all relevant arguments should have been presented at the hearing proper.
 
 (2) The Honourable the Chief Justice has therefore directed that as a general rule, unless asked for by the Court of Appeal or the Appellate Division itself, the Court of Appeal and the Appellate Division will not receive further arguments after the conclusion of the hearing of the appeal.
 
@@ -526,13 +526,13 @@ Subject to approval by the Court, parties may utilise presentation slides to ass
 	<li>(g) include a copy of each of the authorities cited.</li>
 </ul>
 
-(5) Any request for further arguments must be received by the Registrar within one week after the conclusion of the hearing of the appeal, failing which it cannot be considered and will be rejected. 
+(5) Any request for further arguments must be received by the Registrar within one week after the conclusion of the hearing of the appeal, failing which it cannot be considered and will be rejected.
 
 (6) A copy of the request should be furnished to all parties concerned.
 
 (7) All requests should be addressed to the Registrar.
 
-## 92A. **Lapse or cancellation of Grant of Aid under the Legal Aid and Advice Act and the Legal Aid and Advice Regulations** 
+## 92A. **Lapse or cancellation of Grant of Aid under the Legal Aid and Advice Act and the Legal Aid and Advice Regulations**
 
 (1) Where a Grant of Aid lapses or is cancelled in the course of any proceedings in the Court of Appeal or the Appellate Division, counsel should promptly notify the Court of Appeal or the Appellate Division (as the case may be) of the lapse or the cancellation in writing. This is given that questions may arise from the lapse or the cancellation of a Grant of Aid as to whether security for costs would need to be furnished to enable the proceedings in the Court of Appeal or the Appellate Division (as the case may be) to continue to be pursued.
 

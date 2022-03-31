@@ -89,20 +89,7 @@ The Court may also direct that this paragraph applies to any other application.
 
 (1) Order 32, Rule 11 of the Rules of Court provides that all summonses shall be heard in Chambers, subject to any provisions in the Rules of Court, written law, directions by the Court and practice directions issued by the Registrar.
 
-(2) The following applications are examples of summonses to be heard in open Court pursuant to written law:
-
-<ul type="*">
-	<li>(a) applications for an order declaring the dissolution of a company void (Rule 5(1)(c) of the Companies (Winding Up) Rules or Rule 6(1)(c) of the Insolvency, Restructuring and Dissolution (Corporate Insolvency and Restructuring) Rules 2020;</li>
-	<li>(b) applications under paragraph 97 of the Fifth Schedule to the Limited Liability Partnerships Act (Cap. 163A) (Rule 5(1)(c) of the Limited Liability Partnerships (Winding Up) Rules);</li>
-	<li>(c) applications for an order declaring the dissolution of a variable capital company void (Rule 6(1)(c) of the Variable Capital Companies (Winding Up) Rules 2020) or an order declaring the dissolution of a sub-fund void (Rule 6(1)(d) of the Variable Capital Companies (Winding Up) Rules 2020);</li>
-	<li>(d) applications for the committal of any person to prison for contempt in relation to the winding up of a company under the Companies Act (Cap. 50) (Rule 5(1)(d) of the Companies (Winding Up) Rules), in relation to the winding up of a limited liability partnership (Rule 5(1)(d) of the Limited Liability Partnerships (Winding Up) Rules) or in relation to the winding up of a variable capital company (Rule 6(1)(e) of the Variable Capital Companies (Winding Up) Rules 2020);</li>
-    <li>(e) applications to rectify the register of members of a company under the Companies Act (Cap. 50) (Rule 5(1)(e) of the Companies (Winding Up) Rules);</li>
-    <li>(f) applications to rectify the register of partners of a limited liability partnership (Rule 5(1)(e) of the Limited Liability Partnerships (Winding Up) Rules); and</li>
-    <li>(g) applications to rectify the register of members kept by a variable capital company (Rule 6(1)(f) of the Variable Capital Companies (Winding Up) Rules 2020). </li>
-</ul>
-
-
-
+(2) An application for the committal of any person to prison for contempt in relation to the winding up of a company (Rule 5(1)(d) of the Companies (Winding Up) Rules), in relation to the winding up of a limited liability partnership (Rule 5(1)(d) of the Limited Liability Partnerships (Winding Up) Rules) or in relation to the winding up of a variable capital company (Rule 6(1)(e) of the Variable Capital Companies (Winding Up) Rules 2020) is an example of an application to be heard in open court pursuant to written law.
 
 (3) In addition to any provisions in the Rules of Court or other written law, and subject to further directions made by the Court, the Registrar hereby directs that the following applications by summons shall be heard in open Court:
 
@@ -118,10 +105,10 @@ The Court may also direct that this paragraph applies to any other application.
 	<li>(i) applications in a pending action for apportionment of salvage under Order 70, Rule 32;</li>
 	<li>(j) applications for objections to a decision on a reference under Order 70, Rule 42;</li>
 	<li>(k) applications under the Patents Act (Cap. 221) under Order 87A, Rule 11(6);</li>
-	<li>(l) applications for legal officers or non-practising solicitors to be struck off the roll under section 82A(10) of the Legal Profession Act (Cap. 161);</li>
-	<li>(m) applications for an order that a solicitor be struck off the roll, etc. under section 98(1) of the Legal Profession Act;</li>
-    <li>(n) applications for the committal of a person to prison for contempt in relation to the winding up of a company under section 124 of the Insolvency, Restructuring and Dissolution Act 2018 (Act 40 of 2018); and</li>
-    <li>(o) applications to rectify the register of members of a company under section 152 of the Insolvency, Restructuring and Dissolution Act 2018.</li>
+	<li>(l) applications for Judicial Service Officers, Legal Service Officers or non-practising solicitors to be struck off the roll under section 82A(10) of the Legal Profession Act (Cap. 161);</li>
+	<li>(m) [deleted]</li>
+  <li>(n) applications for the committal of a person to prison for contempt in relation to the winding up of a company under section 124 of the Insolvency, Restructuring and Dissolution Act 2018 (Act 40 of 2018); and</li>
+  <li>(o) applications to rectify the register of members of a company under section 152 of the Insolvency, Restructuring and Dissolution Act 2018.</li>
 </ul>
 
 
@@ -172,7 +159,7 @@ Where a claim in the General Division which may have initially exceeded $250,000
 	<li>(c) Form 8: <em>Mareva</em> injunction limited to assets within the jurisdiction.</li>
 </ul>
 
-When composing the summons electronic form online through the Electronic Filing Service, these Forms shall be prepared in Portable Document Format (PDF) and attached to the summons electronic form. 
+When composing the summons electronic form online through the Electronic Filing Service, these Forms shall be prepared in Portable Document Format (PDF) and attached to the summons electronic form.
 
 (3) The language and layout of the forms are intended to make it easier for persons served with these orders to understand what they mean. These forms of orders should be used save to the extent that the Judge hearing a particular application considers there is a good reason for adopting a different form. Any departure from the terms of the prescribed forms should be justified by the applicant in his supporting affidavit(s).
 

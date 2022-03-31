@@ -11,7 +11,7 @@
 
 (1) The attention of applicants for admission as an advocate and solicitor of the Supreme Court is drawn to the filing and service deadlines as set out in Rules 25, 26 and 27 of the Legal Profession (Admission) Rules 2011.
 
-(2) In view of the requirements under Rules 25, 26 and 27 of the Legal Profession (Admission) Rules 2011,  an applicant is to ensure the requisite document(s) for admission are served on the Attorney-General, the Law Society of Singapore and the Singapore Institute of Legal Education in compliance with the timelines stipulated in the respective Rules (“applicable timelines”). 
+(2) In view of the requirements under Rules 25, 26 and 27 of the Legal Profession (Admission) Rules 2011,  an applicant is to ensure the requisite document(s) for admission are served on the Attorney-General, the Law Society of Singapore and the Singapore Institute of Legal Education in compliance with the timelines stipulated in the respective Rules (“applicable timelines”).
 
 (3) All applications for admission shall be filed through the Electronic Filing Service. Supervising solicitors may allow their practice trainees to file the relevant papers for admission as an advocate and solicitor through the Electronic Filing Service using the law practice’s front-end system. Alternatively, applicants may file their requisite documents for admission through the Service Bureau.
 
@@ -22,7 +22,7 @@
 	<li>(b) the declaration required under Rule 30 of the Legal Profession (Admission) Rules 2011.</li>
 </ul>
 
-The declaration will be generated for the applicant’s signature at the hearing if the applicant’s application for admission as an advocate and solicitor is granted. $120 is payable when filing the Request for hearing which includes $100 for the issuance of the instrument of admission (under the Legal Profession (Prescribed Fees) Rules).
+The declaration will be generated for the applicant’s signature at the hearing if the applicant’s application for admission as an advocate and solicitor is granted. \$120 is payable when filing the Request for hearing which includes \$100 for the issuance of the instrument of admission (under the Legal Profession (Prescribed Fees) Rules).
 
 (5) Upon the filing of the Request for hearing and all requisite documents for admission in accordance with the applicable timelines, the admission application will be fixed for hearing by the Legal Registry (“Original Call Date”).
 
@@ -30,7 +30,7 @@ The declaration will be generated for the applicant’s signature at the hearing
 
 <ul type="*">
 	<li>(a) Where the abridgment application has been filed at least 14 days before the Intended Call Date, it will be fixed for hearing on the Monday before the Intended Call Date. If the abridgment application is granted, the admission application will be re-fixed for hearing on the Intended Call Date.</li>
-	<li>(b) Where the abridgment application is filed less than 14 days before the Intended Call Date, the abridgment application will be fixed on the Monday before the Original Call Date. If the applicant wishes to bring forward the hearing date to the Monday before the Intended Call Date, the applicant has to obtain the written consent of Attorney-General, the Law Society of Singapore and the Singapore Institute of Legal Education and file a Request to bring forward the hearing date of the abridgment application enclosing the relevant written consent.</li>
+	<li>(b) Where the abridgment application is filed less than 14 days before the Intended Call Date, the abridgment application will be fixed on the Monday before the Original Call Date. If the applicant wishes to bring forward the hearing date to the Monday before the Intended Call Date, the applicant has to obtain the written consent of the Attorney-General, the Law Society of Singapore and the Singapore Institute of Legal Education and file a Request to bring forward the hearing date of the abridgment application enclosing the relevant written consent.</li>
 </ul>
 
 ## 135. “Part-call” applications pursuant to section 32(3) of the Legal Profession Act
@@ -45,6 +45,6 @@ Section 32(3) of the Legal Profession Act allows “part-call” applications to
 
 (3) Payment for applications made directly through the PC Module of eLitigation must be by way of GIRO electronic payment. It is the applicant’s responsibility to ensure that the designated bank account has sufficient funds for GIRO electronic payment of all applicable subscriptions, levies, contributions, fees and charges (which may include outstanding amounts due to the Law Society and/or the Singapore Academy of Law) at the time of the application. The issuance of any practising certificate is subject to the clearance of funds. Upon notification that a payment transaction is unsuccessful, the applicant shall make arrangements to effect full payment within five (5) working days. At any time before full payment is made, the applicant shall, immediately upon demand, surrender to the Registrar all paper copies of any practising certificate issued to him for the practice year for which payment has not been settled and certify to the Registrar that he has destroyed all electronic copies thereof.
 
-(4) Section 27(3) of the Legal Profession Act requires solicitors to notify the Registrar and the Council of any changes in particulars submitted in the course of applying for a practising certificate or with respect to the status of his practising certificate. This notification shall be made only through the PC Module of eLitigation. 
+(4) Section 27(3) of the Legal Profession Act requires solicitors to notify the Registrar and the Council of any changes in particulars submitted in the course of applying for a practising certificate or with respect to the status of his practising certificate. This notification shall be made only through the PC Module of eLitigation.
 
 (5) The Registrar may exercise his discretion to issue another practising certificate to a solicitor after receiving notification of any change of particulars. If the Registrar subsequently issues another practising certificate, section 26(9)(c) of the Legal Profession Act provides that the earlier practising certificate will cease to be in force.

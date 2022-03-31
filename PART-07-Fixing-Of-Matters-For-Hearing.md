@@ -30,7 +30,7 @@
 
 ## 66. Fixing of hearing dates
 
-(1) To assist the Registrar at the fixing of hearing dates, solicitors should provide updated information as to the current status of the cause or matter, including the prospects of settlement and any other developments which are likely to affect the length of the trial. In order to facilitate a more realistic assessment of the time required for the hearing, they will also be required to inform the Registrar of the number of witnesses they intend to call, the estimated amount of time required for each party to cross-examine all the opposing party’s witnesses and the estimated total length of hearing.
+(1) To assist the Registrar at the fixing of hearing dates, solicitors should provide updated information as to the current status of the cause or matter, including the prospects of settlement and any other developments which are likely to affect the length of the trial. In order to facilitate a more realistic assessment of the time required for the hearing, they will also be required to inform the Registrar of the number of witnesses they intend to call, whether any witness will require interpretation services, the estimated amount of time required for each party to cross-examine all the opposing party’s witnesses and the estimated total length of hearing.
 
 (2) Solicitors who attend the fixing should be fully acquainted with the cause or matter being fixed for hearing. They should preferably be the solicitor having conduct of the cause or matter.
 
@@ -43,7 +43,7 @@
 	<li>[emphasis added]</li>
 </ul>
 
-(5) Further, parties are to note that any request for an early hearing date for any application, cause or matter is subject to the discretion and availability of the Court. In deciding when to fix an application, cause or matter for hearing or render its decision in any application, cause or matter, the Court is not obliged to give effect to any private agreement between parties on timelines and hearing dates.  
+(5) Further, parties are to note that any request for an early hearing date for any application, cause or matter is subject to the discretion and availability of the Court. In deciding when to fix an application, cause or matter for hearing or render its decision in any application, cause or matter, the Court is not obliged to give effect to any private agreement between parties on timelines and hearing dates.
 
 
 ## 67. Adjournment or vacation of trial dates and part-heard cases
@@ -62,7 +62,7 @@
 
 (3) Where an adjournment of any matter before the Court of Appeal or the Appellate Division is sought, the Request in electronic form should be ﬁled through the Electronic Filing Service as soon as practicable after the sitting in which the matter is scheduled to be heard has been assigned and notiﬁed to the parties. Where there is a delay in the making of the request, the reason or reasons for the delay must be provided with the request. Any request for an adjournment on account of counsel’s diaries will not readily be acceded to.
 
-(4) If the consent of all other parties to the matter is obtained, a letter stating that all parties have consented to the requested adjournment or vacation of hearings may be attached to the Request electronic form.  However, this does not mean that the Request will be granted as a matter of course.  The Court will still evaluate the merits of the Request before making its decision.  
+(4) If the consent of all other parties to the matter is obtained, a letter stating that all parties have consented to the requested adjournment or vacation of hearings may be attached to the Request electronic form.  However, this does not mean that the Request will be granted as a matter of course.  The Court will still evaluate the merits of the Request before making its decision.
 
 (5) If the consent of one or more of the other parties is not obtained, the letter should set out the reasons for the other parties’ objections, or explain why the consent of one or more of the other parties cannot be obtained. Any relevant correspondence between the parties should also be attached to the Request electronic form. The Court will then evaluate the contents of the Request and the relevant correspondence before deciding whether the requested adjournment or vacation of hearings should be allowed.
 

@@ -9,7 +9,7 @@
 
 ## 78. Filing of writs of execution
 
-(1) An application for a writ of execution shall be made by way of filing a writ of execution in Form 82, 83, 84 or 85 of Appendix A to the Rules of Court. The writ of execution is deemed to be issued when it is sealed by an officer of the Registry pursuant to Order 46, Rule 4. 
+(1) An application for a writ of execution shall be made by way of filing a writ of execution in Form 82, 83, 84 or 85 of Appendix A to the Rules of Court. The writ of execution is deemed to be issued when it is sealed by an officer of the Registry pursuant to Order 46, Rule 4.
 
 (2) The previous practice of filing a Request to issue a writ of execution is discontinued.
 
@@ -29,7 +29,7 @@ he or she must do so by filing the requisite Request in Form 11 of Appendix A of
 
 ## 80. Sale of immovable property
 
-(1) If an execution creditor wishes to effect the sale of immovable property seized under a writ of seizure and sale, he shall file the requisite Request for sale electronic form to the Sheriff through the Electronic Filing Service stating the following:
+(1) If an execution creditor wishes to effect the sale of immovable property seized under a writ of seizure and sale, he or she shall file the requisite Request for sale electronic form to the Sheriff through the Electronic Filing Service. When filing the Request for sale electronic form, the execution creditor must provide evidence of the following:
 
 <ul type="*">
 	<li>(a) the date of registration (and expiry) at the Singapore Land Registry of the order of court/writ of seizure and sale on immovable property;</li>
@@ -63,5 +63,5 @@ he or she must do so by filing the requisite Request in Form 11 of Appendix A of
 
 <ul type="*">
 	<li>(a) he is able to provide his answers to the questionnaire by way of an affidavit or statutory declaration; and</li>
-	<li>(b) the Judgment Creditor agrees to discharge the Order for Examination at the examination hearing.</li>
+	<li>(b) the Judgment Creditor agrees to apply for a discharge of the Order for Examination at the examination hearing.</li>
 </ul>

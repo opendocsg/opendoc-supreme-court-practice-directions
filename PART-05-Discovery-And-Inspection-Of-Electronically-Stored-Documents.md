@@ -34,7 +34,7 @@
 
 ## 44. Introduction
 
-(1) This Part provides a framework for proportionate and economical discovery, inspection and supply of electronic copies of electronically stored documents. This Part or any portion thereof applies (a) by mutual agreement of all the parties in the cause or matter or (b) when the Court so orders, either on its own motion or on application by a party. A party that seeks to rely on this Part must cite the relevant paragraph(s) in any request or application made hereunder. 
+(1) This Part provides a framework for proportionate and economical discovery, inspection and supply of electronic copies of electronically stored documents. This Part or any portion thereof applies (a) by mutual agreement of all the parties in the cause or matter or (b) when the Court so orders, either on its own motion or on application by a party. A party that seeks to rely on this Part must cite the relevant paragraph(s) in any request or application made hereunder.
 
 (2) Parties should consider the application of this Part or any portion thereof in the following cases:
 
@@ -71,7 +71,7 @@
 
 (1) Within two weeks after the close of pleadings, parties are encouraged to collaborate in good faith and agree on issues relating to the discovery and inspection of electronically stored documents. Such issues may include the scope and/or any limits on documents to be given in discovery, whether parties are prepared to make voluntary disclosures, whether specific documents or class of documents ought to be specifically preserved, search terms to be used in reasonable searches, whether preliminary searches and/or data sampling are to be conducted and the giving of discovery in stages according to an agreed schedule, as well as the format and manner in which copies of discoverable documents shall be supplied. Parties are encouraged to have regard to the list of issues at Appendix E Part 1 (Check list of issues for good faith collaboration) in their discussions. Parties should exchange their checklists prior to commencing good faith discussions.
 
-(2) An electronic discovery plan may take the form set forth in Appendix E Part 1. Parties may include the agreed electronic discovery plan in the summons for directions. The Court shall consider the adequacy of the agreed electronic discovery plan and may make such order or give such direction as it thinks fit, for the just, expeditious and economical disposal of the cause or matter. The agreed electronic discovery plan, as amended by such order or direction of the Court as the case may be, shall form part of the order under the summons for directions to be extracted for the action.
+(2) An electronic discovery plan may take the form set forth in Appendix E Part 2. Parties may include the agreed electronic discovery plan in the summons for directions. The Court shall consider the adequacy of the agreed electronic discovery plan and may make such order or give such direction as it thinks fit, for the just, expeditious and economical disposal of the cause or matter. The agreed electronic discovery plan, as amended by such order or direction of the Court as the case may be, shall form part of the order under the summons for directions to be extracted for the action.
 
 (3) If parties are unable to agree on an electronic discovery plan, the party seeking discovery of electronically stored documents under this Part may make an application to court. The application must include a draft electronic discovery plan and must be supported by affidavit providing an account of the attempts made by parties to collaborate in good faith to agree on an electronic discovery plan.
 
@@ -167,9 +167,9 @@ Order 24, Rules 7 and 13 of the Rules of Court states that an order for discover
 
 ## 51. Forensic inspection of electronic media or recording devices
 
-(1) No request or application for the forensic inspection of any electronic medium or recording device shall be made unless discovery of that electronic medium or recording device has been given. A request or application for the discovery of an electronic medium or recording device may be made together with a request or application for forensic inspection of that electronic medium or recording device. 
+(1) No request or application for the forensic inspection of any electronic medium or recording device shall be made unless discovery of that electronic medium or recording device has been given. A request or application for the discovery of an electronic medium or recording device may be made together with a request or application for forensic inspection of that electronic medium or recording device.
 
-(2) A request or application for the forensic inspection of electronic media or recording devices shall include an inspection protocol, which may take the form found in Appendix E Part 3 (Protocol for forensic inspection of electronic media or recording devices), in order to ensure that the party entitled to inspection has access only to electronic documents that are necessary, and is not allowed to trawl through the entire electronic media or recording device. 
+(2) A request or application for the forensic inspection of electronic media or recording devices shall include an inspection protocol, which may take the form found in Appendix E Part 3 (Protocol for forensic inspection of electronic media or recording devices), in order to ensure that the party entitled to inspection has access only to electronic documents that are necessary, and is not allowed to trawl through the entire electronic media or recording device.
 
 (3) On the hearing of an application for an order for the forensic inspection of electronic media or recording devices, the Court shall have the power to review the adequacy of an inspection protocol and may make such order or give such direction as it thinks fit, for the just, expeditious and economical disposal of the cause or matter.
 
@@ -183,7 +183,7 @@ Order 24, Rules 7 and 13 of the Rules of Court states that an order for discover
 
 ***Requests for the supply of copies***
 
-(3) A request for copies of discoverable electronically stored documents may specify the format and manner in which such copies are to be supplied, If the party giving discovery does not agree with the specified format or manner or both, he may either:
+(3) A request for copies of discoverable electronically stored documents may specify the format and manner in which such copies are to be supplied. If the party giving discovery does not agree with the specified format or manner or both, he or she may either:
 
 <ul type="*">
 	<li>(a) propose a reasonably usable format and/or storage medium and/or a reasonable manner in which he intends to supply copies of the requested electronic documents; or</li>
@@ -200,7 +200,7 @@ Order 24, Rules 7 and 13 of the Rules of Court states that an order for discover
 
 ## 53. Discovery by the supply of copies <span style="font-style: italic;">*in lieu*</span> of inspection
 
-(1) Where the use of technology in the management of documents and conduct of the proceeding will facilitate the just, expeditious and economical disposal of the cause or matter, the Court may order, on its own motion or on application by a party, that discovery be given by the supply of electronic copies of discoverable electronically stored documents *in lieu* of inspection. 
+(1) Where the use of technology in the management of documents and conduct of the proceeding will facilitate the just, expeditious and economical disposal of the cause or matter, the Court may order, on its own motion or on application by a party, that discovery be given by the supply of electronic copies of discoverable electronically stored documents *in lieu* of inspection.
 
 (2) An order for discovery made under this paragraph may take the following form:
 
@@ -224,6 +224,6 @@ Order 24, Rule 19 of the Rules of Court applies to the giving of discovery or in
 
 ## 55. Costs
 
-(1) Save for orders made in respect of third party or pre-action discovery, the costs of complying with an order for discovery or inspection of electronically stored documents shall generally be borne by the party giving discovery; and disbursements incurred in providing copies shall be reimbursed by the party requesting for copies. 
+(1) Save for orders made in respect of third party or pre-action discovery, the costs of complying with an order for discovery or inspection of electronically stored documents shall generally be borne by the party giving discovery; and disbursements incurred in providing copies shall be reimbursed by the party requesting for copies.
 
 (2) The Court may invoke its inherent powers under Order 92, Rules 4 and 5 of the Rules of Court to order the party entitled to discovery to bear the whole or part of the costs of compliance with an order for discovery or inspection of electronically stored documents, if such order is necessary to prevent injustice or to prevent an abuse of the process of the Court.

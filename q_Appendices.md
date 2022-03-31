@@ -1,6 +1,6 @@
 # Appendices
 
-## Appendix A : Forms 
+## Appendix A : Forms
 
 <ul type="*">
 	<li><a href="./downloads/Appendix_A/Form_01.pdf" download>Form 1. Specimen Government Medical Certificate</a></li>
@@ -56,7 +56,7 @@
 	<li><a href="./downloads/Appendix_B/Appendix_B.pdf" download>WAITING PERIODS</a></li>
 </ul>
 
-## Appendix C : Sample Bills Of Costs 
+## Appendix C : Sample Bills Of Costs
 
 <ul type="*">
 	<li><a href="./downloads/Appendix_C/Appendix_C1.pdf" download>1. Sample Bill of Costs for contentious matters - Trials</a></li>

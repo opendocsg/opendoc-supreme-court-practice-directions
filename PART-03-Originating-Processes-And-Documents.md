@@ -18,7 +18,7 @@
 		<li>Inability to furnish identification number at the time of filing a document</li>
 		<li>Meaning of document</li>
 		<li>Non-compliance</li>
-	</ul>		
+	</ul>
 	<li>32. Personal service of processes and documents </li>
 	<li>33. Substituted service </li>
 	<li>34. Endorsements on originating processes and other documents </li>
@@ -55,11 +55,15 @@
 <ul type="*">
 	<li>(a) applications for a judicial management order (Rule 6(1)(a) of the Insolvency, Restructuring and Dissolution (Corporate Insolvency and Restructuring) Rules 2020); </li>
 	<li>(b) applications to wind up a company (Rule 5 of the Companies (Winding Up) Rules or Rule 6(1)(b) of the Insolvency, Restructuring and Dissolution (Corporate Insolvency and Restructuring) Rules 2020);  </li>
-    <li>(c) applications to wind up a limited liability partnership (Rule 5 of the Limited Liability Partnerships (Winding Up) Rules); and</li>
-    <li>(d) applications to wind up a variable capital company or a sub-fund (Rule 6(1)(a) of the Variable Capital Companies (Winding Up) Rules 2020). </li>
+  <li>(c) applications to wind up a limited liability partnership (Rule 5 of the Limited Liability Partnerships (Winding Up) Rules); </li>
+  <li>(d) applications to wind up a variable capital company or a sub-fund (Rule 6(1)(a) of the Variable Capital Companies (Winding Up) Rules 2020); </li>
+  <li>(e) applications for an order declaring the dissolution of a company void (Rule 5(1)(c) of the Companies (Winding Up) Rules or Rule 6(1)(c) of the Insolvency, Restructuring and Dissolution (Corporate Insolvency and Restructuring) Rules 2020;</li>
+  <li>(f) applications for an order declaring the dissolution of a limited liability partnership void (Rule 5(1)(c) of the Limited Liability Partnership (Winding Up) Rules);</li>
+  <li>(g) applications for an order declaring the dissolution of a variable capital company void (Rule 6(1)(c) of the Variable Capital Companies (Winding Up) Rules 2020) or an order declaring the dissolution of a sub-fund void (Rule 6(1)(d) of the Variable Capital Companies (Winding Up) Rules 2020);</li>
+  <li>(h) applications to rectify the register of members of a company (Rule 5(1)(e) of the Companies (Winding Up) Rules);</li>
+  <li>(i) applications to rectify the register of partners of a limited liability partnership (Rule 5(1)(e) of the Limited Liability Partnerships (Winding Up) Rules); and</li>
+  <li>(j) applications to rectify the register of members kept by a variable capital company (Rule 6(1)(f) of the Variable Capital Companies (Winding Up) Rules 2020).</li>
 </ul>
-
-
 
 (8) In addition to any provisions in the Rules of Court or other written law, and subject to any further directions made by the Court, the Registrar hereby directs that the following applications made by originating summonses shall be heard in open Court:
 
@@ -67,8 +71,8 @@
 	<li>(a) appeals to the General Division from a Court, tribunal or person under Order 55, Rule 2(1);</li>
 	<li>(b) applications to the General Division by case stated in Order 55A, Rule 2(1);</li>
 	<li>(c) applications to the Court of Appeal in Order 57, Rule 16 and applications to the Appellate Division in Order 56A, Rule 17;</li>
-	<li>(d) applications under the Arbitration Act (Cap. 10) in Order 69, Rule 2;</li>
-	<li>(e) applications under the International Arbitration Act (Cap. 143A) in Order 69A, Rule 2;</li>
+	<li>(d) [deleted]</li>
+	<li>(e) [deleted]</li>
 	<li>(f) applications for apportionment of salvage in Order 70, Rule 32;</li>
 	<li>(g) applications and appeals under the Trade Marks Act (Cap. 332) in Order 87, Rules 2 and 4;</li>
 	<li>(h) applications and appeals under the Patents Act (Cap. 221) in Order 87A, Rules 9, 10 and 13;</li>
@@ -76,7 +80,7 @@
 	<li>(j) applications for ad hoc admissions under section 15 of the Legal Profession Act;</li>
 	<li>(k) applications for leave for eligibility for election or appointment as a member of Council of Law Society under section 49(6) of the Legal Profession Act;</li>
 	<li>(l) applications for the name of a solicitor to be replaced on the roll under section 102(2) of the Legal Profession Act;</li>
-	<li>(m) [deleted]; </li>
+	<li>(m) applications for an order that a solicitor be struck off the roll, etc. under section 98(1) of the Legal Profession Act 1966;</li>
 	<li>(n) applications for the vesting of property of a registered trade union in a trustee under section 45 of the Trade Unions Act (Cap. 333);</li>
 	<li>(o) applications by the Public Trustee for the appointment of new trustees to administer a charitable trust under section 63(4) of the Trustees Act (Cap. 337);</li>
 	<li>(p) applications for a company to be placed under judicial management under section 227A of the Companies Act (Cap. 50); and</li>
@@ -87,11 +91,11 @@
 
 ***Parties named in the title of the documents***
 
-(1) Where a party to any proceedings in the Supreme Court first files a document in such proceedings, he shall state his identification number (in brackets) in the title of the document immediately after his name. Thereafter, all documents subsequently filed in the proceedings by any party shall include this identification number in the title of the documents.
+(1) Where a party to any proceedings in the Supreme Court first files a document in such proceedings, he or she shall provide his or her identification number in accordance with the Electronic Filing System data entry fields for identification number.
 
 ***Parties not named in the title of the documents***
 
-(2) Where a party to any proceedings in the Supreme Court first files a document in such proceedings, and the name of the party does not appear in the title of the document but does appear in the body of the document, then the identification number of the party should be stated (in brackets) after the first appearance of his name in the document. Thereafter, all documents subsequently filed in the proceedings by any party shall include this identification number (in brackets) after the first appearance of the party’s name.
+(2) Where a party to any proceedings in the Supreme Court first files a document in such proceedings, and the name of the party does not appear in the title of the document but does appear in the body of the document, the identification number of the party should be provided in accordance with the Electronic Filing System data entry fields for identification number.
 
 ***Documents filed by 2 or more parties***
 
@@ -99,23 +103,23 @@
 
 ***Identification numbers for non-parties***
 
-(4) If any person (living or dead), any entity or any property is the subject matter of any proceedings, or is affected by any proceedings, but is not a party thereto, and the name of such person, entity or property is to appear in the title of the documents filed in the proceedings, the party filing the first document in the proceedings must state the identification number of such person, entity or property (in brackets) immediately after the name of the same. Thereafter, all documents subsequently filed in the proceedings by any party shall include this identification number (in brackets) immediately after the name of the person, entity or property to which it applies. If the party filing the first document in the proceedings is unable, after reasonable enquiry, to discover the identification number of the person, entity or property, he may state immediately after the name of the same “(ID No. not known)”. All documents subsequently filed by any party shall then contain these words (in brackets) after the name of this person, entity or property.
+(4) If any person (living or dead), any entity or any property is the subject matter of any proceedings, or is affected by any proceedings, but is not a party thereto, and the name of such person, entity or property is to appear in the title of the documents filed in the proceedings, the party filing the first document in the proceedings must provide the identification number of such person, entity or property in accordance with the Electronic Filing System data entry fields for identification number. If the party filing the first document in the proceedings is unable, after reasonable enquiry, to discover the identification number of the person, entity or property, he or she may state “(ID No. not known)”.
 
 ***Special cases***
 
 (5) The following directions shall apply in addition to the directions contained in sub-paragraphs (1) to (4):
 
-(a) where a party is represented by a litigation <span title='Formerly known as “next friend"'><b><i>representative</i></b></span> or guardian in <span title='Formerly known as “guardian ad litem"'><b><i>adoption</i></b></span>, sub-paragraphs (1) to (3) shall apply to the litigation representative or guardian in adoption as if he or she was a party to the proceedings, and the identification numbers of the party, the litigation representative and/or the guardian in adoption must be stated after their names; 
+(a) where a party is represented by a litigation <span title='Formerly known as “next friend"'><b><i>representative</i></b></span> or guardian in <span title='Formerly known as “guardian ad litem"'><b><i>adoption</i></b></span>, sub-paragraphs (1) to (3) shall apply to the litigation representative or guardian in adoption as if he or she was a party to the proceedings, and the identification numbers of the party, the litigation representative and/or the guardian in adoption must be provided in accordance with the Electronic Filing System data entry fields for identification number;
 
 (b) where parties are involved in any proceedings as the personal representatives of the estate of a deceased person, sub-paragraphs (1) to (3) shall apply to the deceased person as if he were a party;
 
 (c) where more than one identification number applies to any party, person, entity or property, the identification numbers shall be stated in any convenient order; and
 
-(d) for bankruptcy matters, the creditor must, in addition to his own identification number, also state the identification number of the debtor in all documents and papers filed by the creditor in the bankruptcy proceedings.
+(d) for bankruptcy matters, the creditor must, in addition to his or her own identification number, also provide the identification number of the debtor in the first document filed by the creditor in the bankruptcy proceedings.
 
 ***Identification numbers***
 
-(6) When entering the identification number in the Electronic Filing Service, the full identification number, including the letters before and after the number should be entered. Descriptive text which is required to be entered into the actual document, such as “Japanese Identification Card No.”, should not be entered into the electronic form.
+(6) When entering the identification number in the Electronic Filing Service, the full identification number, including the letters before and after the number should be entered.
 
 ***Guidelines for the selection of identification numbers***
 
@@ -136,8 +140,8 @@
 	<li>(f) For a company registered under the Companies Act (Cap. 50), the identification number shall be the Unique Entity Number (UEN).</li>
 	<p><strong><em>COMPANY REGISTERED OUTSIDE SINGAPORE</em></strong></p>
 	<li>(g) For a company registered outside Singapore which is not registered under the Companies Act, the identification number shall be the registration number of the company in the country of registration.</li>
-	<p><strong><em>BUSINESS REGISTERED UNDER THE BUSINESS REGISTRATION ACT</em></strong></p>
-	<li>(h) For a body registered under the Business Registration Act (Cap. 32), the identification number shall be the UEN number.</li>
+	<p><strong><em>BUSINESS REGISTERED UNDER THE BUSINESS NAMES REGISTRATION ACT 2014</em></strong></p>
+	<li>(h) For a body registered under the Business Names Registration Act 2014, the identification number shall be the UEN number.</li>
 	<p><strong><em>LIMITED LIABILITY PARTNERSHIP REGISTERED UNDER THE LIMITED LIABILITY PARTNERSHIPS ACT</em></strong></p>
 	<li>(i) For a limited liability partnership registered under the Limited Liability Partnerships Act 2005 (Cap. 163A), the identification number shall be the UEN number.</li>
 	<p><strong><em>OTHER BODIES AND ASSOCIATIONS</em></strong></p>
@@ -150,7 +154,7 @@
 
 ***Inability to furnish identification number at the time of filing a document***
 
-(8) If a party who wishes to file a document is unable at the time of filing to furnish the necessary identification numbers required by this paragraph, the party may indicate "(ID Not Known)" at the time of filing. However, when the necessary identification numbers have been obtained, the party will have to furnish the necessary identification numbers to the Registry through the Electronic Filing Service.
+(8) If a party who wishes to file a document is unable at the time of filing to furnish the necessary identification numbers required by this paragraph, the party may indicate "(ID No. Not Known)" at the time of filing. However, when the necessary identification numbers have been obtained, the party will have to furnish the necessary identification numbers to the Registry through the Electronic Filing Service.
 
 ***Meaning of document***
 
@@ -168,9 +172,9 @@
 	<li>Provided that the Registrar may, in a particular cause or matter, allow personal service to be effected by any other named person and shall, in that case, cause to be marked on the document required to be served personally, a memorandum to that effect.” [emphasis added.]</li>
 </ul>
 
-(2) Solicitors are required to notify the Legal Registry of the Supreme Court of the particulars of such clerks who have been authorised by them to serve processes and documents (“authorised process servers”) by submitting a request to authorise user through the Electronic Filing Service. Where such authorised process servers are no longer so authorised, solicitors are to revoke or delete the authorisation immediately by submitting a request through the Electronic Filing Service. Solicitors’ clerks do not require the authorisation of the Registrar to effect personal service of processes and documents. 
+(2) Solicitors are required to notify the Legal Registry of the Supreme Court of the particulars of such clerks who have been authorised by them to serve processes and documents (“authorised process servers”) by submitting a request to authorise user through the Electronic Filing Service. Where such authorised process servers are no longer so authorised, solicitors are to revoke or delete the authorisation immediately by submitting a request through the Electronic Filing Service. Solicitors’ clerks do not require the authorisation of the Registrar to effect personal service of processes and documents.
 
-(3) As personal service can be effected by a solicitor or a solicitor’s clerk, Court process servers will not be assigned to effect personal service of processes and documents unless there are special reasons. 
+(3) As personal service can be effected by a solicitor or a solicitor’s clerk, Court process servers will not be assigned to effect personal service of processes and documents unless there are special reasons.
 
 (4) If there are special reasons requiring personal service by a Court process server, a Request for such service should be filed through the Electronic Filing Service, setting out the special reasons. The approval of the Duty Registrar should then be obtained for such service. Once approval has been obtained, a process server will be assigned to effect service and an appointment for service convenient to both the litigant and the assigned process server will be given.
 
@@ -190,7 +194,7 @@
 
 (5) For the avoidance of doubt, substituted service by AR registered post is deemed to be effected when the postal service has delivered the document, or attempted to deliver the document (in cases where no one is present or willing to accept the document).
 
-(6) If substituted service is by electronic mail, it has to be shown that the electronic mail account to which the document will be sent belongs to the person to be served and that it is currently active. 
+(6) If substituted service is by electronic mail, it has to be shown that the electronic mail account to which the document will be sent belongs to the person to be served and that it is currently active.
 
 (7) An application for substituted service by advertisement (in one issue of the Straits Times if the person to be served is literate in English, or one issue of the Straits Times and one issue of one of the main non-English language newspapers where his language literacy is unknown) should only be considered as a last resort and should contain evidence that the person to be served is literate in the language of the newspaper in which the advertisement will be placed.
 
@@ -198,8 +202,8 @@
 
 (1) Where it is necessary to include endorsements on any document, the directions in this paragraph shall apply.
 
-(2) Endorsements are normally made on originating processes and other documents to show renewal, amendments and authorisation for service of the document in question. Such endorsements on originating processes and 
-other documents do not require the Registrar’s signature as they are made pursuant to either an order of Court or the Rules of Court. The Registrar should therefore not be asked to sign such endorsements. 
+(2) Endorsements are normally made on originating processes and other documents to show renewal, amendments and authorisation for service of the document in question. Such endorsements on originating processes and
+other documents do not require the Registrar’s signature as they are made pursuant to either an order of Court or the Rules of Court. The Registrar should therefore not be asked to sign such endorsements.
 
 (3) For documents that are filed through the Electronic Filing Service
 as electronic forms composed online:
@@ -232,7 +236,7 @@ Amendment of any document
 	</ul>
 </ul>
 
-(4) The directions in sub-paragraph (3)(b) shall not apply to originating summonses and summonses amended from an *inter partes* application to an *ex parte* application or *vice versa*. 
+(4) The directions in sub-paragraph (3)(b) shall not apply to originating summonses and summonses amended from an *inter partes* application to an *ex parte* application or *vice versa*.
 
 (5) The directions in sub-paragraph (3)(c) shall not apply to the originating processes, summonses and other electronic forms that are composed online through the Electronic Filing Service.
 
@@ -269,7 +273,7 @@ Amendment of pleadings
 	<li>(b) Pursuant to Order 20, Rule \[cite specific rule number\].</li>
 </ul>
 
-(10) The amendment endorsement shall be appended to the title of the electronic form, after the amendment number as required under sub-paragraph (3)(b) above. Where an electronic form is amended more than once, the endorsement need only cite the basis for the most recent amendment. For example, 
+(10) The amendment endorsement shall be appended to the title of the electronic form, after the amendment number as required under sub-paragraph (3)(b) above. Where an electronic form is amended more than once, the endorsement need only cite the basis for the most recent amendment. For example,
 
 ```
 Originating Summons (Amendment No 3, by order of court made on 1 January 2013)
