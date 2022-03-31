@@ -21,13 +21,13 @@
 
 ## 121. Applications to use the Video Conference Facilities and Usage of Additional Equipment
 
-(1) A request to use the video conference facilities for the hearing of any matter before a Judge or Registrar must be made by filing a Request through the Electronic Filing Service at least 14 working days before the hearing at which those facilities are to be used and Form 21 of Appendix A of these Practice Directions in Portable Document Format (PDF) must be annexed to the Request electronic form.
+(1) A request to use the video conference facilities for the hearing of any matter before a Judge or Registrar must be made by filing a Request electronic form in the manner and form set out in Form 21 of Appendix A of these Practice Directions through the Electronic Filing Service at least 14 working days before the hearing at which those facilities are to be used.
 
 (2) An application to use the video conference facilities for any other dispute resolution process must be made by submitting Form 21 of Appendix A of these Practice Directions to the Registrar, through the relevant person-in-charge at the organisation at which the dispute resolution process is carried out, at least 14 working days before the dispute resolution proceedings at which it is to be used.
 
-(3) \[deleted\]
+(3) [deleted]
 
-(4) \[deleted\]
+(4) [deleted]
 
 (5) Upon a successful request to use the video conference facilities,
 
@@ -40,7 +40,7 @@
 
 ## 122. Applications to use the Mobile Infocomm Technology Facilities
 
-(1) A request to use the MIT facilities for the hearing of any matter in open Court or in Chambers before a Judge or Registrar must be made by filing a Request through the Electronic Filing Service at least 14 working days before the hearing at which the MIT facilities are to be used and Form 21 of Appendix A of these Practice Directions in Portable Document Format (PDF) must be annexed to the Request electronic form.
+(1) A request to use the MIT facilities for the hearing of any matter in open Court or in Chambers before a Judge or Registrar must be made by filing a Request electronic form in the manner and form set out in Form 21 of Appendix A of these Practice Directions through the Electronic Filing Service at least 14 working days before the hearing at which the MIT facilities are to be used.
 
 (2) An application to use the MIT facilities for any other dispute resolution process must be made by submitting Form 21 to the Registrar through the relevant person-in-charge at the organisation at which the dispute resolution process is carried out as soon  as practicable, as availability of the resources are on a first-come-first served basis.
 
