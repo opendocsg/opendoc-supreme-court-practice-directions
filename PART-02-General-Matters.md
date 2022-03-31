@@ -4,9 +4,10 @@
 	<li>8. Operating hours of the Supreme Court</li>
 	<li>9. Hours for the sittings of the Supreme Court</li>
 	<li>10. Calculation of time</li>
+	<li>10A. Hearings by video conferencing or telephone conferencing</li>
 	<li>11. Urgent applications outside of the Court's office hours</li>
 	<li>12. Duty Registrar</li>
-    <li>12A. Request for urgent hearing before Judge</li>
+  <li>12A. Request for urgent hearing before Judge</li>
 	<li>13. Attendance of solicitors in Court and mentioning on behalf of other solicitors</li>
 	<li>13A. Attendance at hearings in Chambers</li>
 	<li>14. Absence from Court on medical grounds</li>
@@ -39,8 +40,8 @@
 	<li>29. Electronic payment of Court fees</li>
 		<ul>
 			<li>Implementation of the electronic system for the payment of Court fees</li>
-			<li>Modes of electronic payment</li>
-			<li>Scope of electronic system</li>
+			<li>Modes of payment by electronic means</li>
+			<li>Scope of payment by electronic means</li>
 			<li>Registrar’s discretion</li>
 		</ul>
 	<li>29A. Publication of and reports and comments on Court cases</li>
@@ -78,7 +79,7 @@ __Reckoning periods of time (O. 3, r. 2)__
 
 (2) Where the act is required to be done within a specified period after or from a specified date, the period begins immediately after that date.
 
-(3) Where the act is required to be done within or not less than a specified period before a specified date, the period ends immediately before that date. 
+(3) Where the act is required to be done within or not less than a specified period before a specified date, the period ends immediately before that date.
 
 (4) Where the act is required to be done a specified number of clear days before or after a specified date, at least that number of days must intervene between the day on which the act is done and that date.
 
@@ -100,13 +101,31 @@ __Extension, etc., of time (O. 3, r. 4)__
 
 (5) Paragraph (3) shall not apply to the period within which any action or matter is required to be set down for trial or hearing or within which any notice of appeal is required to be filed.
 
+## 10A. Hearings by video conferencing or telephone conferencing
+
+(1) Selected hearings in the Supreme Court will be conducted by video conferencing or where appropriate, telephone conferencing. Where the Court issues directions for a hearing to be conducted by way of video conferencing or telephone conferencing:
+
+<ul type="*">
+
+<li>(a) Solicitors may write to the Court to raise any concerns that they may have within 2 days after receiving notification of such directions; and</li>
+
+<li>(b) A party who is not legally represented is strongly encouraged to use video conferencing or telephone conferencing, but may inform the Court if he or she does not wish to do so.</li>
+
+</ul>
+
+(2) The Court retains full discretion to decide (a) whether to conduct any hearing by video conferencing or telephone conferencing, and (b) whether to conduct any hearing with one or more parties attending by video conferencing or telephone conferencing and any other party attending physically in Court.
+
+(3) Unauthorised audio or visual recording of hearings is strictly prohibited and in appropriate cases, the Court may require an undertaking that no such recording will be made. The attention of parties is drawn to section 5 of the Administration of Justice (Protection) Act 2016 regarding contempt of court by unauthorised recordings.
+
+(4) Where hearings are conducted by video conferencing or telephone conferencing, all court rules and practices on dress and etiquette will continue to apply. However, it will not be necessary to stand and/or bow to the Court at the start or end of the hearing or to stand when addressing the Court.
+
 ## 11. Urgent applications outside of the Court's office hours
 
 (1) When an applicant files an application for any civil matter (including applications for interim injunctions or interim preservation of subject matter of proceedings, evidence and assets to satisfy judgments) or criminal matter, and the application is so urgent that it has to be attended to outside of the hours specified in paragraph 12(2) of these Practice Directions, the applicant’s counsel must contact the Registrar on duty at 6332 4351 or 6332 4352.
 
-(2) When the applicant seeks an urgent hearing for the application, all the papers required for the application must have been prepared, together with the appropriate draft orders of Court. Where the documents (including the originating process) have yet to be filed in Court when counsel seeks the urgent hearing, he must furnish an undertaking to the Registrar processing the application to have these documents filed in Court by such time as the Registrar may direct and, in any event, no later than the next working day. 
+(2) When the applicant seeks an urgent hearing for the application, all the papers required for the application must have been prepared, together with the appropriate draft orders of Court. Where the documents (including the originating process) have yet to be filed in Court when counsel seeks the urgent hearing, he must furnish an undertaking to the Registrar processing the application to have these documents filed in Court by such time as the Registrar may direct and, in any event, no later than the next working day.
 
-(3) In seeking an urgent hearing, counsel is to ensure that all applicable notice requirements prescribed by these Practice Directions are complied with. For criminal matters to be heard *inter partes*, notice must be given to the other party prior to the applicant seeking an urgent hearing. 
+(3) In seeking an urgent hearing, counsel is to ensure that all applicable notice requirements prescribed by these Practice Directions are complied with. For criminal matters to be heard *inter partes*, notice must be given to the other party prior to the applicant seeking an urgent hearing.
 
 (4) The Registrar will only arrange for the matter to be heard outside of office hours if it is so urgent that it cannot be heard the next working day. The hearing may take place in the Registrar’s Chambers in the Supreme Court or at any place as directed by the Judge or Registrar hearing the matter.
 
@@ -124,9 +143,9 @@ __Extension, etc., of time (O. 3, r. 4)__
 
 (2) On Mondays to Fridays (excluding public holidays), the duty hours shall be from 9.00 a.m. to 12.30 p.m. and from 2.30 p.m. to 5.00 p.m.
 
-(3) Only advocates and solicitors (or, where a party is not represented, a litigant in person) shall appear before the Duty Registrar.
+(3) Only advocates and solicitors (or a litigant who is not legally represented) shall appear before the Duty Registrar.
 
-(4) Except where the attendance of the advocate and solicitor is required under sub-paragraph (6) below, the filing of the relevant documents will be sufficient for the Duty Registrar to dispose of any application or matter. Documents will be returned to the advocate and solicitor through the Electronic Filing Service to the inbox of the law firm’s computer system or through the service bureau. 
+(4) Except where the attendance of the advocate and solicitor is required under sub-paragraph (6) below, the filing of the relevant documents will be sufficient for the Duty Registrar to dispose of any application or matter. Documents will be returned to the advocate and solicitor through the Electronic Filing Service to the inbox of the law firm’s computer system or through the service bureau.
 
 (5) All Court fees for the filing of documents should be duly paid before presentation of the documents to the Duty Registrar for his or her signature and/or decision.
 
@@ -140,19 +159,36 @@ __Extension, etc., of time (O. 3, r. 4)__
 
 (7) A solicitor may, if he or she wishes to expedite matters, attend before the Duty Registrar even if his or her attendance is not ordinarily required.
 
-(8) A solicitor who wishes to attend before a Duty Registrar and to refer him or her to documents filed must either:
+(8) A solicitor or a litigant who is not legally represented (collectively, “parties”) who wishes to attend before a Duty Registrar and to refer him or her to documents filed must either:
 
 <ul type="*">
-	<li>(a) file the documents at least one hour before attending before the Duty Registrar, so that the documents would already be in the electronic case file for the Duty Registrar’s reference. Solicitors should as far as possible only attend before the Duty Registrar after they have received notification from the Court that the documents have been accepted; or</li>
-	<li>(b) attend before the Duty Registrar with the paper documents. The Duty Registrar will require the solicitor to give an undertaking to file all the documents by the next working day before dealing with the matter.</li>
+	<li>(a) file the documents at least one hour before attending before the Duty Registrar, so that the documents would already be in the electronic case file for the Duty Registrar’s reference. Parties should as far as possible only attend before the Duty Registrar after they have received notification from the Court that the documents have been accepted. Parties should also check with the Registry that the documents have been routed to the Duty Registrar before attending before the Duty Registrar; or</li>
+	<li>(b) attend before the Duty Registrar with the hard copy documents. The Duty Registrar will require the relevant party to give an undertaking to file all the documents by the next working day before dealing with the matter.</li>
 </ul>
+
+(9) A solicitor or a litigant who is not legally represented (collectively, “parties”) who wishes to attend before a Duty Registrar by way of video conferencing must call the Case Management Officer (“CMO”) to notify the Court of the following:
+
+<ul type="*">
+	<li>(a) when the application and all related documents were filed;</li>
+	<li>(b) the case number;</li>
+	<li>(c) if there is no case number assigned, the name(s) of the parties and names of the counsel and law firm(s) acting for such parties;</li>
+	<li>(d) whether any natural person or business corporate entity involved in the case is unrepresented, and if so, the name of that person or entity;</li>
+	<li>(e) explain briefly the nature of the application and directions sought from the Duty Registrar;</li>
+	<li>(f) the time and date that he or she wishes to attend before the Duty Registrar;</li>
+	<li>(g) whether he or she wishes to send in any documents via the Electronic Filing Service ahead of the hearing or during the hearing before the Duty Registrar;</li>
+	<li>(h) whether he or she wishes to tender any hard copy documents ahead of the hearing before the Duty Registrar;</li>
+	<li>(i) the name(s) of all the parties who will be attending the hearing before the Duty Registrar, and the email address and telephone number of these parties.</li>
+</ul>
+
+If parties wish to tender any hard copy documents ahead of the hearing before the Duty Registrar, parties should as far as possible provide the hard copies and ensure that they have been placed before the Duty Registrar at least 1 hour before the scheduled hearing. Parties should check with the CMO that the documents have been placed before the Duty Registrar before the scheduled hearing.
+
 ## 12A. Request for urgent hearing before Judge
 
 (1) Before an applicant attends before the Duty Registrar to request an urgent hearing before a Judge of any application for any civil matter, the applicant should complete (as far as possible) and file Form 1A of Appendix A of these Practice Directions. A copy of Form 1A should be served on each respondent to the application at the time of filing, unless the application is an *ex parte* application and service of Form 1A would or might defeat the purpose of the application.
 
 (2) The applicant should prepare skeletal submissions for the urgent hearing before the Judge, and file the skeletal submissions at the same time as Form 1A. A copy of the skeletal submissions should be served on each respondent to the application at the time of filing, unless the application is an *ex parte* application and service of the skeletal submissions would or might defeat the purpose of the application. If the skeletal submissions are not filed, the applicant should inform the Duty Registrar whether the skeletal submissions will be filed and served by the time of the urgent hearing before the Judge.
 
-(3) If, due to urgency, the applicant is unable to file or serve Form 1A and/or the skeletal submissions before attending before the Duty Registrar, the applicant should provide a copy each of Form 1A and the skeletal submissions to each respondent to the application when the parties attend before the Duty Registrar. Each such copy of Form 1A or the skeletal submissions must be a hard copy, if the parties attend before the Duty Registrar physically, or in soft copy, if the parties attend before the Duty Registrar by live video or live television link. Thereafter, Form 1A and the skeletal submissions should be filed as soon as possible and, in any event, no later than the next working day after the attendance before the Duty Registrar, unless the Court directs otherwise. If any respondent does not attend before the Duty Registrar, Form 1A and the skeletal submissions should be served on that respondent as soon as possible after the hearing before the Duty Registrar, and, in any event, before the urgent hearing before the Judge, unless the Court directs otherwise. 
+(3) If, due to urgency, the applicant is unable to file or serve Form 1A and/or the skeletal submissions before attending before the Duty Registrar, the applicant should provide a copy each of Form 1A and the skeletal submissions to each respondent to the application when the parties attend before the Duty Registrar. Each such copy of Form 1A or the skeletal submissions must be a hard copy, if the parties attend before the Duty Registrar physically, or in soft copy, if the parties attend before the Duty Registrar by live video or live television link. Thereafter, Form 1A and the skeletal submissions should be filed as soon as possible and, in any event, no later than the next working day after the attendance before the Duty Registrar, unless the Court directs otherwise. If any respondent does not attend before the Duty Registrar, Form 1A and the skeletal submissions should be served on that respondent as soon as possible after the hearing before the Duty Registrar, and, in any event, before the urgent hearing before the Judge, unless the Court directs otherwise.
 
 (4) In cases of extreme urgency where the applicant is unable to comply with the requirement to file or provide a copy of the skeletal submissions by the time of the urgent hearing before the Judge, the applicant should inform the Duty Registrar of the applicant's intention to seek a dispensation of that requirement at the hearing before the Judge, and provide supporting reasons for the dispensation.
 
@@ -258,7 +294,7 @@ is required to attend Court and wishes to absent himself from Court on medical g
 	<li>(b) hearings before a Judge in chambers, if so directed by the Judge.</li>
 </ul>
 
-(2) When taking queue numbers at the CDMS kiosk, solicitors are to confer with their opponent(s) and enter the estimated duration of their own submissions. The number of minutes entered should be an accurate reflection of the actual duration of submissions expected to be made by each of the solicitors. 
+(2) Before taking a CDMS queue number, solicitors are to have conferred with their opponent(s) and enter the estimated duration of their own submissions. The number of minutes entered should be an accurate reflection of the actual duration of submissions expected to be made by each of the solicitors.
 
 Solicitors should indicate in the CDMS that they are ready for hearing only when the solicitors for all the parties concerned are present.
 
@@ -280,16 +316,17 @@ Solicitors should indicate in the CDMS that they are ready for hearing only when
 
 (2) The attire for female advocates and solicitors appearing in open Court will be the existing gown worn over a long-sleeved white blouse high to the neck, a dark jacket, a dark skirt or dark trousers and black or plain coloured shoes. Conspicuous jewellery or ornaments should not be worn.
 
-(3) When appearing in open Court proceedings that are conducted through a live video or live television link:
+(3) When appearing in open Court proceedings that are conducted through a live video link or live television link:
 
 <ul type="*">
-	<li>(a) if the proceedings are conducted solely through the live video or live television link and do not take place in any Courtroom, the attire for an advocate and solicitor will be the same as for open Court, except that a gown need not be worn; but</li>
-	<li>(b) if one or more Judges hear the proceedings in a Courtroom, unless the Court directs otherwise, every advocate and solicitor in the proceedings will wear the usual attire for open Court.</li>
+	<li>(a) if the proceedings are conducted solely through the live video link or live television link and do not take place in any Courtroom, the attire for an advocate and solicitor will be the same as for open Court, except that a gown need not be worn;</li>
+	<li>(b) if one or more Judges hear the proceedings in a Courtroom, unless the Court directs otherwise, every advocate and solicitor in the proceedings will wear the usual attire for open Court proceedings;</li>
+	<li>(c) if the Judge conducts proceedings through the live video link or live television link, and the parties attend the proceedings in the Courtroom, unless the Court otherwise directs, every advocate and solicitor in the proceedings will wear the usual attire for open Court proceedings.</li>
 </ul>
 
-(4) When appearing before the Judge or Registrar in Chambers, the attire for an advocate and solicitor will be the same as for open Court, except that a gown need not be worn. 
+(4) When appearing before the Judge or Registrar in Chambers, the attire for an advocate and solicitor will be the same as for open Court, except that a gown need not be worn.
 
-(5) The attire for Senior Counsel shall be as described in sub-paragraphs (1) to (4), save that, for hearings in open Court, they may, instead of the existing gown, wear a gown in the design of those worn by Queen’s Counsel of England and Wales and made of the following material: 
+(5) The attire for Senior Counsel shall be as described in sub-paragraphs (1) to (4), save that, for hearings in open Court, they may, instead of the existing gown, wear a gown in the design of those worn by Queen’s Counsel of England and Wales and made of the following material:
 
 <ul type="*">
 	<li>(a) silk;</li>
@@ -373,7 +410,7 @@ Nothing in this paragraph detracts from the responsibility of lead counsel to en
 	<li>(b) lead counsel are to inform the trial judge at the Judge Pre-Trial Conference ("JPTC"), or if a JPTC has not been fixed, at the start of the trial, whether their client will be making an application pursuant to sub-paragraph (2) above and, if so, the proposed division of advocacy tasks between lead counsel and junior assisting counsel.</li>
 </ul>
 
-(7) Unless stated otherwise, this paragraph shall apply to both civil and criminal proceedings. 
+(7) Unless stated otherwise, this paragraph shall apply to both civil and criminal proceedings.
 
 
 ## 20. Interpreters and translation
@@ -404,13 +441,13 @@ Nothing in this paragraph detracts from the responsibility of lead counsel to en
 
 (10) Requests for translation of documents in Chinese, Malay or Tamil for use in Supreme Court proceedings must be filed through the Electronic Filing Service at least 4 weeks before the date the translations are required. Failure to comply with the directions set out in this sub-paragraph may result in the translations not being available or provided by the date they are required.
 
-(11) In the event that the Supreme Court's Interpreters Section is unable to accept a translation request, parties and counsel should approach a private translation service instead. 
+(11) In the event that the Supreme Court's Interpreters Section is unable to accept a translation request, parties and counsel should approach a private translation service instead.
 
-(12) Litigants in person may submit their requests for interpretation services or translation of documents for Supreme Court proceedings using the respective forms available on the website at [http://www.supremecourt.gov.sg.](http://www.supremecourt.gov.sg/)
+(12) Litigants who are not legally represented may submit their requests for interpretation services or translation of documents for Supreme Court proceedings using the respective forms available on the Singapore Courts website at [https://www.judiciary.gov.sg](https://www.judiciary.gov.sg).
 
 ## 21. Production of record of hearing
 
-(1) Pursuant to Order 38A, Rule 1 of the Rules of Court, the Registrar hereby directs that with effect from 1 August 2005, there shall be audio recording of all open Court trials in actions begun by writs. Such audio recording shall be made using the Digital Transcription System (DTS) only.
+(1) Pursuant to Order 38A, Rule 1 of the Rules of Court, the Registrar hereby directs that with effect from 1 August 2005, there shall be audio recording of all open Court trials in actions begun by writs. Such audio recording may be made using the Digital Transcription System (DTS). Where a hearing is conducted by means of video conferencing or telephone conferencing using a remote communication technology approved by the Chief Justice or authorised by the Court, and the Court has authorised the making of a recording of the hearing using such remote communication technology, the recording so made will, unless the Court otherwise directs, constitute the official record of the hearing.
 
 (2) Pursuant to Order 38A, Rule 1(1)(b), the Registrar further directs that in proceedings where no audio recording is made, the notes of hearing shall be taken down by the Judge, judicial officer, Justices’ Law Clerk or court officer, whether by hand or through the use of a computer or electronic device.
 
@@ -472,7 +509,7 @@ Access by parties to a case file
 
 
 <ul type="*">
-	<li>(a) A <span title='Formerly known as “praecipe".'><b><i>Request</i></b></span> should be made to obtain leave to inspect the file. The Request should state the name of the person who is to carry out the search or inspection. If this person is not a solicitor, his identity card number should also be included in the Request after his name, and a copy of his identity card should be provided. The Request should also state the interest that the applicant has in the matter, and the reason for the search or inspection. If the search or inspection is requested for the purpose of ascertaining information for use in a separate suit or matter, the Request should clearly state the nature of the information sought and the relevance of such information to the separate suit or matter.</li>
+	<li>(a) A <b><i>Request</i></b> should be made to obtain leave to inspect the file. The Request should state the name of the person who is to carry out the search or inspection. If this person is not a solicitor, his or her identification and contact details should also be included in the Request, and his or her identification document (including physical or digital identity card) should be produced for verification when requested. The Request should also state the interest that the applicant has in the matter, and the reason for the search or inspection. If the search or inspection is requested for the purpose of ascertaining information for use in a separate suit or matter, the Request should clearly state the nature of the information sought and the relevance of such information to the separate suit or matter.</li>
 	<li>(b) Once approval for inspection has been received from the Court,</li>
 	<ul type="*">
 		<li>(i) registered users can inspect the case file online through the Electronic Filing Service;</li>
@@ -480,18 +517,20 @@ Access by parties to a case file
 	</ul>
 </ul>
 
-(6) Solicitors must communicate to the Registrar in writing the names of their clerks who have their authority to make searches and inspections. Such authority may be in respect of a specific search or inspection or for a specified period. 
+(6) Solicitors must communicate to the Registrar in writing the names of their clerks who have their authority to make searches and inspections. Such authority may be in respect of a specific search or inspection or for a specified period.
 
 (7) For the avoidance of doubt, a non-party that has obtained approval to inspect a case file may take and retain a soft copy of any document that is available for inspection. All copies of documents taken in the course of inspection should not be used for purposes other than those stated in the Request to inspect. Solicitors shall be responsible for informing their clients of this.
 
-Obtaining certified true copies of documents
+***Obtaining certified true copies of documents***
 
-(8) Applications to obtain certified true paper copies of documents, should be made by way of filing a Request through the Electronic Filing Service.
+(7A) Users are encouraged to use the Authentic Court Order system to validate orders of court issued after 2 January 2020 by going to [https://www.courtorders.gov.sg](https://www.courtorders.gov.sg). However, certified true copies of orders of court will still be available upon application.
+
+(8) Applications to obtain certified true paper copies of documents should be made by way of filing a Request through the Electronic Filing Service.
 
 <ul type="*">
 	<li>(a) The intended use of the certified true copies should be clearly stated in the Request. The relevance and necessity of the certified true copies in relation to their intended use should also be clearly described.</li>
-	<li>(b) Once approval is received from the Court, the applicant should present a printed copy of the approved Request at the Legal Registry. After verifying that the Request has been approved, the Legal Registry will inform the applicant of any additional fees payable. Any additional fees should then be stamped on the Request at the Cashier’s Office at the Legal Registry. Upon presentation of this stamped Request, the documents will be furnished to the applicant.</li>
-	<li>(c) The fees prescribed by Appendix B to the Rules of Court will be payable for the above services in addition to further printing charges which may be chargeable by the Court or the service bureau for reproducing the copies in paper form.</li>
+	<li>(b) The applicant will be informed of the outcome to his or her Request and the fees payable for the provision of the certified true copies if the Request is approved. Upon confirmation of the receipt of payment of the fees payable, the certified true copies will be released to the applicant. The Registry may require verification of the identity of the applicant against his or her identification document (including physical or digital identity card) prior to release of the certified true copies.</li>
+	<li>(c) The fees prescribed by Appendix B to the Rules of Court will be payable for the provision of the above service.</li>
 </ul>
 
 ***Electronic cause books and registers maintained by the Registry***
@@ -535,19 +574,19 @@ Obtaining certified true copies of documents
 
 ***Access to personal data***
 
-(4) **Contained in documents filed with, served on, delivered or otherwise conveyed to the Registrar**.  A data subject who wishes to access his personal data contained in any document filed with, served on, delivered or otherwise conveyed to the Registrar must comply with the applicable provisions in the Rules of Court and these Practice Directions relating to the access to and inspection of case files.  A data subject shall not be entitled to request information about the ways in which his personal data contained in any document filed with, served on, delivered or otherwise conveyed to the Registrar has been used or disclosed. 
+(4) **Contained in documents filed with, served on, delivered or otherwise conveyed to the Registrar**.  A data subject who wishes to access his personal data contained in any document filed with, served on, delivered or otherwise conveyed to the Registrar must comply with the applicable provisions in the Rules of Court and these Practice Directions relating to the access to and inspection of case files.  A data subject shall not be entitled to request information about the ways in which his personal data contained in any document filed with, served on, delivered or otherwise conveyed to the Registrar has been used or disclosed.
 
-(5) **Contained in electronic cause books and registers maintained by the Registry.**  A data subject who wishes to access his personal data contained in any electronic cause book or register must conduct a search through the Electronic Filing Service at a service bureau or at the Legal Registry and shall pay the fees prescribed by Appendix B to the Rules of Court.  A data subject shall not be entitled to request information about the ways in which his personal data contained in any electronic cause book or register has been used or disclosed. 
+(5) **Contained in electronic cause books and registers maintained by the Registry.**  A data subject who wishes to access his personal data contained in any electronic cause book or register must conduct a search through the Electronic Filing Service at a service bureau or at the Legal Registry and shall pay the fees prescribed by Appendix B to the Rules of Court.  A data subject shall not be entitled to request information about the ways in which his personal data contained in any electronic cause book or register has been used or disclosed.
 
 ***Correction of personal data***
 
-(6) **Contained in documents filed with, served on, delivered or otherwise conveyed to the Registrar**.  A data subject who wishes to correct any error or omission in his personal data in any document filed with, served on, delivered or otherwise conveyed to the Registrar must comply with the applicable provisions in the Rules of Court and these Practice Directions relating to the amendment of the relevant document. 
+(6) **Contained in documents filed with, served on, delivered or otherwise conveyed to the Registrar**.  A data subject who wishes to correct any error or omission in his personal data in any document filed with, served on, delivered or otherwise conveyed to the Registrar must comply with the applicable provisions in the Rules of Court and these Practice Directions relating to the amendment of the relevant document.
 
-(7) **Contained in electronic cause books and registers maintained by the Registry**.  A data subject who wishes to correct any error or omission of his personal data in any electronic cause book or register maintained by the Registry shall comply with the following procedure:
+(7) **Contained in electronic cause books and registers maintained by the Registry**.  A data subject who wishes to correct any error or omission of his or her personal data in any electronic cause book or register maintained by the Registry shall comply with the following procedure:
 
 <ul type="*">
 	<li>(a) The request to correct the error or omission must be made in writing by the data subject or by his solicitor, together with the reason for the requested correction.  The request must clearly identify the record and the personal data to be corrected; </li>
-	<li>(b) If the data subject is not represented, his identity card number should also be included in the request and a copy of his identify card should be provided; and</li>
+	<li>(b) If the data subject is not represented, his or her identification and contact details should also be included in the request, and his or her identification document (including physical or digital identity card) should be produced for verification when requested; and</li>
 	<li>(c) The following documents should accompany the request:</li>
 	<ul type="*">
 		<li>(i) recent copy of the record identifying the error or omission; and</li>
@@ -559,7 +598,7 @@ Obtaining certified true copies of documents
 
 ## 25. Instruments creating power of attorney
 
-(1) To deposit an instrument creating a power of attorney under Order 60, Rule 6 of the Rules of Court, the instrument and other supporting documents, if any, are to be filed, served, delivered or otherwise conveyed to the Court through the Electronic Filing Service or the service bureau. 
+(1) To deposit an instrument creating a power of attorney under Order 60, Rule 6 of the Rules of Court, the instrument and other supporting documents, if any, are to be filed, served, delivered or otherwise conveyed to the Court through the Electronic Filing Service or the service bureau.
 
 (2) The directions set out in sub-paragraph (1) will also apply to a party who wishes to file a document which alters the powers created in an instrument that is filed, served, delivered or otherwise conveyed to the Court on or after 28 May 2002. If the document relates to an instrument that is presented for deposit before 28 May 2002, the document must be filed manually in hard copy form.
 
@@ -572,21 +611,59 @@ Obtaining certified true copies of documents
 	<li>(b) to satisfy the Court that the requirements have been complied with.</li>
 </ul>
 
-(5) A party may rely on the same affidavit in a subsequent filing of separate instruments on behalf of the same corporation by indicating on the top right hand corner of the instrument the following statement: “Reference is made to affidavit of \[name\] filed on \[date\] in PA No. (xxxxxx) of (xxxx).”
+(5) A party may rely on the same affidavit in a subsequent filing of separate instruments on behalf of the same corporation by indicating on the top right hand corner of the instrument the following statement: “Reference is made to affidavit of [name] filed on [date] in PA No. (xxxxxx) of (xxxx).”
 
-(6) A party seeking to file an instrument creating a power of attorney executed before a notary public or under a corporate seal must produce the original instrument to the Legal Registry within one working day after filing the instrument. The application will be processed only after the original instrument is produced. 
+(6) A party seeking to file an instrument creating a power of attorney executed before a notary public or under a corporate seal must produce the original instrument to the Legal Registry within one working day after filing the instrument. The application will be processed only after the original instrument is produced.
 
 ## 26. Filing directions to the Accountant-General for payment into and out of Court
 
-(1) Where monies are sought to be paid into Court pursuant to a judgment or order of the Court, a copy of the judgment or order must be referenced in the draft direction to the Accountant-General for payment in and submitted to the Legal Registry of the Supreme Court for approval.
+(1) Where monies are to be paid into Court pursuant to a judgment or order of the Court, a copy of the judgment or order must be attached to the draft Direction to Accountant-General for Payment In and filed into the case file via the Electronic Filing Service for approval by the Court. The Direction to Accountant-General for Payment In must be in Form 219A of Appendix A to the Rules of Court.
 
-(2) Where monies are sought to be paid out of Court pursuant to a judgment or order of the Court, pursuant to the acceptance of a payment into Court made under Order 22 of the Rules of Court or pursuant to Order 56A, Rule 13 or Order 57, Rule 11, a copy of the judgment or order, or of the notice in Form 32 of Appendix A to the Rules of Court, or of the written consent attached to the draft direction to the Accountant-General for payment out, must be submitted to the Legal Registry for approval.
+(2) Where monies are to be paid out of Court, a copy of one of the following documents must be attached to the draft Direction to Accountant-General for Payment Out and filed into the case file via the Electronic Filing Service for approval by the Court:
 
-(3) Each draft direction for payment into or payment out of Court shall contain amounts in a single currency. Where monies in different currencies are to be paid into or out of Court, separate draft directions must be prepared for each currency in which payment is to be made. 
+<ul type="*">
+	<li>(a) a copy of the judgment or order of court; or</li>
+	<li>(b) the Notice of Acceptance of Money Paid into Court in Form 32 of Appendix A to the Rules of Court.</li>
+</ul>
+
+The Direction to Accountant-General for Payment Out must be in Form 219A of Appendix A to the Rules of Court.
+
+(3) Each draft Direction to Accountant-General for Payment In or Payment Out shall contain amounts in a single currency. Where monies in different currencies are to be paid into or out of Court, separate draft directions must be prepared for each currency in which payment is to be made.
+
+***Direction to Accountant-General for Payment In or Payment Out***
+
+(4) Where the Direction to Accountant-General for Payment In has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment In Party”) must send a copy of the approved Direction to Accountant-General for Payment In and the relevant judgment or order of court to VITAL by email to VITAL_FS_Receivable@vital.gov.sg. Upon successful receipt of the documents, VITAL will provide instructions on how electronic payment is to be effected. A receipt will be issued by VITAL to the Payment In Party when payment is received by the Accountant-General.
+
+(5) Where the Direction to Accountant-General for Payment Out has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment Out Party”) must send a copy of the approved Direction to Accountant-General for Payment Out and the relevant judgment or order of court to VITAL by email to VITAL_FS_Receivable@vital.gov.sg. Upon successful receipt of the documents, VITAL will provide instructions on the process for the release of the monies.
+
+***Furnishing security for costs by depositing monies in the Registry***
+
+(6) Where a party wishes to furnish security for costs for an appeal or an application filed in the Supreme Court by depositing monies in the Registry, he or she must deposit the monies in one of the following manners:
+
+<ul type="*">
+	<li>(a) <span style="text-decoration: underline">By electronic payment</span>: The party is to send his or her case details by email to the Finance Directorate of the Supreme Court at <a href="mailto:SUPCOURT_FIN_Revenue@supcourt.gov.sg" style="text-decoration:none;">SUPCOURT_FIN_Revenue@supcourt.gov.sg</a>. The party will be provided with a QR code or the bank account details for electronic payment to be made. Upon receipt of monies, a receipt will be emailed to the party by the Finance Directorate.</li>
+	<li>(b) <span style="text-decoration: underline">By making payment at the Supreme Court</span>: The party will be required to complete a requisite form when he or she attends at the Supreme Court. The accepted payment modes are Cash, Cashier’s Order (made payable to “Registrar Supreme Court/AG”), NETS and credit card. Upon payment at the counter, a receipt will be issued to the party.</li>
+</ul>
+
+The party must provide proof of such deposit when filing the appeal or application.
+
+(7) Where security for costs is to be paid out to any party pursuant to the Rules of Court or an order or direction of the Court, the party entitled to payment of the security may write to the Registry to request payment out. Once the request for payment out is approved by the Registry, the party entitled to the payment must send a copy of the Registry’s approval to the Finance Directorate of the Supreme Court at SUPCOURT_FIN_Revenue@supcourt.gov.sg. The Finance Directorate of the Supreme Court will provide instructions on the documents to be furnished to process the release of the monies.
+
+***Request for information on balance of monies paid into Court or deposited in the Registry***
+
+(8) Where a party wishes to request information on the balance of monies paid into Court or deposited in the Registry, the party or his or her solicitors may send the request, accompanied by the case details and reasons for the request, by email to:
+
+<ul type="*">
+
+<li>(a)	<a href="mailto:VITAL_FS_Receivable@vital.gov.sg" style="text-decoration:none;">VITAL_FS_Receivable@vital.gov.sg</a>, if the monies were lodged with the Accountant-General; or</li>
+
+<li>(b)	<a href="mailto:SUPCOURT_FIN_Revenue@supcourt.gov.sg" style="text-decoration:none;">SUPCOURT_FIN_Revenue@supcourt.gov.sg</a>, if the monies were deposited in the Registry.</li>
+
+</ul>
 
 ## 27. Requests and other Correspondence
 
-(1) All Requests relating to or in connection with any pending cause or matter are to be made using the electronic forms available through the Electronic Filing Service. Where an electronic form is available through the Electronic Filing Service for the Request that is sought, the Registry has the discretion to refuse acceptance of other forms of written correspondence (including letters) and to refuse to act on such correspondence. 
+(1) All Requests relating to or in connection with any pending cause or matter are to be made using the electronic forms available through the Electronic Filing Service. Where an electronic form is available through the Electronic Filing Service for the Request that is sought, the Registry has the discretion to refuse acceptance of other forms of written correspondence (including letters) and to refuse to act on such correspondence.
 
 (1A) All correspondence to the Court relating to or in connection with any pending cause or matter shall be copied to all other parties to the cause or matter or to their solicitors unless there are good reasons for not so doing. Solicitors are further reminded that the Court should not be copied on correspondence between parties or their solicitors. The Registry has the discretion to reject or refuse to act on any inappropriate or *ex parte* correspondence.
 
@@ -612,17 +689,17 @@ below the parties’ names. For example:
 
 If a letter is sent to the Court by a law firm in any other way, it is liable to be rejected. If a letter is sent to the Court by a law firm without the information specified in sub-paragraph (2), it is also liable to be rejected.
 
-(6) Sub-paragraph (5) does not apply to litigants in person.
+(6) Sub-paragraph (5) does not apply to litigants who are not legally represented.
 
 (7) Registrar’s Directions and Notices from the Registry will be sent to law firms who are registered users of the Electronic Filing Service through the Electronic Filing Service. Registered users are to ensure that the inbox of their Electronic Filing Service account(s) are checked and cleared regularly.
 
 ## 28. Authorisation for collection of mail and Court documents
 
-(1) Without prejudice to sub-paragraphs (3) and (4), all law firms are required to notify the Legal Registry of the Supreme Court of the particulars of person(s) authorised to collect Court documents or mail from the Supreme Court on their behalf by submitting a request to authorise user through the Electronic Filing Service. 
+(1) Without prejudice to sub-paragraphs (3) and (4), all law firms are required to notify the Legal Registry of the Supreme Court of the particulars of person(s) authorised to collect Court documents or mail from the Supreme Court on their behalf by submitting a request to authorise user through the Electronic Filing Service.
 
 (2) Where such authorised persons are no longer so authorised, law firms are required to revoke or delete the authorisation immediately by submitting a request through the Electronic Filing Service. Until receipt of such notification of revocation or deletion, Court documents and mail shall continue to be released to such authorised persons upon production of evidence of identification.
 
-(3) Any solicitor may collect Court documents and mail on behalf of his firm and any litigant in person may collect documents and mail intended for him in any matter in which he is a party.
+(3) Any solicitor may collect Court documents and mail on behalf of his firm and any litigant who is not legally represented may collect documents and mail intended for him in any matter in which he is a party.
 
 (4) A law firm may authorise a courier service-provider to collect Court documents or mail from the Supreme Court on their behalf. At the time of collection, the courier service-provider should produce a letter of authorisation which is printed on the law firm’s letterhead and addressed to the courier service-provider. The said letter of authorisation should clearly state the case number, the name of the courier service-provider appointed to collect and the Court documents or mail to be collected. An employee or representative of the courier service-provider collecting the Court documents or mail may be requested to provide evidence that will allow the Supreme Court to verify that he is an employee or representative from the courier service-provider and will have to acknowledge receipt of the Court documents or mail
 collected.
@@ -631,29 +708,29 @@ collected.
 
 ***Implementation of the electronic system for the payment of Court fees***
 
-(1) Notwithstanding anything in these Practice Directions, all Court fees not paid using the Electronic Filing Service must be paid by electronic means.
+(1) Subject to these Practice Directions, all Court fees not paid using the Electronic Filing Service must be paid by electronic means.
 
-***Modes of electronic payment***
+***Modes of payment by electronic means***
 
-(2) Payment through electronic means includes payment effected by Interbank GIRO (IBG), NETS, Cashcards and selected credit cards. For law firms, payment by IBG would be the most appropriate mode of electronic payment. A law firm using IBG will authorise the Supreme Court to deduct the fees from its bank account upon lodgement of the prescribed lodgement form. The law firm will receive detailed reports on its IBG payments to facilitate accounting and help with bank reconciliation. 
+(2) Payment by electronic means includes payment effected by Interbank GIRO (IBG), NETS and selected credit cards. For law firms with standing GIRO arrangements with the Supreme Court, payment by IBG would be the most appropriate mode of electronic payment where Court fees are paid over the counter. A law firm using IBG for such purposes will authorise the Supreme Court to deduct the fees from its bank account upon lodgement of the prescribed form.
 
-***Scope of electronic system***
+***Scope of payment by electronic means***
 
-(3) The electronic system covers all Court fees previously collected over-the-counter, hearing fees and mechanical recording services fees in the Supreme Court.
+(3) The electronic means of payment cover all Court fees previously collected over-the-counter and hearing fees in the Supreme Court.
 
 ***Registrar’s discretion***
 
-(4) Unless otherwise approved by the Registrar, payment of Court fees collected over-the-counter must be made by electronic means. The Registrar may, in any case, waive the requirement for the payment to be effected by electronic means, on such terms and conditions as he or she deems fit. 
+(4) Unless otherwise approved by the Registrar, payment of Court fees collected over-the-counter must be made by electronic means. The Registrar may, in any case, waive the requirement for the payment to be effected by electronic means, on such terms and conditions as he or she deems fit.
 
 ## 29A. Publication of and reports and comments on Court cases
 
-(1) This paragraph applies to solicitors, litigants (whether acting by solicitors or in person), the media and all other persons reporting on or commenting about cases which are before any court ("court cases"). All categories of persons mentioned above are collectively referred to as "all concerned".
+(1) This paragraph applies to solicitors, litigants (whether acting by solicitors or not), the media and all other persons reporting on or commenting about cases which are before any court ("court cases"). All categories of persons mentioned above are collectively referred to as "all concerned".
 
-(2) All concerned are reminded that reports or comments in public on court cases must not flout any existing law or order of court or be calculated to affect, or be reasonably capable of affecting, the outcome of any decision by the court.
+(2) All concerned are reminded that reports or comments in public on court cases must not flout any existing law or order of court or be calculated to affect, or be reasonably capable of affecting, the outcome of any decision by the court. The attention of all concerned is drawn to section 3 of the Administration of Justice (Protection) Act 2016.
 
-(3) All concerned are not to publish, report or comment on publicly any affidavit or statutory declaration which has not been adduced as evidence or referred to in any hearing in open Court or in Chambers or any other court document which has not been served on the relevant party or parties in the court proceedings. 
+(3) All concerned are not to publish, report or publicly comment on any affidavit or statutory declaration which has not been adduced as evidence or referred to in any hearing in open Court or in Chambers or any other court document which has not been served on the relevant party or parties in the court proceedings.
 
-(4) All concerned are not to publish, report or comment on publicly any statements made in Chambers by anyone which is expressly stated to be confidential or is impliedly confidential. Solicitors may inform their clients of statements made in Chambers when it is necessary for them to render proper advice to their clients.
+(4) All concerned are not to publish, report or publicly comment on any statements made in Chambers by anyone which is expressly stated to be confidential or is impliedly confidential. Solicitors may inform their clients of statements made in Chambers when it is necessary for them to render proper advice to their clients.
 
 ## 29B. Citation of Case Numbers
 
