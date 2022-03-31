@@ -21,13 +21,14 @@
 
 ## 1. Citation
 
-These Practice Directions may be cited as the Supreme Court Practice Directions.
+These Practice Directions may be cited as the Supreme Court Practice Directions 2013.
 
 ## 1A. Definitions
 
 In these Practice Directions, unless the context otherwise requires:<br>
- “Appellate Division” means the Appellate Division of the High Court; and<br>
- “General Division” means the General Division of the High Court.
+ “Appellate Division” means the Appellate Division of the High Court;<br>
+ “General Division” means the General Division of the High Court; and<br>
+ "Rules of Court” means the Rules of Court (Cap 322, R 5, 2014 Rev Ed) as in force immediately before 1 April 2022.
 
 ## 1B. References to repealed provisions of written laws
 
@@ -43,16 +44,24 @@ These Practice Directions are issued to consolidate all previous practice direct
 
 ## 4. Updating
 
-(1) Amendments to these Practice Directions will be done on a paragraph-for-paragraph basis.  These Practice Directions will be
-automatically updated with the new amended paragraphs.  A list of amendments made will also be found on the Supreme Court website, on a noter-up page entitled 'Amendments'.
+(1) Amendments to these Practice Directions will be done on a paragraph-for-paragraph basis.  These Practice Directions will be automatically updated with the new amended paragraphs.  A list of amendments made will also be found on the Singapore Courts website at [https://www.judiciary.gov.sg](https://www.judiciary.gov.sg).
+
 
 (2) Where legislation is cited in these Practice Directions, the citation shall be read to refer to the edition of that legislation currently in force.
 
 ## 5. Applicability of Practice Directions
 
-***Practice Directions to apply to civil proceedings***
+***Application on and after 1 April 2022***
 
-(1) These Practice Directions shall apply to civil proceedings only unless otherwise stated.
+(1) On and after 1 April 2022, these Practice Directions apply only to:
+
+<ul type="*">
+
+<li>(a) any cause or matter, in the General Division, the Appellate Division or the Court of Appeal, that is governed by the Rules of Court; and</li>
+
+<li>(b) any criminal proceedings commenced, in the General Division or the Court of Appeal, before 1 April 2022.</li>
+
+</ul>
 
 ***Proceedings using the Electronic Filing Service***
 
@@ -86,7 +95,7 @@ The forms in Appendix A of these Practice Directions shall be used where applica
 
 ## 7. Registrar’s Circulars
 
-Registrar’s Circulars can be found at the Supreme Court web site at http://[www.supremecourt.gov.sg](http://www.supremecourt.gov.sg).
+Registrar’s Circulars can be found at the Singapore Courts website at [https://www.judiciary.gov.sg](https://www.judiciary.gov.sg).
 
 ## 7A. Business of the Registry
 
@@ -99,4 +108,3 @@ Registrar’s Circulars can be found at the Supreme Court web site at http://[ww
 (4) Appendix H sets out the names of the Registrar, Deputy Registrar, Divisional and Deputy Divisional Registrars, and Senior Assistant Registrars.
 
 (5) Pursuant to Order 60, Rule 1(3) of the Rules of Court, the business of the Registry is governed by the Rules of Court and these Practice Directions. For the avoidance of doubt, it is hereby declared that any instruction manuals which may be issued from time to time by the Government are not applicable to the business of the Registry.
-
