@@ -55,7 +55,7 @@
 	<li>Judgment shall not be entered against a defendant under this Order unless a request to enter judgment in Form 79A is filed with the judgment in Form 79.</li>
 </ul>
 
-(3) For Requests to enter judgment electronic forms composed online through the Electronic Filing Service, a signed hard copy of the Request to enter judgment electronic form shall be retained by the solicitor concerned and produced to the Court when required by the Court to do so. 
+(3) For Requests to enter judgment electronic forms composed online through the Electronic Filing Service, a signed hard copy of the Request to enter judgment electronic form shall be retained by the solicitor concerned and produced to the Court when required by the Court to do so.
 
 (4) In order to satisfy itself that a defendant is in default of appearance or service of defence, the Court may require an affidavit to be filed stating the time and manner service of the Writ of Summons was effected on the defendant, as well as the steps taken to ascertain that the defendant had failed to enter an appearance or serve a defence, as the case may be.
 
