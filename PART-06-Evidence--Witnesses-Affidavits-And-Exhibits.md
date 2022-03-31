@@ -16,6 +16,7 @@
 		<li>Dividing sheets</li>
 		<li>Bookmarks</li>
 		<li>Numbering</li>
+		<li>References to exhibits in text of affidavit</li>
 		<li>References to exhibits in other affidavits</li>
 		<li>Related documents</li>
 	</ul>
@@ -35,7 +36,7 @@
 
 (1) An application for a subpoena shall be made by way of filing a subpoena in Form 67 in Appendix A of the Rules of Court. The subpoena is deemed to be issued when it is sealed by an officer of the Registry pursuant to Order 38, Rule 14(2).
 
-(2) The previous practice of filing a Request to issue a subpoena is discontinued.
+(2) Where the issuance of a subpoena is made under any written law for the purposes of a cause or matter that is not before the Court (e.g, before an arbitration tribunal or a disciplinary tribunal), the party must submit to the Registry 1 hard copy each of his or her Request and the subpoena to be sealed. The subpoena is issued when the hard copy is sealed by an officer of the Registry.
 
 ***Release of witness upon completion of evidence***
 
@@ -59,7 +60,7 @@
 
 ## 57. Form of affidavits
 
-(1) Affidavits shall have a blank margin not less than 35mm wide on all 4 sides of the page. They shall be printed or typed and double-spaced. 
+(1) Affidavits shall have a blank margin not less than 35mm wide on all 4 sides of the page. They shall be printed or typed and double-spaced.
 
 (2) When filing affidavits for use during a hearing of an interlocutory application, the number of the interlocutory application must be provided in the Electronic Filing Service in addition to the case number of the suit or matter.
 
@@ -82,7 +83,7 @@
 
 (5) Every page of the affidavit (*including* separators and exhibits) shall be paginated consecutively, and the page number shall be inserted at the centre top of the page.
 
-(6) Every affidavit which is filed in conjunction with a summons (but not those filed in conjunction with an originating summons) must have endorsed at the top left-hand corner of the first page of the affidavit the entered number of the summons. 
+(6) Every affidavit which is filed in conjunction with a summons (but not those filed in conjunction with an originating summons) must have endorsed at the top left-hand corner of the first page of the affidavit the entered number of the summons.
 
 (7) Hard copies of affidavits may be printed on one side or both sides of each page.
 
@@ -135,11 +136,15 @@ A Commissioner for Oaths”
 
 ***Bookmarks***
 
-(5) Each exhibit in the affidavit must be separately bookmarked in the Portable Document Format (PDF) document that is filed. The names of the book-marks should follow the initials of the deponent of the affidavit, e.g., “TAK-1”, “TAK-2”.
+(5) Each exhibit in the affidavit must be separately bookmarked in the Portable Document Format (PDF) document that is filed. The names of the bookmarks should follow the initials of the deponent of the affidavit, e.g., “TAK-1”, “TAK-2”.
 
 ***Numbering***
 
 (6) Where a deponent deposes to more than one affidavit with exhibits in the same action, the numbering of the exhibits in all subsequent affidavits shall run consecutively throughout, and not begin again with each affidavit. For instance, where a deponent in his first affidavit has marked two exhibits as “TAK-1” and “TAK-2”, the first exhibit in his second affidavit should be marked as “TAK-3” instead of “TAK-1”.
+
+***References to exhibits in text of affidavit***
+
+(6A) Where the text of an affidavit makes reference to a documentary exhibit, the page number(s) of the affidavit where the relevant portions of the documentary exhibit can be found should be set out alongside the number of the exhibit in question.
 
 ***References to exhibits in other affidavits***
 
@@ -154,7 +159,7 @@ A Commissioner for Oaths”
 
 ***Related documents***
 
-(8) Related documents (e.g., correspondence and invoices) may be collected together and collectively exhibited as one exhibit arranged in chronological order, beginning with the earliest at the top, paginated in accordance with sub-paragraph (3) above, and the exhibit must have a front page showing the table of contents of the items in the exhibit. 
+(8) Related documents (e.g., correspondence and invoices) may be collected together and collectively exhibited as one exhibit arranged in chronological order, beginning with the earliest at the top, paginated in accordance with sub-paragraph (3) above, and the exhibit must have a front page showing the table of contents of the items in the exhibit.
 
 ## 59A. Swearing and signing of affidavits in Singapore before, and completing of attestation by, commissioner for oaths through live video link or live television link
 
@@ -175,9 +180,9 @@ A Commissioner for Oaths”
 (4) The appropriate Supreme Court Head Interpreter may be contacted at the following telephone numbers:
 
 <ul type="*">
-	<li>(a) Head Interpreter (Chinese) - 6332 3940.</li>
-	<li>(b) Head Interpreter (Indian) - 6332 3930.</li>
-	<li>(c) Head Interpreter (Malay) - 6332 3970.</li>
+	<li>(a) Head Interpreter (Chinese languages) - 6332 3940.</li>
+	<li>(b) Head Interpreter (Indian languages) - 6332 3930.</li>
+	<li>(c) Head Interpreter (Malay languages) - 6332 3970.</li>
 </ul>
 
 ## 61. Effect of non-compliance
