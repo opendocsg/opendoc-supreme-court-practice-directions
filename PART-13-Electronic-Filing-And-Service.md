@@ -2,7 +2,7 @@
 
 <ul type="*">
 	<li>100. Application</li>
-	<li>101. Establishment of Electronic Filing Service and appointment of network service provider</li>
+	<li>101. Establishment of Electronic Filing Service and appointment of electronic filing service provider</li>
 	<li>102. Appointment of agent to establish service bureau</li>
 	<li>103. Registered users and authorised users</li>
 	<li>104. Documents which must be filed, served, delivered or otherwise conveyed using the Electronic Filing Service</li>
@@ -25,13 +25,13 @@
 
 (2) Where the words and phrases set out in Order 63A, Rule 1 are used in this Part, they shall have the same meaning as defined in Order 63A, Rule 1, unless otherwise specified.
 
-## 101.  Establishment of Electronic Filing Service and appointment of network service provider
+## 101.  Establishment of Electronic Filing Service and appointment of electronic filing service provider
 
-In exercise of the powers conferred by Order 63A, Rules 2 and 3 of the Rules of Court, the Registrar, with the approval of the Chief Justice, hereby establishes an Electronic Filing Service known as the Integrated Electronic Litigation System or eLitigation and accessible at \<www.elitigation.sg\> and appoints CrimsonLogic Pte Ltd as the Electronic Filing Service provider for this service, with the Electronic Litigation Systems Committee of the Singapore Academy of Law as its superintendent pursuant to Rule 13A(2) of the Singapore Academy of Law Rules (Cap. 294A, Rule 1).
+In exercise of the powers conferred by Order 63A, Rules 2 and 3 of the Rules of Court, the Registrar, with the approval of the Chief Justice, hereby establishes an Electronic Filing Service known as the Integrated Electronic Litigation System or eLitigation and accessible at \<www.elitigation.sg\> and appoints CrimsonLogic Pte Ltd as the Electronic Filing Service provider for this service.
 
 ## 102.  Appointment of agent to establish service bureau
 
-Pursuant to Order 63A, Rule 4 of the Rules of Court, the Registrar appoints CrimsonLogic Pte Ltd as an agent to establish a service bureau in the Supreme Court of Singapore; with the Electronic Litigation Systems Committee of the Singapore Academy of Law as its superintendent pursuant to Rule 13A(2) of the Singapore Academy of Law Rules (Cap. 294A, Rule 1).
+Pursuant to Order 63A, Rule 4 of the Rules of Court, the Registrar appoints CrimsonLogic Pte Ltd as an agent to establish a service bureau in the Supreme Court of Singapore.
 
 ## 103. Registered users and authorised users
 
@@ -50,7 +50,7 @@ Pursuant to Order 63A, Rule 4 of the Rules of Court, the Registrar appoints Crim
 
 ## 104.  Documents which must be filed, served, delivered or otherwise conveyed using the Electronic Filing Service
 
-(1) Pursuant to Order 63A, Rules 1 and 8 of the Rules of Court, the Registrar hereby specifies that all documents to be filed with, served on, delivered or otherwise conveyed to the Registrar in all proceedings other than criminal proceedings (which are governed by Part XIV of these Practice Directions and the Criminal Procedure Code (Electronic Filing and Service) Regulations), subject to the exceptions which appear later in this paragraph, must be so filed, served, delivered or otherwise conveyed using the Electronic Filing Service. 
+(1) Pursuant to Order 63A, Rules 1 and 8 of the Rules of Court, the Registrar hereby specifies that all documents to be filed with, served on, delivered or otherwise conveyed to the Registrar in all proceedings other than criminal proceedings (which are governed by Part XIV of these Practice Directions and the Criminal Procedure Code (Electronic Filing and Service) Regulations), subject to the exceptions which appear later in this paragraph, must be so filed, served, delivered or otherwise conveyed using the Electronic Filing Service.
 
 (2) It shall not be necessary to use the Electronic Filing Service in respect of the following proceedings:
 
@@ -73,7 +73,7 @@ Pursuant to Order 63A, Rule 4 of the Rules of Court, the Registrar appoints Crim
 	<li>(p) any proceedings commenced by a petition under Part X of the Women’s Charter (Cap. 353) filed before 15 December 2003.</li>
 </ul>
 
-(3) Documents which are filed pursuant to Order 34, Rule 3A(1) may, instead of being filed through the Electronic Filing Service, be filed in accordance with the procedure outlined in paragraph 71(3) to (7). 
+(3) Documents which are filed pursuant to Order 34, Rule 3A(1) may, instead of being filed through the Electronic Filing Service, be filed in accordance with the procedure outlined in paragraph 71(3) to (7).
 
 (4) In respect of appeals under Order 55D, it shall not be necessary to file, serve, deliver or convey any document at the General Division using Electronic Filing Service if its filing, service, delivery or conveyance is not required under Order 55D.
 
@@ -95,13 +95,13 @@ Every single page of a document must be paginated so that the pagination on the 
 
 ## 108. Filing documents through service bureau
 
-(1) Solicitors and law firms are encouraged file documents through the Electronic Filing Service. However, in the event that certain documents cannot be filed through the Electronic Filing Service, solicitors and law firms may file documents through the service bureau. Litigants in person may also file documents through the service bureau.
+(1) Solicitors and law firms are encouraged to file documents through the Electronic Filing Service. However, in the event that certain documents cannot be filed through the Electronic Filing Service, solicitors and law firms may file documents through the service bureau. Litigants who are not legally represented may also file documents through the service bureau.
 
 (2) The operating hours of the service bureau may be found on the eLitigation's website at https://www.elitigation.sg.
 
 ## 109. Filing of documents to the Supreme Court through a State Courts service bureau
 
-Pursuant to Order 63A, Rule 18(4) of the Rules of Court, the Registrar hereby prescribes that any service bureau established or authorised to be established by the Registrar of the State Courts may assist in the filing, service, delivery or conveyance of documents pertaining to Supreme Court proceedings using the Electronic Filing Service if the service bureau, or, if there are more than one, all the service bureaux, established or authorised to be established by the Registrar are unable to provide such services owing to failure of hardware or software, or both.
+Pursuant to Order 63A, Rule 18(5) of the Rules of Court, the Registrar hereby prescribes that any service bureau established or authorised to be established by the Registrar of the State Courts may assist in the filing, service, delivery or conveyance of documents pertaining to Supreme Court proceedings using the Electronic Filing Service if the service bureau, or, if there are more than one, all the service bureaux, established or authorised to be established by the Registrar are unable to provide such services owing to failure of hardware or software, or both.
 
 ## 110. Limits on the size and number of documents submitted using the Electronic Filing Service
 
