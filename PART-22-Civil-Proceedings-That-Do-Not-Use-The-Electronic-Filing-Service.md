@@ -21,7 +21,7 @@ The directions contained in this Part shall apply to proceedings that do not req
 
 ## 154. Information to be provided in cause papers and documents that are filed in the Legal Registry of the Supreme Court
 
-To facilitate the contacting of lawyers having conduct of an action or charge of a matter by members of the staff of the Supreme Court, the following information shall be inserted on backing sheets of all cause papers and documents filed in the Legal Registry in the format set out: 
+To facilitate the contacting of lawyers having conduct of an action or charge of a matter by members of the staff of the Supreme Court, the following information shall be inserted on the cover sheet or the backing sheet of all cause papers and documents filed in the Legal Registry in the format set out below:
 ```
 (Name of lawyer(s) having conduct of action or charge of matter.)
 
@@ -29,13 +29,14 @@ To facilitate the contacting of lawyers having conduct of an action or charge of
 
 (Address of law firm.)
 
+Email: (Email address of lawyer / law firm.)
+
 Tel : (Contact telephone number.)
 
 Ref : (File reference of law firm.)
 ```
 
-The information is to be inserted as a block near the bottom right hand
-corner of the backing sheets.
+The information is to be inserted as a block near the bottom of the cover sheet or near the bottom right hand corner of the backing sheet.
 
 ## 155. Form of affidavits
 
@@ -66,21 +67,16 @@ corner of the backing sheets.
 (1) In order to inspect a case file in civil proceedings that do not use the Electronic Filing Service, the following procedure should be followed:
 
 <ul type="*">
-	<li>(a) A hard copy <span title='Formerly known as "praecipe".'><b><i>Request</i></b></span> should be submitted to obtain leave to inspect the case file. The Request should state the name of the person who is to carry out the search or inspection. If this person is not a solicitor, his identity card number should also be included in the Request, after his name and a copy of his identity card should be provided. The Request should also state the interest that the applicant has in the matter, and the reason for the search or inspection. If the search or inspection is requested for the purpose of ascertaining information for use in a separate suit or matter, the Request should clearly state the nature of the information sought and the relevance of such information to the separate suit or matter.</li>
-	
-	<li>(b) Once approval for inspection has been received from the Court, a copy of the approval should be presented at the service bureau.</li>
-	
-	<li>(c) After verifying the approval, the service bureau will assign the inspecting party a personal computer for the inspection to be carried out.</li>
-	
-	<li>(d) An inspecting party will usually be allowed 60 minutes to carry out the inspection. If a longer period is required, the service bureau may impose a charge for use of the computer. The service bureau may impose additional charges for downloading softcopies of documents from the case file undergoing inspection.</li>
+	<li>(a) A <b><i>Request</i></b> should be submitted to obtain leave to inspect the case file. The Request should state the name of the person who is to carry out the search or inspection. If this person is not a solicitor, his or her identification and contact details should also be included in the Request, and his or her identification document (including physical or digital identity card) should be produced for verification when requested. The Request should also state the interest that the applicant has in the matter, and the reason for the search or inspection. If the search or inspection is requested for the purpose of ascertaining information for use in a separate suit or matter, the Request should clearly state the nature of the information sought and the relevance of such information to the separate suit or matter.</li>
+	<li>(b) Upon confirmation of the receipt of payment of the fees payable, and once approval for inspection has been received from the Court, the inspection of the case file and Court documents will be carried out at the Registry.</li>
 </ul>
 
-(2) Applications to obtain hard copy extracts or certified true paper copies of documents in civil proceedings that do not use the Electronic Filing Service may be made by submitting a Request in hard copy to the Legal Registry.
+(2) Applications to obtain hard copy extracts or certified true copies of documents in civil proceedings that do not use the Electronic Filing Service may be made by submitting a Request to the Legal Registry.
 
 <ul type="*">
-	<li>(a) The intended use of the hard copy extracts or certified true paper copies should be clearly stated in the Request. The relevance and necessity of the hard copy extracts or certified true paper copies in relation to their intended use should also be clearly described.</li>
-	<li>(b) Once approval is received from the Court, the applicant should obtain a printed copy of the approved Request and present it at the Legal Registry. After verifying that the Request has been approved, the Legal Registry will inform the applicant of any additional fees payable. Where additional fees are payable, these should then be stamped on the Request at the Cashier’s Office at the Legal Registry. Upon presentation of this stamped Request, the documents will be furnished to the applicant.</li>
-	<li>(c) The fees prescribed by Appendix B to the Rules of Court will be payable for the above services in addition to further printing charges which may be chargeable by the Court or the service bureau for reproducing the copies in paper form.</li>
+	<li>(a) The intended use of the hard copy extracts or certified true copies should be clearly stated in the Request. The relevance and necessity of the hard copy extracts or certified true copies in relation to their intended use should also be clearly described.</li>
+	<li>(b) The applicant will be informed of the outcome to his or her Request and the fees payable for the provision of the certified true copies if the Request is approved. Upon confirmation of the receipt of payment of the fees payable, the certified true copies will be released to the applicant. The Registry may require verification of the identity of the applicant against his or her identification document (including physical or digital identity card) prior to release of the certified true copies.</li>
+	<li>(c) The fees prescribed by Appendix B to the Rules of Court will be payable for the provision of the above service.</li>
 </ul>
 
-(3) The Legal Registry will only accept Requests which are printed or typewritten on paper of good quality and signed by the solicitors concerned. Requests which have any erasure marks on them will be rejected. Requests which are double stamped (i.e. the Requests were originally short stamped and later stamped to add up to the correct fee) may be rejected.
+(3) The Registry will only accept typewritten Requests which are printed on paper of good quality and signed by the applicant or his or her solicitors concerned. If the Request is not typewritten, it should be handwritten in a clear and legible manner. Otherwise, the Request may be rejected.
