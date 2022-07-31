@@ -14,6 +14,7 @@
 	<li>85. Whether an appeal to the Court of Appeal is to be heard by a 2 or 3 Judge Court of Appeal</li>
 	<li>85A. Whether an appeal to the Court of Appeal is to be heard by 5 or any greater uneven number of Judges</li>
 	<li>85B. Leave of the Court of Appeal or the Appellate Division to receive further affidavits in relation to an application to strike out a notice of appeal</li>
+	<li>85C. Applications that may be made either to the General Division or an appellate Court</li>
 	<li>86. Quantum of security to be provided under Order 57, Rule 3(3) of the Rules of Court as in force immediately before 2 January 2021</li>
 	<li>86A. Appeals Information Sheet for civil appeals to the Court of Appeal and civil appeals to the Appellate Division</li>
 	<li>87. Filing of records of appeal, core bundles and written Cases for civil appeals under Order 56A, Rules 8 and 9 and Order 57, Rules 9 and 9A of the Rules of Court</li>
@@ -127,6 +128,17 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act (Cap. 322) and 
 (1) Under Order 57, Rule 16, a respondent may make an application to strike out a notice of appeal within the time frame provided in the Rule. The leave of the Court of Appeal to receive any further affidavit pursuant to Order 57, Rule 16(13), may be sought by way of correspondence to the Court of Appeal, or an appointment before a Judge sitting in the Court of Appeal in a case management conference.
 
 (2) Under Order 56A, Rule 17, a respondent may make an application to strike out a notice of appeal within the time frame provided in the Rule. The leave of the Appellate Division to receive any further aﬃdavit pursuant to Order 56A, Rule 17(16), may be sought by way of correspondence to the Appellate Division, or an appointment before a Judge sitting in the Appellate Division in a case management conference.
+
+## 85C. Applications that may be made either to the General Division or an appellate Court
+
+(1) Where an application may be made either to the General Division or to an appellate Court (being the Appellate Division or the Court of Appeal), and the application is first made to the General Division pursuant to section 39 or 57 of the Supreme Court of Judicature Act 1969:
+
+<ul type="*">
+	<li>(a) if the application is refused by the General Division, and the applicant still wishes to obtain the relief sought in the refused application, the applicant should make an application to the appellate Court for the same relief, instead of filing an appeal to the appellate Court; and </li>
+	<li>(b) in any event, any party who wishes to vary or discharge any direction or order made by the General Division on the application should likewise make an application to the appellate Court to vary or discharge that direction or order, instead of filing an appeal to the appellate Court. </li>
+</ul>
+
+(2) Except as provided in sub-paragraph (1), any party who is dissatisfied with a decision of the General Division may file an appeal to the appellate Court against that decision in accordance with the relevant provisions of the Supreme Court of Judicature Act 1969 and the applicable rules of civil procedure.
 
 ## 86. Quantum of security to be provided under Order 57, Rule 3(3) of the Rules of Court as in force immediately before 2 January 2021
 
