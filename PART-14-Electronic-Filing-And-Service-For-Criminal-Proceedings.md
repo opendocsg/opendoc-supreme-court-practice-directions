@@ -11,7 +11,7 @@
 
 (1) The directions contained in this Part shall apply to the ﬁling, service, delivery and conveyance of documents in criminal proceedings commenced in the High Court on or after 10 January 2005 but before 2 January 2021 or in the General Division on or after 2 January 2021, and criminal proceedings commenced in the Court of Appeal on or after 10 January 2005.
 
-(2) The attention of solicitors is drawn to the Criminal Procedure Code (Electronic Filing and Service for Supreme Court) Regulations 2012, which shall have eﬀect in relation to any document that is required to be ﬁled with, served on, delivered or otherwise conveyed to the Supreme Court or any party to any criminal matter that is to be heard in the Supreme Court under the Criminal Procedure Code (Cap 68).
+(2) The attention of solicitors is drawn to the Criminal Procedure Code (Electronic Filing and Service for Supreme Court) Regulations 2012 as in force immediately before 1 April 2022, which shall have effect in relation to any document that is required to be filed with, served on, delivered or otherwise conveyed to the Supreme Court or any party to any criminal matter that is to be heard in the Supreme Court under the Criminal Procedure Code 2010.
 
 (3) In addition, the following paragraphs of these Practice Directions shall apply, *mutatis mutandis*, to specified documents filed under this Part:
 
@@ -35,7 +35,7 @@
 
 ## 117. Hard copies of documents
 
-(1) The provisions of this paragraph are without prejudice to the provisions of the Criminal Procedure Code (Electronic Filing and Service for Supreme Court) Regulations 2012.
+(1) The provisions of this paragraph are without prejudice to the provisions of the Criminal Procedure Code (Electronic Filing and Service for Supreme Court) Regulations 2012 as in force immediately before 1 April 2022.
 
 (2) Counsel in magistrate’s appeals, criminal revisions, criminal motions, show cause proceedings and special case hearings before the General Division should ensure that 2 hard copies each of any skeletal arguments and/or bundles of authorities are tendered to the Legal Registry of the Supreme Court.
 
@@ -72,4 +72,4 @@
 
 ## 119. Filing fees
 
-The attention of solicitors is drawn to Regulations 7 and 8 of the Criminal Procedure Code (Electronic Filing and Service) Regulations 2012, which govern the payment of fees for the use of the service bureau and the electronic filing service for criminal proceedings.
+The attention of solicitors is drawn to Regulations 7 and 8 of the Criminal Procedure Code (Electronic Filing and Service for Supreme Court) Regulations 2012 as in force immediately before 1 April 2022, which govern the payment of fees for the use of the service bureau and the electronic filing service for criminal proceedings.
