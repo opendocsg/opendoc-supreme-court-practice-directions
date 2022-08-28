@@ -31,7 +31,7 @@ In exercise of the powers conferred by Order 63A, Rules 2 and 3 of the Rules of 
 
 ## 102.  Appointment of agent to establish service bureau
 
-Pursuant to Order 63A, Rule 4 of the Rules of Court, the Registrar appoints CrimsonLogic Pte Ltd as an agent to establish a service bureau or service bureaux at such address or addresses in Singapore as may be deemed suitable.
+Pursuant to Order 63A, Rule 4 of the Rules of Court, the Registrar has appointed CrimsonLogic Pte Ltd as an agent to establish a service bureau or service bureaux at such address or addresses in Singapore as may be deemed suitable.
 
 ## 103. Registered users and authorised users
 
