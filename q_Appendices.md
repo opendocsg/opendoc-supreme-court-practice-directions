@@ -82,7 +82,7 @@
 ## Appendix G : Guidelines for Party-and-Party costs awards in the Supreme Court of Singapore
 
 <ul type="*">
-	<li><a href="./downloads/Appendix_G/Appendix_G.pdf" download>GUIDELINES FOR PARTY-AND-PARTY COSTS AWARDS IN THE SUPREME COURT OF SINGAPORE</a></li>
+	<li><a href="./downloads/Appendix_G/PD 2013 Appendix G.pdf" download>GUIDELINES FOR PARTY-AND-PARTY COSTS AWARDS IN THE SUPREME COURT OF SINGAPORE</a></li>
 </ul>
 
 ## Appendix H : Registrar, Deputy Registrar, Divisional and Deputy Divisional Registrars, and Senior Assistant Registrars
