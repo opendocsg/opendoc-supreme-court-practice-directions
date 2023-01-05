@@ -63,9 +63,9 @@ The attention of solicitors is drawn to Rules 24 and 31 and Appendix 1 of Order 
 		<li>(ii) Any agreement, whether oral or in writing, between the solicitor and his own client relating to the amount of costs payable either as a global sum or in respect of particular items included in the bill should be indicated on the bill. Any agreement between the solicitor and his own client as to the rate to be used to compute the solicitor’s costs should also be indicated in the bill.</li>
 	</ul>
 	<p>
-		<strong><em>BILLS OF COSTS REQUIRED TO BE TAXED UNDER SECTION 18(3) OF THE MOTOR VEHICLES (THIRD-PARTY RISKS AND COMPENSATION) ACT</em></strong>
+		<strong><em>BILLS OF COSTS REQUIRED TO BE TAXED UNDER SECTION 18(3) OF THE MOTOR VEHICLES (THIRD-PARTY RISKS AND COMPENSATION) ACT 1960</em></strong>
 	</p>
-	<li>(d) Whenever a solicitor-and-own-client bill is required to be taxed by virtue of the Motor Vehicles (Third-Party Risks and Compensation) Act (Cap. 189), a bill should be drawn up for taxation between the solicitor and his own client <i>and</i> another bill drawn up for taxation between the client and the other party to the proceedings in which the solicitor acted for the client. A waiver of the filing fees for the solicitor-and–own-client bill may be requested when this bill is filed.</li>
+	<li>(d) Whenever a solicitor-and-own-client bill is required to be taxed by virtue of the Motor Vehicles (Third-Party Risks and Compensation) Act 1960, a bill should be drawn up for taxation between the solicitor and his own client <i>and</i> another bill drawn up for taxation between the client and the other party to the proceedings in which the solicitor acted for the client. A waiver of the filing fees for the solicitor-and–own-client bill may be requested when this bill is filed.</li>
 	<ul type="*">
 		<li>(i) The party-and-party bill should be filed first and the solicitor-and-own-client bill should reference the first bill.</li>
 		<li>(ii) The party-and-party bill and the solicitor-and-own client bill can be drawn up as described in sub-paragraphs (3)(a) and (3)(c) with the modification set out in sub-paragraph (3)(d)(iii) below.</li>
@@ -95,7 +95,7 @@ The attention of solicitors is drawn to Rules 24 and 31 and Appendix 1 of Order 
 	<p>
 		<strong><em>INPUT TAX ALLOWABLE</em></strong>
 	</p>
-	<li>(b) The proportion of input tax for which the receiving parties, or one or more of them, are not entitled to credit should be stated, as a percentage, in parentheses after the GST registration number of the party or parties concerned. For a person who is not liable to be registered within the meaning of the First Schedule to the Goods and Services Tax Act (Cap. 117A), this proportion should be 100%.</li>
+	<li>(b) The proportion of input tax for which the receiving parties, or one or more of them, are not entitled to credit should be stated, as a percentage, in parentheses after the GST registration number of the party or parties concerned. For a person who is not liable to be registered within the meaning of the First Schedule to the Goods and Services Tax Act 1993, this proportion should be 100%.</li>
 	<p>
 		<strong><em>APPORTIONMENT</em></strong>
 	</p>
@@ -175,7 +175,7 @@ The attention of solicitors is drawn to Rules 24 and 31 and Appendix 1 of Order 
 (3) If the Official Assignee, the Official Receiver, the Public Trustee or the Director of Legal Aid, as may be applicable, agrees with the amounts claimed in the bill of costs, then:
 
 <ul type="*">
-	<li>(a) for solicitor-and-client costs required to be taxed pursuant to the provisions of the Motor Vehicles (Third-Party Risks and Compensation) Act (Cap. 189):</li>
+	<li>(a) for solicitor-and-client costs required to be taxed pursuant to the provisions of the Motor Vehicles (Third-Party Risks and Compensation) Act 1960:</li>
 	<ul type="*">
 		<li>(i) where no party-and-party bill of costs has been filed; or</li>
 		<li>(ii) where the solicitor-and-client costs is not referenced to a party-and-party bill filed earlier,</li>
@@ -185,13 +185,13 @@ The attention of solicitors is drawn to Rules 24 and 31 and Appendix 1 of Order 
 	<ul type="*">
 		<li>(i) party-and-party bills filed by the creditor under the Bankruptcy (Costs) Rules or the Insolvency, Restructuring and Dissolution (Personal Insolvency) Rules 2020, to which the estate of the bankrupt is the respondent;</li>
 		<li>(ii) party-and-party bills filed by the creditor in companies winding-up matters where the Official Receiver is appointed liquidator and to which the company in liquidation is the respondent to the bill of  costs; or</li>
-		<li>(iii) solicitor-and-client bills filed pursuant to the Legal Aid and Advice Act (Cap. 160) where the Director of Legal Aid is the respondent,</li>
+		<li>(iii) solicitor-and-client bills filed pursuant to the Legal Aid and Advice Act 1995 where the Director of Legal Aid is the respondent,</li>
 	</ul>
 	<li>the receiving party and the Official Assignee, the Official Receiver or the Director of Legal Aid, as the case may be, need not attend at the taxation and the bill will be taxed in their absence. However, if the taxing Registrar disagrees with the quantum of costs agreed on, he or she may nonetheless direct the attendance of the receiving party and the Official Assignee, the Official Receiver or the Director of Legal Aid, as the case may be, at a later date.</li>
 </ul>
 
 
-(4) If solicitor-and-client costs are required to be taxed pursuant to the provisions of the Motor Vehicles (Third-Party Risks and Compensation) Act and the bill of costs claiming the same is referenced to an earlier party-and-party bill filed pursuant to paragraph 94(3)(d), the Public Trustee need not attend the taxation of the bill and the party-and-party and solicitor-and-client costs will be taxed in the absence of the Public Trustee. However, the Public Trustee may attend at the taxation if he so wishes, and shall attend if an express direction is made by the taxing Registrar that he attend in relation to a particular bill of costs.
+(4) If solicitor-and-client costs are required to be taxed pursuant to the provisions of the Motor Vehicles (Third-Party Risks and Compensation) Act 1960 and the bill of costs claiming the same is referenced to an earlier party-and-party bill filed pursuant to paragraph 94(3)(d), the Public Trustee need not attend the taxation of the bill and the party-and-party and solicitor-and-client costs will be taxed in the absence of the Public Trustee. However, the Public Trustee may attend at the taxation if he so wishes, and shall attend if an express direction is made by the taxing Registrar that he attend in relation to a particular bill of costs.
 
 ## 99. Fixing costs <span style="font-style: italic;">*in lieu*</span> of ordering taxation
 

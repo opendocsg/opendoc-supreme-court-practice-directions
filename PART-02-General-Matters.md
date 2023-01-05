@@ -304,7 +304,7 @@ Solicitors should indicate in the CDMS that they are ready for hearing only when
 
 ## 16. Precedence and preaudience of Senior Counsel
 
-(1) By virtue of section 31 of the Legal Profession Act (Cap. 161) and existing custom and usage, Senior Counsel are given precedence and the right of preaudience.
+(1) By virtue of section 31 of the Legal Profession Act 1966 and existing custom and usage, Senior Counsel are given precedence and the right of preaudience.
 
 (2) In order to give substance to the principle of precedence and preaudience to Senior Counsel, the Honourable the Chief Justice has directed that Senior Counsel who intend to appear before Judges or Registrars for summonses should inform the Registrar in writing not later than 2 clear days before the scheduled hearing date. Senior Counsel should indicate their presence in the Central Display Management System (CDMS), and shall be given precedence and the right of preaudience, subject to the Judge’s or Registrar’s overriding discretion.
 
@@ -479,7 +479,7 @@ Nothing in this paragraph detracts from the responsibility of lead counsel to en
 </ul>
 provided that such use does not in any way disrupt or trivialise the proceedings.
 
-(4) The attention of court users is also drawn to section 5 of the Administration of Justice (Protection) Act 2016 (Act No. 19 of 2016).
+(4) The attention of court users is also drawn to section 5 of the Administration of Justice (Protection).
 
 ## 23.Certification of transcripts
 
@@ -562,7 +562,7 @@ Access by parties to a case file
 (1) For the purposes of the following paragraphs:
 
 <ul type="*">
-	<li>(a) “personal data” shall have the same meaning as defined in the Personal Data Protection Act 2012 (Act No. 26 of 2012); and</li>
+	<li>(a) “personal data” shall have the same meaning as defined in the Personal Data Protection Act 2012; and</li>
 	<li>(b) “data subject” means a person whose personal data appears in any document filed in the Registry or an electronic cause book or register maintained by the Registry.</li>
 </ul>
 

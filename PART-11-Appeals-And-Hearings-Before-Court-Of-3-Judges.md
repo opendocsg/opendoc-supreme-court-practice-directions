@@ -56,9 +56,9 @@
 
 ## 81. Application of this Part
 
-(1) The directions in this Part shall, subject to sub-paragraph (2) below, *mutatis mutandis*, apply to appeals before the General Division, hearings before the Appellate Division, hearings before the Court of Appeal and disciplinary proceedings (or appeals therefrom) brought under any statute, including the Legal Profession Act and the Medical Registration Act, which are heard by a Court of 3 Judges.
+(1) The directions in this Part shall, subject to sub-paragraph (2) below, *mutatis mutandis*, apply to appeals before the General Division, hearings before the Appellate Division, hearings before the Court of Appeal and disciplinary proceedings (or appeals therefrom) brought under any statute, including the Legal Profession Act 1966 and the Medical Registration Act 1997, which are heard by a Court of 3 Judges.
 
-(2) Where disciplinary proceedings (or appeals therefrom) brought under any statute, including the Legal Profession Act and the Medical Registration Act, are heard by a Court of 3 Judges, 1 hard copy each of the parties’ written submissions, the record of proceedings, the originating summons and all aﬃdavits ﬁled in the originating summons shall be tendered, unless otherwise directed.
+(2) Where disciplinary proceedings (or appeals therefrom) brought under any statute, including the Legal Profession Act 1966 and the Medical Registration Act 1997, are heard by a Court of 3 Judges, 1 hard copy each of the parties’ written submissions, the record of proceedings, the originating summons and all aﬃdavits ﬁled in the originating summons shall be tendered, unless otherwise directed.
 
 ## 82. Requests for further arguments before the Judge or Registrar
 
@@ -85,7 +85,7 @@
 
 ***Appeals from the Family Court***
 
-(2) Directions for appeals from the Family Court on ancillary matters in divorce proceedings, custody matters or proceedings pursuant to s 17A(2) of the Supreme Court of Judicature Act are set out at paragraph 142.
+(2) Directions for appeals from the Family Court on ancillary matters in divorce proceedings, custody matters or proceedings pursuant to s 17A(2) of the Supreme Court of Judicature Act 1969 are set out at paragraph 142.
 
 ***Appeals from the Employment Claims Tribunal***
 
@@ -121,7 +121,7 @@
 
 ## 85A. Whether an appeal to the Court of Appeal is to be heard by 5 or any greater uneven number of Judges
 
-Pursuant to section 50(1) of the Supreme Court of Judicature Act (Cap. 322) and notwithstanding any determination that may be made under paragraph 85(2) or (4) of these Practice Directions, the Court of Appeal may determine, as and when appropriate, whether to convene a panel of 5 or any greater uneven number of Judges. Such determination of the Court of Appeal will be final.
+Pursuant to section 50(1) of the Supreme Court of Judicature Act 1969 and notwithstanding any determination that may be made under paragraph 85(2) or (4) of these Practice Directions, the Court of Appeal may determine, as and when appropriate, whether to convene a panel of 5 or any greater uneven number of Judges. Such determination of the Court of Appeal will be final.
 
 ## 85B. Leave of the Court of Appeal or the Appellate Division to receive further aﬃdavits in relation to an application to strike out a notice of appeal
 
@@ -148,7 +148,7 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act (Cap. 322) and 
 	<li>(b) to any appeal against a decision of the High Court, where that decision is made before 2 January 2021 in the circumstances mentioned in section 31(4) of the Amendment Act and either of the following applies:</li>
 	<ul type="*">
 		<li>(i) leave is granted as mentioned in section 31(4)(<em>c</em>) of the Amendment Act to bring an appeal against that decision to the Court of Appeal; </li>
-		<li>(ii) leave to appeal to the Court of Appeal is sought from the Court of Appeal under section 34 of the Supreme Court of Judicature Act as in force immediately before 2 January 2021.</li>
+		<li>(ii) leave to appeal to the Court of Appeal is sought from the Court of Appeal under section 34 of the Supreme Court of Judicature Act (Cap. 322, 2007 Rev. Ed.) as in force immediately before 2 January 2021.</li>
 	</ul>
 </ul>
 
@@ -450,7 +450,7 @@ Parties should avoid the use of generic descriptions such as “extracts from th
 
 ***Application of this paragraph to Court of 3 Judges***
 
-(11) Sub-paragraphs (1) to (8A) also apply to disciplinary proceedings, or appeals therefrom, brought under any statute, including the Legal Profession Act (Cap. 161) and the Medical Registration Act (Cap. 174), which are heard by a Court of 3 Judges.
+(11) Sub-paragraphs (1) to (8A) also apply to disciplinary proceedings, or appeals therefrom, brought under any statute, including the Legal Profession Act 1966 and the Medical Registration Act 1997, which are heard by a Court of 3 Judges.
 
 ## 90A. Applications in civil matters before the Court of Appeal and civil matters before the Appellate Division
 
@@ -469,7 +469,7 @@ Parties should avoid the use of generic descriptions such as “extracts from th
 	<li>(e) every page shall have a margin on all 4 sides, each of at least 35mm in width.</li>
 </ul>
 
-(5) If no aﬃdavits or submissions are ﬁled by the timelines prescribed by this paragraph, the Court of Appeal or the Appellate Division (as the case may be) will proceed on the basis that the party does not intend to ﬁle any aﬃdavit or submissions and may, in accordance with section 55(1)(*a*) or section 37(1)(*a*) of the Supreme Court of Judicature Act (as the case may be), decide the matter based on the documents before it without hearing oral arguments.
+(5) If no aﬃdavits or submissions are ﬁled by the timelines prescribed by this paragraph, the Court of Appeal or the Appellate Division (as the case may be) will proceed on the basis that the party does not intend to ﬁle any aﬃdavit or submissions and may, in accordance with section 55(1) or section 37(1) of the Supreme Court of Judicature Act 1969 (as the case may be), decide the matter based on the documents before it without hearing oral arguments.
 
 ## 90B. Applications to the Court of Appeal, and applications to the Appellate Division, for leave to appeal in civil matters
 
@@ -494,9 +494,9 @@ shall be in Form 31A or 31B of Appendix A of these Practice Directions.
 	<li>(e) every page shall have a margin on all 4 sides, each of at least 35mm in width.</li>
 </ul>
 
-(4) If no written submissions are ﬁled in the Court of Appeal or the Appellate Division by the timelines prescribed by Order 57, Rule 2A or Order 56A, Rule 3 of the Rules of Court (as the case may be), the Court of Appeal or the Appellate Division (as the case may be) will proceed on the basis that the party does not intend to ﬁle any written submissions and may, in accordance with section 55(1)(*a*) or section 37(1)(*a*) of the Supreme Court of Judicature Act (as the case may be), decide the matter based on the documents before it without hearing oral arguments.
+(4) If no written submissions are ﬁled in the Court of Appeal or the Appellate Division by the timelines prescribed by Order 57, Rule 2A or Order 56A, Rule 3 of the Rules of Court (as the case may be), the Court of Appeal or the Appellate Division (as the case may be) will proceed on the basis that the party does not intend to ﬁle any written submissions and may, in accordance with section 55(1) or section 37(1) of the Supreme Court of Judicature Act 1969 (as the case may be), decide the matter based on the documents before it without hearing oral arguments.
 
-(5) This paragraph does not apply to any application for leave to appeal against a decision of the General Division made before 2 January 2021 against which no appeal was brought before 2 January 2021, in a case where leave of the Court of Appeal was required to bring an appeal to the Court of Appeal under section 34(2), (2A) or (4) of the Supreme Court of Judicature Act as in force immediately before 2 January 2021. For any such application for leave to appeal, paragraph 90A sets out the directions for the filing of affidavits and written submissions.
+(5) This paragraph does not apply to any application for leave to appeal against a decision of the General Division made before 2 January 2021 against which no appeal was brought before 2 January 2021, in a case where leave of the Court of Appeal was required to bring an appeal to the Court of Appeal under section 34(2), (2A) or (4) of the Supreme Court of Judicature Act (Cap. 322, 2007 Rev. Ed.) as in force immediately before 2 January 2021. For any such application for leave to appeal, paragraph 90A sets out the directions for the filing of affidavits and written submissions.
 
 ## 91. Use of presentation slides for all proceedings before the General Division, Appellate Division, Court of Appeal and Court of 3 Judges
 
@@ -548,4 +548,4 @@ Subject to approval by the Court, parties may utilise presentation slides to ass
 
 (1) Where a Grant of Aid lapses or is cancelled in the course of any proceedings in the Court of Appeal or the Appellate Division, counsel should promptly notify the Court of Appeal or the Appellate Division (as the case may be) of the lapse or the cancellation in writing. This is given that questions may arise from the lapse or the cancellation of a Grant of Aid as to whether security for costs would need to be furnished to enable the proceedings in the Court of Appeal or the Appellate Division (as the case may be) to continue to be pursued.
 
-(2) For the avoidance of doubt, “Grant of Aid” in sub-paragraph (1) means a document issued under section 8 of the Legal Aid and Advice Act (Cap. 160) stating that legal aid is granted to a person (whether on a provisional basis or otherwise).
+(2) For the avoidance of doubt, “Grant of Aid” in sub-paragraph (1) means a document issued under section 8 of the Legal Aid and Advice Act 1995 stating that legal aid is granted to a person (whether on a provisional basis or otherwise).

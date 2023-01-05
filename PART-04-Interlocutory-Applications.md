@@ -104,10 +104,10 @@ The Court may also direct that this paragraph applies to any other application.
 	<li>(h) applications for orders of priority of claims against the proceeds of sale of a ship under Order 70, Rule 21;</li>
 	<li>(i) applications in a pending action for apportionment of salvage under Order 70, Rule 32;</li>
 	<li>(j) applications for objections to a decision on a reference under Order 70, Rule 42;</li>
-	<li>(k) applications under the Patents Act (Cap. 221) under Order 87A, Rule 11(6);</li>
-	<li>(l) applications for Judicial Service Officers, Legal Service Officers or non-practising solicitors to be struck off the roll under section 82A(10) of the Legal Profession Act (Cap. 161);</li>
+	<li>(k) applications under the Patents Act 1994 under Order 87A, Rule 11(6);</li>
+	<li>(l) applications for Judicial Service Officers, Legal Service Officers or non-practising solicitors to be struck off the roll under section 82A(10) of the Legal Profession Act 1966;</li>
 	<li>(m) [deleted]</li>
-  <li>(n) applications for the committal of a person to prison for contempt in relation to the winding up of a company under section 124 of the Insolvency, Restructuring and Dissolution Act 2018 (Act 40 of 2018); and</li>
+  <li>(n) applications for the committal of a person to prison for contempt in relation to the winding up of a company under section 124 of the Insolvency, Restructuring and Dissolution Act 2018 ; and</li>
   <li>(o) applications to rectify the register of members of a company under section 152 of the Insolvency, Restructuring and Dissolution Act 2018.</li>
 </ul>
 
@@ -122,7 +122,7 @@ The Court may also direct that this paragraph applies to any other application.
 
 ## 40. Transfer of proceedings to the State Courts
 
-Where a claim in the General Division which may have initially exceeded $250,000 is subsequently reduced below this amount, solicitors should bring this to the attention of the Registrar and apply by summons or at the hearing of the summons for directions for an order that the action be transferred to a State Court for trial under section 54C of the State Courts Act (Cap 321), which provides:
+Where a claim in the General Division which may have initially exceeded $250,000 is subsequently reduced below this amount, solicitors should bring this to the attention of the Registrar and apply by summons or at the hearing of the summons for directions for an order that the action be transferred to a State Court for trial under section 54C of the State Courts Act 1970, which provides:
 <ul type="*">
 	<p>
 		<strong><em>General power to transfer from General Division of High Court to State Courts</em></strong>
@@ -210,6 +210,6 @@ When composing the summons electronic form online through the Electronic Filing 
 
 (3) If the applicant requires an urgent hearing date, the onus shall lie on the applicant to attend before the Duty Registrar to highlight the nature of the application and to request that the application be fixed for hearing on an urgent basis.
 
-(4) In sub-paragraph (1)(a), the words “electronic copy”, “material”, “network service provider” and “primary network” have the same meanings as in section 193A(1) of the Copyright Act (Cap. 63).
+(4) In sub-paragraph (1)(a), the words “electronic copy”, “material”, “network service provider” and “primary network” have the same meanings as in section 193A(1) of the Copyright Act (Cap. 63, 2006 Rev. Ed.).
 
 (5) In sub-paragraph (1)(b), the words “electronic recording”, “network service provider”, “performance” and “primary network” have the same meanings as in section 246(1) of the Copyright Act.
