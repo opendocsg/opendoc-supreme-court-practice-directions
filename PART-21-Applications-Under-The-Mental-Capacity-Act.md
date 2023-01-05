@@ -1,4 +1,4 @@
-# Part XXI: Applications Under The Mental Capacity Act
+# Part XXI: Applications Under The Mental Capacity Act 2008
 
 <ul type="*">
 	<li>147. Transfer of mental capacity proceedings to District Court</li>
@@ -24,13 +24,13 @@
 
 ## 147. Transfer of mental capacity proceedings to District Court
 
-(1) The Supreme Court of Judicature (Transfer of Mental Capacity Proceedings to District Court) Order 2010, made under section 28A of the Supreme Court of Judicature Act (Cap. 322), came into operation on 1 March 2010 (“the Transfer Order”).
+(1) The Supreme Court of Judicature (Transfer of Mental Capacity Proceedings to District Court) Order 2010, made under section 28A of the Supreme Court of Judicature Act (Cap. 322, 2007 Rev. Ed.), came into operation on 1 March 2010 (“the Transfer Order”).
 
 (2) Pursuant to the Transfer Order –
 
 <ul type="*">
-	<li>(a) any proceedings under the Mental Capacity Act (Cap. 177A) (referred to in this Part as “the MCA”) commenced in the High Court on or after 1 March 2010 but before 1 October 2014 shall be transferred to and be heard and determined by a District Court; and</li>
-	<li>(b) any application under the MCA made, on or after 1 March 2010, in relation to any proceedings commenced in the High Court before that date under Part I of the Mental Disorders and Treatment Act (Cap. 178) (referred to in this Part as “the MDTA”) in force before that date, shall be heard and determined by the High Court before 2 January 2021 or the General Division on or after 2 January 2021.</li>
+	<li>(a) any proceedings under the Mental Capacity Act (Cap. 177A, 2010 Rev. Ed.) (referred to in this Part as “the MCA”) commenced in the High Court on or after 1 March 2010 but before 1 October 2014 shall be transferred to and be heard and determined by a District Court; and</li>
+	<li>(b) any application under the MCA made, on or after 1 March 2010, in relation to any proceedings commenced in the High Court before that date under Part I of the Mental Disorders and Treatment Act (Cap. 178, 1985 Rev. Ed.) (referred to in this Part as “the MDTA”) in force before that date, shall be heard and determined by the High Court before 2 January 2021 or the General Division on or after 2 January 2021.</li>
 </ul>
 
 (3) Pursuant to the Family Justice Act 2014, with eﬀect from 1 October 2014, proceedings under the MCA shall be heard and determined by the Family Justice Courts. Notwithstanding this, any proceedings under the MCA commenced in the High Court before 1 October 2014 shall, on and after that date, be continued in and dealt with by the High Court before 2 January 2021 or the General Division on or after 2 January 2021.
