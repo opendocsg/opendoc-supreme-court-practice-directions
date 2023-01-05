@@ -2,7 +2,7 @@
 
 <ul type="*">
 	<li>160. Judge Pre-Trial Conference Checklist for criminal cases in the General Division</li>
-    <li>161. Affidavit in support of a Leave Application under section 394H of the Criminal Procedure Code</li>
+    <li>161. Affidavit in support of a Leave Application under section 394H of the Criminal Procedure Code 2010</li>
 </ul>
 
 
@@ -16,7 +16,7 @@
 
 ## 161. Affidavit in support of a Leave Application under section 394H of the Criminal Procedure Code
 
-(1) Under section 394H(3) of the Criminal Procedure Code read with Rules 11(2) and (3)
-of the Criminal Procedure Rules 2018, the applicant in a leave application (as defined in section 394F(1) of the Criminal Procedure Code) must file an affidavit in support of the leave application at the same time as the filing of the leave application. This affidavit is to be made by the applicant's advocate (if the applicant is represented by an advocate when the affidavit is filed) or by the applicant (if the applicant is not represented by an advocate when the affidavit is filed).
+(1) Under section 394H(3) of the Criminal Procedure Code 2010 read with Rules 11(2) and (3)
+of the Criminal Procedure Rules 2018, the applicant in a leave application (as defined in section 394F(1) of the Criminal Procedure Code 2010) must file an affidavit in support of the leave application at the same time as the filing of the leave application. This affidavit is to be made by the applicant's advocate (if the applicant is represented by an advocate when the affidavit is filed) or by the applicant (if the applicant is not represented by an advocate when the affidavit is filed).
 
 (2) Every affidavit mentioned in sub-paragraph (1) must attach as an exhibit an information sheet in Form 34 of Appendix A of these Practice Directions. The information sheet must be completed and signed by the person who makes the affidavit.
