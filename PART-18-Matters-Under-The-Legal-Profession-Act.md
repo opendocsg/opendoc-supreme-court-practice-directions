@@ -1,8 +1,8 @@
-# Part XVIII: Matters Under The Legal Profession Act
+# Part XVIII: Matters Under The Legal Profession Act 1966
 
 <ul type="*">
 	<li>134. Applications for admission as an advocate and solicitor of the Supreme Court</li>
-	<li>135. “Part-call” applications pursuant to section 32(3) of the Legal Profession Act</li>
+	<li>135. “Part-call” applications pursuant to section 32(3) of the Legal Profession Act 1966</li>
 	<li>136. Electronic applications for practising certificates</li>
 	<li>137. [deleted]</li>
 </ul>
@@ -18,7 +18,7 @@
 (4) The applicant shall file a Request for hearing together with the applicant's affidavit for admission as advocate and solicitor. In the Request for hearing, the applicant shall request the issuance of the following documents:
 
 <ul type="*">
-	<li>(a) the instrument of admission under section 16(3) of the Legal Profession Act; and</li>
+	<li>(a) the instrument of admission under section 16(3) of the Legal Profession Act 1966; and</li>
 	<li>(b) the declaration required under Rule 30 of the Legal Profession (Admission) Rules 2011.</li>
 </ul>
 
@@ -33,18 +33,18 @@ The declaration will be generated for the applicant’s signature at the hearing
 	<li>(b) Where the abridgment application is filed less than 14 days before the Intended Call Date, the abridgment application will be fixed on the Monday before the Original Call Date. If the applicant wishes to bring forward the hearing date to the Monday before the Intended Call Date, the applicant has to obtain the written consent of the Attorney-General, the Law Society of Singapore and the Singapore Institute of Legal Education and file a Request to bring forward the hearing date of the abridgment application enclosing the relevant written consent.</li>
 </ul>
 
-## 135. “Part-call” applications pursuant to section 32(3) of the Legal Profession Act
+## 135. “Part-call” applications pursuant to section 32(3) of the Legal Profession Act 1966
 
-Section 32(3) of the Legal Profession Act allows “part-call” applications to be brought in respect of practice trainees who have completed not less than 3 months of their practice training period. A “part-call” application must be brought by way of a summons, supported by an affidavit, to be served on the Attorney-General, the Law Society and the Singapore Institute of Legal Education. The attendance of representatives of the Attorney-General, the Law Society and the Singapore Institute of Legal Education at the hearing of a “part-call” application is not required, unless there are any objections to the application or if the Court directs otherwise.
+Section 32(3) of the Legal Profession Act 1966 allows “part-call” applications to be brought in respect of practice trainees who have completed not less than 3 months of their practice training period. A “part-call” application must be brought by way of a summons, supported by an affidavit, to be served on the Attorney-General, the Law Society and the Singapore Institute of Legal Education. The attendance of representatives of the Attorney-General, the Law Society and the Singapore Institute of Legal Education at the hearing of a “part-call” application is not required, unless there are any objections to the application or if the Court directs otherwise.
 
 ## 136. Electronic applications for practising certificates
 
-(1) Subject to section 26 of the Legal Profession Act, section 25 of the same requires all practising solicitors to have in force a valid Practising Certificate issued by the Registrar, before he does any act in the capacity of an advocate and solicitor. Unless directed otherwise, with effect from 2 January 2014, all applications for practising certificates shall be made only through the Practising Certificate Module (PC Module) of the Integrated Electronic Litigation System (eLitigation) according to the procedures set out on the Electronic Filing Service website (www.elitigation.sg).
+(1) Subject to section 26 of the Legal Profession Act 1966, section 25 of the same requires all practising solicitors to have in force a valid Practising Certificate issued by the Registrar, before he does any act in the capacity of an advocate and solicitor. Unless directed otherwise, with effect from 2 January 2014, all applications for practising certificates shall be made only through the Practising Certificate Module (PC Module) of the Integrated Electronic Litigation System (eLitigation) according to the procedures set out on the Electronic Filing Service website (www.elitigation.sg).
 
 (2) Solicitors who do not have access to eLitigation may file an application through the Service Bureau established pursuant to Order 63A, Rule 4 of the Rules of Court. Payment for applications made through the Service Bureau must be made by way of NETS, cashier’s orders, cash or a law firm-issued cheque.
 
 (3) Payment for applications made directly through the PC Module of eLitigation must be by way of GIRO electronic payment. It is the applicant’s responsibility to ensure that the designated bank account has sufficient funds for GIRO electronic payment of all applicable subscriptions, levies, contributions, fees and charges (which may include outstanding amounts due to the Law Society and/or the Singapore Academy of Law) at the time of the application. The issuance of any practising certificate is subject to the clearance of funds. Upon notification that a payment transaction is unsuccessful, the applicant shall make arrangements to effect full payment within five (5) working days. At any time before full payment is made, the applicant shall, immediately upon demand, surrender to the Registrar all paper copies of any practising certificate issued to him for the practice year for which payment has not been settled and certify to the Registrar that he has destroyed all electronic copies thereof.
 
-(4) Section 27(3) of the Legal Profession Act requires solicitors to notify the Registrar and the Council of any changes in particulars submitted in the course of applying for a practising certificate or with respect to the status of his practising certificate. This notification shall be made only through the PC Module of eLitigation.
+(4) Section 27(3) of the Legal Profession Act 1966 requires solicitors to notify the Registrar and the Council of any changes in particulars submitted in the course of applying for a practising certificate or with respect to the status of his practising certificate. This notification shall be made only through the PC Module of eLitigation.
 
-(5) The Registrar may exercise his discretion to issue another practising certificate to a solicitor after receiving notification of any change of particulars. If the Registrar subsequently issues another practising certificate, section 26(9)(c) of the Legal Profession Act provides that the earlier practising certificate will cease to be in force.
+(5) The Registrar may exercise his discretion to issue another practising certificate to a solicitor after receiving notification of any change of particulars. If the Registrar subsequently issues another practising certificate, section 26(9)(c) of the Legal Profession Act 1966 provides that the earlier practising certificate will cease to be in force.
