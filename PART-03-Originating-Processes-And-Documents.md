@@ -74,17 +74,17 @@
 	<li>(d) [deleted]</li>
 	<li>(e) [deleted]</li>
 	<li>(f) applications for apportionment of salvage in Order 70, Rule 32;</li>
-	<li>(g) applications and appeals under the Trade Marks Act (Cap. 332) in Order 87, Rules 2 and 4;</li>
-	<li>(h) applications and appeals under the Patents Act (Cap. 221) in Order 87A, Rules 9, 10 and 13;</li>
-	<li>(i) applications for admission of advocate and solicitor under section 12 of the Legal Profession Act (Cap. 161);</li>
-	<li>(j) applications for ad hoc admissions under section 15 of the Legal Profession Act;</li>
-	<li>(k) applications for leave for eligibility for election or appointment as a member of Council of Law Society under section 49(6) of the Legal Profession Act;</li>
-	<li>(l) applications for the name of a solicitor to be replaced on the roll under section 102(2) of the Legal Profession Act;</li>
+	<li>(g) applications and appeals under the Trade Marks Act 1998 in Order 87, Rules 2 and 4;</li>
+	<li>(h) applications and appeals under the Patents Act 1994 in Order 87A, Rules 9, 10 and 13;</li>
+	<li>(i) applications for admission of advocate and solicitor under section 12 of the Legal Profession Act 1966;</li>
+	<li>(j) applications for ad hoc admissions under section 15 of the Legal Profession Act 1966;</li>
+	<li>(k) applications for leave for eligibility for election or appointment as a member of Council of Law Society under section 49(6) of the Legal Profession Act 1966;</li>
+	<li>(l) applications for the name of a solicitor to be replaced on the roll under section 102(2) of the Legal Profession Act 1966;</li>
 	<li>(m) applications for an order that a solicitor be struck off the roll, etc. under section 98(1) of the Legal Profession Act 1966;</li>
-	<li>(n) applications for the vesting of property of a registered trade union in a trustee under section 45 of the Trade Unions Act (Cap. 333);</li>
-	<li>(o) applications by the Public Trustee for the appointment of new trustees to administer a charitable trust under section 63(4) of the Trustees Act (Cap. 337);</li>
-	<li>(p) applications for a company to be placed under judicial management under section 227A of the Companies Act (Cap. 50); and</li>
-	<li>(q) applications under the Land Titles (Strata) Act (Cap. 158) in Order 100, Rule 2.</li>
+	<li>(n) applications for the vesting of property of a registered trade union in a trustee under section 45 of the Trade Unions Act 1940;</li>
+	<li>(o) applications by the Public Trustee for the appointment of new trustees to administer a charitable trust under section 63(4) of the Trustees Act 1967;</li>
+	<li>(p) applications for a company to be placed under judicial management under section 227A of the Companies Act (Cap. 50, 2006 Rev. Ed); and</li>
+	<li>(q) applications under the Land Titles (Strata) Act 1967 in Order 100, Rule 2.</li>
 </ul>
 
 ## 31. Identification numbers to be stated in cause papers
@@ -127,23 +127,23 @@
 
 <ul type="*">
 	<p><strong><em>NATURAL PERSON WITH SINGAPORE IDENTITY CARD</em></strong></p>
-	<li>(a) For a natural person who is a Singapore citizen or permanent resident, the identification number shall be the number of the identity card issued under the National Registration Act (Cap. 201). The 7 digit number as well as the letters at the front and end should be stated. For example, “(NRIC No. S1234567A)”.</li>
+	<li>(a) For a natural person who is a Singapore citizen or permanent resident, the identification number shall be the number of the identity card issued under the National Registration Act 1965. The 7 digit number as well as the letters at the front and end should be stated. For example, “(NRIC No. S1234567A)”.</li>
 	<p><strong><em>NATURAL PERSON WITH FIN NUMBER</em></strong></p>
-	<li>(b) For a natural person (whether a Singapore citizen or permanent resident or not) who has not been issued with an identity card under the National Registration Act, but has been assigned a FIN number under the Immigration Regulations (Cap. 133, Regulation 1), the identification number shall be the FIN number. The number should be preceded by the prefix “FIN No.”</li>
+	<li>(b) For a natural person (whether a Singapore citizen or permanent resident or not) who has not been issued with an identity card under the National Registration Act 1965, but has been assigned a FIN number under the Immigration Regulations (Cap. 133, Regulation 1), the identification number shall be the FIN number. The number should be preceded by the prefix “FIN No.”</li>
 	<p><strong><em>NATURAL PERSON: BIRTH CERTIFICATE OR PASSPORT NUMBER</em></strong></p>
-	<li>(c) For a natural person (whether a Singapore citizen or permanent resident or not) who has not been issued with an identity card under the National Registration Act or assigned an FIN number, the identification number shall be the birth certificate or passport number. The number should be preceded by either of the following, as appropriate: “(Issuing country) BC No.” or “(Issuing country) PP No.”</li>
+	<li>(c) For a natural person (whether a Singapore citizen or permanent resident or not) who has not been issued with an identity card under the National Registration Act 1965 or assigned an FIN number, the identification number shall be the birth certificate or passport number. The number should be preceded by either of the following, as appropriate: “(Issuing country) BC No.” or “(Issuing country) PP No.”</li>
 	<p><strong><em>NATURAL PERSON: OTHER NUMBERS</em></strong></p>
 	<li>(d) For a natural person who is not a Singapore citizen or permanent resident, and has not been assigned an FIN number and does not have a birth certificate or passport number, the identification number shall be the number of any identification document he may possess. Both the number as well as some descriptive words which will enable the nature of the number given and the authority issuing the identification document to be ascertained should be stated. For example, “Japanese Identification Card No.” </li>
 	<p><strong><em>DECEASED PERSON</em></strong></p>
-	<li>(e) For a deceased natural person, the identification number shall be as set out in sub-paragraph 7(a) to (d) above. However, if such numbers are not available, the identification number shall be the death registration number under the Registration of Births and Deaths Rules (Cap. 267, Rule 1) or the equivalent foreign provisions, where the death is registered abroad. The number as well as the following words should be stated: “(Country or place of registration of death) Death Reg. No.”</li>
-	<p><strong><em>COMPANY REGISTERED UNDER THE COMPANIES ACT</em></strong></p>
-	<li>(f) For a company registered under the Companies Act (Cap. 50), the identification number shall be the Unique Entity Number (UEN).</li>
+	<li>(e) For a deceased natural person, the identification number shall be as set out in sub-paragraph 7(a) to (d) above. However, if such numbers are not available, the identification number shall be the death registration number under the Registration of Births and Deaths Regulations 2022 or the equivalent foreign provisions, where the death is registered abroad. The number as well as the following words should be stated: “(Country or place of registration of death) Death Reg. No.”</li>
+	<p><strong><em>COMPANY REGISTERED UNDER THE COMPANIES ACT 1967</em></strong></p>
+	<li>(f) For a company registered under the Companies Act 1967, the identification number shall be the Unique Entity Number (UEN).</li>
 	<p><strong><em>COMPANY REGISTERED OUTSIDE SINGAPORE</em></strong></p>
-	<li>(g) For a company registered outside Singapore which is not registered under the Companies Act, the identification number shall be the registration number of the company in the country of registration.</li>
+	<li>(g) For a company registered outside Singapore which is not registered under the Companies Act 1967, the identification number shall be the registration number of the company in the country of registration.</li>
 	<p><strong><em>BUSINESS REGISTERED UNDER THE BUSINESS NAMES REGISTRATION ACT 2014</em></strong></p>
 	<li>(h) For a body registered under the Business Names Registration Act 2014, the identification number shall be the UEN number.</li>
-	<p><strong><em>LIMITED LIABILITY PARTNERSHIP REGISTERED UNDER THE LIMITED LIABILITY PARTNERSHIPS ACT</em></strong></p>
-	<li>(i) For a limited liability partnership registered under the Limited Liability Partnerships Act 2005 (Cap. 163A), the identification number shall be the UEN number.</li>
+	<p><strong><em>LIMITED LIABILITY PARTNERSHIP REGISTERED UNDER THE LIMITED LIABILITY PARTNERSHIPS ACT 2005</em></strong></p>
+	<li>(i) For a limited liability partnership registered under the Limited Liability Partnerships Act 2005, the identification number shall be the UEN number.</li>
 	<p><strong><em>OTHER BODIES AND ASSOCIATIONS</em></strong></p>
 	<li>(j) For any other body or association, whether incorporated or otherwise, which does not fall within sub-paragraph 7(f) to (i) above, the identification number shall be any unique number assigned to the body or association by any authority. Both the number as well as some descriptive words which will enable the nature of the number given and the authority assigning the number to be ascertained should be stated. For example, “Singapore Trade Union Reg. No. 123 A”. </li>
 	<p><strong><em>SHIP OR VESSEL</em></strong></p>
