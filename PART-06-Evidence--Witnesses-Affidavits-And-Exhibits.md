@@ -74,7 +74,7 @@
 	<li>(c) the ordinal number of the affidavit in relation to the previous affidavits filed in the cause or matter by the deponent;</li>
 	<li>(d) the date the affidavit is to be filed;</li>
 	<li>For example, “2nd Deft; Tan Ah Kow; 4th; 15.12.2012”.</li>
-	<li>(e) for affidavits filed in respect of matrimonial proceedings under Part X of the Women’s Charter (Cap. 353),</li>
+	<li>(e) for affidavits filed in respect of matrimonial proceedings under Part X of the Women’s Charter 1961,</li>
 	<ul type="*">
 		<li>(i) the top right hand corner of the first page of every affidavit shall also state whether the affidavit has been filed in respect of a summons (SUM), ancillary matters (AM) or originating summons (OS) hearing. If the affidavit is filed in respect of a summons hearing, it shall state the number of the said summons, where the number is available. For example, “Respondent: Tan Ah Kow: 4th: 15.4.2012: AM hearing”; and “Respondent: Tan Ah Kow: 4th: 15.4.2012: SUM hearing: SUM no. 1234 of 2012”; and</li>
 		<li>(ii) the document name that is selected in the electronic filing service for an affidavit for ancillary matters hearing shall be “Affidavit for AM”.</li>
@@ -165,7 +165,7 @@ A Commissioner for Oaths”
 
 (1) A remote communication technology mentioned in Order 41, Rule 13(1) of the Rules of Court must be capable of creating a live video link or live television link through which a commissioner for oaths is able to do all of the things mentioned in Order 41, Rule 13(3) of the Rules of Court.
 
-(2) For the purposes of Order 41, Rule 13(2) of the Rules of Court, the deponent and the commissioner for oaths may sign the affidavit electronically by applying a security procedure that results in a secure electronic signature under section 18 of the Electronic Transactions Act (Cap. 88).
+(2) For the purposes of Order 41, Rule 13(2) of the Rules of Court, the deponent and the commissioner for oaths may sign the affidavit electronically by applying a security procedure that results in a secure electronic signature under section 18 of the Electronic Transactions Act 2010.
 
 (3) Where an affidavit is made pursuant to Order 41, Rule 13 of the Rules of Court, the affidavit should be made, as far as possible, as if the deponent were appearing before the commissioner for oaths in person, and the attestation must state that the affidavit was sworn (or affirmed) and signed in Singapore with the deponent appearing before the commissioner for oaths through a live video link or live television link, or that the affidavit was signed by the deponent and/or the commissioner for oaths electronically in Singapore, or both, as the case may be.
 
