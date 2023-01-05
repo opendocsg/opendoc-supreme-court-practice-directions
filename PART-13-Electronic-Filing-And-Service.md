@@ -67,10 +67,10 @@ Pursuant to Order 63A, Rule 4 of the Rules of Court, the Registrar has appointed
 	<li>(j) any proceedings commenced by an originating motion filed before 28 May 2002;</li>
 	<li>(k) any proceedings commenced by an originating petition filed before 28 May 2002;</li>
 	<li>(l) any proceedings commenced by a petition of course filed before 28 May 2002;</li>
-	<li>(m) any proceedings or applications under the Bankruptcy Act (Cap. 20) or Bankruptcy Rules (Cap. 20, Rule 1) filed before 28 May 2002;</li>
+	<li>(m) any proceedings or applications under the Bankruptcy Act (Cap. 20, 2000 Rev. Ed.) or Bankruptcy Rules (Cap. 20, Rule 1) filed before 28 May 2002;</li>
 	<li>(n) any proceedings for a grant under Order 71, Rule 5 of the Rules of Court filed before 28 May 2002;</li>
 	<li>(o) any applications to deposit an instrument creating a power of attorney filed before 28 May 2002; and</li>
-	<li>(p) any proceedings commenced by a petition under Part X of the Women’s Charter (Cap. 353) filed before 15 December 2003.</li>
+	<li>(p) any proceedings commenced by a petition under Part X of the Women’s Charter (Cap. 353, 1997 Rev. Ed.) filed before 15 December 2003.</li>
 </ul>
 
 (3) Documents which are filed pursuant to Order 34, Rule 3A(1) may, instead of being filed through the Electronic Filing Service, be filed in accordance with the procedure outlined in paragraph 71(3) to (7).
