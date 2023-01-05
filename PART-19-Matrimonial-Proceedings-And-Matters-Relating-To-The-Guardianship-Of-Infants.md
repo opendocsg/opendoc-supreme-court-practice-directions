@@ -2,10 +2,10 @@
 
 <ul type="*">
 	<li>138. Transfer of Matrimonial, Divorce and Guardianship of Infants Proceedings</li>
-	<li>139. Transfer of Section 17A(2) Supreme Court of Judicature Act Proceedings</li>
+	<li>139. Transfer of Section 17A(2) Supreme Court of Judicature Act 1969 Proceedings</li>
 	<li>140. Documents to be filed at the Legal Registry of the Supreme Court</li>
 	<li>141. Forms of orders, including Mareva injunctions and search orders</li>
-	<li>142. Appeals on ancillary matters in Divorce Proceedings, Custody Matters or Section 17A(2) Supreme Court of Judicature Act Proceedings filed before 1 October 2014</li>
+	<li>142. Appeals on ancillary matters in Divorce Proceedings, Custody Matters or Section 17A(2) Supreme Court of Judicature Act 1969 Proceedings filed before 1 October 2014</li>
 </ul>
 
 ## 138. Transfer of Matrimonial, Divorce and Guardianship of Infants Proceedings
@@ -22,7 +22,7 @@
 (2) To improve eﬃciency in the administration of justice and to provide for speedier disposal of proceedings commenced in the High Court before 1 October 2014, pursuant to the 1996 Transfer Order, the 2003 Transfer Order, the 2005 Transfer Order and the 2007 Transfer Order:
 
 <ul type="*">
-	<li>(a) all proceedings under section 59 and Part X of the Women’s Charter (Cap. 353) and the Guardianship of Infants Act (Cap. 122) (referred to in this Part as “family proceedings”), commenced in the High Court on or after 1 April 1996 but before 1 October 2014, shall be transferred to and be heard and determined by a District Court; and</li>
+	<li>(a) all proceedings under section 59 and Part X of the Women’s Charter (Cap. 353, 2009 Rev. Ed.) and the Guardianship of Infants Act (Cap. 122, 1985 Rev. Ed.)(referred to in this Part as “family proceedings”), commenced in the High Court on or after 1 April 1996 but before 1 October 2014, shall be transferred to and be heard and determined by a District Court; and</li>
 	<li>(b) all family proceedings commenced before 1 April 1996 as well as any proceedings ancillary thereto shall continue to be heard and determined by the High Court before 2 January 2021 or the General Division on or after 2 January 2021.</li>
 </ul>
 
@@ -36,11 +36,11 @@
 
 (7) Practitioners are responsible for identifying the correct Transfer Order applicable to their case.
 
-(8) Pursuant to the Family Justice Act 2014 (Act No. 27 of 2014), with eﬀect from 1 October 2014, family proceedings shall be heard and determined by the Family Justice Courts. Notwithstanding this, any family proceedings commenced in or transferred to the High Court before 1 October 2014 shall, on and after that date, be continued in and dealt with by the High Court before 2 January 2021 or the General Division on or after 2 January 2021.
+(8) Pursuant to the Family Justice Act 2014, with eﬀect from 1 October 2014, family proceedings shall be heard and determined by the Family Justice Courts. Notwithstanding this, any family proceedings commenced in or transferred to the High Court before 1 October 2014 shall, on and after that date, be continued in and dealt with by the High Court before 2 January 2021 or the General Division on or after 2 January 2021.
 
-## 139. Transfer of Section 17A(2) Supreme Court of Judicature Act Proceedings
+## 139. Transfer of Section 17A(2) Supreme Court of Judicature Act 1969 Proceedings
 
-(1) In relation to proceedings which may be heard and determined by the High Court before 2 January 2021 or the General Division on or after 2 January 2021 pursuant to section 17A(2) of the Supreme Court of Judicature Act (referred to in this Part as “section 17A(2) proceedings”), the Honourable the Chief Justice has made the following orders under section 28A of the Supreme Court of Judicature Act:
+(1) In relation to proceedings which may be heard and determined by the High Court before 2 January 2021 or the General Division on or after 2 January 2021 pursuant to section 17A(2) of the Supreme Court of Judicature Act 1969 (referred to in this Part as “section 17A(2) proceedings”), the Honourable the Chief Justice has made the following orders under section 28A of the Supreme Court of Judicature Act (Cap. 322):
 
 <ul type="*">
 	<li>(a) The Supreme Court of Judicature (Transfer of Proceedings pursuant to section 17A(2)) Order 1999, which came into operation on 1 August 1999 (“the 1999 Transfer Order”);</li>
@@ -80,13 +80,13 @@
 
 ## 141. Forms of orders, including *Mareva* injunctions and search <span title='Formerly known as "Anton Piller order".'><b><i>orders</i></b></span>
 
-(1) The format of all orders made in applications taken out in proceedings by way of writ of summons under Part X of the Women’s Charter (Cap. 353) on or after 1 April 2006 shall comply with Form 32 of Appendix A of the Family Justice Courts Practice Directions. Orders made in proceedings commenced by way of petition under Part X of the Women’s Charter shall comply with Form 24 of the Women’s Charter (Matrimonial Proceedings) Rules 2003 (S 167/2003).
+(1) The format of all orders made in applications taken out in proceedings by way of writ of summons under Part X of the Women’s Charter 1961 on or after 1 April 2006 shall comply with Form 32 of Appendix A of the Family Justice Courts Practice Directions. Orders made in proceedings commenced by way of petition under Part X of the Women’s Charter (Cap. 353, 1997 Rev. Ed.) shall comply with Form 24 of the Women’s Charter (Matrimonial Proceedings) Rules 2003 (S 167/2003).
 
 (2) Paragraphs 41 and 42 shall be applicable to an application for a Mareva injunction and a search order. The orders of Court for such applications shall contain the text set out in Forms 6, 7 and 8 of Appendix A of these Practice Directions.
 
-## 142. Appeals on ancillary matters in Divorce Proceedings, Custody Matters or Section 17A(2) Supreme Court of Judicature Act Proceedings filed before 1 October 2014
+## 142. Appeals on ancillary matters in Divorce Proceedings, Custody Matters or Section 17A(2) Supreme Court of Judicature Act 1969 Proceedings filed before 1 October 2014
 
-(1) Appeals against ﬁnal orders made by the District Judge in chambers on ancillary matters in divorce proceedings under the Women’s Charter (Cap. 353), custody proceedings under the Guardianship of Infants Act (Cap. 122), or section 17A(2) proceedings, which are ﬁled before 1 October 2014, shall be heard and determined by the High Court before 2 January 2021 or the General Division on or after 2 January 2021, and are governed by Order 55C of the Rules of Court. In practice, the District Judges furnish grounds of decision within 8 weeks of the ﬁling of the notice of appeal although the furnishing of grounds of decision is not a requirement under the Rules of Court.
+(1) Appeals against ﬁnal orders made by the District Judge in chambers on ancillary matters in divorce proceedings under the Women’s Charter (Cap. 353, 2009 Rev. Ed.), custody proceedings under the Guardianship of Infants Act (Cap. 122, 1985 Rev. Ed.), or section 17A(2) proceedings, which are ﬁled before 1 October 2014, shall be heard and determined by the High Court before 2 January 2021 or the General Division on or after 2 January 2021, and are governed by Order 55C of the Rules of Court. In practice, the District Judges furnish grounds of decision within 8 weeks of the ﬁling of the notice of appeal although the furnishing of grounds of decision is not a requirement under the Rules of Court.
 
 (2) To facilitate the conduct of appeal hearings before the Judge in Chambers, parties are required to file the following
 documents prior to the appeal hearing:
