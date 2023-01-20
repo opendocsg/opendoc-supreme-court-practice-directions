@@ -50,7 +50,7 @@
 		<li>Corporate logos</li>
 	</ul>
 	<li>92. Further arguments before the Court of Appeal and the Appellate Division</li>
-	<li>92A. Lapse or cancellation of Grant of Aid under the Legal Aid and Advice Act and the Legal Aid and Advice Regulations</li>
+	<li>92A. Lapse or cancellation of Grant of Aid under the Legal Aid and Advice Act 1995 and the Legal Aid and Advice Regulations</li>
 </ul>
 
 
@@ -544,7 +544,7 @@ Subject to approval by the Court, parties may utilise presentation slides to ass
 
 (7) All requests should be addressed to the Registrar.
 
-## 92A. **Lapse or cancellation of Grant of Aid under the Legal Aid and Advice Act and the Legal Aid and Advice Regulations**
+## 92A. **Lapse or cancellation of Grant of Aid under the Legal Aid and Advice Act 1995 and the Legal Aid and Advice Regulations**
 
 (1) Where a Grant of Aid lapses or is cancelled in the course of any proceedings in the Court of Appeal or the Appellate Division, counsel should promptly notify the Court of Appeal or the Appellate Division (as the case may be) of the lapse or the cancellation in writing. This is given that questions may arise from the lapse or the cancellation of a Grant of Aid as to whether security for costs would need to be furnished to enable the proceedings in the Court of Appeal or the Appellate Division (as the case may be) to continue to be pursued.
 
