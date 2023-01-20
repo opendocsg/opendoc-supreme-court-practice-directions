@@ -22,7 +22,7 @@
 (2) To improve eﬃciency in the administration of justice and to provide for speedier disposal of proceedings commenced in the High Court before 1 October 2014, pursuant to the 1996 Transfer Order, the 2003 Transfer Order, the 2005 Transfer Order and the 2007 Transfer Order:
 
 <ul type="*">
-	<li>(a) all proceedings under section 59 and Part X of the Women’s Charter (Cap. 353, 2009 Rev. Ed.) and the Guardianship of Infants Act (Cap. 122, 1985 Rev. Ed.)(referred to in this Part as “family proceedings”), commenced in the High Court on or after 1 April 1996 but before 1 October 2014, shall be transferred to and be heard and determined by a District Court; and</li>
+	<li>(a) all proceedings under section 59 and Part X of the Women’s Charter (Cap. 353, 2009 Rev. Ed.) and the Guardianship of Infants Act (Cap. 122, 1985 Rev. Ed.) (referred to in this Part as “family proceedings”), commenced in the High Court on or after 1 April 1996 but before 1 October 2014, shall be transferred to and be heard and determined by a District Court; and</li>
 	<li>(b) all family proceedings commenced before 1 April 1996 as well as any proceedings ancillary thereto shall continue to be heard and determined by the High Court before 2 January 2021 or the General Division on or after 2 January 2021.</li>
 </ul>
 
