@@ -479,7 +479,7 @@ Nothing in this paragraph detracts from the responsibility of lead counsel to en
 </ul>
 provided that such use does not in any way disrupt or trivialise the proceedings.
 
-(4) The attention of court users is also drawn to section 5 of the Administration of Justice (Protection).
+(4) The attention of court users is also drawn to section 5 of the Administration of Justice (Protection) Act 2016.
 
 ## 23.Certification of transcripts
 
