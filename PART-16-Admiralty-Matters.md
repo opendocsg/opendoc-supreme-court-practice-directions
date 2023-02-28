@@ -38,6 +38,16 @@
 	<li>(b)	the location of the ship or, where the property is cargo, the ship in which the cargo was carried, within the limits of the port declared under section 3(1) of the Maritime and Port Authority of Singapore Act 1996, on the date and at the time of the service of the warrant of arrest or the writ in an action <em>in rem</em> (as the case may be). </li>
 </ul>
 
+(7) Throughout the arrest of a vessel, the solicitors representing the arresting party must engage ship watch services and provide daily updates to the Sheriff on the location of the vessel.
+
+(8) The Sheriff may require the arresting party to deploy a security guard on board the vessel under arrest for the whole or any part of the period when the vessel is under arrest. The circumstances in which the Sheriff may require the deployment of a security guard on board the vessel under arrest include, but are not limited to:
+<ul type="*">
+	<li>(a) the discharge of cargo from the vessel;</li>
+	<li>(b) the moving of the vessel from berth to anchorage, and the other way around;</li>
+	<li>(c) any actual or potential unrest on the vessel; and</li>
+	<li>(d) any other circumstance that may affect the preservation of the vessel.</li>
+</ul>
+
 ## 124A. Arrest of ships in shipyards
 
 (1) In every case where a vessel is arrested in or within a shipyard, the plaintiff must, within 14 days of the arrest or within 3 days from a request by a shipyard to move the vessel, whichever is the earlier, apply to a Judge for an omnibus order giving the Sheriff discretion to take appropriate measures for the safe and satisfactory custody of the arrested property.
