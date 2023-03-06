@@ -647,7 +647,7 @@ The Direction to Accountant-General for Payment Out must be in Form 219A of Appe
 
 The party must provide proof of such deposit when filing the appeal or application.
 
-(7) Where security for costs is to be paid out to any party pursuant to the Rules of Court or an order or direction of the Court, the party entitled to payment of the security may write to the Registry to request payment out. Once the request for payment out is approved by the Registry, the party entitled to the payment must send a copy of the Registry’s approval to the Finance Directorate of the Supreme Court at FPD_Revenue@judiciary.gov.sg. The Finance Directorate of the Supreme Court will provide instructions on the documents to be furnished to process the release of the monies.
+(7) Where security for costs is to be paid out to any party pursuant to the Rules of Court or an order or direction of the Court, the party entitled to payment of the security may write to the Registry to request payment out. Once the request for payment out is approved by the Registry, the party entitled to the payment must send a copy of the Registry’s approval to the Finance Directorate of the Supreme Court at <a href="mailto:FPD_Revenue@judiciary.gov.sg" style="text-decoration:none;">FPD_Revenue@judiciary.gov.sg</a>. The Finance Directorate of the Supreme Court will provide instructions on the documents to be furnished to process the release of the monies.
 
 ***Request for information on balance of monies paid into Court or deposited in the Registry***
 
