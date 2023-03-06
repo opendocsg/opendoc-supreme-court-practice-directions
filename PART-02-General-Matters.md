@@ -481,7 +481,7 @@ provided that such use does not in any way disrupt or trivialise the proceedings
 
 (4) The attention of court users is also drawn to section 5 of the Administration of Justice (Protection) Act 2016.
 
-## 23.Certification of transcripts
+## 23. Certification of transcripts
 
 Pursuant to Order 38A, Rule 2 of the Rules of Court, the Registrar hereby directs that transcripts of any record of hearing or notes of hearing may be certified by:
 
@@ -641,13 +641,13 @@ The Direction to Accountant-General for Payment Out must be in Form 219A of Appe
 (6) Where a party wishes to furnish security for costs for an appeal or an application filed in the Supreme Court by depositing monies in the Registry, he or she must deposit the monies in one of the following manners:
 
 <ul type="*">
-	<li>(a) <span style="text-decoration: underline">By electronic payment</span>: The party is to send his or her case details by email to the Finance Directorate of the Supreme Court at <a href="mailto:SUPCOURT_FIN_Revenue@supcourt.gov.sg" style="text-decoration:none;">SUPCOURT_FIN_Revenue@supcourt.gov.sg</a>. The party will be provided with a QR code or the bank account details for electronic payment to be made. Upon receipt of monies, a receipt will be emailed to the party by the Finance Directorate.</li>
+	<li>(a) <span style="text-decoration: underline">By electronic payment</span>: The party is to send his or her case details by email to the Finance Directorate of the Supreme Court at <a href="mailto:FPD_Revenue@judiciary.gov.sg" style="text-decoration:none;">FPD_Revenue@judiciary.gov.sg</a>. The party will be provided with a QR code or the bank account details for electronic payment to be made. Upon receipt of monies, a receipt will be emailed to the party by the Finance Directorate.</li>
 	<li>(b) <span style="text-decoration: underline">By making payment at the Supreme Court</span>: The party will be required to complete a requisite form when he or she attends at the Supreme Court. The accepted payment modes are Cash, Cashier’s Order (made payable to “Registrar Supreme Court/AG”), NETS and credit card. Upon payment at the counter, a receipt will be issued to the party.</li>
 </ul>
 
 The party must provide proof of such deposit when filing the appeal or application.
 
-(7) Where security for costs is to be paid out to any party pursuant to the Rules of Court or an order or direction of the Court, the party entitled to payment of the security may write to the Registry to request payment out. Once the request for payment out is approved by the Registry, the party entitled to the payment must send a copy of the Registry’s approval to the Finance Directorate of the Supreme Court at SUPCOURT_FIN_Revenue@supcourt.gov.sg. The Finance Directorate of the Supreme Court will provide instructions on the documents to be furnished to process the release of the monies.
+(7) Where security for costs is to be paid out to any party pursuant to the Rules of Court or an order or direction of the Court, the party entitled to payment of the security may write to the Registry to request payment out. Once the request for payment out is approved by the Registry, the party entitled to the payment must send a copy of the Registry’s approval to the Finance Directorate of the Supreme Court at FPD_Revenue@judiciary.gov.sg. The Finance Directorate of the Supreme Court will provide instructions on the documents to be furnished to process the release of the monies.
 
 ***Request for information on balance of monies paid into Court or deposited in the Registry***
 
@@ -657,7 +657,7 @@ The party must provide proof of such deposit when filing the appeal or applicati
 
 <li>(a)	<a href="mailto:VITAL_FS_Receivable@vital.gov.sg" style="text-decoration:none;">VITAL_FS_Receivable@vital.gov.sg</a>, if the monies were lodged with the Accountant-General; or</li>
 
-<li>(b)	<a href="mailto:SUPCOURT_FIN_Revenue@supcourt.gov.sg" style="text-decoration:none;">SUPCOURT_FIN_Revenue@supcourt.gov.sg</a>, if the monies were deposited in the Registry.</li>
+<li>(b)	<a href="mailto:FPD_Revenue@judiciary.gov.sg" style="text-decoration:none;">FPD_Revenue@judiciary.gov.sg</a>, if the monies were deposited in the Registry.</li>
 
 </ul>
 
